@@ -1,0 +1,8 @@
+# Chapter 1 Content
+Here's some info
+
+```R
+library(devtools)
+cos(5)
+```
+
