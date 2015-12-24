@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2015-12-24 13:01:16 -0800
+categories: jekyll update
+---
+
 # Chapter 1 Content
 Here's some info
 
