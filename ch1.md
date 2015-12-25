@@ -1,6 +1,5 @@
 # Chapter 1: Introduction  (*under construction*)
-
-*Last updated Dec. 26 by Francisco Valero-Cuevas*
+*Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 
 Abstract:
 _________
@@ -9,18 +8,24 @@ _________
 Abstract text is here
 ~~~
 
-References in book:
-___________________
 
+Exercises:
+__________
 
 
 Additional references and suggested reading:
 ____________________________________________
 
 
-Exercises:
-__________
+References in book:
+___________________
 
 
 Code:
 _____
+
+
+
+
+© Francisco Valero-Cuevas 2015
+
