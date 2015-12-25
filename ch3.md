@@ -28,7 +28,7 @@ ___________________
 1. T. Yoshikawa, Foundations of Robotics: Analysis and Control (MIT Press, Cambridge, 1990)
 2. R.M. Murray, Z. Li, S.S. Sastry, A Mathematical Introduction to Robotic Manipulation (CRC,
 Boca Raton, 1994)
-3. B.Siciliano,O.Khatib,Springer Handbook of Robotics (Springer, Berlin, 2008)
+3. B.Siciliano, O.Khatib, Springer Handbook of Robotics (Springer, Berlin, 2008)
 4. G.T. Yamaguchi, Dynamic Modelling of Musculoskeletal Motion: A Vectorized Approach for
 Biomechanical Analysis in Three Dimensions (Kluwer Academic Publishers, Boston, 2001)
 5. T.R.Kane, D.A.Levinson, Dynamics,Theory and Applications (McGrawHill, NewYork, 1985)
