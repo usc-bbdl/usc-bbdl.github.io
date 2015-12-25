@@ -25,11 +25,11 @@ ____________________________________________
     This text draws on the disciplines of neurophysiology and physics to explore how the nervous system controls the actions of muscles to produce human motion in relation to biomechanical principles.
     © 2015 Hardback 504 pages
     ISBN-13: 9781450458801
-    (http://www.humankinetics.com/products/all-products/Neuromechanics-of-Human-Movement-5th-Edition)
+    http://www.humankinetics.com/products/all-products/Neuromechanics-of-Human-Movement-5th-Edition
 
 2. Neuromechanics: An Integrative Approach for Understanding Motor Control
-    Kiisa Nishikawa, Andrew A. Biewener, Peter Aerts, Anna N. Ahn, Hillel J. Chiel, Monica A. Daley, Thomas L. Daniel, Robert J. Full, Melina E. Hale, Tyson L. Hedrick, A. Kristopher Lappin, T. Richard Nichols, Roger D. Quinn, Richard A. Satterlie and Brett Szymik
-    Integrative and Comparative Biology, Vol. 47, No. 1 (Jul., 2007), pp. 16-54
+    Kiisa Nishikawa, Andrew A. Biewener, Peter Aerts, Anna N. Ahn, Hillel J. Chiel, Monica A. Daley, Thomas L. Daniel, Robert J. Full, Melina E. Hale, Tyson L. Hedrick, A. Kristopher Lappin, T. Richard Nichols, Roger D. Quinn, Richard A. Satterlie and Brett Szymik.
+    Integrative and Comparative Biology, Vol. 47, No. 1 (Jul., 2007), pp. 16-54.
     http://www.jstor.org/stable/4540133
 
 References in book:
