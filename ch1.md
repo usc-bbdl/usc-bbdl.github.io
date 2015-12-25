@@ -17,7 +17,7 @@ _____________________
 __________
 N/A
 
-**dditional references and suggested reading:**
+**Additional references and suggested reading:**
 ____________________________________________
 1. Neuromechanics of Human Movement-5th Edition
     By Roger Enoka 
