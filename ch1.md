@@ -8,6 +8,10 @@ _________
 Abstract text is here
 ~~~
 
+Forum and commentary:
+_____________________
+*Coming soon!*
+
 
 Exercises:
 __________
