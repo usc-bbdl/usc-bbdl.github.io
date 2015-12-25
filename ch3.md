@@ -25,7 +25,6 @@ ____________________________________________
 
 **References in book:**
 ___________________
-References
 1. T. Yoshikawa, Foundations of Robotics: Analysis and Control (MIT Press, Cambridge, 1990)
 2. R.M. Murray, Z. Li, S.S. Sastry, A Mathematical Introduction to Robotic Manipulation (CRC,
 Boca Raton, 1994)
@@ -40,6 +39,7 @@ New York, 2008)
 Adv. Exp. Med. Biol. 629, 619–633 (2009)
 9. F.J. Valero-Cuevas, F.E. Zajac, C.G. Burgar, Large index-fingertip forces are produced by
 subject-independent patterns of muscle excitation. J. Biomech. 31, 693–703 (1998)
+
 
 **Code:**
 _____
