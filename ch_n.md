@@ -1,31 +1,31 @@
 # Chapter n: Introduction  (*under construction*)
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 
-Abstract:
+**Abstract:**
 _________
 
 ~~~
 Abstract text is here
 ~~~
 
-Forum and commentary:
+**Forum and commentary:**
 _____________________
 *Coming soon!*
 
 
-Exercises:
+**Exercises:**
 __________
 
 
-Additional references and suggested reading:
+**Additional references and suggested reading:**
 ____________________________________________
 
 
-References in book:
+**References in book:**
 ___________________
 
 
-Code:
+**Code:**
 _____
 
 
