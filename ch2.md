@@ -24,8 +24,8 @@ ____________________________________________
 
 **References in book:**
 ___________________
-1. F.J.Valero-Cuevas, C.F.Small, Loaddependence in carpal kinematics during wrist flexion in vivo. Clin. Biomech. 12, 154–159 (1997)
-2. Y.Bei,B.J.Fregly,Multibody dynamic simulation of knee contact mechanics. Med.Eng.Phys. 26(9), 777–789 (2004)
+1. F.J.Valero-Cuevas, C.F.Small, Load dependence in carpal kinematics during wrist flexion in vivo. Clin. Biomech. 12, 154–159 (1997)
+2. Y.Bei, B.J.Fregly, Multibody dynamic simulation of knee contact mechanics. Med.Eng.Phys. 26(9), 777–789 (2004)
 3. H. Nagerl, J. Walters, K.H. Frosch, C. Dumont, D. Kubein-Meesenburg, J. Fanghanel, M.M. Wachowski, Knee motion analysis of the non-loaded and loaded knee: a re-look at rolling and sliding. J. Physiol. Pharmacol. 60, 69–72 (2009)
 4. C.E. Wall, A model of temporomandibular joint function in anthropoid primates based on condylar movements during mastication. Am. J. Phys. Anthropol. 109(1), 67–88 (1999)
 5. F.J. Valero-Cuevas, H. Hoffmann, M.U. Kurse, J.J. Kutch, E.A. Theodorou, Computational models for neuromuscular function. IEEE Rev. Biomed. Eng. 2, 110–135 (2009)
