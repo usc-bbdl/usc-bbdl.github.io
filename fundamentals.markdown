@@ -8,7 +8,9 @@ permalink: /fundamentals/
 #Extended Resources
 [Accompanying coursework material from Biokinesiology 504](http://bbdl.usc.edu/BMEBKN504.php)
 
-[Book Exercises by Chapter](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72510/Exercises_V1_0.pdf)
+[Book Exercises by Chapter(.pdf)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72510/Exercises_V1_0.pdf)
+
+[Numerical Code (.zip)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72511/Numerical_Code_V1_0.zip)
 
 # Links
 [View Book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)
