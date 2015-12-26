@@ -4,6 +4,19 @@ title: Fundamentals
 permalink: /fundamentals/
 ---
 ![image](https://cloud.githubusercontent.com/assets/4623063/12007743/85617314-abc7-11e5-9fbc-324daf52acbe.png)
+# Chapter Resources
+1. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch1.html)
+2. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch2.html)
+3. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch3.html)
+4. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch4.html)
+5. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch5.html)
+6. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch6.html)
+7. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch7.html)
+8. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch8.html)
+9. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch9.html)
+10. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch10.html)
+
+
 
 #Extended Resources
 [Accompanying coursework material from Biokinesiology 504](http://bbdl.usc.edu/BMEBKN504.php)
