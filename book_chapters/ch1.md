@@ -23,7 +23,7 @@ N/A
 **Additional references and suggested reading:**
 ____________________________________________
 
-1. Neuromechanics of Human Movement-5th Edition
+**Neuromechanics of Human Movement-5th Edition**
 
 By Roger Enoka 
 
@@ -35,7 +35,7 @@ This text draws on the disciplines of neurophysiology and physics to explore how
 
 http://www.humankinetics.com/products/all-products/Neuromechanics-of-Human-Movement-5th-Edition
 
-2. Neuromechanics: An Integrative Approach for Understanding Motor Control
+**Neuromechanics: An Integrative Approach for Understanding Motor Control**
 
 Kiisa Nishikawa, Andrew A. Biewener, Peter Aerts, Anna N. Ahn, Hillel J. Chiel, Monica A. Daley, Thomas L. Daniel, Robert J. Full, Melina E. Hale, Tyson L. Hedrick, A. Kristopher Lappin, T. Richard Nichols, Roger D. Quinn, Richard A. Satterlie and Brett Szymik.
 
