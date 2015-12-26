@@ -105,8 +105,8 @@ fncom.2013.00155
 57. L.H. Ting, S.A. Kautz, D.A. Brown, F.E. Zajac, Phase reversal of biomechanical functions and muscle activity in backward pedaling. J. Neurophysiol. 81(2), 544–551 (1999)
 58. J.B. Dingwell, J. John, J.P. Cusumano, Do humans optimally exploit redundancy to control step variability in walking? PLoS Comput. Biol 6(7), e1000856 (2010)
 59. K.G. Keenan, V.J. Santos, M. Venkadesan, F.J. Valero-Cuevas, Maximal voluntary fingertip force production is not limited by movement speed in combined motion and force tasks. J. Neurosci. 29, 8784–8789 (2009)
-60. M. Venkadesan, F.J. Valero-Cuevas, Neural control of motion-to-force transitions with the fingertip. J. Neurosci. 28, 1366–1373 (2008)61. J.Bongard,V.Zykov,H.Lipson,Resilientmachinesthroughcontinuousself-modeling.Science 314, 1118–1121 (2006)
-References 157
+60. M. Venkadesan, F.J. Valero-Cuevas, Neural control of motion-to-force transitions with the fingertip. J. Neurosci. 28, 1366–1373 (2008)
+61. 61. J. Bongard, V. Zykov, H. Lipson, Resilient machines through continuous self-modeling. Science 314, 1118–1121 (2006)
 62. J. Rieffel, F.J. Valero-Cuevas, H. Lipson, Morphological communication: exploiting coupled dynamics in a complex mechanical structure to achieve locomotion. J. Royal Soc. Interface (2009) (In Press)
 63. E. Theodorou, E. Todorov, F.J. Valero-Cuevas, Neuromuscular stochastic optimal control of a tendon driven index finger model, in American Control Conference (ACC) (IEEE, 2011), pp. 348–355
 64. E. Theodorou, J. Buchli, S. Schaal, A generalized path integral control approach to reinforcement learning. J. Mach. Learn. Res. 11, 3137–3181 (2010)
