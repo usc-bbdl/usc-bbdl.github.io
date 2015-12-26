@@ -4,9 +4,9 @@
 **Abstract:**
 _________
 
-~~~
+
 Abstract text is here
-~~~
+
 
 **Forum and commentary:**
 _____________________
