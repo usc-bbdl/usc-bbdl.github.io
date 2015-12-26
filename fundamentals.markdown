@@ -3,6 +3,8 @@ layout: page
 title: Fundamentals 
 permalink: /fundamentals/
 ---
+![image](https://cloud.githubusercontent.com/assets/4623063/12007743/85617314-abc7-11e5-9fbc-324daf52acbe.png)
+
 #Extended Resources
 [Accompanying coursework material from Biokinesiology 504](http://bbdl.usc.edu/BMEBKN504.php)
 
