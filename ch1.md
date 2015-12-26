@@ -3,7 +3,8 @@
 
 **Abstract:**
 _________
-    Neuromechanics is a perspective that highlights how real-world behavior emerges from the intimate relationship between the mechanical structure of the musculoskeletal system, the mechanical requirements of a task, and the feasible neural control actions to produce it. To understand these interactions, it is necessary to consider the anatomical fact that muscles act on vertebrate limbs via tendons. This is different from the more common mathematical formulation that focuses on analyzing the net action of all muscles at each joint. This deliberate consideration of tendon-driven limbs allows us to articulate the problem of neural control in a way that promotes the debate and refinement of current theories. This perspective has important consequences to understanding healthy function, disability, and rehabilitation; and to the design of novel versatile robots.
+
+Neuromechanics is a perspective that highlights how real-world behavior emerges from the intimate relationship between the mechanical structure of the musculoskeletal system, the mechanical requirements of a task, and the feasible neural control actions to produce it. To understand these interactions, it is necessary to consider the anatomical fact that muscles act on vertebrate limbs via tendons. This is different from the more common mathematical formulation that focuses on analyzing the net action of all muscles at each joint. This deliberate consideration of tendon-driven limbs allows us to articulate the problem of neural control in a way that promotes the debate and refinement of current theories. This perspective has important consequences to understanding healthy function, disability, and rehabilitation; and to the design of novel versatile robots.
 
 
 **Forum and commentary:**
