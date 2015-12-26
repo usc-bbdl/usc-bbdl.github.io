@@ -9,15 +9,15 @@ ______________________________
 # Chapter Resources
 
 1. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch1.html)
-2. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch2.html)
-3. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch3.html)
-4. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch4.html)
-5. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch5.html)
-6. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch6.html)
-7. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch7.html)
-8. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch8.html)
-9. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch9.html)
-10. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch10.html)
+2. [Chapter 2](http://usc-bbdl.github.io/book_chapters/ch2.html)
+3. [Chapter 3](http://usc-bbdl.github.io/book_chapters/ch3.html)
+4. [Chapter 4](http://usc-bbdl.github.io/book_chapters/ch4.html)
+5. [Chapter 5](http://usc-bbdl.github.io/book_chapters/ch5.html)
+6. [Chapter 6](http://usc-bbdl.github.io/book_chapters/ch6.html)
+7. [Chapter 7](http://usc-bbdl.github.io/book_chapters/ch7.html)
+8. [Chapter 8](http://usc-bbdl.github.io/book_chapters/ch8.html)
+9. [Chapter 9](http://usc-bbdl.github.io/book_chapters/ch9.html)
+10. [Chapter 10](http://usc-bbdl.github.io/book_chapters/ch10.html)
 
 
 
