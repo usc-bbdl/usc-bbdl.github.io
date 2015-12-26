@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Book 
-permalink: /book/
+title: Fundamentals 
+permalink: /fundamentals/
 ---
 #Extended Resources
-etc
+http://bbdl.usc.edu/BMEBKN504.php
 
 etc
 
