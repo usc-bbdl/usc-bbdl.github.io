@@ -17,10 +17,14 @@ _____________________
 
 **Exercises:**
 __________
+*Coming soon!*
+
 
 
 **Additional references and suggested reading:**
 ____________________________________________
+*Coming soon!*
+
 
 
 **References in book:**
@@ -65,6 +69,8 @@ muscle synergies of neural origin. PLoS Comput. Biol. 8(5), e1002434 (2012)
 
 **Code:**
 _____
+*Coming soon!*
+
 
 
 
