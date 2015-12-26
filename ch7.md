@@ -50,6 +50,7 @@ Alto, 2005)
 20. J.M. Inouye, J.J. Kutch, F.J. Valero-Cuevas, A novel synthesis of computational approaches enables optimization of grasp quality of tendon-driven hands. IEEE Trans. Robot. 28(4), 958– 966 (2012)
 21. E. Moberg, Surgical treatment for absent single-hand grip and elbow extension in quadriplegia. Am. J. Bone Joint Surg. 57, 196–206 (1975)
 22. V.R. Hentz, C. Leclercq, Surgical Rehabilitation of the Upper Limb in Tetraplegia (WB Saunders, Philadelphia, 2002)
+23. J.W. Littler, On making a thumb: one hundred years of surgical effort. J. Hand Surg. 1(1), 35–51 (1976)
 
 **Code:**
 _____
