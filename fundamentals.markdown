@@ -5,7 +5,7 @@ permalink: /fundamentals/
 menu: main
 ---
 ![image](https://cloud.githubusercontent.com/assets/4623063/12007743/85617314-abc7-11e5-9fbc-324daf52acbe.png)
-______________________________
+
 
 # Chapter Resources
 
