@@ -1,3 +1,8 @@
+---
+layout: page
+title: Chapter 2
+---
+
 # Chapter 2: Limb Kinematics  (*under construction*)
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 

@@ -1,3 +1,7 @@
+---
+layout: page
+title: Chapter 5
+---
 # Chapter 5: The Neural Control of Joint Torques in Tendon-Driven Limbs Is Underdetermined  (*under construction*)
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 

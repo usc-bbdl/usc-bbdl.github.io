@@ -1,3 +1,8 @@
+---
+layout: page
+title: Chapter 3
+---
+
 # Chapter 3: Limb Mechanics  (*under construction*)
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 

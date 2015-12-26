@@ -1,3 +1,7 @@
+---
+layout: page
+title: Chapter 8
+---
 # Chapter 8: Feasible Neural Commands with Mechanical Constraints (*under construction*)
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 

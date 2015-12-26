@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Chapter1
+title: Chapter 1
 ---
-
 # Chapter 1: Introduction  (*under construction*)
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 

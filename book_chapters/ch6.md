@@ -1,3 +1,7 @@
+---
+layout: page
+title: Chapter 6
+---
 # Chapter 6: The Neural Control of Musculotendon Lengths and Excursions Is Overdetermined   (*under construction*)
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 

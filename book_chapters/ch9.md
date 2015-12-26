@@ -1,3 +1,7 @@
+---
+layout: page
+title: Chapter 9
+---
 # Chapter 9: The Nature and Structure of Feasible Sets  (*under construction*)
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 

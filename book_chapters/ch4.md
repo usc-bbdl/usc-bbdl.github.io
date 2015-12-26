@@ -1,3 +1,7 @@
+---
+layout: page
+title: Chapter 4
+---
 # Chapter 4: Tendon-Driven Limbs  (*under construction*)
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 

@@ -1,3 +1,7 @@
+---
+layout: page
+title: Chapter 7
+---
 # Chapter 7: Feasible Neural Commands and Feasible Mechanical Outputs  (*under construction*)
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 
