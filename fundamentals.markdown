@@ -9,5 +9,4 @@ http://bbdl.usc.edu/BMEBKN504.php
 etc
 
 #Links to buy book
-Here and here
-
+Here and hered
