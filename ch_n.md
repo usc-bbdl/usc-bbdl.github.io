@@ -15,18 +15,26 @@ _____________________
 
 **Exercises:**
 __________
+*Coming soon!*
+
 
 
 **Additional references and suggested reading:**
 ____________________________________________
+*Coming soon!*
+
 
 
 **References in book:**
 ___________________
+*Coming soon!*
+
 
 
 **Code:**
 _____
+*Coming soon!*
+
 
 
 
