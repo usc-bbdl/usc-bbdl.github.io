@@ -4,11 +4,9 @@
 **Abstract:**
 _________
 
-~~~
+
 The purpose of this chapter is to introduce you to the fundamentals of *tendon-driven limbs*, and to begin to explore how they affect our understanding of vertebrate and robotic limbs. Many robotic limbs are driven by motors or pistons that act on the kinematic degrees of freedom (DOFs, e.g., rotational joints) either via linkages, cables, or gears. These actuators can exert forces and torques in both clock- wise and counterclockwise directions, symmetrically in either direction—which in the robotics literature are idealized and analyzed as *torque-driven limbs*. The term ‘tendon-driven’ comes from the robotics literature where limbs are actuated via a variety of motors or muscles that pull on strings, cables, or tendons that cross the kinematic DOFs. Thus, these actuators can only pull on, or resist stretch in, the tendons. But they cannot not push on the tendons. This discontinuity and asymmetry in actuation makes tendon-driven limbs distinctly different from their torque-driven counterparts with symmetric actuation. While this asymmetric actuation in tendon-driven limbs might have some mechanical disadvantages and complicate their analysis, it can also have advantages such as being light weight, and allowing remote actuation and flexibility of tendon routing. As the reader will discover, varying tendon routings and moment arms can enable multiple solutions for specific functional requirements, especially when size and power constraints are critical. More importantly, because the nervous system is unavoidably confronted with the need to actuate and control the tendon-driven limbs in vertebrates, the nuances of tendon-driven limbs provide insights into the nature of neural control, evolutionary adaptations, disability, and rehabilitation that is not available in the torque-driven formulation. Note that throughout this book, I use the terms muscle when relating specifically to the behavior, forces, or state of the muscle tissue, musculotendon when relating to issues that involve the muscle and its tendons of origin and insertion, and tendon when relating specifically to the behavior, forces, or state of the tendon of insertion of the muscle. For most mathematical and mechanical analyses, however, the term tendon suffices as it applies to both robots and vertebrates. When the analysis continues on to consider muscle mechanics and its neural control, I will prefer to use the term musculotendon. 
 
-
-~~~
 
 **Forum and commentary:**
 _____________________
