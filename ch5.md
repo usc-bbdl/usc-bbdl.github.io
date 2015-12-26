@@ -4,9 +4,9 @@
 **Abstract:**
 _________
 
-~~~
+
 This chapter introduces the mathematical foundations of the classical notion of muscle redundancy. As presented in Chap. 4, a sub-maximal net torque at a joint actuated by tendons can be produced by a variety of combinations of individual forces at each tendon. We see this already in the simplest case of a planar joint with 2 tendons—one on each side of the joint. Of course, each combination of tendon forces will produce different loading at the tendons and joint, and will incur different metabolic or energetic costs, etc. But in principle there are multiple solutions to the problem of achieving a given mechanical output. This underdetermined problem is called the problem of muscle redundancy, and it begs the question of how the nervous system (or a robotic controller) should select a particular solution from among many. This has been called the central problem of motor control and has occupied much of the literature in this field. The main goal of this chapter, however, is to introduce and cast this problem for high-dimensional multi-joint, multi-muscle limbs (it is often only presented in simplified joints). This will serve as the foundation of subsequent chapters where we critically assess this classical notion of muscle redundancy— and challenge its assumptions and conclusions. As mentioned in Chap. 1, however valuable and informative the concept of muscle redundancy has been, it is also paradoxical with respect to the evolutionary process and clinical reality, and should be revised.
-~~~
+
 
 **Forum and commentary:**
 _____________________
