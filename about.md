@@ -5,12 +5,6 @@ permalink: /about/
 menu: main
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Our laboratory is dedicated to understanding the biomechanics, neuromuscular control and clinical rehabilitation of human mobility, with an emphasis on dexterous hand function. Towards this end, we employ a synergy of experimental and theoretical techniques.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Our diverse experimental arsenal ranges from EMG recording and custom-made virtual reality modules, detailed characterization of multifinger structure and function, to mapping the function of the human brain with fMRI. These procedures in turn inform theoretical work to characterize complex sensorimotor function through rigorous and anatomically faithful mathematical models.
