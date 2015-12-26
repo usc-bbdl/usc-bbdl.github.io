@@ -4,9 +4,9 @@
 **Abstract:**
 _________
 
-~~~
+
 The purpose of this chapter is to introduce you to the kinematics of limbs. Kinematics is the study of movements without regard to the forces and torques that produce them. In essence, it is the fundamental description of the articulations and motions of which a limb is capable. This chapter serves as the foundation upon which we can build a common conceptual language, and begin to discuss limb function in the context of mechanics.
-~~~
+
 
 **Forum and commentary:**
 _____________________
