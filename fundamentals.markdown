@@ -11,6 +11,7 @@ permalink: /fundamentals/
 
 [View Book on Springer](http://www.springer.com/us/book/9781447167464)
 
-[Springer Product flyer](http://www.springer.com/cda/content/document/productFlyer/productFlyer_978-1-4471-6746-4.pdf?SGWID=0-0-1297-177589478-0)
-
 [Professors can request desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)
+
+#Product Flyer
+[![image](https://cloud.githubusercontent.com/assets/4623063/12007732/ca36c65c-abc6-11e5-88f2-2c4f559af692.png)](http://www.springer.com/cda/content/document/productFlyer/productFlyer_978-1-4471-6746-4.pdf?SGWID=0-0-1297-177589478-0)
