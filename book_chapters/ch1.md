@@ -22,12 +22,19 @@ N/A
 
 **Additional references and suggested reading:**
 ____________________________________________
+
 1. Neuromechanics of Human Movement-5th Edition
+
     By Roger Enoka 
+    
     (1st edition was the 1988 book entitled Neuromechanical Basis of Kinesiology)
+    
     This text draws on the disciplines of neurophysiology and physics to explore how the nervous system controls the actions of muscles to produce human motion in relation to biomechanical principles.
+    
     © 2015 Hardback 504 pages
+    
     ISBN-13: 9781450458801
+    
     http://www.humankinetics.com/products/all-products/Neuromechanics-of-Human-Movement-5th-Edition
 
 2. Neuromechanics: An Integrative Approach for Understanding Motor Control
