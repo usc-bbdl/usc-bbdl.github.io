@@ -3,33 +3,44 @@ layout: page
 title: Chapter 6
 ---
 # Chapter 6: The Neural Control of Musculotendon Lengths and Excursions Is Overdetermined   (*under construction*)
+
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 
 **Abstract:**
+
 _________
 
 
 This chapter introduces the mathematical foundations of the concept of obligatory kinematic correlations among joint angles and musculotendon lengths. As presented in Chap. 4, tendon excursions are *overdetermined* because the angles and angle changes of the few joints uniquely determine the lengths and excursions, respectively, of all musculotendons. This is the opposite of redundancy: there is a single and unique set of tendon excursions that can satisfy a given limb movement. This begs the question of how the nervous system controls the excursions of all musculotendons so that the limb can move smoothly. Essentially, if for some reason any of the musculotendons undergoing an eccentric contraction fails to lengthen to satisfy the geometric requirements of the joint rotations, at the very least the limb motion will be disrupted, and at worst the limb can lock up. Physiologically, the failure to accommodate the necessary length changes could be due to anatomical interconnections among muscles or tendons, neurally mediated resistance to lengthening due to short- or long-latency *reflexes*, or spinally- and cortically-mediated commands to the muscles. This chapter lays the foundation for understanding the interactions between muscle coordination and reflex mechanisms necessary for natural movement by providing a mathematical framework for the overdetermined nature of tendon excursions. This is done for the simplified case with no anatomical interconnections among muscles or tendons, but the conclusions and intuition provided reinforce the notion that the neural control of movement for tendon-driven limbs is in fact not as redundant as is currently thought. Recall that, as mentioned in Chap. 4, the term tendon suffices for most mathematical and mechanical analyses as it applies to both robots and vertebrates. When the analysis continues on to consider muscle mechanics and its neural control, I will prefer to use the term musculotendon.
 
 **Forum and commentary:**
+
 _____________________
+
 *Coming soon!*
 
 
+
 **Exercises:**
+
 __________
+
 *Coming soon!*
 
 
 
 **Additional references and suggested reading:**
+
 ____________________________________________
+
 *Coming soon!*
 
 
 
 **References in book:**
+
 ___________________
+
 1. R.M. Murray, Z. Li, S.S. Sastry, A Mathematical Introduction to Robotic Manipulation (CRC Press, 1994)
 2. T. Yoshikawa, Foundations of Robotics: Analysis and Control (MIT Press, Cambridge,1990)
 3. O. Bottema, B. Roth, Theoretical Kinematics (Dover Publications, 2012)
@@ -118,8 +129,11 @@ the reduction of muscle work important? J. Exp. Biol. 217(24), 4365–4371 (2014
 
 
 **Code:**
+
 _____
+
 *Coming soon!*
+
 
 
 
