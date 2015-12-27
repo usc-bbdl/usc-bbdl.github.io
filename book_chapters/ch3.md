@@ -4,9 +4,12 @@ title: Chapter 3
 ---
 
 # Chapter 3: Limb Mechanics  (*under construction*)
+
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 
+
 **Abstract:**
+
 _________
 
 
@@ -14,22 +17,32 @@ Limb mechanics involve limb kinematics, and the forces and torques that cause li
 
 
 **Forum and commentary:**
+
 _____________________
+
 *Coming soon!*
+
 
 
 **Exercises:**
+
 __________
+
 *Coming soon!*
 
 
+
 **Additional references and suggested reading:**
+
 ____________________________________________
+
 *Coming soon!*
 
 
 **References in book:**
+
 ___________________
+
 1. T. Yoshikawa, Foundations of Robotics: Analysis and Control (MIT Press, Cambridge, 1990)
 2. R.M. Murray, Z. Li, S.S. Sastry, A Mathematical Introduction to Robotic Manipulation (CRC,
 Boca Raton, 1994)
@@ -47,8 +60,11 @@ subject-independent patterns of muscle excitation. J. Biomech. 31, 693–703 (19
 
 
 **Code:**
+
 _____
+
 *Coming soon!*
+
 
 
 
