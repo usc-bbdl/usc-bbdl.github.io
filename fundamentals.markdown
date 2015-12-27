@@ -40,6 +40,7 @@ ________
 10. [Chapter 10](http://usc-bbdl.github.io/book_chapters/ch10.html)
 
 
+_______________________
 
 #Extended Resources
 [Accompanying material and streamed videos of all lectures of graduate course BME 504: Neuromuscular Systems (2013)](http://bbdl.usc.edu/BMEBKN504.php)
@@ -48,12 +49,19 @@ ________
 
 [Numerical Code (.zip)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72511/Numerical_Code_V1_0.zip)
 
-# Links
+_______________________
+
+# How to obtain:
+
+[Faculty and students at institutions subscribed to SpringerLink can download eBook/PDF for free](http://link.springer.com)
+
 [View Book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)
 
-[View Book on Springer](http://www.springer.com/us/book/9781447167464)
+[View Book on Springer website](http://www.springer.com/us/book/9781447167464)
 
 [Professors can request desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)
+
+________________
 
 #Product Flyer
 [![image](https://cloud.githubusercontent.com/assets/4623063/12007732/ca36c65c-abc6-11e5-88f2-2c4f559af692.png)](http://www.springer.com/cda/content/document/productFlyer/productFlyer_978-1-4471-6746-4.pdf?SGWID=0-0-1297-177589478-0)
