@@ -3,32 +3,43 @@ layout: page
 title: Chapter 7
 ---
 # Chapter 7: Feasible Neural Commands and Feasible Mechanical Outputs  (*under construction*)
+
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 
 **Abstract:**
+
 _________
+
 
 Having understood the basic concepts related to the structure and function of tendon-driven limbs, we can now revisit and appreciate the question: ‘How does the nervous system control a tendon-driven limb?’ Chap. 5 shows why it is reasonable to consider optimization as a means to resolve the muscle redundancy that exists for the control of joint torques. But Chap. 6 paints an alternative picture when we see that orchestrating tendon excursions among muscles is severely overdetermined— which is the opposite of redundancy. In this chapter I begin to explore in detail the working hypothesis that having numerous muscles does not make them as redundant as proposed by the classical notion of muscle redundancy. I do this by introducing you to the concepts of how feasible muscle activations produce feasible mechanical outputs. This perspective grows out of the fusion of linear algebra, geometry, mechanics, and anatomy. It shows how the anatomical structure of the limb together with the constraints that define a mechanical task naturally specify a set of feasible neural commands. The fact that this set of feasible neural commands has a well- defined structure compels and allows us to revise and extend the classical notion of muscle redundancy, and propose a more general approach to neuromuscular control that emphasizes compatibility with evolutionary biology and clinical reality.
 
 **Forum and commentary:**
+
 _____________________
+
 *Coming soon!*
 
 
 **Exercises:**
+
 __________
+
 *Coming soon!*
 
 
 
 **Additional references and suggested reading:**
+
 ____________________________________________
+
 *Coming soon!*
 
 
 
 **References in book:**
+
 ___________________
+
 1. F.J. Valero-Cuevas, F.E. Zajac, C.G. Burgar, Large index-fingertip forces are produced by subject-independent patterns of muscle excitation. J. Biomech. 31, 693–703 (1998)
 2. F.J. Valero-Cuevas, A mathematical approach to the mechanical capabilities of limbs and fingers. Adv. Exp. Med. Biol. 629, 619–633 (2009)
 3. E.Y. Chao, K.N. An, Graphical interpretation of the solution to the redundant problem in biomechanics. J. Biomech. Eng. 100, 159–167 (1978)
@@ -57,8 +68,11 @@ Alto, 2005)
 23. J.W. Littler, On making a thumb: one hundred years of surgical effort. J. Hand Surg. 1(1), 35–51 (1976)
 
 **Code:**
+
 _____
+
 *Coming soon!*
+
 
 
 
