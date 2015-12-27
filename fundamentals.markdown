@@ -11,10 +11,15 @@ Springer Biosystems & Biorobotics Series, Volume 8
 
 by Francisco J. Valero-Cuevas
 
+valero@usc.edu
+
 © 2015
 
+__________
 
+**This website is under construction and will be updated regularly as additional material becomes available.**
 
+Last updated: Dec 26, 2015.
 ________________
 
 #Scope
