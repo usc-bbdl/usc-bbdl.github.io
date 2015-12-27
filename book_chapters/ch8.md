@@ -2,10 +2,13 @@
 layout: page
 title: Chapter 8
 ---
+
 # Chapter 8: Feasible Neural Commands with Mechanical Constraints (*under construction*)
+
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 
 **Abstract:**
+
 _________
 
 
@@ -13,30 +16,37 @@ In this chapter I refine the notion of feasible neural commands by introducing t
 
 
 **Forum and commentary:**
+
 _____________________
+
 *Coming soon!*
+
 
 
 **Exercises:**
+
 __________
+
 *Coming soon!*
+
 
 
 
 **Additional references and suggested reading:**
+
 ____________________________________________
+
 *Coming soon!*
 
 
 
 **References in book:**
+
 ___________________
+
 1. E.Y. Chao, K.N. An, Graphical interpretation of the solution to the redundant problem in biomechanics. J. Biomech. Eng. 100, 159–167 (1978) 
-
 2. R.D. Crowninshield, R.A. Brand, A physiologically based criterion of muscle force prediction in locomotion. J. Biomech. 14(11), 793–801 (1981) 
-
 3. E. Todorov, M.I. Jordan, Optimal feedback control as a theory of motor coordination. Nat. Neurosci. 5(11), 1226–1235 (2002) 
-
 4. S.H. Scott, Optimal feed back control and the neural basis of volitional motor control. Nat. Rev. Neurosci. 5(7), 532–546 (2004) 
 
 5. R. Shadmehr, S. Mussa-Ivaldi, Biological Learning and Control: How the Brain Builds Representations, Predicts Events, and Makes Decisions (MIT Press, Cambridge, 2012) 
@@ -139,8 +149,11 @@ computational and neuroethological perspective. Prog. Brain Res. 165, 323–346 
 
 
 **Code:**
+
 _____
+
 *Coming soon!*
+
 
 
 
