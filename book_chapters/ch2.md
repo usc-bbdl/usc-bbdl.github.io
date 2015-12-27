@@ -4,7 +4,9 @@ title: Chapter 2
 ---
 
 # Chapter 2: Limb Kinematics  (*under construction*)
+
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
+
 
 **Abstract:**
 
@@ -38,6 +40,7 @@ ____________________________________________
 
 ___________________
 
+
 1. F.J.Valero-Cuevas, C.F.Small, Load dependence in carpal kinematics during wrist flexion in vivo. Clin. Biomech. 12, 154–159 (1997)
 2. Y.Bei, B.J.Fregly, Multibody dynamic simulation of knee contact mechanics. Med.Eng.Phys. 26(9), 777–789 (2004)
 3. H. Nagerl, J. Walters, K.H. Frosch, C. Dumont, D. Kubein-Meesenburg, J. Fanghanel, M.M. Wachowski, Knee motion analysis of the non-loaded and loaded knee: a re-look at rolling and sliding. J. Physiol. Pharmacol. 60, 69–72 (2009)
@@ -60,9 +63,11 @@ the variability/uncertainty of musculoskeletal parameters. J. Biomech. 36, 1019�
 14. T. Yoshikawa, Translational and rotational manipulability of robotic manipulators, in 1991
 International Conference on Industrial Electronics, Control and Instrumentation (IEEE, 2002), pp. 1170–1175
 
+
 **Code:**
 
 _____
+
 
 *Coming soon!*
 
