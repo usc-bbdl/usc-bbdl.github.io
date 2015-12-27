@@ -3,33 +3,44 @@ layout: page
 title: Chapter 9
 ---
 # Chapter 9: The Nature and Structure of Feasible Sets  (*under construction*)
+
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 
 **Abstract:**
+
 _________
+
 An engineering perspective is inherently incomplete when applied to science. However, as per the words of Galileo Galilei at the beginning of this book, science is also not complete without a mathematical foundation. Our large community applied this mathematics-based perspective for decades to understand motor control. This has resulted in a large, informative, useful, and fruitful body of work. I now comment briefly on how the neuromechanical framework of this book applies to some current tenets, theories, and debates in motor control. In particular, if we agree that the mechanical principles outlined in this book are relevant to the structure of vertebrate limbs, then the nature and structure of the feasible sets they allow are relevant to their neural control. In this chapter I present brief descriptions of how our community has approached understanding the nature and structure of the high-dimensional feasible activation sets.
 
 
 
 **Forum and commentary:**
+
 _____________________
+
 *Coming soon!*
 
 
 **Exercises:**
+
 __________
+
 *Coming soon!*
 
 
 
 **Additional references and suggested reading:**
+
 ____________________________________________
+
 *Coming soon!*
 
 
 
 **References in book:**
+
 ___________________
+
 1. J.J. Kutch, F.J. Valero-Cuevas, Muscle redundancy does not imply robustness to muscle dysfunction. J. Biomech. 44(7), 1264–1270 (2011)
 2. M.H. Sohn, J.L. McKay, L.H. Ting, Defining feasible bounds on muscle activation in a redundant biomechanical task: practical implications of redundancy. J. Biomech. 46(7), 1363–1368 (2013)
 3. R.H. Clewley, J.M. Guckenheimer, F.J. Valero-Cuevas, Estimating effective degrees of freedom in motor systems. IEEE Trans. Biomed. Eng. 55, 430–442 (2008)
@@ -151,7 +162,9 @@ feasible neural commands for complex motor tasks, in 37th Annual International C
 
 
 **Code:**
+
 _____
+
 *Coming soon!*
 
 
