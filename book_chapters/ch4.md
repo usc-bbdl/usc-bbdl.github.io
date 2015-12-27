@@ -3,9 +3,12 @@ layout: page
 title: Chapter 4
 ---
 # Chapter 4: Tendon-Driven Limbs  (*under construction*)
+
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 
+
 **Abstract:**
+
 _________
 
 
@@ -13,64 +16,59 @@ The purpose of this chapter is to introduce you to the fundamentals of *tendon-d
 
 
 **Forum and commentary:**
+
 _____________________
+
 *Coming soon!*
 
 
 **Exercises:**
+
 __________
+
 *Coming soon!*
 
 
 
 **Additional references and suggested reading:**
+
 ____________________________________________
+
 *Coming soon!*
 
 
 
 **References in book:**
+
 ___________________
+
 1. F.J. Valero-Cuevas, H. Hoffmann, M.U. Kurse, J.J. Kutch, E.A. Theodorou, Computational models for neuromuscular function. IEEE Rev. Biomed. Eng. 2, 110–135 (2009) 
-
 2. F.E. Zajac, Muscle and tendon: properties, models, scaling, and application to biomechanics and motor control. Crit. Rev. Biomed. Eng. 17(4), 359–411 (1989) 
-
 3. F.E.Zajac,Howmusculotendonarchitectureandjointgeometryaffectthecapacityofmuscles to move and exert force on objects: a review with application to arm and forearm tendon transfer design. J. Am. Hand Surg. 17(5), 799–804 (1992) 
-
 4. K.N. An, Y. Ueba, E.Y. Chao, W.P. Cooney, R.L. Linscheid, Tendon excursion and moment arm of index finger muscles. J. Biomech. 16(6), 419–425 (1983) 
-
 5. M.U. Kurse, H. Lipson, F.J. Valero-Cuevas, Extrapolatable analytical functions for tendon excursions and moment arms from sparse datasets. IEEE Trans. Biomed. Eng. 59(6), 1572– 1582 (2012) 
-
 6. F.J. Valero-Cuevas, A mathematical approach to the mechanical capabilities of limbs and fingers. Adv. Exp. Med. Biol. 629, 619–633 (2009) 
-
 7. N.A.Bernstein,TheCo-ordinationandRegulationofMovements(PergamonPress,NewYork, 1967) 
-
 8. F.J.Valero-Cuevas,B.A.Cohn,H.F.Yngvason,E.L.Lawrence,Exploringthehigh-dimensional structure of muscle redundancy via subject-specific and generic musculoskeletal models. J. Biomech. 48(11), 2887–2896 (2015) 
-
 9. V.Chvatal,LinearProgramming(W.H.FreemanandCompany,NewYork,1983) 
-
 10. G.Strang,IntroductiontoLinearAlgebra(WellesleyCambridgePress,Wellesley,2003) 
-
 11. P.E.Gill,W.Murray,M.H.Wright,PracticalOptimization(AcademicPress,NewYork,1981) 
-
 12. J.M. Inouye, J.J. Kutch, F.J. Valero-Cuevas, A novel synthesis of computational approaches 
 enables optimization of grasp quality of tendon-driven hands. IEEE Trans. Robot. 28(4), 958– 
 966 (2012) 
-
 13. R.A.Henson,H.Urich,Schumann’shandinjury.Br.Med.J.1(6117),900(1978) 
-
 14. M.H.Schieber,M.Santello,Handfunction:peripheralandcentralconstraintsonperformance. 
 J. Appl. Physiol. 96(6), 2293–2300 (2004) 
-
 15. C.S.Sherrington,Reflexinhibitionasafactorintheco-ordinationofmovementsandpostures. 
 Exp. Physiol. 6(3), 251–310 (1913) 
-
 16. J.J. Kutch, F.J. Valero-Cuevas, Challenges and new approaches to proving the existence of 
 muscle synergies of neural origin. PLoS Comput. Biol. 8(5), e1002434 (2012) 
 
 
 **Code:**
+
 _____
+
 *Coming soon!*
 
 
