@@ -3,9 +3,11 @@ layout: page
 title: Chapter 5
 ---
 # Chapter 5: The Neural Control of Joint Torques in Tendon-Driven Limbs Is Underdetermined  (*under construction*)
+
 *Last updated Dec. 26 2015 by Francisco Valero-Cuevas*
 
 **Abstract:**
+
 _________
 
 
@@ -13,24 +15,32 @@ This chapter introduces the mathematical foundations of the classical notion of 
 
 
 **Forum and commentary:**
+
 _____________________
+
 *Coming soon!*
 
 
 **Exercises:**
+
 __________
+
 *Coming soon!*
 
 
 
 **Additional references and suggested reading:**
+
 ____________________________________________
+
 *Coming soon!*
 
 
 
 **References in book:**
+
 ___________________
+
 1. E.R.Kandel, J.H.Schwartz, T.M. Jessell et al., Principles of Neural Science, vol. 4 (McGraw- Hill, New York, 2000)
 2. F.J. Valero-Cuevas, H. Hoffmann, M.U. Kurse, J.J. Kutch, E.A. Theodorou, Computational models for neuromuscular function. IEEE Rev. Biomed. Eng. 2, 110–135 (2009)
 3. F.E. Zajac, Muscle and tendon: properties, models, scaling, and application to biomechanics and motor control. Crit. Rev. Biomed. Eng. 17(4), 359–411 (1989)
@@ -53,9 +63,13 @@ Neurosci. 5(11), 1226–1235 (2002)
 15. R. Shadmehr, S. Mussa-Ivaldi, Biological Learning and Control: How the Brain Builds repre-
 sentations, Predicts Events, and Makes Decisions (MIT Press, Cambridge, 2012)
 
+
 **Code:**
+
 _____
+
 *Coming soon!*
+
 
 
 
