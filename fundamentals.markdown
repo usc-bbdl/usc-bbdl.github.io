@@ -6,7 +6,13 @@ menu: main
 ---
 ![image](https://cloud.githubusercontent.com/assets/4623063/12007743/85617314-abc7-11e5-9fbc-324daf52acbe.png)
 
+**Fundamentals of Neuromechanics **
+
 Springer Biosystems & Biorobotics Series Volume 8
+
+by Francisco J. Valero-Cuevas
+
+
 
 ________________
 
@@ -16,7 +22,7 @@ This book provides a conceptual and computational framework to study how the ner
 
 I revisit this problem from the emerging perspective of neuromechanics that emphasizes finding and implementing families of feasible solutions, instead of a single and unique optimal solution. Those families of feasible solutions emerge naturally from the interactions among the feasible neural commands, anatomy of the limb, and constraints of the task. Such alternative perspective to the neural control of function is not only biologically plausible, but sheds light on the most central tenets and debates in the fields of neural control, robotics, rehabilitation, and brain-body co-evolutionary adaptations. This perspective developed from courses I taught to engineers and life scientists at Cornell University and the University of Southern California, and is made possible by combining fundamental concepts from mechanics, anatomy, robotics and neuroscience with advances in the field of computational geometry. 
 
-Fundamentals of Neuromechanics is intended for neuroscientists, roboticists, engineers, physicians, evolutionary biologists, athletes, and physical and occupational therapists seeking to advance their understanding of neuromechanics. Therefore, the tone is decidedly pedagogical, engaging, integrative and practical to make it accessible to people coming from a broad spectrum of disciplines. I attempt to tread the line between making the mathematical exposition accessible to life scientists, and convey the wonder and complexity of neuroscience to engineers and computational scientists. While no one approach can hope to definitively resolve the important questions in these related fields, I hope to provide you with the fundamental background and tools to allow you to contribute to the emerging field of neuromechanics. 
+*Fundamentals of Neuromechanics* is intended for neuroscientists, roboticists, engineers, physicians, evolutionary biologists, athletes, and physical and occupational therapists seeking to advance their understanding of neuromechanics. Therefore, the tone is decidedly pedagogical, engaging, integrative and practical to make it accessible to people coming from a broad spectrum of disciplines. I attempt to tread the line between making the mathematical exposition accessible to life scientists, and convey the wonder and complexity of neuroscience to engineers and computational scientists. While no one approach can hope to definitively resolve the important questions in these related fields, I hope to provide you with the fundamental background and tools to allow you to contribute to the emerging field of neuromechanics. 
 
 ________
 
