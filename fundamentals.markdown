@@ -58,7 +58,7 @@ _______________________
 
 _______________________
 
-# How to obtain
+# How to Obtain
 
 [Faculty and students at institutions subscribed to SpringerLink can download eBook/PDF for free](http://link.springer.com)
 
