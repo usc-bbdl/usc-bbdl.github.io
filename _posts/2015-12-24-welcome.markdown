@@ -7,4 +7,4 @@ categories: BBDL
 
 While ultimately seeking improved clinical diagnosis and treatment procedures, we emphasize the scientific investigation of the neuromuscular biomechanics of the hand in general, and actively promote the use of this knowledge to improve the design and control of prosthetic and robotic systems.
 
-[Book](valerolab.org/fundamentals/)
+[Book](fundamentals/)
