@@ -5,7 +5,7 @@ permalink: /about/
 menu: main
 ---
 
-## PI: Francisco Valero-Cuevas
+# PI: Francisco Valero-Cuevas
 valero@usc.edu
 
 
@@ -30,43 +30,43 @@ Fax: `(213) 821-5696`
 
 # Lab Members
 
-## Ali Marjaninejad 
+# Ali Marjaninejad 
 Researching biomedical signal processing, neuroscience, and brain machine interfaces.
 marjanin@usc.edu
 
-## Brian Cohn
+# Brian Cohn
 Computer Science PhD Student
 Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability in neuromechanical research.
 brian.cohn@usc.edu
 
-## Na Hyeon (Hannah) Ko 
+# Na Hyeon (Hannah) Ko 
 nko@usc.edu
 
-## Emily Louise Lawrence 
+# Emily Louise Lawrence 
 ellawren@usc.edu
 
-## Akira Nagamori 
+# Akira Nagamori 
 Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling. 
 nagamori@usc.edu
 
-## Laine Christopher 
+# Laine Christopher 
 claine@usc.edu
 
-## Seyed kian Jalaleddini 
+# Seyed kian Jalaleddini 
 jalaledd@usc.edu
 
-## Suraj Chakravarthi Raja 
+# Suraj Chakravarthi Raja 
 Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.
 surajcha@usc.edu
 
-## Meng-Fen 孟芬 Tsai 蔡 
+# Meng-Fen 孟芬 Tsai 蔡 
 Interested in discovering the force control ability or pattern in human dexterity, as human digits are versatile and highly related with daily living.
 a8221833@livemail.tw
 
-## Jun Yong Shin 
+# Jun Yong Shin 
 Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.
 junys@uci.edu
 
-## Daniel Hagen 
+# Daniel Hagen 
 Understanding the limb mechanics of routine motion and how the nervous system is capable of accomplishing these tasks when spatially and temporally constrained. Studying this by observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.
 dhagen@usc.edu
