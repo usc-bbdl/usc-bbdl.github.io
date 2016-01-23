@@ -5,7 +5,7 @@ permalink: /about/
 menu: main
 ---
 
-# PI: Francisco Valero-Cuevas
+## PI: Francisco Valero-Cuevas
 valero@usc.edu
 
 
@@ -27,7 +27,8 @@ Fax: `(213) 821-5696`
 
 -------------------------------------------
 
-#Lab Members
+
+# Lab Members
 
 ## Ali Marjaninejad 
 Researching biomedical signal processing, neuroscience, and brain machine interfaces.
