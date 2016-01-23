@@ -9,8 +9,11 @@ menu: main
 valero@usc.edu
 
 > Brain Body Dynamics Lab
+
 > Ronald Tutor Hall, RTH-421
+
 > 3710 S. McClintock Ave
+
 > Los Angeles, CA 90089-2905, USA 
 
 Phone: `(213) 740 4219`
