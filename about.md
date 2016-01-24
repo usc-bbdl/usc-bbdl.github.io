@@ -40,10 +40,11 @@ claine@usc.edu
 
 # Brian Cohn
 Computer Science PhD Student
-Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability in neuromechanical research.  
+Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.  
 brian.cohn@usc.edu
 
-# Na Hyeon (Hannah) Ko 
+# Na-hyeon (Hannah) Ko
+Studying sensorimotor process and neural control of dexterous manipulation in healthy and neuropathological populations, motor learning and control, neuroplasticity, and neurorehabilitation  
 nko@usc.edu
 
 # Emily Louise Lawrence 
