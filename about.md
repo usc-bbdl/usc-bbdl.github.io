@@ -41,6 +41,7 @@ claine@usc.edu
 # Brian Cohn
 Computer Science PhD Student
 Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.  
+https://linkedin.com/in/brianalexandercohn
 brian.cohn@usc.edu
 
 # Na-hyeon (Hannah) Ko
@@ -48,13 +49,16 @@ Studying sensorimotor process and neural control of dexterous manipulation in he
 nko@usc.edu
 
 # Emily Louise Lawrence 
+Using linear and nonlinear analysis techniques to quantify finger and leg dexterity and understand the effects of age, sex, and clinical conditions.  
 ellawren@usc.edu
 
 # Akira Nagamori 
 Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.   
 nagamori@usc.edu
 
-# Seyed kian Jalaleddini 
+# Kian Jalaleddini 
+Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
+http://www.jalaleddini.com/  
 jalaledd@usc.edu
 
 # Suraj Chakravarthi Raja 
