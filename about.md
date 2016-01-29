@@ -70,5 +70,5 @@ Designing a wireless data collection system so signals from various sensors (suc
 junys@uci.edu
 
 # Daniel Hagen 
-Understanding the limb mechanics of routine motion and how the nervous system is capable of accomplishing these tasks when spatially and temporally constrained. Studying this by observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.  
+Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.  
 dhagen@usc.edu
