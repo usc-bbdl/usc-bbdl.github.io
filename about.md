@@ -13,7 +13,10 @@ Our laboratory is dedicated to understanding the biomechanics, neuromuscular con
 
 Our diverse experimental arsenal ranges from EMG recording and custom-made virtual reality modules, detailed characterization of multifinger structure and function, to mapping the function of the human brain with fMRI. These procedures in turn inform theoretical work to characterize complex sensorimotor function through rigorous and anatomically faithful mathematical models.
 
--------------------------------------------
+
+-------------------------------------------  
+
+
 Brain Body Dynamics Lab  
 Ronald Tutor Hall, RTH-421  
 3710 S. McClintock Ave  
