@@ -68,7 +68,7 @@ jalaledd@usc.edu
 Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.  
 surajcha@usc.edu
 
-# Meng-Fen 孟芬 Tsai 蔡 
+# Meng-Fen Tsai 
 Interested in discovering the force control ability or pattern in human dexterity, as human digits are versatile and highly related with daily living.  
 a8221833@livemail.tw
 
