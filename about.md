@@ -37,7 +37,7 @@ Fax: `(213) 821-5696`
 Researching biomedical signal processing, neuroscience, and brain machine interfaces.  
 marjanin@usc.edu
 
-# Laine Christopher 
+# Christopher Laine
 Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.  
 claine@usc.edu
 
