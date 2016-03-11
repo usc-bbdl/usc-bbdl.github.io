@@ -7,8 +7,10 @@ title: ValeroLab Bio: Brian Cohn
 [Résumé](https://www.sharelatex.com/github/repos/bcohn12/resume/builds/latest/output.pdf)  
 [GitHub](https://github.com/bcohn12)  
 [LinkedIn](https://linkedin.com/in/brianalexandercohn)  
+[Email](mailto:brian.cohn@usc.edu)
 
-**Abstract:**
+**Focus**
+Computer Science PhD Student Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
 
 _________
 ## ValeroLab Publications
