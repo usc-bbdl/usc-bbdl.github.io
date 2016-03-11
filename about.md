@@ -50,7 +50,7 @@ brian.cohn@usc.edu
 Studying sensorimotor process and neural control of dexterous manipulation in healthy and neuropathological populations, motor learning and control, neuroplasticity, and neurorehabilitation  
 nko@usc.edu
 
-# [Emily Lawrence](https://valerolab.org/bios/lawrence) 
+# Emily Lawrence
 BME PhD Candidate using linear and nonlinear analysis techniques to quantify finger and leg dexterity and understand the effects of age, sex, and clinical conditions.  
 ellawren@usc.edu
 
