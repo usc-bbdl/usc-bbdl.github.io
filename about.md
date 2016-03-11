@@ -41,10 +41,9 @@ marjanin@usc.edu
 Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.  
 claine@usc.edu
 
-# Brian Cohn
+# [Brian Cohn](https://valerolab.org/bios/cohn)
 Computer Science PhD Student
 Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.  
-https://linkedin.com/in/brianalexandercohn
 brian.cohn@usc.edu
 
 # Na-hyeon (Hannah) Ko
