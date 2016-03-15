@@ -78,3 +78,7 @@ junys@uci.edu
 # Daniel Hagen 
 Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.  
 dhagen@usc.edu
+
+# [Victor Esparza](https://sites.google.com/a/usc.edu/victor/)
+Comming soon...  
+vesparza@usc.edu
