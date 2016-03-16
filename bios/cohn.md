@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ValeroLab Bio: Brian Cohn
+title: ValeroLab Bio Brian Cohn
 ---
 
 # Brian Cohn
