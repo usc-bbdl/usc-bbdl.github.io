@@ -1,3 +1,7 @@
+---
+layout: page
+title: Emily L. Lawrence, PhDc
+---
 
 Emily L. Lawrence, PhDc
 
