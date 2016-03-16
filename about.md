@@ -50,8 +50,8 @@ brian.cohn@usc.edu
 Studying sensorimotor process and neural control of dexterous manipulation in healthy and neuropathological populations, motor learning and control, neuroplasticity, and neurorehabilitation  
 nko@usc.edu
 
-# Emily Lawrence 
-Using linear and nonlinear analysis techniques to quantify finger and leg dexterity and understand the effects of age, sex, and clinical conditions.  
+# Emily Lawrence
+BME PhD Candidate using linear and nonlinear analysis techniques to quantify finger and leg dexterity and understand the effects of age, sex, and clinical conditions.  
 ellawren@usc.edu
 
 # Akira Nagamori 
@@ -78,3 +78,7 @@ junys@uci.edu
 # Daniel Hagen 
 Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.  
 dhagen@usc.edu
+
+# [Victor Esparza](https://sites.google.com/a/usc.edu/victor/)
+Comming soon...  
+vesparza@usc.edu
