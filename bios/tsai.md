@@ -3,10 +3,9 @@ layout: page
 title: Meng-Fen Tsai
 ---
 
-[Résumé](https://www.sharelatex.com/github/repos/bcohn12/resume/builds/latest/output.pdf)  
-[GitHub](https://github.com/bcohn12)  
-[LinkedIn](https://linkedin.com/in/brianalexandercohn)  
-[Email](mailto:brian.cohn@usc.edu)
+
+[LinkedIn](https:tw.linkedin.com/in/mengfentsai)  
+[Email](mailto:p86024174@mail.ncku.edu.tw)
 
 **Focus**  
 Computer Science PhD Student Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
