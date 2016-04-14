@@ -3,7 +3,7 @@ layout: page
 title: Emily L. Lawrence, PhDc
 ---
 
-[CV](https://www.dropbox.com/s/k30m814o5mo1ncb/Lawrence_CV_Feb2016.pdf?dl=0)  
+[CV](https://www.dropbox.com/s/vx6nksdcz0v5bih/Lawrence_CV_Apr2016.pdf?dl=0)  
 [Email](mailto:ellawren@usc.edu)
 
 Research Description
