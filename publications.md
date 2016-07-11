@@ -11,23 +11,6 @@ http://bbdl.usc.edu/PublicationsByYear.php
 
 -------------------------------------------  
 
-<!DOCTYPE html>
-<html>
-
-  {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
 <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
@@ -692,7 +675,3 @@ aper.</td>
     <h1>USC BBDL</h1>
   </div>
 </div>
-
-</body>
-
-</html>
