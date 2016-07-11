@@ -11,7 +11,9 @@ http://bbdl.usc.edu/Publications3.php
 
 -------------------------------------------  
 
-
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 <style>
 th
 {
@@ -24,7 +26,7 @@ background:#e9e9e9;
 </style>
 
 <div data-role="page" id="pageone">
-  <div data-role="header">
+  <div>
     <h1>Publications</h1>
   </div>
   
