@@ -24,9 +24,11 @@ tr:nth-child(even)
 background:#e9e9e9;
 }
 </style>
+</head>
+<body>
 
-<div>
-  <div>
+<div data-role="page" id="pageone">
+  <div data-role="header">
     <h1>Publications</h1>
   </div>
   
