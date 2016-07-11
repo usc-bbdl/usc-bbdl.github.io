@@ -25,7 +25,7 @@ background:#e9e9e9;
 }
 </style>
 
-<div data-role="page" id="pageone">
+<div>
   <div>
     <h1>Publications</h1>
   </div>
