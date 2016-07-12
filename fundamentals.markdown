@@ -50,18 +50,6 @@ ________
 
 _______________________
 
-# Extended Resources
-
-[Accompanying material and streamed videos of all lectures of graduate course BME 504: Neuromuscular Systems (2013)](http://bbdl.usc.edu/BMEBKN504.php)
-
-[Book Exercises by Chapter(.pdf)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72510/Exercises_V1_0.pdf)
-
-[Numerical Code (.zip)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72511/Numerical_Code_V1_0.zip)
-
-[Companion Video Lectures from BKN504](http://bbdl.usc.edu/BMEBKN504.php)
-
-_______________________
-
 # How to Obtain
 
 [Faculty and students at institutions subscribed to SpringerLink can download eBook/PDF for free](http://link.springer.com/content/pdf/10.1007/978-1-4471-6747-1.pdf)
@@ -71,6 +59,18 @@ _______________________
 [View Book on Springer website](http://www.springer.com/us/book/9781447167464)
 
 [Professors can request desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)
+
+_______________________
+
+# Extended Resources
+
+[Accompanying material and streamed videos of all lectures of graduate course BME 504: Neuromuscular Systems (2013)](http://bbdl.usc.edu/BMEBKN504.php)
+
+[Book Exercises by Chapter(.pdf)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72510/Exercises_V1_0.pdf)
+
+[Numerical Code (.zip)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72511/Numerical_Code_V1_0.zip)
+
+[Companion Video Lectures from BKN504](http://bbdl.usc.edu/BMEBKN504.php)
 
 ________________
 
