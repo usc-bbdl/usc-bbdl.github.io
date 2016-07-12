@@ -14,7 +14,8 @@ menu: main
 [View Book on Springer website](http://www.springer.com/us/book/9781447167464)
 
 [Professors can request desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)
-  
+
+
 _______________________
 
 # Companion website
