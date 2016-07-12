@@ -24,7 +24,7 @@ Last updated: Dec 26, 2015.
 
 ________________
 
-#Scope
+# Scope
 
 This book provides a conceptual and computational framework to study how the nervous system exploits the anatomical properties of limbs to produce mechanical function. The study of the neural control of limbs has historically emphasized the use of optimization to find solutions to the muscle redundancy problem. That is, how does the nervous system select a specific muscle coordination pattern when the many muscle of a limb allow for multiple solutions? 
 
@@ -57,7 +57,7 @@ _______________________
 
 [Numerical Code (.zip)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72511/Numerical_Code_V1_0.zip)
 
-[Companion Video Lectures from BKN504] (http://bbdl.usc.edu/BMEBKN504.php)
+[Companion Video Lectures from BKN504](http://bbdl.usc.edu/BMEBKN504.php)
 
 _______________________
 
