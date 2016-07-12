@@ -5,7 +5,7 @@ permalink: /extendedpublications/
 menu: main
 ---
 
-# Publications
+# Extended Publications
 
 http://bbdl.usc.edu/Publications3.php
 
@@ -1728,11 +1728,4 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>2012</td>
         </tr>
 
-      </tbody>
-    </table>
-  </div>
-
-  <div data-role="footer">
-    <h1>USC BBDL</h1>
-  </div>
 </div>
