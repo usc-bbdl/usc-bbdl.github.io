@@ -4,6 +4,19 @@ title: Fundamentals of Neuromechanics
 permalink: /fundamentals/
 menu: main
 ---
+
+# How to Obtain
+
+[Faculty and students at institutions subscribed to SpringerLink can download eBook/PDF for free](http://link.springer.com/content/pdf/10.1007/978-1-4471-6747-1.pdf)
+
+[View Book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)
+
+[View Book on Springer website](http://www.springer.com/us/book/9781447167464)
+
+[Professors can request desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)
+
+_______________________
+
 # Companion website
 ![image](https://cloud.githubusercontent.com/assets/4623063/12007743/85617314-abc7-11e5-9fbc-324daf52acbe.png)
 
@@ -46,19 +59,6 @@ ________
 8. [Chapter 8](http://usc-bbdl.github.io/book_chapters/ch8.html)
 9. [Chapter 9](http://usc-bbdl.github.io/book_chapters/ch9.html)
 10. [Chapter 10](http://usc-bbdl.github.io/book_chapters/ch10.html)
-
-
-_______________________
-
-# How to Obtain
-
-[Faculty and students at institutions subscribed to SpringerLink can download eBook/PDF for free](http://link.springer.com/content/pdf/10.1007/978-1-4471-6747-1.pdf)
-
-[View Book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)
-
-[View Book on Springer website](http://www.springer.com/us/book/9781447167464)
-
-[Professors can request desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)
 
 _______________________
 
