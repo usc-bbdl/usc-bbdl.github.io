@@ -50,10 +50,6 @@ brian.cohn@usc.edu
 Studying sensorimotor process and neural control of dexterous manipulation in healthy and neuropathological populations, motor learning and control, neuroplasticity, and neurorehabilitation  
 nko@usc.edu
 
-# Emily Lawrence
-BME PhD Candidate using linear and nonlinear analysis techniques to quantify finger and leg dexterity and understand the effects of age, sex, and clinical conditions.  
-ellawren@usc.edu
-
 # Akira Nagamori 
 Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.   
 nagamori@usc.edu
