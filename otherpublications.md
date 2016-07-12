@@ -24,8 +24,6 @@ tr:nth-child(even)
 background:#e9e9e9;
 }
 </style>
-</head>
-<body>
 
 <div data-role="page" id="pageone">
   <div data-role="header">
@@ -1736,4 +1734,3 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
     <h1>USC BBDL</h1>
   </div>
 </div>
-
