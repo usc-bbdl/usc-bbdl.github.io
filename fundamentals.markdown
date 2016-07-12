@@ -50,7 +50,8 @@ ________
 
 _______________________
 
-#Extended Resources
+# Extended Resources
+
 [Accompanying material and streamed videos of all lectures of graduate course BME 504: Neuromuscular Systems (2013)](http://bbdl.usc.edu/BMEBKN504.php)
 
 [Book Exercises by Chapter(.pdf)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72510/Exercises_V1_0.pdf)
