@@ -63,7 +63,7 @@ _______________________
 
 # How to Obtain
 
-[Faculty and students at institutions subscribed to SpringerLink can download eBook/PDF for free](http://link.springer.com)
+[Faculty and students at institutions subscribed to SpringerLink can download eBook/PDF for free](http://link.springer.com/content/pdf/10.1007/978-1-4471-6747-1.pdf)
 
 [View Book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)
 
