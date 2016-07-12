@@ -42,7 +42,7 @@ background:#e9e9e9;
           <th data-priority="1">PDF</th>
           <th data-priority="2">Supplemental Materials</th>
           <th data-priority="3">Year</th>
-        </tr>
+        
       </thead>
       <tbody>
 
@@ -1724,4 +1724,5 @@ background:#e9e9e9;
           <td></td>
           <td></td>
           <td>2012</td>
+        </tr>
 
