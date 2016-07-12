@@ -1727,5 +1727,3 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td></td>
           <td>2012</td>
         </tr>
-
-</div>
