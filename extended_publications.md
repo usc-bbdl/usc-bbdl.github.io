@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Extended Publications
-permalink: /extended_publications/
+permalink: /extendedpublications/
 menu: main
 ---
 
