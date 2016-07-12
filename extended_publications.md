@@ -24,6 +24,8 @@ tr:nth-child(even)
 background:#e9e9e9;
 }
 </style>
+</head>
+<body>
 
 <div data-role="page" id="pageone">
   <div data-role="header">
@@ -42,7 +44,7 @@ background:#e9e9e9;
           <th data-priority="1">PDF</th>
           <th data-priority="2">Supplemental Materials</th>
           <th data-priority="3">Year</th>
-        
+        </tr>
       </thead>
       <tbody>
 
@@ -1060,7 +1062,7 @@ background:#e9e9e9;
           <td>Peer Reviewed Abstract</td>
           <td>Theodorou E and Valero-Cuevas FJ. <br>
               <b>Optimality principles in controlling contact transitions with the fingers.</b> <br>
-              Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Waikoloa, HI. April 29th, 2009. </td>
+Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Waikoloa, HI. April 29th, 2009. </td>
           <td><a href="http://valerolab.org/Papers/Evangelos_NCM2009_VersionFinal.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
@@ -1724,5 +1726,13 @@ background:#e9e9e9;
           <td></td>
           <td></td>
           <td>2012</td>
+        </tr>
 
+      </tbody>
+    </table>
+  </div>
 
+  <div data-role="footer">
+    <h1>USC BBDL</h1>
+  </div>
+</div>
