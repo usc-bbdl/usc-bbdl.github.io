@@ -1060,7 +1060,7 @@ background:#e9e9e9;
           <td>Peer Reviewed Abstract</td>
           <td>Theodorou E and Valero-Cuevas FJ. <br>
               <b>Optimality principles in controlling contact transitions with the fingers.</b> <br>
-Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Waikoloa, HI. April 29th, 2009. </td>
+              Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Waikoloa, HI. April 29th, 2009. </td>
           <td><a href="http://valerolab.org/Papers/Evangelos_NCM2009_VersionFinal.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
