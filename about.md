@@ -82,3 +82,22 @@ dhagen@usc.edu
 # [Victor Esparza](https://sites.google.com/a/usc.edu/victor/)
 Comming soon...  
 vesparza@usc.edu
+
+
+-------------------------------------------
+
+
+# Interns
+
+* Amberlee Baugus
+* Austin Boling
+* Catherine Leigh Raquel
+* Catherine Parsekian
+* Crystal Lim
+* Dario Urbina
+* John Pugliesi
+* Lena Sulzenbacher
+* Manu Halvagal
+* Priyanka Vachhani
+* Seb Arnold
+* Taegyum Kim
