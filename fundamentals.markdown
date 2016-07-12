@@ -20,7 +20,7 @@ __________
 
 **This website is under construction and will be updated regularly as additional material becomes available.**
 
-Last updated: Dec 26, 2015.
+Last updated: Jul 12, 2016.
 
 ________________
 
