@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other Publications
-permalink: /otherpublications/
+title: Extended Publications
+permalink: /extended_publications/
 menu: main
 ---
 
@@ -1730,7 +1730,5 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
     </table>
   </div>
 
-  <div data-role="footer">
-    <h1>USC BBDL</h1>
-  </div>
+  
 </div>
