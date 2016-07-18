@@ -12,7 +12,7 @@ menu: main
 
 [View book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)
 
-[Click here to request a desk copy if you are a professor](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)
+[Professors: Click here to request a desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)
 
 [Companion video lectures from BKN504](http://bbdl.usc.edu/BMEBKN504.php)
 
