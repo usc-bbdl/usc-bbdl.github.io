@@ -8,7 +8,6 @@ menu: main
 # How to Obtain
 
 [Click here to download the book](http://link.springer.com/content/pdf/10.1007/978-1-4471-6747-1.pdf)
-
 *If you are at an institution subscribed to SpringerLink, you should see the PDF. Otherwise, you will be directed to the SpringerLink page.*
 
 [View Book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)
