@@ -70,8 +70,6 @@ _______________________
 
 [Numerical Code (.zip)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72511/Numerical_Code_V1_0.zip)
 
-[Companion Video Lectures from BKN504](http://bbdl.usc.edu/BMEBKN504.php)
-
 ________________
 
 #Product Flyer
