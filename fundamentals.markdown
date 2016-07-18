@@ -10,11 +10,11 @@ menu: main
 [Click here to download the book](http://link.springer.com/content/pdf/10.1007/978-1-4471-6747-1.pdf)<br>
 <sup>*If you are at an institution subscribed to SpringerLink, you should see the PDF. Otherwise, you will be directed to the SpringerLink page.*</sup>
 
-[View Book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)
+[View book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)
 
 [Click here to request a desk copy if you are a professor](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)
 
-[Companion Video Lectures from BKN504](http://bbdl.usc.edu/BMEBKN504.php)
+[Companion video lectures from BKN504](http://bbdl.usc.edu/BMEBKN504.php)
 
 
 _______________________
