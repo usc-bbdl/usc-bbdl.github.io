@@ -76,7 +76,7 @@ Understanding the limb mechanics of routine motions and how the nervous system a
 dhagen@usc.edu
 
 # Jasmine Berry
-Examining opportunities at the intersection of biomechanics and computational modeling. 
+Examining opportunities at the intersection of biomechanics and computational modeling.   
 jasminab@usc.edu
 
 
