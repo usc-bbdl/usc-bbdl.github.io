@@ -24,7 +24,7 @@ Valero-Cuevas FJ, Cohn BA, Szedlák M, Gärtner B, Fukuda K
 Featured Publication: Journal of Biomechanics, 2015  
 Valero-Cuevas FJ, Cohn BA, Yngvason HF, Lawrence EL
 
-####Publications from other collaborations
+#### Publications from other collaborations
 
 **"Retinal topography maps in R: new tools for the analysis and visualization of spatial retinal data."**  
  Journal of Vision July 2015, Vol.15, 19. 2015.  
