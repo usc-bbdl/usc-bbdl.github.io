@@ -52,8 +52,8 @@ nko@usc.edu
 
 <table style="border: none;">
 <tr><td><img src="https://valerolab.org/Photos/akira.jpg"></td>
-<td><h1>Akira Nagamori<h1><br>
-<br>Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br>
+<td>Akira Nagamori<br>
+Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br>
 nagamori@usc.edu</td></tr>
 </table>
 
