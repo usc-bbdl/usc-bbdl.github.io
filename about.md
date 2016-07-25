@@ -60,7 +60,7 @@ nagamori@usc.edu
 
 # Kian Jalaleddini 
 Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
-<img src="https://valerolab.org/Photos/kian.jpg">  
+<img src="https://valerolab.org/Photos/kian1.jpg">  
 http://www.jalaleddini.com/  
 jalaledd@usc.edu
 
