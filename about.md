@@ -35,15 +35,18 @@ Fax: `(213) 821-5696`
 
 # Ali Marjaninejad  
 Researching biomedical signal processing, neuroscience, and brain machine interfaces.  
+<img src="https://valerolab.org/Photos/ali.jpg">  
 marjanin@usc.edu
 
 # Christopher Laine
 Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.  
+<img src="https://valerolab.org/Photos/chris.jpg">  
 claine@usc.edu
 
 # [Brian Cohn](https://valerolab.org/bios/cohn)
 Computer Science PhD Student
 Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.  
+<img src="https://valerolab.org/Photos/brian.jpg">  
 brian.cohn@usc.edu
 
 # Na-hyeon (Hannah) Ko
@@ -57,11 +60,13 @@ nagamori@usc.edu
 
 # Kian Jalaleddini 
 Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
+<img src="https://valerolab.org/Photos/kian.jpg">  
 http://www.jalaleddini.com/  
 jalaledd@usc.edu
 
 # Suraj Chakravarthi Raja 
 Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.  
+<img src="https://valerolab.org/Photos/suraj.jpg">  
 surajcha@usc.edu
 
 # Meng-Fen Tsai 
@@ -70,19 +75,23 @@ a8221833@livemail.tw
 
 # Jun Yong Shin 
 Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.  
+<img src="https://valerolab.org/Photos/jun.jpg">  
 junys@uci.edu
 
 # Daniel Hagen 
 Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.  
+<img src="https://valerolab.org/Photos/dan.jpg">  
 dhagen@usc.edu
 
 # Jasmine Berry
 Examining opportunities at the intersection of biomechanics and computational modeling.   
+<img src="https://valerolab.org/Photos/jasmine.jpg">  
 jasminab@usc.edu
 
 
 # [Victor Esparza](https://sites.google.com/a/usc.edu/victor/)
 Coming soon...  
+<img src="https://valerolab.org/Photos/victor.jpg">  
 vesparza@usc.edu
 
 
