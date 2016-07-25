@@ -6,6 +6,7 @@ menu: main
 ---
 
 # PI: Francisco Valero-Cuevas
+<img src="https://valerolab.org/Photos/ali.jpg">  
 valero@usc.edu
 
 
