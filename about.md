@@ -50,12 +50,12 @@ brian.cohn@usc.edu
 Studying sensorimotor process and neural control of dexterous manipulation in healthy and neuropathological populations, motor learning and control, neuroplasticity, and neurorehabilitation  
 nko@usc.edu
 
-# Akira Nagamori
 <table style="border: none;">
 <tr><td><img src="https://valerolab.org/Photos/akira.jpg"></td>
-<td style="padding-left: 10px;">Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br>
-nagamori@usc.edu</td></tr>
+<td style="padding-left: 10px;"># Akira Nagamori</td></tr>
 </table>
+Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br>
+nagamori@usc.edu
 
 # Kian Jalaleddini 
 Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
