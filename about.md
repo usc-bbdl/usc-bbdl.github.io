@@ -51,9 +51,9 @@ Studying sensorimotor process and neural control of dexterous manipulation in he
 nko@usc.edu
 
 # Akira Nagamori
-<table>
+<table padding=0>
 <tr><td><img src="https://valerolab.org/Photos/akira.jpg"></td>
-<td>Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.   
+<td>Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br>
 nagamori@usc.edu</td></tr>
 </table>
 
