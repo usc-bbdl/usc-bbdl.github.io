@@ -54,6 +54,8 @@ nko@usc.edu
 <img src="https://valerolab.org/Photos/akira.jpg" align="left"> Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.   
 nagamori@usc.edu
 
+
+
 # Kian Jalaleddini 
 Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
 http://www.jalaleddini.com/  
