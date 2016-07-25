@@ -51,11 +51,12 @@ Studying sensorimotor process and neural control of dexterous manipulation in he
 nko@usc.edu
 
 <table style="border: none;">
-<tr><td><strong>Akira Nagamori</strong></td>
-<td><p style="text-align: right;"><img src="https://valerolab.org/Photos/akira.jpg"></p></td></tr>
+<tr><td><img src="https://valerolab.org/Photos/akira.jpg"></td>
+<td><h1>Akira Nagamori<h1><br>
+<br>Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br>
+nagamori@usc.edu</td></tr>
 </table>
-Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br>
-nagamori@usc.edu
+
 
 # Kian Jalaleddini 
 Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
