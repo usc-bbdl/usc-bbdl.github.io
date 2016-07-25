@@ -40,13 +40,13 @@ marjanin@usc.edu
 
 # Christopher Laine
 Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.  
-<img src="https://valerolab.org/Photos/kian.jpg">  
+<img src="https://valerolab.org/Photos/chris.jpg">  
 claine@usc.edu
 
 # [Brian Cohn](https://valerolab.org/bios/cohn)
 Computer Science PhD Student
 Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.  
-<img src="https://valerolab.org/Photos/kian1.jpg">  
+<img src="https://valerolab.org/Photos/brian.jpg">  
 brian.cohn@usc.edu
 
 # Na-hyeon (Hannah) Ko
@@ -60,7 +60,7 @@ nagamori@usc.edu
 
 # Kian Jalaleddini 
 Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
-<img src="https://valerolab.org/Photos/kian1.jpg">  
+<img src="https://valerolab.org/Photos/kian.jpg">  
 http://www.jalaleddini.com/  
 jalaledd@usc.edu
 
