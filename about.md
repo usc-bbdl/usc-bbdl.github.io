@@ -31,7 +31,7 @@ Fax: `(213) 821-5696`
 -------------------------------------------
 
 
-# Lab Members
+## Lab Members
 
 # Ali Marjaninejad 
 Researching biomedical signal processing, neuroscience, and brain machine interfaces.  
@@ -51,9 +51,9 @@ Studying sensorimotor process and neural control of dexterous manipulation in he
 nko@usc.edu
 
 # Akira Nagamori
-<table style="border: none">
+<table style="border: none;">
 <tr><td><img src="https://valerolab.org/Photos/akira.jpg"></td>
-<td>Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br>
+<td style="padding-left: 10px;">Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br>
 nagamori@usc.edu</td></tr>
 </table>
 
