@@ -50,7 +50,7 @@ brian.cohn@usc.edu
 Studying sensorimotor process and neural control of dexterous manipulation in healthy and neuropathological populations, motor learning and control, neuroplasticity, and neurorehabilitation  
 nko@usc.edu
 
-# Akira Nagamori 
+![Akira Nagamori](https://valerolab.org/photos/akira.jpg) # Akira Nagamori 
 Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.   
 nagamori@usc.edu
 
