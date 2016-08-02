@@ -46,6 +46,15 @@ background:#e9e9e9;
       <tbody>
 
         <tr>
+          <td>Laine CM, Nagamori A and Valero-Cuevas FJ. <br>
+              <b>The Dynamics of Voluntary Force Production in Afferented Muscle Influence Involuntary Tremor. </b> <br>
+              Front. Comput. Neurosci. 10:86. doi: 10.3389/fncom.2016.00086</td>
+          <td><a href="http://valerolab.org/Papers/2016_Laine_VoluntaryForceProduction.pdf">Link</a></td>
+          <td></td>
+          <td>2016</td>
+        </tr>
+
+        <tr>
           <td>Babikian S, Valero-Cuevas FJ, and Kanso E. <br>
               <b>Slow Movements of Bio-inspired Limbs. </b> <br>
               Journal of Nonlinear Science, Accepted 2016.</td>
