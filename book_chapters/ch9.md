@@ -26,7 +26,7 @@ _____________________
 __________
 
 
-### All code to produce vectormaps in MatLab, and descriptive statistics with R  
+### All code to produce vectormaps with MatLab, and plot descriptive statistics with R
 ```
 Valero-Cuevas FJ, Cohn BA, Yngvason HF, Lawrence EL.   
 Exploring the high-dimensional structure of muscle redundancy via subject-specific and generic musculoskeletal models   
