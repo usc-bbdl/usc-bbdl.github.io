@@ -26,9 +26,18 @@ _____________________
 **Exercises:**
 
 __________
-
-*Coming soon!*
-
+## All code to produce vectormaps in MatLab, and descriptive statistics with R
+```
+Valero-Cuevas FJ, Cohn BA, Yngvason HF, Lawrence EL.   
+Exploring the high-dimensional structure of muscle redundancy via subject-specific and generic musculoskeletal models   
+Journal of Biomechanics, ASB Special Issue, 48(11): p. 2887-96, 2015.  
+```
+[Explore vectormap code on GitHub](https://github.com/bcohn12/vectormap)  
+[Download up-to-date code as a Zip File](https://github.com/bcohn12/vectormap/archive/master.zip)  
+To walk through a well-commented usage of the library, open Matlab, set the working directory to the main vectormap folder, & run through the following file line by line:
+```matlab
+edit test_task_vector_bounds
+```
 
 
 
