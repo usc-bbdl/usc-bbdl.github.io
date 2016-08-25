@@ -69,7 +69,7 @@ International Conference on Industrial Electronics, Control and Instrumentation 
 _____
 
 
-*Coming soon!*
+<script src="https://gist.github.com/aboling/891744f57766db38c778f942f0db1beb.js"></script>
 
 
 
