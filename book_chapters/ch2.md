@@ -68,8 +68,10 @@ International Conference on Industrial Electronics, Control and Instrumentation 
 
 _____
 
-simple_forward_kinematics.m
+simple\\_forward\\_kinematics.m: <a href=/Code/simple_forward_kinematics.m download> Download </a>
 <script src="https://gist.github.com/aboling/891744f57766db38c778f942f0db1beb.js"></script>
 
+simple\\_forward\\_kinematics.py: <a href=/Code/simple_forward_kinematics.py download> Download </a>
+<script src="https://gist.github.com/aboling/b5874d41a01b9e16043a592d997d1568.js"></script>
 
 © Francisco Valero-Cuevas 2015
