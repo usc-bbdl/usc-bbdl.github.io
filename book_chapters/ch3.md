@@ -63,7 +63,17 @@ subject-independent patterns of muscle excitation. J. Biomech. 31, 693–703 (19
 
 _____
 
-*Coming soon!*
+simple\_inverse\_kinematics.m: <a href="/Code/simple_inverse_kinematics.m" download> Download </a>
+<script src="https://gist.github.com/aboling/00ad37b68669ccf277923882392d4f8c.js"></script>
+
+simple\_inverse\_kinematics.py: <a href="/Code/simple_inverse_kinematics.py" download> Download </a>
+<script src="https://gist.github.com/aboling/c713d77f5b6927403d25985b91c30f2c.js"></script>
+
+J2D2DOF.m: <a href="/Code/J2D2DOF.m" download> Download </a>
+<script src="https://gist.github.com/aboling/f5e23dff2f7c46af39b22a16b41c5abb.js"></script>
+
+J2D2DOF.py: <a href="/Code/J2D2DOF.py" download> Download </a>
+<script src="https://gist.github.com/aboling/382808eaa34b4234b1f48d446a58465a.js"></script>
 
 
 
