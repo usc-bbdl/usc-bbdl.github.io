@@ -74,4 +74,10 @@ simple\_forward\_kinematics.m: <a href="/Code/simple_forward_kinematics.m" downl
 simple\_forward\_kinematics.py: <a href="/Code/simple_forward_kinematics.py" download> Download </a>
 <script src="https://gist.github.com/aboling/b5874d41a01b9e16043a592d997d1568.js"></script>
 
+J2D2DOF.m: <a href="/Code/J2D2DOF.m" download> Download </a>
+<script src="https://gist.github.com/aboling/f5e23dff2f7c46af39b22a16b41c5abb.js"></script>
+
+J2D2DOF.py: <a href="/Code/J2D2DOF.py" download> Download </a>
+<script src="https://gist.github.com/aboling/382808eaa34b4234b1f48d446a58465a.js"></script>
+
 © Francisco Valero-Cuevas 2015
