@@ -69,7 +69,11 @@ muscle synergies of neural origin. PLoS Comput. Biol. 8(5), e1002434 (2012)
 
 _____
 
-*Coming soon!*
+simple\_excursion\_example.m: <a href="/Code/simple_excursion_example.m" download> Download </a>
+<script src="https://gist.github.com/aboling/5e4518ae75d9101b8af8345c48a6ba10.js"></script>
+
+simple\_excursion\_example.py: <a href="/Code/simple_excursion_example.py" download> Download </a>
+<script src="https://gist.github.com/aboling/7a83c1139f12d2580d8bd84b89058e2d.js"></script>
 
 
 
