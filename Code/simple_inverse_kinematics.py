@@ -29,17 +29,16 @@ def quick_2D_plot_tool(xlabel,ylabel,title):
 	ax.set_ylabel(ylabel)
 	ax.set_title(title)
 	ax.set_aspect('equal', 'datalim')
-def InverseJacobianMatrix(Angle1,Angle2,Link1,Link2):
+def InverseJacobianMatrix(Theta1,Theta2,Link1,Link2):
 	"""
 	Utilizes symbolics to create a Jacobian matrix and its inverse
-	transpose. Only appropriate for a 2 link planar model.
+	transpose. Only appropriate for a 2 link planar model. Theta1 and
+	Theta2 must be symbolics. Link lengths must be scalar.
 	"""
-	Theta1, Theta2 = sp.symbols('Theta1 Theta2', real = True)
 	G = sp.Matrix([	Link1*sp.cos(Theta1)+Link2*sp.cos(Theta1+Theta2),\
 					Link1*sp.sin(Theta1)+Link2*sp.sin(Theta1+Theta2)	])
 	J = G.jacobian([Theta1,Theta2])
 	J_inv= J**-1
-	J_inv = J_inv.subs([(Theta1,Angle1),(Theta2,Angle2)])
 	return(J_inv)
 def TwoLinkTrajectory(Angle1,Angle2,Link1,Link2):
 	x = Link1*np.cos(Angle1) + Link2*np.cos(Angle1+Angle2)
@@ -65,13 +64,15 @@ def PlotInterpolatedData(X,Interpolated_X):
 # q_i = q_(i-1) + dq = q_(i-1) + (J**-1)*dX(i-1)
 start = 101
 end = 802
+Theta1, Theta2 = sp.symbols('Theta1 Theta2', real = True)
+J_inverse = InverseJacobianMatrix(Theta1,Theta2,3,4)
 Angle1 = np.zeros(len(range(start,end)))
 Angle2 = np.zeros(len(range(start,end)))
 Angle1[0] = np.pi/2
 Angle2[0] = np.pi/2
 for i in range(start,end-1):
 	dX = Interpolated_X.T[i]-Interpolated_X.T[i-1]
-	dq = InverseJacobianMatrix(Angle1[i-start],Angle2[i-start],3,4)*dX
+	dq = J_inverse.subs([(Theta1,Angle1[i-start]),(Theta2,Angle2[i-start])])*dX
 	Angle1[i-start+1] = Angle1[i-start] + dq[0]
 	Angle2[i-start+1] = Angle2[i-start] + dq[1]
 
@@ -94,4 +95,3 @@ def PlotResults(X,Interpolated_X,Angle1,Angle2):
 	plt.show()
 
 PlotResults(X,Interpolated_X,Angle1,Angle2)
-
