@@ -68,7 +68,11 @@ sentations, Predicts Events, and Makes Decisions (MIT Press, Cambridge, 2012)
 
 _____
 
-*Coming soon!*
+simple\_linear\_programming.m: <a href="/Code/simple_linear_programming.m" download> Download </a>
+<script src="https://gist.github.com/aboling/7f4f83209fd43e38ff5244a48b1b3c51.js"></script>
+
+simple\_linear\_programming.py: <a href="/Code/simple_linear_programming.py" download> Download </a>
+<script src="https://gist.github.com/aboling/2bd6e4ca6690a0c1dc653a1780068bd9.js"></script>
 
 
 
