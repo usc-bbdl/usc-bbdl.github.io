@@ -131,7 +131,7 @@ the reduction of muscle work important? J. Exp. Biol. 217(24), 4365–4371 (2014
 **Code:**
 
 _____
-FiveDOF\_Model.mat: <a href="/Code/FiveDOF_Model.mat" download> Download </a>
+FiveDOF\_Model.mat: <a href="/Code/FiveDOF_Model.mat" download> Download </a>    
 **Note:** *This .mat file should be downloaded for both python and matlab users as there is something in the python code to read in the .mat file.*
 
 FiveDOF\_model\_frisbee\_throw.m: <a href="/Code/FiveDOF_model_frisbee_throw.m" download> Download </a>
