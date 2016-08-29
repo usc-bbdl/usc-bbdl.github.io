@@ -132,7 +132,11 @@ the reduction of muscle work important? J. Exp. Biol. 217(24), 4365–4371 (2014
 
 _____
 
-*Coming soon!*
+FiveDOF\_model\_frisbee\_throw.m: <a href="/Code/FiveDOF_model_frisbee_throw.m" download> Download </a>
+<script src="https://gist.github.com/aboling/d1605f955def8c2ed1c8f4e81432dcf2.js"></script>
+
+FiveDOF\_model\_frisbee\_throw.py: <a href="/Code/FiveDOF_model_frisbee_throw.py" download> Download </a>
+<script src="https://gist.github.com/aboling/6acb61afd7712eb75ef90506d00244a6.js"></script>
 
 
 
