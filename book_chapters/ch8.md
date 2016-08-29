@@ -112,7 +112,16 @@ computational and neuroethological perspective. Prog. Brain Res. 165, 323–346 
 
 _____
 
-*Coming soon!*
+ncube.m: <a href="/Code/ncube.m" download> Download </a>    
+**Note:** *This .m file is only required for matlab users since python has a more clever way of creating generator vectors.*    
+<script src="https://gist.github.com/aboling/f23c806e03e74079a3f88e187ca1be23.js"></script>
+
+zonotope\_multi\_N\_2D.m: <a href="/Code/zonotope_multi_N_2D.m" download> Download </a>
+<script src="https://gist.github.com/aboling/690366b1b02158e9b239fc0d6f3e7d76.js"></script>
+
+zonotope\_multi\_N\_2D.py: <a href="/Code/zonotope_multi_N_2D.py" download> Download </a>
+<script src="https://gist.github.com/aboling/0b926a853927a5ccd9bd42bf70398d22.js"></script>
+
 
 
 
