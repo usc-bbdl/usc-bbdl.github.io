@@ -80,11 +80,12 @@ J2D2DOF.m: <a href="/Code/J2D2DOF.m" download> Download </a>
 J2D2DOF.py: <a href="/Code/J2D2DOF.py" download> Download </a>
 <script src="https://gist.github.com/aboling/382808eaa34b4234b1f48d446a58465a.js"></script>
 
-<ul class="pager">
-  <li class="previous"><a href="//http://valerolab.org/book_chapters/ch1.html/">Chapter 1</a></li>
-  <li class="next"><a href="//http://valerolab.org/book_chapters/ch3.html/">Chapter 3</a></li>
-</ul>
-
+<div class="container">
+  <ul class="pager">
+    <li class="previous"><a href="//http://valerolab.org/book_chapters/ch1.html/">Chapter 1</a></li>
+    <li class="next"><a href="//http://valerolab.org/book_chapters/ch3.html/">Chapter 3</a></li>
+  </ul>
+</div>
 © Francisco Valero-Cuevas 2015
 
 
