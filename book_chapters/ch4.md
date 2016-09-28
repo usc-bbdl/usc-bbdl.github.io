@@ -75,7 +75,22 @@ simple\_excursion\_example.m: <a href="/Code/simple_excursion_example.m" downloa
 simple\_excursion\_example.py: <a href="/Code/simple_excursion_example.py" download> Download </a>
 <script src="https://gist.github.com/aboling/7a83c1139f12d2580d8bd84b89058e2d.js"></script>
 
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<div class="container">
+  <ul class="pagination">
+    <li><a href="//valerolab.org/book_chapters/ch1.html">Ch. 1</a></li>
+    <li><a href="//valerolab.org/book_chapters/ch2.html">Ch. 2</a></li>
+    <li><a href="//valerolab.org/book_chapters/ch3.html">Ch. 3</a></li>
+    <li class="active"><a href="//valerolab.org/book_chapters/ch4.html">Ch. 4</a></li>
+    <li><a href="//valerolab.org/book_chapters/ch5.html">Ch. 5</a></li>
+    <li><a href="//valerolab.org/book_chapters/ch6.html">Ch. 6</a></li>
+    <li><a href="//valerolab.org/book_chapters/ch7.html">Ch. 7</a></li>
+    <li><a href="//valerolab.org/book_chapters/ch8.html">Ch. 8</a></li>
+    <li><a href="//valerolab.org/book_chapters/ch9.html">Ch. 9</a></li>
+    <li><a href="//valerolab.org/book_chapters/ch10.html">Ch. 10</a></li>
+  </ul>
+  
+</div>
 
 
 
