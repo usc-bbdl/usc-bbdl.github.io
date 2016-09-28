@@ -4,11 +4,6 @@ title: Chapter 2
 ---
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<style> 
-.pager .next>a, .pager .next>span {
-    float: center;
-}
-</style>
                 
 # Chapter 2: Limb Kinematics  (*under construction*)
 
@@ -90,7 +85,7 @@ J2D2DOF.py: <a href="/Code/J2D2DOF.py" download> Download </a>
 <div class="container">
   <ul class="pager">
     <li class="previous"><a href="//http://valerolab.org/book_chapters/ch1.html/">Chapter 1</a></li>
-    <li class="next"><a href="//http://valerolab.org/book_chapters/ch3.html/">Chapter 3</a></li>
+    <li class="next" style="float: center"><a href="//http://valerolab.org/book_chapters/ch3.html/">Chapter 3</a></li>
   </ul>
 </div>
 © Francisco Valero-Cuevas 2015
