@@ -81,3 +81,7 @@ J2D2DOF.py: <a href="/Code/J2D2DOF.py" download> Download </a>
 <script src="https://gist.github.com/aboling/382808eaa34b4234b1f48d446a58465a.js"></script>
 
 © Francisco Valero-Cuevas 2015
+
+<ul class="pager">
+  <li class="next"><a href="//valerolab.org/book_chapters/ch2.html/">Chapter 2</a></li>
+</ul>
