@@ -83,5 +83,6 @@ J2D2DOF.py: <a href="/Code/J2D2DOF.py" download> Download </a>
 © Francisco Valero-Cuevas 2015
 
 <ul class="pager">
-  <li class="next"><a href="//valerolab.org/book_chapters/ch2.html/">Chapter 2</a></li>
+  <li class="previous"><a href="//http://valerolab.org/book_chapters/ch1.html/">Chapter 1</a></li>
+  <li class="next"><a href="//http://valerolab.org/book_chapters/ch3.html/">Chapter 3</a></li>
 </ul>
