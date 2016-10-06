@@ -96,7 +96,8 @@ vesparza@usc.edu
 
 # [Séb Arnold](http://seba1511.com)
 Mathematical Optimization for Deep Reinforcement Learning.
-<img src="https://valerolab.org/Photos/seb.png">  
+
+<img src="https://valerolab.org/Photos/seb.png" width="150px" />  
 arnolds @ usc.edu
 
 
@@ -116,5 +117,4 @@ arnolds @ usc.edu
 * Lena Sulzenbacher
 * Manu Halvagal
 * Priyanka Vachhani
-* Seb Arnold
 * Taegyum Kim
