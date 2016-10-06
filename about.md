@@ -89,11 +89,16 @@ Examining opportunities at the intersection of biomechanics and computational mo
 <img src="https://valerolab.org/Photos/jasmine.jpg">  
 jasminab@usc.edu
 
-
 # [Victor Esparza](https://sites.google.com/a/usc.edu/victor/)
 Coming soon...  
 <img src="https://valerolab.org/Photos/victor.jpg">  
 vesparza@usc.edu
+
+# [Séb Arnold](http://seba1511.com)
+Mathematical Optimization for Deep Reinforcement Learning.
+<img src="https://valerolab.org/Photos/seb.png">  
+arnolds @ usc.edu
+
 
 
 -------------------------------------------
