@@ -46,6 +46,15 @@ background:#e9e9e9;
       <tbody>
 
         <tr>
+          <td>Valero-Cuevas FJ, Klamroth-Marganska V, Winstein CJ, and Riener R. <br>
+              <b>Robot-assisted and conventional therapies produce distinct rehabilitative trends in stroke survivors</b> <br>
+              Journal of NeuroEngineering and Rehabilitation, 13:92. doi: 10.1186/s12984-016-0199-5</td>
+          <td><a href="http://valerolab.org/Papers/Valero-Cuevas_et_al_JNER_2016.pdf">Link</a></td>
+          <td></td>
+          <td>2016</td>
+        </tr>
+
+        <tr>
           <td>Laine CM, Nagamori A and Valero-Cuevas FJ. <br>
               <b>The Dynamics of Voluntary Force Production in Afferented Muscle Influence Involuntary Tremor. </b> <br>
               Front. Comput. Neurosci. 10:86. doi: 10.3389/fncom.2016.00086</td>
