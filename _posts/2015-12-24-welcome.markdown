@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to the Brain Body Dynamics Lab"
+date:   2015-12-24 13:01:16 -0800
+categories: BBDL
+---
+
+While ultimately seeking improved clinical diagnosis and treatment procedures, we emphasize the scientific investigation of the neuromuscular biomechanics of the hand in general, and actively promote the use of this knowledge to improve the design and control of prosthetic and robotic systems.
