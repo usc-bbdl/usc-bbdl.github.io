@@ -5,14 +5,14 @@ permalink: /about/
 menu: main
 ---
 
-# PI: Francisco Valero-Cuevas
-<img src="https://valerolab.org/Photos/francisco.jpg">  
-valero@usc.edu
-
 
 Our laboratory is dedicated to understanding the biomechanics, neuromuscular control and clinical rehabilitation of human mobility, with an emphasis on dexterous hand function. Towards this end, we employ a synergy of experimental and theoretical techniques.
 
 Our diverse experimental arsenal ranges from EMG recording and custom-made virtual reality modules, detailed characterization of multifinger structure and function, to mapping the function of the human brain with fMRI. These procedures in turn inform theoretical work to characterize complex sensorimotor function through rigorous and anatomically faithful mathematical models.
+
+# PI: Francisco Valero-Cuevas Ph.D.
+<img src="https://valerolab.org/Photos/francisco.jpg">  
+valero@usc.edu
 
 *Francisco's Bio*  
 I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Masters Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.
