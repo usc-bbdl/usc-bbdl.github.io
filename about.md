@@ -30,8 +30,8 @@ Ronald Tutor Hall, RTH-421
 Los Angeles, CA 90089-2905, USA 
 ```
 
-Phone: `(213) 740-4219`  
-Fax: `(213) 821-5696` 
+Phone: (213) 740-4219  
+Fax: (213) 821-5696
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.924975500565!2d-118.29214788478588!3d34.02013668061464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7fc9ad4d9bd%3A0x7f0dfd17fcb6ec29!2s3710+McClintock+Ave%2C+Los+Angeles%2C+CA+90089!5e0!3m2!1sen!2sus!4v1453572044486" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -51,15 +51,11 @@ Understanding the neurophysiology of human movement by measuring and characteriz
 <img src="https://valerolab.org/Photos/chris.jpg">  
 claine@usc.edu
 
-# [Brian Cohn](https://valerolab.org/bios/cohn)
+# Brian Cohn
 Computer Science PhD Student
 Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.  
 <img src="https://valerolab.org/Photos/brian.jpg">  
 brian.cohn@usc.edu
-
-# Na-hyeon (Hannah) Ko
-Studying sensorimotor process and neural control of dexterous manipulation in healthy and neuropathological populations, motor learning and control, neuroplasticity, and neurorehabilitation  
-nko@usc.edu
 
 # Akira Nagamori
 Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.  
@@ -77,10 +73,6 @@ Making fully operational, neurally interfaced exo-suits and smart prosthesis an 
 <img src="https://valerolab.org/Photos/suraj.jpg">  
 surajcha@usc.edu
 
-# Meng-Fen Tsai 
-Interested in discovering the force control ability or pattern in human dexterity, as human digits are versatile and highly related with daily living.  
-a8221833@livemail.tw
-
 # Jun Yong Shin 
 Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.  
 <img src="https://valerolab.org/Photos/jun.jpg">  
@@ -97,31 +89,14 @@ Examining opportunities at the intersection of biomechanics and computational mo
 jasminab@usc.edu
 
 # [Victor Esparza](https://sites.google.com/a/usc.edu/victor/)
-Coming soon...  
 <img src="https://valerolab.org/Photos/victor.jpg">  
 vesparza@usc.edu
 
 # [Séb Arnold](http://seba1511.com)
 Mathematical Optimization for Deep Reinforcement Learning.
-
 <img src="https://valerolab.org/Photos/seb.png" width="150px" />  
 arnolds @ usc.edu
 
 
 
 -------------------------------------------
-
-
-# Interns
-
-* Amberlee Baugus
-* Austin Boling
-* Catherine Leigh Raquel
-* Catherine Parsekian
-* Crystal Lim
-* Dario Urbina
-* John Pugliesi
-* Lena Sulzenbacher
-* Manu Halvagal
-* Priyanka Vachhani
-* Taegyum Kim
