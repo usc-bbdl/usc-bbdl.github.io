@@ -14,7 +14,7 @@ menu: main
 
 [Professors: Click here to request a desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)
 
-[Companion video lectures from BKN504](http://bbdl.usc.edu/BMEBKN504.php)
+[Companion video lectures from BKN504](http://valerolab.org/BMEBKN504.php)
 
 
 _______________________
