@@ -80,7 +80,7 @@ junys@uci.edu
 
 # Daniel Hagen 
 Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.  
-<img src="https://valerolab.org/Photos/dan.jpg">  
+<img src="../Photos/dan.jpg">  
 dhagen@usc.edu
 
 # Jasmine Berry
