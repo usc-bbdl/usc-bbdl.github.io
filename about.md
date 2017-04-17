@@ -65,8 +65,9 @@ nagamori@usc.edu
 # Kian Jalaleddini 
 Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
 <img src="../Photos/kian1.jpg">  
-http://www.jalaleddini.com/  
-jalaledd@usc.edu
+<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a>
+<a href="mailto:jalaledd@usc.edu" target="_top">Send Mail</a>
+
 
 # Suraj Chakravarthi Raja 
 Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.  
