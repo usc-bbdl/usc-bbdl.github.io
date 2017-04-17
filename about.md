@@ -66,7 +66,7 @@ nagamori@usc.edu
 Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
 <img src="../Photos/kian1.jpg">  
 <a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a>
-<a href="mailto:jalaledd@usc.edu" target="_top">Send Mail</a>
+<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a>
 
 
 # Suraj Chakravarthi Raja 
