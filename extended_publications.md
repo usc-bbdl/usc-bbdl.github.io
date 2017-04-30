@@ -93,7 +93,7 @@ background:#e9e9e9;
           <td>Inouye JM and Valero-Cuevas FJ. <br>
               <b>"Asymmetric routings with fewer tendons can offer both flexible endpoint stiffness control and high force-production capabilities in robotic fingers," </b> <br>
               IEEE International Conference on Biomedical Robotics and Biomechatronics, Rome, Italy, June 24-27, 2012.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/inouye2012asymmetric.pdf">Link</a></td>
           <td></td>
           <td>2012</td>
         </tr>
@@ -143,7 +143,7 @@ background:#e9e9e9;
           <td>Pearlman JL and Valero-Cuevas FJ. <br>
               <b>The 3D thumb-tip forces produced by individual tendons do not superimpose linearly. </b> <br>
               Proceedings of the 25th Annual International Conference of the IEEE EMBS, p.1819-22, 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Pearlman2003thumb.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -193,7 +193,7 @@ background:#e9e9e9;
           <td>Valero-Cuevas FJ, Smaby N, Venkadesan M, Peterson M, Wright T, Hotchkiss R, Sherry Backus, Lily A. Ariola. <br>
               <b>The Strength-Dexterity test as a measure of pinch performance in hands with able and osteoarthritic thumbs. </b> <br>
               57th Annual Meeting of the American Society for Surgery of the Hand, Baltimore, MD, 2002.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Valero2002Strength.pdf">Link</a></td>
           <td></td>
           <td>2002</td>
         </tr>
@@ -283,7 +283,7 @@ background:#e9e9e9;
           <td>Cohn BA, Yngvason HF, Valero-Cuevas FJ. <br>
               <b>"Visualizing the structure of high dimensional feasible activation sets for static force production." </b> <br>
               Proceedings of the 39th Annual Meeting of the American Society of Biomechanics, Columbus, OH, August 5-8, 2015.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Cohn2015Visualizing.pdf">Link</a></td>
           <td></td>
           <td>2015</td>
         </tr>
@@ -453,7 +453,7 @@ background:#e9e9e9;
           <td>Babikian S, Kanso E, Valero-Cuevas FJ. <br>
               <b>"Slow limb movements require precise muscle control."</b> <br>
               Proceedings of the 7th World Congress of Biomechanics, Boston, MA, July 6-11, 2014.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Babikian2014Slow.pdf">Link</a></td>
           <td></td>
           <td>2014</td>
         </tr>
@@ -543,7 +543,7 @@ background:#e9e9e9;
           <td>Niu CM*, Rocamora J*, Valero-Cuevas FJ~, Sanger T.~ <br>
               <b>"Assessing the role of neuromuscular components using a tendon-driven robotic plant controlled by neuromorphic hardware."</b> <br>
               Proceedings of Translational and Computational Motor Control, San Diego, CA, November 8, 2013. * denotes equal contribution, ~ denotes equal leadership</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Niu2013Assessing.pdf">Link</a></td>
           <td></td>
           <td>2013</td>
         </tr>
@@ -553,7 +553,7 @@ background:#e9e9e9;
           <td>Babikian S, Kutch JJ, Kanso E, Valero-Cuevas FJ. <br>
               <b>"Feasibility of limb postures and slow motions throughout the workspace with muscles as elastic actuators."</b> <br>
               Proceedings of the 6th International IEEE EMBS Conference on Neural Engineering, San Diego, CA, November 6-8, 2013.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Babikian2013Feasibility.pdf">Link</a></td>
           <td></td>
           <td>2013</td>
         </tr>
@@ -563,7 +563,7 @@ background:#e9e9e9;
           <td>Reyes A, Nayak KS, Loeb GE, Valero-Cuevas, FJ. <br>
               <b>"Structural MRI identifies precise location of intramuscular electrode recording site based on presence of micro-hematoma."</b> <br>
               Proceedings of the 6th International IEEE/EMBS Conference of Neural Engineering, San Diego, CA, November 6-8, 2013.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Reyes2013Structural.pdf">Link</a></td>
           <td></td>
           <td>2013</td>
         </tr>
@@ -573,7 +573,7 @@ background:#e9e9e9;
           <td>Niu CM, Rocamora JM, Sohn WJ, Valero-Cuevas FJ, Sanger TD. <br>
               <b>"Force-velocity property of muscle is critical for stabilizing a tendon-driven robotic joint controlled by neuromorphic hardware."</b> <br>
               Proceedings of the 6th International IEEE/EMBS Conference of Neural Engineering, San Diego, CA, November 6-8, 2013.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Niu2013force.pdf">Link</a></td>
           <td></td>
           <td>2013</td>
         </tr>
@@ -583,7 +583,7 @@ background:#e9e9e9;
           <td>Rocamora JM, Niu CM, Sanger TD, Valero-Cuevas FJ. <br>
               <b>"Series Elastic Element Is Critical for Stabilizing a Tendon-Driven Robotic Joint Controlled by Physiologically Realistic Models."</b> <br>
               Proceedings of the 6th International IEEE/EMBS Conference of Neural Engineering, San Diego, CA, November 6-8, 2013.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Rocamora2013Series.pdf">Link</a></td>
           <td></td>
           <td>2013</td>
         </tr>
@@ -633,7 +633,7 @@ background:#e9e9e9;
           <td>Kurse MU, Lipson H, and Valero-Cuevas FJ. <br>
               <b>"Inference of compact analytical functions describing tendon routing in the fingers"</b> <br>
               Canadian Society of Biomechanics / Societe Canadienne de Biomechanique Conference (CSB/SBC), Burnaby, BC, June 6-9, 2012.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kurse2012Inference.pdf">Link</a></td>
           <td></td>
           <td>2012</td>
         </tr>
@@ -703,7 +703,7 @@ background:#e9e9e9;
           <td>Lyle M, Tsai L, Valero-Cuevas FJ, Gregor R, Powers C.<br>
               <b>"Dynamic Coordination of Leg Musculature is Associated with Agility in High School Soccer Athletes"</b> <br>
               35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Lyle2011Dynamic.pdf">Link</a></td>
           <td></td>
           <td>2011</td>
         </tr>
@@ -723,7 +723,7 @@ background:#e9e9e9;
           <td>Kutch, JJ. <br>
               <b>"Biomechanics to Brain: Unraveling the Complex Neural Connectivity of Multi-Muscle Control" </b> <br>
               35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kutch2011Biomechanics.pdf">Link</a></td>
           <td></td>
           <td>2011</td>
         </tr>
@@ -733,7 +733,7 @@ background:#e9e9e9;
           <td>Kurse MU, Lipson H, Valero-Cuevas FJ.<br>
               <b>"A comprehensive Experimental Evaluation of Existing Models of the Extensor Mechanism Calls for Novel Data-Driven Models"</b> <br>
               35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kurse2011comprehensive.pdf">Link</a></td>
           <td></td>
           <td>2011</td>
         </tr>
@@ -773,7 +773,7 @@ background:#e9e9e9;
           <td>Holt B, Reyes A, Valero-Cuevas FJ.<br>
               <b>"A Prototype Video Game System for Studying Rehabilitative Learning"</b> <br>
               35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Holt2011Prototype.pdf">Link</a></td>
           <td></td>
           <td>2011</td>
         </tr>
@@ -783,7 +783,7 @@ background:#e9e9e9;
           <td>Inouye JM, Kutch JJ, Valero-Cuevas FJ.<br>
               <b>"Quantitative Prediction of Grasp Impairment Following Peripheral Neuropathies of the Hand" </b> <br>
               35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Inouye2011Quantitative.pdf">Link</a></td>
           <td></td>
           <td>2011</td>
         </tr>
@@ -833,7 +833,7 @@ background:#e9e9e9;
           <td>Kurse MU, Schmidt M, Lipson H, Valero-Cuevas FJ. <br>
               <b>Extracting mathematical models defining index finger kinematics using symbolic regression. </b> <br>
               Proceedings of the 14th Annual Fred S. Grodins Graduate Research Symposium, Los Angeles, CA, April 10th, 2010. </td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kurse2010mathematical.pdf">Link</a></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -853,7 +853,7 @@ background:#e9e9e9;
           <td>Theodorou EA and Valero-Cuevas FJ.<br>
               <b>"Optimality in Neuromuscular Systems."</b> <br>
               In 32nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society 2010,pp 4510 - 4516.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Theodorou2010Optimality.pdf">Link</a></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -863,7 +863,7 @@ background:#e9e9e9;
           <td>Theodorou EA, Todorov E, and Valero-Cuevas FJ.<br>
               <b>"A first optimal control solution for a complex, nonlinear, tendon driven neuromuscular finger model"</b> <br>
               Proceedings of the ASME 2010 Summer Bioengineering Conference August 30-September 2, 2010, Naples, Florida, USA.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Theodorou2010fast.pdf">Link</a></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -883,7 +883,7 @@ background:#e9e9e9;
           <td>Kutch JJ, Kurse MU, Valero-Cuevas FJ <br>
               <b>"Muscle redundancy does not imply robustness to muscle dysfunction"</b> <br>
               40th Annual Meeting of the Society for Neuroscience, San Diego CA, November 2010.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kutch2010Muscle.pdf">Link</a><</td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -913,7 +913,7 @@ background:#e9e9e9;
           <td>Dayanidhi S, Weisz J, Junker L, Hedberg Å, Forssberg H, Valero-Cuevas FJ. <br>
               <b>"Control of an unstable object with dynamic precision grip: Effect of friction."</b> <br>
               Poster Session II: Integrative Control of Movement. Proceedings of the Nineteenth Annual Meeting of Society for the Neural Control of Movement, p 116. Poster H-58, Waikoloa, HI, May 1st, 2009.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/EvangelosTheodorouThesis.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -953,7 +953,7 @@ background:#e9e9e9;
           <td>Kutch JJ, Valero-Cuevas FJ. <br>
               <b>"All muscles are redundant, but some are less redundant than others"</b> <br>
               19th Annual Meeting of the Society for the Neural Control of Movement, Waikoloa Beach, Hawaii, April 2009.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kutch2009Muscle.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -963,7 +963,7 @@ background:#e9e9e9;
           <td>Kurse MU, Schmidt M, Lipson H, and Valero-Cuevas FJ. <br>
               <b>"Extracting appropriate mathematical expressions defining moment arm relationships using symbolic regression."</b> <br>
               Proceedings of the American Society of Mechanical Engineers 2010 Summer Bioengineering Conference, Naples, FL, June 18th, 2010. (finalist in the PhD Student Paper Competition).</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kurse2010APPROPRIATE.pdf">Link</a></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -973,7 +973,7 @@ background:#e9e9e9;
           <td>R&aacute;cz, K, Inouye J, Valero-Cuevas FJ. <br>
               <b>"The spatio-temporal structure of force variability in static grasp suggests a continually active neural controller."</b> <br>
               Summer Bioengineering Conference of the American Society of Mechanical Engineers, Naples, FL, 2010.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kornelius2010spatio.pdf">Link</a></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -983,7 +983,7 @@ background:#e9e9e9;
           <td>Kurse MU, Lipson H, and Valero-Cuevas FJ. <br>
               <b>"A fast simulator to model complex tendon-bone interactions: Application to the tendinous networks controlling the fingers."</b> <br>
               Proceedings of the American Society of Mechanical Engineers 2009 Summer Bioengineering Conference, Lake Tahoe, CA, June 18, 2009.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kurse2009Fast.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -993,7 +993,7 @@ background:#e9e9e9;
           <td>R&aacute;cz, K, Valero-Cuevas FJ. <br>
               <b>"Grip force fluctuations are more than just noise."</b> <br>
               Podium presentation, Annual Meeting of the American Society for Biomechanics, Penn State U, State College, PA, 2009.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kornelius2009Grip.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -1023,7 +1023,7 @@ background:#e9e9e9;
           <td>Kurse MU, Lipson H, Valero-Cuevas FJ. <br>
               <b>Computational method to study tendinous interactions across fingers.</b> <br>
               Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Waikoloa, HI. May 1st, 2009. </td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/NCM2009_Kurse_final.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -1093,7 +1093,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Valero-Cuevas FJ and Todorov E. <br>
               <b>Task-dependent variability in human hand EMG: Evidence for optimal feedback control at the muscle level.</b> <br>
               Proceedings of the 27th Annual Meeting of the American Society of Biomechanics, Toledo, OH. 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Francisco2003Task.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1113,7 +1113,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Venkadesan M, Valero-Cuevas FJ, Guckenheimer JM. <br>
               <b>The dynamic sensorimotor regulation of fingertip force vectors is independent of hand strength. </b> <br>
               Proceedings of the 27th Annual Meeting of the American Society of Biomechanics, Toledo, OH. 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Venkadesan2003dynamic.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1123,7 +1123,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Pearlman, JL, Weisman M, Roach, SS, Hermanson, JW, Valero-Cuevas, FJ. <br>
               <b>The Fundamental thumb-tip force vectors produced by the muscles of the thumb. </b> <br>
               Proceedings of the 27th Annual Meeting of the American Society of Biomechanics, Toledo, OH. 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/PearlmanCadThumb2003.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1143,7 +1143,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Kuxhaus, LC, Pearlman JL, Weisman M, and Valero-Cuevas FJ. <br>
               <b>Predicting thumb force changes with ulnar nerve impairment. </b> <br>
               Proceedings of the 27th Annual Meeting of the American Society of Biomechanics, Toledo, OH. 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kuxhaus2003Predicting.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1163,7 +1163,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Santos VJ and Valero-Cuevas FJ. <br>
               <b>Stochastic analysis of anatomical data suggests three characteristic types of thumb kinematics. </b> <br>
               Proceedings of the American Society of Mechanical Engineers Summer Bioengineering Conference, Key Biscayne, FL. 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Santos2003Stochastic.PDF">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1173,7 +1173,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Valero-Cuevas, FJ, Smaby, N, Venkadesan, M, Pretz, J, Ramakrishna, K, Wilson, N, Skaliotis, J, and Peterson, M. <br>
               <b>The strength-dexterity test as a measure of dynamic pinch performance. </b> <br>
               Neural Control of Movement Conference, Santa Barbara, CA, 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Valero2003strength.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1193,7 +1193,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Todorov E and Valero-Cuevas FJ. <br>
               <b>Task-dependent variability in human hand EMG: Evidence for optimal feedback control at the muscle level. </b> <br>
               (By invitation) Neural Control of Movement Conference, Santa Barbara, CA, 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Francisco2003Task.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1203,7 +1203,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Venkadesan M, Valero-Cuevas FJ, Guckenheimer JM. <br>
               <b>The dynamic sensorimotor regulation of fingertip force vectors is independent of hand strength. </b> <br>
               33th Annual Meeting of the Society for Neuroscience. New Orleans, LA, 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Venkadesan2003dynamic.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1343,7 +1343,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ. <br>
               <b>"Dynamic fingertip force variability in individuals with ParkinsonÕs disease."</b> <br>
               Hand Rehabilitation Section, American Physical Therapy Association Combined Sections Meeting, Anaheim, CA, Feb 17-20, 2016.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Ko2016Dynamic.pdf">Link</a></td>
           <td></td>
           <td>2016</td>
         </tr>
@@ -1413,7 +1413,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Kurse MU, Schmidt M, Lipson H, Valero-Cuevas FJ. <br>
               <b>Extracting mathematical models defining index finger kinematics using symbolic regression.</b> <br>
               Proceedings of the 14th Annual Fred S. Grodins Graduate Research Symposium, Los Angeles, CA, April 10th, 2010. </td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kurse2010mathematical.pdf">Link</a></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -1443,7 +1443,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Kutch JJ, Kurse MU, Valero-Cuevas FJ <br>
               <b>"Muscle redundancy does not imply robustness to muscle dysfunction"</b> <br>
               40th Annual Meeting of the Society for Neuroscience, San Diego CA, November 2010.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kutch2010Muscle.pdf">Link</a></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -1473,7 +1473,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>R&aacute;cz, K, Inouye J, Valero-Cuevas FJ. <br>
               <b>"The spatio-temporal structure of force variability in static grasp suggests a continually active neural controller."</b> <br>
               Summer Bioengineering Conference of the American Society of Mechanical Engineers, Naples, FL, 2010.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kornelius2010spatio.pdf">Link</a></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -1493,7 +1493,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Santos VJ and Valero-Cuevas FJ. <br>
               <b>Stochastic analysis of anatomical data suggests three characteristic types of thumb kinematics. </b> <br>
               Proceedings of the American Society of Mechanical Engineers Summer Bioengineering Conference, Key Biscayne, FL. 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Santos2003Stochastic.PDF">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1503,7 +1503,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Venkadesan M, Valero-Cuevas FJ, Guckenheimer JM. <br>
               <b>The dynamic sensorimotor regulation of fingertip force vectors is independent of hand strength.</b> <br>
               33th Annual Meeting of the Society for Neuroscience. New Orleans, LA, 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Venkadesan2003dynamic.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1593,7 +1593,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Kutch JJ and Valero-Cuevas FJ. <br>
               <b>Computational Hypothesis Testing for Neuromuscular Systems.</b> <br>
               32nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Buenos Aires, Argentina, August 31-September 4 2010.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kutch2010Computational.pdf">Link</a></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -1603,7 +1603,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Kutch JJ, Kurse MU, Hentz VR, Lightdale N, Fassola I, Valero-Cuevas FJ. <br>
               <b>Biomechanical and experimental confounds to the detection of neurally-generated muscle synergies.</b> <br>
               The Annual Meeting for the American Society of Biomechanics, August 18-21, 2010, Providence, Rhode Island.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kutch2010Biomechanical.pdf">Link</a></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -1613,7 +1613,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Kutch JJ, Kurse MU, Ho?mann H, Hentz VR, Leclercq C, Fassola I, Valero-Cuevas FJ.<br>
               <b>Simple finger movements require complex coordination of excursions and forces across all muscles.</b> <br>
               The Annual Meeting for the American Society of Biomechanics, August 26-29, 2009, State College, Pennsylvania.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Kutch2009Simple.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -1623,7 +1623,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Venkadesan M, Valero-Cuevas FJ, Guckenheimer JM. <br>
               <b>The boundary of instability as a powerful experimental paradigm for understanding complex dynamical sensorimotor behavior: Dexterous manipulation as an example.</b> <br>
               In Advances in Computational Motor Control II. Symposium at the 33th Annual Meeting of the Society for Neuroscience, New Orleans, LA, 2003.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Venkadesan2003.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -1633,7 +1633,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Lawrence EL.<br>
               <b>Demographic and Clinical Covariates of Sensorimotor Processing </b>
               University of Southern California, 2016.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/LawrenceDissertation_Final.pdf">Link</a></td>
           <td></td>
           <td>2016</td>
         </tr>
@@ -1643,7 +1643,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Reyes A.<br>
               <b>Task Dependent Modulation of Corticomuscular Coherence during Dexterous Manipulation </b> <br>
               University of Southern California, 2015. </td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/AlexDissertation.pdf">Link</a></td>
           <td></td>
           <td>2015</td>
         </tr>
@@ -1653,7 +1653,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>R&aacute;cz, K. <br>
               <b>Neuromuscular Dynamics in the Context of Motor Redundancy </b> <br>
               University of Southern California, 2012. </td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/Raths2012Neuromuscular.pdf">Link</a></td>
           <td></td>
           <td>2012</td>
         </tr>
@@ -1663,7 +1663,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Kurse, MU. <br>
               <b>Inference of computational models of tendon networks via sparse experimentation </b> <br>
               University of Southern California, 2012.</td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/KurseMU2012inference.pdf">Link</a></td>
           <td></td>
           <td>2012</td>
         </tr>
@@ -1673,7 +1673,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Inouye, JM. <br>
               <b>Bio-Inspired Tendon-Driven Systems: Computational Analysis, Optimization, and Hardware Implementation </b> <br>
               University of Southern California, 2012. </td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/inouye2012dissertation.pdf">Link</a></td>
           <td></td>
           <td>2012</td>
         </tr>
@@ -1683,7 +1683,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Lyle, MA. <br>
               <b>Quantification of Lower Extremity Dynamic Capability: Implications for Anterior Cruciate Ligament Injury and Change of Direction Ability </b> <br>
               University of Southern California, 2012. </td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/LyleThesis.pdf">Link</a></td>
           <td></td>
           <td>2012</td>
         </tr>
@@ -1693,7 +1693,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Dayanidhi, S. <br>
               <b>Behavioral, Muscular and Dynamical Changes in Low Force Dexterous Manipulation during Development and Aging </b> <br>
               University of Southern California, 2012. </td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/DayanidhiThesis.pdf">Link</a></td>
           <td></td>
           <td>2012</td>
         </tr>
@@ -1703,7 +1703,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Theodorou, EA. <br>
               <b>Iterative Path Integral Stochastic Optimal Control: Theory and Applications to Motor Control </b> <br>
               University of Southern California, 2011. </td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/TheodorouThesisCorrected.pdf">Link</a></td>
           <td></td>
           <td>2011</td>
         </tr>
@@ -1723,7 +1723,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Bumann, R. <br>
               <b>Using Load-Cells to Unveil Limitations to the Human Movement System </b> <br>
               Eidgen&ouml;ssische Technische Hochschule (ETH), Zürich, Switzerland, 2012. </td>
-          <td></td>
+          <td><a href="http://valerolab.org/Papers/masterThesisRichard.pdf">Link</a></td>
           <td></td>
           <td>2012</td>
         </tr>
