@@ -993,7 +993,7 @@ background:#e9e9e9;
           <td>R&aacute;cz, K, Valero-Cuevas FJ. <br>
               <b>"Grip force fluctuations are more than just noise."</b> <br>
               Podium presentation, Annual Meeting of the American Society for Biomechanics, Penn State U, State College, PA, 2009.</td>
-          <td><a href="http://valerolab.org/Papers/1.pdf">Link</a></td>
+          <td><a href="http://valerolab.org/Papers/Kornelius2009Grip.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
