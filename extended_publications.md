@@ -1663,7 +1663,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Kurse, MU. <br>
               <b>Inference of computational models of tendon networks via sparse experimentation </b> <br>
               University of Southern California, 2012.</td>
-          <td><a href="http://valerolab.org/Papers/KurseMU2012inference.pdf">Link</a></td>
+          <td><a href="http://valerolab.org/Papers/Kurse2012computational.pdf">Link</a></td>
           <td></td>
           <td>2012</td>
         </tr>
