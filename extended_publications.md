@@ -103,7 +103,7 @@ background:#e9e9e9;
           <td>Theodorou E, Todorov E, and Valero-Cuevas FJ. <br>
               <b>Neuromuscular stochastic optimal control of a tendon-driven index finger model. </b> <br>
               American Control Conference, San Francisco, CA, June 29-July 1, 2011.</td>
-          <td><a href="http://valerolab.org/Papers/EvangelosACC11.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/EvangelosACC11.pdf">Link</a></td>
           <td></td>
           <td>2011</td>
         </tr>
@@ -113,7 +113,7 @@ background:#e9e9e9;
           <td>Santos VJ and Valero-Cuevas FJ. <br>
               <b>A Bayesian approach to biomechanical modeling to optimize over large parameter spaces while considering anatomical variability.</b> <br>
               Proceedings of the 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, San Francisco, CA, Sept. 2004. </td>
-          <td><a href="http://valerolab.org/Papers/Web1_EMBS2004_VS.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Web1_EMBS2004_VS.pdf">Link</a></td>
           <td></td>
           <td>2004</td>
         </tr>
@@ -123,7 +123,7 @@ background:#e9e9e9;
           <td>Miller A, Allen P, Santos VJ, and Valero-Cuevas FJ. <br>
               <b>From robotic hands to human hands: A visualization and simulation engine for grasping research. </b> <br>
               Proceedings of the International Conference on Intelligent Manipulation and Grasping, Genoa, Italy, 2004. </td>
-          <td><a href="http://valerolab.org/Papers/miller_et_al.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/miller_et_al.pdf">Link</a></td>
           <td></td>
           <td>2004</td>
         </tr>
@@ -153,7 +153,7 @@ background:#e9e9e9;
           <td>Santos VJ and Valero-Cuevas FJ. <br>
               <b>Anatomical variability naturally leads to multimodal distributions of Denavit-Hartenberg parameters for the human thumb.</b> <br>
               Proceedings of the 25th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Cancun, Quintana Roo, Mexico. 2003. </td>
-          <td><a href="http://valerolab.org/Papers/Web3_ASB2004_VS.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Web3_ASB2004_VS.pdf">Link</a></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -213,7 +213,7 @@ background:#e9e9e9;
           <td>Valero-Cuevas FJ. <br>
               <b>Applying principles of robotics to understand the biomechanics, neuromuscular control and clinical rehabilitation of human digits. </b> <br>
               Proceedings of the 2000 IEEE International Conference on Robotics & Automation, p.255-62, 2000. </td>
-          <td><a href="http://valerolab.org/Papers/Valero-CuevasICRA2000.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Valero-CuevasICRA2000.pdf">Link</a></td>
           <td></td>
           <td>2000</td>
         </tr>
@@ -753,7 +753,7 @@ background:#e9e9e9;
           <td>R&aacute;cz, K, Valero-Cuevas FJ. <br>
               <b>Simulations of Optimal Reweighting of Muscle Coordination Reveal Important Benefits of Muscle Redundancy</b> <br>
               35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011.</td>
-          <td><a href="http://valerolab.org/Papers/Racz_ASB2011_FatigueAbstract.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Racz_ASB2011_FatigueAbstract.pdf">Link</a></td>
           <td></td>
           <td>2011</td>
         </tr>
@@ -763,7 +763,7 @@ background:#e9e9e9;
           <td>R&aacute;cz, K*, Sindhurakar A*, Bradley NS, Valero-Cuevas FJ.<br>
               <b>Prenatal Motor Development Affects Observed Motor Behavior for Different Incubation Periods in Domestic Chick</b> <br>
               35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011. *equal contribution</td>
-          <td><a href="http://valerolab.org/Papers/Racz_ASB2011_ChickAbstract.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Racz_ASB2011_ChickAbstract.pdf">Link</a></td>
           <td></td>
           <td>2011</td>
         </tr>
@@ -1003,7 +1003,7 @@ background:#e9e9e9;
           <td>R&aacute;cz, K and Valero-Cuevas FJ. <br>
               <b>The grip force dynamics of multi-finger static grasp reveals a control hierarchy.</b> <br>
               Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Poster B-73, Waikoloa, HI. April 29th, 2009. </td>
-          <td><a href="http://valerolab.org/Papers/Racz_NCM2009_Poster.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Racz_NCM2009_Poster.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -1033,7 +1033,7 @@ background:#e9e9e9;
           <td>Dayanidhi S, Weisz J, Junker L, Hedberg Ã, Forssberg H, Valero-Cuevas FJ. <br>
               <b>Control of an unstable object with dynamic precision grip: Effect of friction.</b> <br>
               Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Waikoloa, HI. May 1st, 2009. </td>
-          <td><a href="http://valerolab.org/Papers/Dayanidhi_Ncm2009.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Dayanidhi_Ncm2009.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -1043,7 +1043,7 @@ background:#e9e9e9;
           <td>Hoffmann H, Kutch JJ, Kurse MU, Valero-Cuevas FJ. <br>
               <b>Control of muscle strain energy as a robust means to produce slow and accurate finger movements: Proof of concept via hardware and cadaver implementation.</b> <br>
               Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Waikoloa, HI. May 1st, 2009. </td>
-          <td><a href="http://valerolab.org/Papers/Hoffmann_NCM_final.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Hoffmann_NCM_final.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -1063,7 +1063,7 @@ background:#e9e9e9;
           <td>Theodorou E and Valero-Cuevas FJ. <br>
               <b>Optimality principles in controlling contact transitions with the fingers.</b> <br>
 Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Waikoloa, HI. April 29th, 2009. </td>
-          <td><a href="http://valerolab.org/Papers/Evangelos_NCM2009_VersionFinal.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Evangelos_NCM2009_VersionFinal.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -1073,7 +1073,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Kutch JJ and Valero-Cuevas FJ. <br>
               <b>All muscles are redundant, but some are more redundant than others.</b> <br>
               Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Waikoloa, HI. April 29th, 2009.</td>
-          <td><a href="http://valerolab.org/Papers/Ncm2009_JJK_ver1.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Ncm2009_JJK_ver1.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -1083,7 +1083,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Santos VJ. and Valero-Cuevas, FJ. <br>
               <b>Thumb kinematics with non-orthogonal and nonintersecting axes of rotation may be necessary to predict realistic isometric thumbtip forces in multiple directions.</b> <br>
               Proceedings of the 28th Annual Meeting of the American Society of Biomechanics, Portland, OR, Sept. 2004. </td>
-          <td><a href="http://valerolab.org/Papers/yqaqpmwg.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/yqaqpmwg.pdf">Link</a></td>
           <td></td>
           <td>2004</td>
         </tr>
@@ -1553,7 +1553,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Inouye JM, Kutch JJ, and Valero-Cuevas FJ. <br>
               <b>Optimizing the Topology of Tendon-Driven Fingers: Rationale, Predictions and Implementation.</b> <br>
               in The Human Hand: A Source of Inspiration for Robotic Hands, Springer Tracts in Advanced Robotics (STAR) series, Balasubramanian, R. and Santos, V.J., Eds., Springer, Heidelberg. In press.</td>
-          <td><a href="http://valerolab.org/Papers/InouyeRSS.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/InouyeRSS.pdf">Link</a></td>
           <td></td>
           <td>2014</td>
         </tr>
@@ -1563,7 +1563,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Valero-Cuevas FJ.<br>
               <b>Why the hand?</b> <br>
               Advances in Experimental Medicine and Biology, 629: p.553-7, 2009.</td>
-          <td><a href="http://valerolab.org/Papers/Valero-Cuevas_PMC_V_Intro.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/Valero-Cuevas_PMC_V_Intro.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
@@ -1573,7 +1573,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td>Valero-Cuevas FJ.<br>
               <b>A mathematical approach to the mechanical capabilities of limbs and fingers.</b> <br>
               Advances in Experimental Medicine and Biology, 629: 619-633, 2009.</td>
-          <td><a href="http://valerolab.org/Papers/ValeroCuevas2_PMC_V_Chapter.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/ValeroCuevas2_PMC_V_Chapter.pdf">Link</a></td>
           <td></td>
           <td>2009</td>
         </tr>
