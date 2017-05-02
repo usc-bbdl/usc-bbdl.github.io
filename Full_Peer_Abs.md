@@ -5,7 +5,7 @@ permalink: /fulllengthpeerreviewedabstracts/
 menu: main
 ---
 
-# Extended Publications
+# Full-Length Peer-Reviewed Abstracts
 
 http://bbdl.usc.edu/Publications3.php
 
