@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Extended Publications
-permalink: /extendedpublications/
+title: Full-Length Peer-Reviewed Abstracts
+permalink: /fulllengthpeerreviewedabstracts/
 menu: main
 ---
 

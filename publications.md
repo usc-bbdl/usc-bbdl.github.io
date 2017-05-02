@@ -50,7 +50,7 @@ background:#e9e9e9;
           <td>Von Walden F, Jalaleddini K, Evertsson B, Friberg J, Valero-Cuevas FJ, Ponten E.  <br>
               <b>Forearm flexor muscles in children with cerebral palsy are weak, thin and stiff. </b> <br>
               Frontiers in Computational Neuroscience, 11, 2017.</td>
-          <td><a href="https://bbdl.usc.edu/Papers/2017WaldenFrontiers.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a></td>
           <td></td>
           <td>2017</td>
         </tr>
