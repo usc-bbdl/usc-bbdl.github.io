@@ -92,7 +92,9 @@ background:#e9e9e9;
         </tr>
 
         </tbody>
-           
+        </table>
+
+        <table>          
         <tbody>
         <tr>
           <td>Nagamori A, Valero-Cuevas FJ, Finley JM.  <br>
