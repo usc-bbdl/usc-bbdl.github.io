@@ -77,7 +77,7 @@ background:#e9e9e9;
           <td>Niu CM, Jalaleddini K, Sohn WJ, Rocamora J, Sanger TD, Valero-Cuevas FJ.  <br>
               <b>Neuromorphic meets Neuromechanics PART I: The Methodology and Implementation. </b> <br>
               Journal of Neural Engineering, 14(2), 2017.</td>
-          <td><a href="https://usc-bbdl.github.io/Papers/2016NagamoriFrontPhysio.pdf">Link</a></td>
+          <td><a href="http://bbdl.usc.edu/Papers/2017NiuJNE.pdf">Link</a></td>
           <td></td>
           <td>2017</td>
         </tr>
@@ -86,7 +86,7 @@ background:#e9e9e9;
           <td>Jalaleddini K, Niu CM, Chakravarthi Raja S, Sohn WJ, Loeb GE, Sanger TD, Valero-Cuevas FJ.  <br>
               <b>Neuromorphic meets Neuromechanics PART II: The Role of Fusimotor Drive. </b> <br>
               Journal of Neural Engineering, 14(2), 2017.</td>
-          <td><a href="https://usc-bbdl.github.io/Papers/2017NiuJNE.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/2017JalaleddiniJNE.pdf">Link</a></td>
           <td></td>
           <td>2017</td>
         </tr>
@@ -95,7 +95,7 @@ background:#e9e9e9;
           <td>Nagamori A, Valero-Cuevas FJ, Finley JM.  <br>
               <b>Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</b> <br>
               Frontiers in Physiology, 7</td>
-          <td><a href="https://usc-bbdl.github.io/Papers/2016NagamoriFrontPhysio.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/2016NagamoriFrontPhysiol.pdf">Link</a></td>
           <td></td>
           <td>2016</td>
         </tr>
@@ -104,7 +104,7 @@ background:#e9e9e9;
           <td>Laine CM, Nagamori A, Valero-Cuevas FJ. <br>
               <b>The Dynamics of Voluntary Force Production in Afferented Muscle Influence Involuntary Tremor.</b> <br>
               Frontiers in Computational Neuroscience, 10</td>
-          <td><a href="https://usc-bbdl.github.io/Papers/2016_Valero_Robot_Assisted.pdf">Link</a></td>
+          <td><a href="https://usc-bbdl.github.io/Papers/2016FrontComputNeuroscLaine.pdf">Link</a></td>
           <td></td>
           <td>2016</td>
         </tr>
