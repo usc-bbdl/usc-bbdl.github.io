@@ -93,6 +93,17 @@ background:#e9e9e9;
 
         <tbody>
 
+          <style>
+          th
+          {
+          border-bottom: 1px solid #d6d6d6;
+          }
+          tr:nth-child(even)
+          {
+          background:#e9e9e9;
+          }
+          </style>
+
         </tbody>
 
         <tr>

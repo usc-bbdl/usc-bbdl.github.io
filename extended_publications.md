@@ -74,7 +74,7 @@ background:#e9e9e9;
               <b>"Capacity of Small Groups of Muscles to Accomplish Precision Grasping Tasks," </b> <br>
               35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society pp. 6583-6, Osaka, Japan, July 3-7, 2013. </td>
           <td></td>
-          <td><a href="http://valerolab.org/Abstracts/EMBS%202013%20presentation_draft_towles.pptx">Presentation Slides</a></td>
+          <td><a href="https://usc-bbdl.github.io/Abstracts/EMBS%202013%20presentation_draft_towles.pptx">Presentation Slides</a></td>
           <td>2013</td>
         </tr>
 
