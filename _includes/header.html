@@ -20,8 +20,8 @@
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
             {% endif %}
             {% if my_page.menu == 'main2' %}
-          <a>{{ my_page.title }}
-            <select>
+          <a>
+            <select>{{ my_page.title }}
             <option value ="volvo">Volvo</option>
             <option value ="saab">Saab</option>
             <option value="opel">Opel</option>
