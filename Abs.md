@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Full-Length Peer-Reviewed Abstracts
-permalink: /extendedpublications/fulllengthpeerreviewedabstracts/
+title: Abstracts
+permalink: /extendedpublications/abstracts/
 menu: main2
-label: flpra
+label: abs
 ---
 
-# Full-Length Peer-Reviewed Abstracts
+# Abstracts
 
 http://bbdl.usc.edu/Publications3.php
 

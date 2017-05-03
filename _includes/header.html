@@ -26,9 +26,12 @@
               {% if my_page.label == 'flpra' %}
                 <option value="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</option>
               {% endif %}
-              <option value="0">{{ my_page.title }}</option>
-              <option value="opel">Opel</option>
-              <option value="audi">Audi</option>
+              {% if my_page.label == 'prabs' %}
+                <option value="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</option>
+              {% endif %}
+              {% if my_page.label == 'abs' %}
+                <option value="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</option>
+              {% endif %}
             </select>          
           </a>
             {% endif %}
