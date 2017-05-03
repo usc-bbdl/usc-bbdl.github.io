@@ -83,6 +83,8 @@ background:#e9e9e9;
           <td>2017</td>
         </tr>
       </tbody>
+    </table>
+  </div>
 
 
       <button type="button" onclick="toggleText();" href="javascript:void(0);">2016</button>
