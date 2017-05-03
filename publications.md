@@ -86,7 +86,7 @@ background:#e9e9e9;
     </table>
 
     <div>
-      <div id="textArea" >
+      <div id="textArea" style="display: none;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -793,16 +793,12 @@ var status = "less";
 
 function toggleText()
 {
-    var $this = $(this); 
-    var $content = $this.parent().prev("div.content");
-    // var text="Here is some text that I want added to the HTML file";
-    
     if (status == "less") {         
-        document.getElementById("textArea").innerHTML=$content;
+        document.getElementById("textArea").style="display: visible;";
         document.getElementById("toggleButton").innerText = "See Less";
         status = "more";
     } else if (status == "more") {
-        document.getElementById("textArea").innerHTML = "";
+        document.getElementById("textArea").style="display: none;";
         document.getElementById("toggleButton").innerText = "See More";
         status = "less"
     }
