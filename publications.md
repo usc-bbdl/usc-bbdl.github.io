@@ -86,7 +86,7 @@ background:#e9e9e9;
     </table>
 
     <div>
-      <div id="textArea" style="display: none;">
+      <div id="textArea" style="visibility: hidden;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -158,7 +158,7 @@ background:#e9e9e9;
     <div>
       <b>2016</b>
       <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
-      <b>2</b>
+      <b>3</b>
     </div>
 
   </div>
@@ -795,11 +795,11 @@ var status = "less";
 function toggleText()
 {
     if (status == "less") {         
-        document.getElementById("textArea").style.display="visible";
+        document.getElementById("textArea").style.visibility="visible";
         document.getElementById("toggleButton").innerText = "See Less";
         status = "more";
     } else if (status == "more") {
-        document.getElementById("textArea").style.display="visible";
+        document.getElementById("textArea").style.visibility="visible";
         document.getElementById("toggleButton").innerText = "See More";
         status = "less"
     }
