@@ -3,6 +3,7 @@ layout: page
 title: Full-Length Peer-Reviewed Abstracts
 permalink: /extendedpublications/fulllengthpeerreviewedabstracts/
 menu: extendedpublications
+label: flpra
 ---
 
 # Full-Length Peer-Reviewed Abstracts

@@ -20,13 +20,15 @@
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
             {% endif %}
             {% if my_page.menu == 'main2' %}
-          <a>{{ my_page.title }}
+          <a>Extended Publications
             <select onchange="javascript:if (this.options[this.selectedIndex].value != '')
  window.open(this.options[this.selectedIndex].value);this.options[0].selected;">
-            <option value="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</option>
-            <option value="0">{{ my_page.title }}</option>
-            <option value="opel">Opel</option>
-            <option value="audi">Audi</option>
+              {% if my_page.label == 'flpra' %}
+                <option value="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</option>
+              {% endif %}
+              <option value="0">{{ my_page.title }}</option>
+              <option value="opel">Opel</option>
+              <option value="audi">Audi</option>
             </select>          
           </a>
             {% endif %}
