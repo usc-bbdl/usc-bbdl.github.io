@@ -19,6 +19,19 @@
             {% if my_page.menu == 'main' %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
             {% endif %}
+            {% if my_page.menu == 'main2' %}
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}
+            <select>
+            <option value ="volvo">Volvo</option>
+            <option value ="saab">Saab</option>
+            <option value="opel">Opel</option>
+            <option value="audi">Audi</option>
+            </select>          
+          </a>
+            {% endif %}
+           <!--  {% if my_page.menu == 'extendedpublications' %}
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {% endif %} -->
           {% endif %}
         {% endfor %}
       </div>

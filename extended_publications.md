@@ -2,7 +2,7 @@
 layout: page
 title: Extended Publications
 permalink: /extendedpublications/
-menu: main
+menu: main2
 ---
 
 # Extended Publications
