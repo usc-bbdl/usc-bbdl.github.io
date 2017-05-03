@@ -147,4 +147,11 @@ background:#e9e9e9;
         </tr>
 
          </tbody>
+         </table>
+  </div>
+
+  <div data-role="footer">
+    <h1>USC BBDL</h1>
+  </div>
+</div>
      

@@ -84,7 +84,11 @@ background:#e9e9e9;
         </tr>
       </tbody>
 
-      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input">
+
+      <button type="button" onclick="toggleText();" href="javascript:void(0);">2016</button>
+
+      <div>
+      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="textArea" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
           <th>Citation</th>
@@ -753,6 +757,7 @@ aper.</td>
           <td></td>
           <td>1997</td>
         </tr>
+      </div>
 
       </tbody>
     </table>
@@ -762,3 +767,24 @@ aper.</td>
     <h1>USC BBDL</h1>
   </div>
 </div>
+
+<script language="javascript">
+var status = "less";
+
+function toggleText()
+{
+    var text="Here is some text that I want added to the HTML file";
+    
+    if (status == "less") {
+        document.getElementById("textArea").innerHTML=text;
+        document.getElementById("toggleButton").innerText = "See Less";
+        status = "more";
+    } else if (status == "more") {
+        document.getElementById("textArea").innerHTML = "";
+        document.getElementById("toggleButton").innerText = "See More";
+        status = "less"
+    }
+}
+</script>
+
+
