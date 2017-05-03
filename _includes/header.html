@@ -20,15 +20,14 @@
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
             {% endif %}
           {% endif %}
-          <a>Extended Publications
-            <select onchange="javascript:if (this.options[this.selectedIndex].value != '')
- window.open(this.options[this.selectedIndex].value);this.options[0].selected;">
+        {% endfor %}
+        <a>Extended Publications
+            <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.open(this.options[this.selectedIndex].value);this.options[0].selected;">
                 <option value="https://usc-bbdl.github.io/fulllengthpeerreviewedabstracts/">Full-Length Peer-Reviewed Abstracts</option>
                 <option value="https://usc-bbdl.github.io/peerreviewedabstracts/">Peer-Reviewed Abstracts</option>
                 <option value="https://usc-bbdl.github.io/abstracts/">Abstracts</option>
             </select>          
           </a>
-        {% endfor %}
       </div>
     </nav>
 
