@@ -86,12 +86,8 @@ background:#e9e9e9;
     </table>
 
     <div>
-      <b>2016</b>
-      <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
-
-      <!-- <div class="content hideContent"> -->
-      
-      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="textArea" data-filter="true" data-input="#filterTable-input">
+      <div id="textArea" >
+      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
           <th>Citation</th>
@@ -157,6 +153,13 @@ background:#e9e9e9;
         </tr>
       </tbody>
     </table>
+  </div>
+
+    <div>
+      <b>2016</b>
+      <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
+    </div>
+
   </div>
 
       <div>
@@ -794,13 +797,13 @@ function toggleText()
     var $content = $this.parent().prev("div.content");
     // var text="Here is some text that I want added to the HTML file";
     
-    if (status == "less") { 
-        document.getElementById("toggleButton").innerText = "See Less";
+    if (status == "less") {         
         document.getElementById("textArea").innerHTML=$content;
+        document.getElementById("toggleButton").innerText = "See Less";
         status = "more";
     } else if (status == "more") {
-        document.getElementById("toggleButton").innerText = "See More";
         document.getElementById("textArea").innerHTML = "";
+        document.getElementById("toggleButton").innerText = "See More";
         status = "less"
     }
 }
