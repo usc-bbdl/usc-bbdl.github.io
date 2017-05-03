@@ -23,7 +23,7 @@
           <a>{{ my_page.title }}
             <select onchange="javascript:if (this.options[this.selectedIndex].value != '')
  window.open(this.options[this.selectedIndex].value);this.options[0].selected;">
-            <option value="1">{{ my_page.title }}</option>
+            <option value="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</option>
             <option value="0">{{ my_page.title }}</option>
             <option value="opel">Opel</option>
             <option value="audi">Audi</option>
