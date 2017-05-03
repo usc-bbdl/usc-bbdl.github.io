@@ -82,6 +82,18 @@ background:#e9e9e9;
           <td></td>
           <td>2017</td>
         </tr>
+      </tbody>
+
+      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input">
+      <thead>
+        <tr>
+          <th>Citation</th>
+          <th data-priority="1">PDF</th>
+          <th data-priority="2">Supplemental Materials</th>
+          <th data-priority="3">Year</th>
+        </tr>
+      </thead>
+      <tbody>
 
         <tr>
           <td>Nagamori A, Valero-Cuevas FJ, Finley JM.  <br>
