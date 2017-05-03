@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Full-Length Peer-Reviewed Abstracts
-permalink: /fulllengthpeerreviewedabstracts/
-
+permalink: /extendpublications/fulllengthpeerreviewedabstracts/
+menu: extendpublications
 ---
 
 # Full-Length Peer-Reviewed Abstracts
