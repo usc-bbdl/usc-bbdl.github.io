@@ -21,10 +21,10 @@
             {% endif %}
             {% if my_page.menu == 'main2' %}
           <a>{{ my_page.title }}
-            <select>
-            <option onchange="javascript:if (this.options[this.selectedIndex].value != '')
- window.open({{ my_page.url | prepend: site.baseurl }});this.options[0].selected;">{{ my_page.title }}</option>
-            <option value ="saab">Saab</option>
+            <select onchange="javascript:if (this.options[this.selectedIndex].value != '')
+ window.open(this.options[this.selectedIndex].value);this.options[0].selected;">
+            <option value="1">{{ my_page.title }}</option>
+            <option value="saab">Saab</option>
             <option value="opel">Opel</option>
             <option value="audi">Audi</option>
             </select>          
