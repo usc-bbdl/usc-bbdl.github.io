@@ -32,7 +32,7 @@ background:#e9e9e9;
   
   <div data-role="main" class="ui-content">
     <form>
-      <input id="filterTable-input" data-type="search" placeholder="Search For Publications..."></input>
+      <input id="filterTable-input" data-type="search" placeholder="Search For Publications...">
     </form>
 
     <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input">
