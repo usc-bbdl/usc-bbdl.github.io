@@ -226,7 +226,4 @@ menu: main2
         </tr>
 
          </tbody>
-      </tabel>
-    </div>
-  </div>
-</body>
+    

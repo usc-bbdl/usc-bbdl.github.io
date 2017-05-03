@@ -32,7 +32,8 @@ menu: main2
     <form>
       <input id="filterTable-input" data-type="search" placeholder="Search For Publications...">
     </form>
-    
+  </div>
+
     <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -1052,3 +1053,5 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td></td>
           <td>1994</td>
         </tr>
+
+      </tbody>

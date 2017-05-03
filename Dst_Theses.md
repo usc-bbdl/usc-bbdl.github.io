@@ -147,7 +147,4 @@ background:#e9e9e9;
         </tr>
 
          </tbody>
-      </tabel>
-    </div>
-  </div>
-</body>
+     
