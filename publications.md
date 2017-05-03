@@ -158,6 +158,7 @@ background:#e9e9e9;
     <div>
       <b>2016</b>
       <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
+      <b>1</b>
     </div>
 
   </div>
@@ -798,7 +799,7 @@ function toggleText()
         document.getElementById("toggleButton").innerText = "See Less";
         status = "more";
     } else if (status == "more") {
-        document.getElementById("textArea").style.display="none";
+        document.getElementById("textArea").style.display="visible";
         document.getElementById("toggleButton").innerText = "See More";
         status = "less"
     }
