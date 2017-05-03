@@ -5,8 +5,6 @@ permalink: /abstracts/
 menu: main2
 ---
 
-# Abstracts
-
 <head>
   <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
   <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -27,7 +25,7 @@ menu: main2
 
 <div data-role="page" id="pageone">
   <div data-role="header">
-    <h1>Publications</h1>
+    <h1>Abstracts</h1>
   </div>
   
   <div data-role="main" class="ui-content">
