@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Peer-Reviewed Abstracts
-permalink: /extendedpublications/peerreviewedabstracts/
+permalink: /peerreviewedabstracts/
 menu: main2
 label: prabs
 ---

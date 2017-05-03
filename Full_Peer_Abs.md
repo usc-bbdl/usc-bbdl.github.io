@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Full-Length Peer-Reviewed Abstracts
-permalink: /extendedpublications/fulllengthpeerreviewedabstracts/
+permalink: /fulllengthpeerreviewedabstracts/
 menu: main2
 label: flpra
 ---

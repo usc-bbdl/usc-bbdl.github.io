@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Abstracts
-permalink: /extendedpublications/abstracts/
+permalink: /abstracts/
 menu: main2
 label: abs
 ---
