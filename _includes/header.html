@@ -19,7 +19,7 @@
             {% if my_page.menu == 'main' %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
             {% endif %}
-            {% if my_page.menu == 'main2' %}
+          {% endif %}
           <a>Extended Publications
             <select onchange="javascript:if (this.options[this.selectedIndex].value != '')
  window.open(this.options[this.selectedIndex].value);this.options[0].selected;">
@@ -28,8 +28,6 @@
                 <option value="https://usc-bbdl.github.io/abstracts/">Abstracts</option>
             </select>          
           </a>
-            {% endif %}
-          {% endif %}
         {% endfor %}
       </div>
     </nav>
