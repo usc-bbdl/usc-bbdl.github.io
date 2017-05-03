@@ -794,11 +794,11 @@ var status = "less";
 function toggleText()
 {
     if (status == "less") {         
-        document.getElementById("textArea").style="display: visible;";
+        document.getElementById("textArea").style.display="visible";
         document.getElementById("toggleButton").innerText = "See Less";
         status = "more";
     } else if (status == "more") {
-        document.getElementById("textArea").style="display: none;";
+        document.getElementById("textArea").style.display="none";
         document.getElementById("toggleButton").innerText = "See More";
         status = "less"
     }
