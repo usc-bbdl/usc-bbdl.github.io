@@ -70,12 +70,15 @@
             }
         }
 
-        .trigger select{
+        .trigger {
             clear: both;
             display: none;
-            border: 0;        /*Removes border*/
-            -webkit-appearance: none;        /*Removes default chrome and safari style*/
-            -moz-appearance: none;          /* Removes Default Firefox style*/
+        }
+
+        .trigger select {
+             border: 0 !important;  /*Removes border*/
+            -webkit-appearance: none;  /*Removes default chrome and safari style*/
+            -moz-appearance: none; /* Removes Default Firefox style*/
         }
 
         &:hover .trigger {
