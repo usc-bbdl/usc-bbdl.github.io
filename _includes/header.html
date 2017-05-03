@@ -22,7 +22,7 @@
           {% endif %}
         {% endfor %}
         <a>
-            <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location(this.options[this.selectedIndex].value);this.options[0].selected;">
+            <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.open(this.options[this.selectedIndex].value);this.options[0].selected;">
                 <option value="">Extended Publications</option>
                 <option value="https://usc-bbdl.github.io/fulllengthpeerreviewedabstracts/">Full-Length Peer-Reviewed Abstracts</option>
                 <option value="https://usc-bbdl.github.io/peerreviewedabstracts/">Peer-Reviewed Abstracts</option>
