@@ -22,11 +22,14 @@
           {% endif %}
         {% endfor %}
         <a>
-            <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.open(this.options[this.selectedIndex].value);this.options[0].selected;">
+            <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location.href=this.options[this.selectedIndex].value;this.options[0].selected;">
                 <option value="">Extended Publications</option>
                 <option value="https://usc-bbdl.github.io/fulllengthpeerreviewedabstracts/">Full-Length Peer-Reviewed Abstracts</option>
                 <option value="https://usc-bbdl.github.io/peerreviewedabstracts/">Peer-Reviewed Abstracts</option>
                 <option value="https://usc-bbdl.github.io/abstracts/">Abstracts</option>
+                <!-- <option value="https://usc-bbdl.github.io/bookchpt/">Book chapters</option>
+                <option value="https://usc-bbdl.github.io/invitedsymposia/">Invited symposia</option>
+                <option value="https://usc-bbdl.github.io/dissertation_these/">Dissertations & Theses</option> -->
             </select>          
           </a>
       </div>
