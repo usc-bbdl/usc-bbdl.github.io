@@ -155,9 +155,24 @@ background:#e9e9e9;
           <td></td>
           <td>2016</td>
         </tr>
-      </div>
+      </tbody>
+    </table>
+  </div>
 
       <div>
+        <b>2015</b>
+
+        <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="textArea" data-filter="true" data-input="#filterTable-input">
+      <thead>
+        <tr>
+          <th>Citation</th>
+          <th data-priority="1">PDF</th>
+          <th data-priority="2">Supplemental Materials</th>
+          <th data-priority="3">Year</th>
+        </tr>
+      </thead>
+
+      <tbody>
         <tr>
           <td>Lawrence EL, Cesar GM, Bromfield M, Peterson R, Valero-Cuevas FJ, Sigward SM. <br>
               <b>Strength, multi-joint coordination, and sensorimotor processing are independent contributors to overall balance ability.</b> <br>
