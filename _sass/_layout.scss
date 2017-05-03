@@ -246,3 +246,31 @@
         }
     }
 }
+
+/**
+ * Hidden and Show
+ */
+ .hideContent {
+    overflow: hidden;
+    line-height: 1em;
+    height: 2em;
+}
+
+.showContent {
+    line-height: 1em;
+    height: auto;
+}
+.showContent{
+    height: auto;
+}
+
+h1 {
+    font-size: 24px;        
+}
+p {
+    padding: 10px 0;
+}
+.show-more {
+    padding: 10px 0;
+    text-align: center;
+}

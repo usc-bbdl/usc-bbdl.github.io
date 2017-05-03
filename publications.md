@@ -88,8 +88,9 @@ background:#e9e9e9;
 
     <div>
       <b>2016</b>
-      <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
+      <!-- <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a> -->
 
+      <div class="content hideContent">
       
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="Table2016" data-filter="true" data-input="#filterTable-input">
       <thead>
@@ -155,6 +156,12 @@ background:#e9e9e9;
           <td></td>
           <td>2016</td>
         </tr>
+      </div>
+
+        <div class="show-more">
+        <a href="#">Show more</a>
+        </div>
+    </div>
 
         <tr>
           <td>Lawrence EL, Cesar GM, Bromfield M, Peterson R, Valero-Cuevas FJ, Sigward SM. <br>
@@ -772,24 +779,39 @@ aper.</td>
 </div>
 
 <script language="javascript">
-var status = "less";
+// var status = "less";
 
-function toggleText()
-{
+// function toggleText()
+// {
+//     var $this = $(this); 
+//     var $content = $this.parent().prev("div.content");
+//     var text="Here is some text that I want added to the HTML file";
+    
+//     if (status == "less") {
+//         document.getElementById("textArea").innerHTML=content;
+//         document.getElementById("toggleButton").innerText = "See Less";
+//         status = "more";
+//     } else if (status == "more") {
+//         document.getElementById("textArea").innerHTML = "";
+//         document.getElementById("toggleButton").innerText = "See More";
+//         status = "less"
+//     }
+// }
+$(".show-more a").on("click", function() {
     var $this = $(this); 
     var $content = $this.parent().prev("div.content");
-    // var text="Here is some text that I want added to the HTML file";
+    var linkText = $this.text().toUpperCase();    
     
-    if (status == "less") {
-        document.getElementById("textArea").innerHTML=content;
-        document.getElementById("toggleButton").innerText = "See Less";
-        status = "more";
-    } else if (status == "more") {
-        document.getElementById("textArea").innerHTML = "";
-        document.getElementById("toggleButton").innerText = "See More";
-        status = "less"
-    }
-}
+    if(linkText === "SHOW MORE"){
+        linkText = "Show less";
+        $content.switchClass("hideContent", "showContent", 400);
+    } else {
+        linkText = "Show more";
+        $content.switchClass("showContent", "hideContent", 400);
+    };
+
+    $this.text(linkText);
+});
 </script>
 
 
