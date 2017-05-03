@@ -84,35 +84,14 @@ background:#e9e9e9;
         </tr>
       </tbody>
     </table>
-  
-
-    <div class="text-container">
-        <h1>Title goes here</h1>
-        <h2>Subtitle</h2>
-        <div class="content hideContent">
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-            <p>Some more text</p>
-            <ul>
-                <li>Some more text</li>
-                <li>Some more text</li>
-                <li>Some more text</li>
-            </ul>
-        </div>
-        <div class="show-more">
-            <a href="#">Show more</a>
-        </div>
-    </div>
-
 
     <div>
-     <!--  <b>2016</b> -->
-      <!-- <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a> -->
+      <b>2016</b>
+      <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
 
-
-
-      <div class="content hideContent">
+      <!-- <div class="content hideContent"> -->
       
-      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="Table2016" data-filter="true" data-input="#filterTable-input">
+      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="textArea" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
           <th>Citation</th>
@@ -178,11 +157,7 @@ background:#e9e9e9;
         </tr>
       </div>
 
-        <div class="show-more">
-        <a href="#">Show more</a>
-        </div>
-    </div>
-
+      <div>
         <tr>
           <td>Lawrence EL, Cesar GM, Bromfield M, Peterson R, Valero-Cuevas FJ, Sigward SM. <br>
               <b>Strength, multi-joint coordination, and sensorimotor processing are independent contributors to overall balance ability.</b> <br>
@@ -796,39 +771,24 @@ aper.</td>
 </div>
 
 <script language="javascript">
-// var status = "less";
+var status = "less";
 
-// function toggleText()
-// {
-//     var $this = $(this); 
-//     var $content = $this.parent().prev("div.content");
-//     var text="Here is some text that I want added to the HTML file";
-    
-//     if (status == "less") {
-//         document.getElementById("textArea").innerHTML=content;
-//         document.getElementById("toggleButton").innerText = "See Less";
-//         status = "more";
-//     } else if (status == "more") {
-//         document.getElementById("textArea").innerHTML = "";
-//         document.getElementById("toggleButton").innerText = "See More";
-//         status = "less"
-//     }
-// }
-$(".show-more a").on("click", function() {
+function toggleText()
+{
     var $this = $(this); 
     var $content = $this.parent().prev("div.content");
-    var linkText = $this.text().toUpperCase();    
+    // var text="Here is some text that I want added to the HTML file";
     
-    if(linkText === "SHOW MORE"){
-        linkText = "Show less";
-        $content.switchClass("hideContent", "showContent", 400);
-    } else {
-        linkText = "Show more";
-        $content.switchClass("showContent", "hideContent", 400);
-    };
-
-    $this.text(linkText);
-});
+    if (status == "less") { 
+        document.getElementById("toggleButton").innerText = "See Less";
+        document.getElementById("textArea").innerHTML=$content;
+        status = "more";
+    } else if (status == "more") {
+        document.getElementById("toggleButton").innerText = "See More";
+        document.getElementById("textArea").innerHTML = "";
+        status = "less"
+    }
+}
 </script>
 
 
