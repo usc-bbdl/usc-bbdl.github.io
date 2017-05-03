@@ -3,7 +3,6 @@ layout: page
 title: Peer-Reviewed Abstracts
 permalink: /peerreviewedabstracts/
 menu: main2
-label: prabs
 ---
 
 # Peer-Reviewed Abstracts

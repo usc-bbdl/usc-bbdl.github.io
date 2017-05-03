@@ -3,7 +3,6 @@ layout: page
 title: Abstracts
 permalink: /abstracts/
 menu: main2
-label: abs
 ---
 
 # Abstracts
