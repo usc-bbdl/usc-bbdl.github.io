@@ -252,12 +252,12 @@
  */
  .hideContent {
     overflow: hidden;
-    line-height: 1em;
-    height: 2em;
+    
+   
 }
 
 .showContent {
-    line-height: 1em;
+    
     height: auto;
 }
 .showContent{
@@ -265,12 +265,12 @@
 }
 
 h1 {
-    font-size: 24px;        
+    font-size: 20px;        
 }
 p {
-    padding: 10px 0;
+    padding: 20px 0;
 }
 .show-more {
-    padding: 10px 0;
+    padding: 20px 0;
     text-align: center;
 }
