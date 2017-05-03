@@ -86,9 +86,10 @@ background:#e9e9e9;
     </table>
   </div>
 
-
+    <div>
       <button type="button" onclick="toggleText();" href="javascript:void(0);">2016</button>
-
+    </div>
+    
       <div>
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="textArea" data-filter="true" data-input="#filterTable-input">
       <thead>
