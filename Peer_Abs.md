@@ -6,19 +6,19 @@ menu: main2
 ---
 
 <head>
-<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
-<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-<style>
-  th
-  {
-    border-bottom: 1px solid #d6d6d6;
-  }
-  tr:nth-child(even)
-  {
-    background:#e9e9e9;
-  }
-</style>
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+  <style>
+    th
+    {
+      border-bottom: 1px solid #d6d6d6;
+    }
+    tr:nth-child(even)
+    {
+      background:#e9e9e9;
+    }
+  </style>
 </head>
 
 <body>
@@ -32,7 +32,6 @@ menu: main2
     <form>
       <input id="filterTable-input" data-type="search" placeholder="Search For Publications...">
     </form>
-  </div>
 
     <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input">
       <thead>
@@ -46,7 +45,7 @@ menu: main2
       </thead>
 
       <tbody>
- <tr>
+         <tr>
           <td>Peer Reviewed Abstract</td>
           <td>Lawrence EL, Peppoloni L, Valero-Cuevas FJ. <br>
               <b>"Evidence that lower levels of leg dexterity may be a previously unrecognized risk factor for knee ligament injury in women." </b> <br>
