@@ -2,7 +2,7 @@
 layout: page
 title: Full-Length Peer-Reviewed Abstracts
 permalink: /fulllengthpeerreviewedabstracts/
-menu: main
+
 ---
 
 # Full-Length Peer-Reviewed Abstracts
