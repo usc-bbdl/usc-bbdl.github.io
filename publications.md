@@ -87,10 +87,11 @@ background:#e9e9e9;
   
 
     <div>
+      <a>2016</a>
       <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
 
       <div>
-      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="textArea" data-filter="true" data-input="#filterTable-input">
+      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="Table2016" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
           <th>Citation</th>
@@ -759,7 +760,7 @@ aper.</td>
           <td></td>
           <td>1997</td>
         </tr>
-      </div>
+      
 
       </tbody>
     </table>
@@ -775,10 +776,12 @@ var status = "less";
 
 function toggleText()
 {
-    var text="Here is some text that I want added to the HTML file";
+    var $this = $(this); 
+    var $content = $this.parent().prev("div.content");
+    // var text="Here is some text that I want added to the HTML file";
     
     if (status == "less") {
-        document.getElementById("textArea").innerHTML=text;
+        document.getElementById("textArea").innerHTML=content;
         document.getElementById("toggleButton").innerText = "See Less";
         status = "more";
     } else if (status == "more") {
