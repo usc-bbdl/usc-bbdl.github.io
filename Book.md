@@ -41,6 +41,7 @@ background:#e9e9e9;
           <th data-priority="3">Year</th>
         </tr>
       </thead>
+
       <tbody>
 
         <tr>
@@ -87,3 +88,9 @@ background:#e9e9e9;
           <td></td>
           <td>2006</td>
         </tr>
+
+        </tbody>
+      </tabel>
+    </div>
+  </div>
+</body>

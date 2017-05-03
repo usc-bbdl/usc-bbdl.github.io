@@ -10,14 +10,14 @@ menu: main2
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 <style>
-th
-{
-border-bottom: 1px solid #d6d6d6;
-}
-tr:nth-child(even)
-{
-background:#e9e9e9;
-}
+  th
+  {
+    border-bottom: 1px solid #d6d6d6;
+  }
+  tr:nth-child(even)
+  {
+    background:#e9e9e9;
+  }
 </style>
 </head>
 
@@ -1238,3 +1238,9 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td></td>
           <td>1994</td>
         </tr>
+
+         </tbody>
+      </tabel>
+    </div>
+  </div>
+</body>

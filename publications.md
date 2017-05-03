@@ -5,12 +5,7 @@ permalink: /publications/
 menu: main
 ---
 
-# Publications
-
-http://bbdl.usc.edu/PublicationsByYear.php
-
--------------------------------------------  
-
+<head>
 <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
@@ -26,9 +21,6 @@ background:#e9e9e9;
 </style>
 
 <div data-role="page" id="pageone">
-  <div data-role="header">
-    <h1>Publications</h1>
-  </div>
   
   <div data-role="main" class="ui-content">
     <form>

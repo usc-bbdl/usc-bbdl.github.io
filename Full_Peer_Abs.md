@@ -193,4 +193,10 @@ background:#e9e9e9;
           <td><a href="https://usc-bbdl.github.io/Papers/Valero-CuevasICRA2000.pdf">Link</a></td>
           <td></td>
           <td>2000</td>
-        </tr>      
+        </tr>     
+
+         </tbody>
+      </tabel>
+    </div>
+  </div>
+</body> 
