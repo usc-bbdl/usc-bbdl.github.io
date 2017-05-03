@@ -23,21 +23,12 @@
           <a>Extended Publications
             <select onchange="javascript:if (this.options[this.selectedIndex].value != '')
  window.open(this.options[this.selectedIndex].value);this.options[0].selected;">
-              {% if my_page.label == 'flpra' %}
-                <option value="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</option>
-              {% endif %}
-              {% if my_page.label == 'prabs' %}
-                <option value="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</option>
-              {% endif %}
-              {% if my_page.label == 'abs' %}
-                <option value="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</option>
-              {% endif %}
+                <option value="https://usc-bbdl.github.io/fulllengthpeerreviewedabstracts/">Full-Length Peer-Reviewed Abstracts</option>
+                <option value="https://usc-bbdl.github.io/peerreviewedabstracts/">Peer-Reviewed Abstracts</option>
+                <option value="https://usc-bbdl.github.io/abstracts/">Abstracts</option>
             </select>          
           </a>
             {% endif %}
-           <!--  {% if my_page.menu == 'extendedpublications' %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-            {% endif %} -->
           {% endif %}
         {% endfor %}
       </div>
