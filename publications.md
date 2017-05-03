@@ -84,10 +84,10 @@ background:#e9e9e9;
         </tr>
       </tbody>
     </table>
-  </div>
+  
 
     <div>
-      <button type="button" onclick="toggleText();" href="javascript:void(0);">See More</button>
+      <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
 
       <div>
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="textArea" data-filter="true" data-input="#filterTable-input">
