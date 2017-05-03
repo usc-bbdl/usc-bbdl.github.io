@@ -166,7 +166,7 @@ background:#e9e9e9;
       <div>
         <b>2015</b>
 
-        <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="textArea" data-filter="true" data-input="#filterTable-input">
+        <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
           <th>Citation</th>
