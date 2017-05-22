@@ -88,8 +88,8 @@ background:#e9e9e9;
     <div>
       <div>
         <b>2016</b>
-        <a id="toggleButton" onclick="toggleText2016();" href="javascript:void(0);">See More</a>
-        <b>6</b>
+        <a id="toggleButton2016" onclick="toggleText2016();" href="javascript:void(0);">See More</a>
+        <b>7</b>
       </div>
 
       <div id="HiddenArea2016" style="display: none;">
@@ -167,7 +167,7 @@ background:#e9e9e9;
   <div>
       <div>
         <b>2015</b>
-        <a id="toggleButton" onclick="toggleText2015();" href="javascript:void(0);">See More</a>
+        <a id="toggleButton2015" onclick="toggleText2015();" href="javascript:void(0);">See More</a>
       </div>
 
       <div id="HiddenArea2015" style="display: none;">
@@ -805,12 +805,12 @@ var status2016 = "less";
 function toggleText2016()
 {
     if (status == "less") {         
-        document.getElementById("HiddenArea").style.display="block";
-        document.getElementById("toggleButton").innerText = "See Less";
+        document.getElementById("HiddenArea2016").style.display="block";
+        document.getElementById("toggleButton2016").innerText = "See Less";
         status2016 = "more";
     } else if (status == "more") {
-        document.getElementById("HiddenArea").style.display="none";
-        document.getElementById("toggleButton").innerText = "See More";
+        document.getElementById("HiddenArea2016").style.display="none";
+        document.getElementById("toggleButton2016").innerText = "See More";
         status2016 = "less"
     }
 }
@@ -820,12 +820,12 @@ var status2015 = "less";
 function toggleText2015()
 {
     if (status == "less") {         
-        document.getElementById("HiddenArea").style.display="block";
-        document.getElementById("toggleButton").innerText = "See Less";
+        document.getElementById("HiddenArea2015").style.display="block";
+        document.getElementById("toggleButton2015").innerText = "See Less";
         status2015 = "more";
     } else if (status == "more") {
-        document.getElementById("HiddenArea").style.display="none";
-        document.getElementById("toggleButton").innerText = "See More";
+        document.getElementById("HiddenArea2015").style.display="none";
+        document.getElementById("toggleButton2015").innerText = "See More";
         status2015 = "less"
     }
 }
