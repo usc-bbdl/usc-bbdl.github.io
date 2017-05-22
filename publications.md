@@ -88,11 +88,11 @@ background:#e9e9e9;
     <div>
       <div>
         <b>2016</b>
-        <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
-        <b>5</b>
+        <a id="toggleButton" onclick="toggleText2016();" href="javascript:void(0);">See More</a>
+        <b>6</b>
       </div>
 
-      <div id="HiddenArea" style="display: none;">
+      <div id="HiddenArea2016" style="display: none;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -167,11 +167,10 @@ background:#e9e9e9;
   <div>
       <div>
         <b>2015</b>
-        <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
-        <b>5</b>
+        <a id="toggleButton" onclick="toggleText2015();" href="javascript:void(0);">See More</a>
       </div>
 
-      <div id="HiddenArea" style="display: none;">
+      <div id="HiddenArea2015" style="display: none;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -801,20 +800,36 @@ aper.</td>
 </div>
 
 <script language="javascript">
-var status = "less";
+var status2016 = "less";
 
-function toggleText()
+function toggleText2016()
 {
     if (status == "less") {         
         document.getElementById("HiddenArea").style.display="block";
         document.getElementById("toggleButton").innerText = "See Less";
-        status = "more";
+        status2016 = "more";
     } else if (status == "more") {
         document.getElementById("HiddenArea").style.display="none";
         document.getElementById("toggleButton").innerText = "See More";
-        status = "less"
+        status2016 = "less"
     }
 }
+
+var status2015 = "less";
+
+function toggleText2015()
+{
+    if (status == "less") {         
+        document.getElementById("HiddenArea").style.display="block";
+        document.getElementById("toggleButton").innerText = "See Less";
+        status2015 = "more";
+    } else if (status == "more") {
+        document.getElementById("HiddenArea").style.display="none";
+        document.getElementById("toggleButton").innerText = "See More";
+        status2015 = "less"
+    }
+}
+
 </script>
 
 
