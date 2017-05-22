@@ -489,7 +489,7 @@ menu: main2
         <tr>
           <td>Reyes A, Valero-Cuevas FJ. <br>
               <b>"Wireless Multi-Channel Device to Capture Dynamics of Complex Sensorimotor Tasks" 
-              35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011.</td>
+              35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011.</b></td>
           <td></td>
           <td></td>
           <td>2011</td>
