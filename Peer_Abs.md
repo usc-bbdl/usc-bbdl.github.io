@@ -1052,13 +1052,13 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td></td>
           <td></td>
           <td>1994</td>
-        </tr>
+       <!--  </tr>
 
         </tbody>
          </table>
   </div>
 
-  <!-- <div data-role="footer">
+  <div data-role="footer">
     <h1>USC BBDL</h1>
-  </div> -->
-</div>
+  </div>
+</div> -->
