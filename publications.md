@@ -89,7 +89,7 @@ background:#e9e9e9;
       <div>
         <b>2016</b>
         <a id="toggleButton2016" onclick="toggleText2016();" href="javascript:void(0);">See More</a>
-        <b>7</b>
+        <b>8</b>
       </div>
 
       <div id="HiddenArea2016" style="display: none;">
@@ -804,11 +804,11 @@ var status2016 = "less";
 
 function toggleText2016()
 {
-    if (status == "less") {         
+    if (status2016 == "less") {         
         document.getElementById("HiddenArea2016").style.display="block";
         document.getElementById("toggleButton2016").innerText = "See Less";
         status2016 = "more";
-    } else if (status == "more") {
+    } else if (status2016 == "more") {
         document.getElementById("HiddenArea2016").style.display="none";
         document.getElementById("toggleButton2016").innerText = "See More";
         status2016 = "less"
@@ -819,11 +819,11 @@ var status2015 = "less";
 
 function toggleText2015()
 {
-    if (status == "less") {         
+    if (status2015 == "less") {         
         document.getElementById("HiddenArea2015").style.display="block";
         document.getElementById("toggleButton2015").innerText = "See Less";
         status2015 = "more";
-    } else if (status == "more") {
+    } else if (status2015 == "more") {
         document.getElementById("HiddenArea2015").style.display="none";
         document.getElementById("toggleButton2015").innerText = "See More";
         status2015 = "less"
