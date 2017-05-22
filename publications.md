@@ -89,7 +89,7 @@ background:#e9e9e9;
       <div>
         <b>2016</b>
         <a id="toggleButton2016" onclick="toggleText2016();" href="javascript:void(0);">See More</a>
-        <b>8</b>
+        <b>9</b>
       </div>
 
       <div id="HiddenArea2016" style="display: none;">
@@ -250,6 +250,25 @@ background:#e9e9e9;
     </div>
   </div>
 
+  <div>
+      <div>
+        <b>2013&2014</b>
+        <a id="toggleButton2014" onclick="toggleText2014();" href="javascript:void(0);">See More</a>
+      </div>
+
+      <div id="HiddenArea2014" style="display: none;">
+      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
+      <thead>
+        <tr>
+          <th>Citation</th>
+          <th data-priority="1">PDF</th>
+          <th data-priority="2">Supplemental Materials</th>
+          <th data-priority="3">Year</th>
+        </tr>
+      </thead>
+
+      <tbody>
+
         <tr>
           <td>Lightdale-Miric N, Mueske NM, Lawrence EL, Loiselle J, Berggren J, Dayanidhi S, Stevanovic M, Valero-Cuevas FJ, Wren TAL. <br>
               <b>Long Term Functional Outcomes After Early Childhood Pollicization </b> <br>
@@ -366,6 +385,30 @@ background:#e9e9e9;
           <td></td>
           <td>2013</td>
         </tr>
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div>
+      <div>
+        <b>2010-2012</b>
+        <a id="toggleButton2012" onclick="toggleText2012();" href="javascript:void(0);">See More</a>
+      </div>
+
+      <div id="HiddenArea2012" style="display: none;">
+      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
+      <thead>
+        <tr>
+          <th>Citation</th>
+          <th data-priority="1">PDF</th>
+          <th data-priority="2">Supplemental Materials</th>
+          <th data-priority="3">Year</th>
+        </tr>
+      </thead>
+
+      <tbody>
 
         <tr>
           <td>Rácz K, Brown D, and Valero-Cuevas FJ. <br>
@@ -501,6 +544,30 @@ background:#e9e9e9;
           <td></td>
           <td>2010</td>
         </tr>
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div>
+      <div>
+        <b>2006-2009</b>
+        <a id="toggleButton2009" onclick="toggleText2009();" href="javascript:void(0);">See More</a>
+      </div>
+
+      <div id="HiddenArea2009" style="display: none;">
+      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
+      <thead>
+        <tr>
+          <th>Citation</th>
+          <th data-priority="1">PDF</th>
+          <th data-priority="2">Supplemental Materials</th>
+          <th data-priority="3">Year</th>
+        </tr>
+      </thead>
+
+      <tbody>
 
         <tr>
           <td>Valero-Cuevas FJ. <br>
@@ -655,6 +722,30 @@ background:#e9e9e9;
           <td>2006</td>
         </tr>
 
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div>
+      <div>
+        <b>2005 and previous</b>
+        <a id="toggleButton2005" onclick="toggleText2005();" href="javascript:void(0);">See More</a>
+      </div>
+
+      <div id="HiddenArea2005" style="display: none;">
+      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
+      <thead>
+        <tr>
+          <th>Citation</th>
+          <th data-priority="1">PDF</th>
+          <th data-priority="2">Supplemental Materials</th>
+          <th data-priority="3">Year</th>
+        </tr>
+      </thead>
+
+      <tbody>
+
         <tr>
           <td>Talati A, Valero-Cuevas FJ, Hirsch J. <br>
               <b>Visual and Tactile Guidance of Dexterous Manipulation Tasks: an fMRI Study. </b> <br>
@@ -791,11 +882,18 @@ aper.</td>
           <td></td>
           <td>1997</td>
         </tr>
-      
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  
+    <!--   
 
       </tbody>
     </table>
-  </div>
+  </div> -->
 
 </div>
 
@@ -827,6 +925,66 @@ function toggleText2015()
         document.getElementById("HiddenArea2015").style.display="none";
         document.getElementById("toggleButton2015").innerText = "See More";
         status2015 = "less"
+    }
+}
+
+var status2014 = "less";
+
+function toggleText2014()
+{
+    if (status2014 == "less") {         
+        document.getElementById("HiddenArea2014").style.display="block";
+        document.getElementById("toggleButton2014").innerText = "See Less";
+        status2014 = "more";
+    } else if (status2014 == "more") {
+        document.getElementById("HiddenArea2014").style.display="none";
+        document.getElementById("toggleButton2014").innerText = "See More";
+        status2014 = "less"
+    }
+}
+
+var status2012 = "less";
+
+function toggleText2012()
+{
+    if (status2012 == "less") {         
+        document.getElementById("HiddenArea2012").style.display="block";
+        document.getElementById("toggleButton2012").innerText = "See Less";
+        status2012 = "more";
+    } else if (status2012 == "more") {
+        document.getElementById("HiddenArea2012").style.display="none";
+        document.getElementById("toggleButton2012").innerText = "See More";
+        status2012 = "less"
+    }
+}
+
+var status2009 = "less";
+
+function toggleText2009()
+{
+    if (status2009 == "less") {         
+        document.getElementById("HiddenArea2009").style.display="block";
+        document.getElementById("toggleButton2009").innerText = "See Less";
+        status2009 = "more";
+    } else if (status2009 == "more") {
+        document.getElementById("HiddenArea2009").style.display="none";
+        document.getElementById("toggleButton2009").innerText = "See More";
+        status2009 = "less"
+    }
+}
+
+var status2005 = "less";
+
+function toggleText2005()
+{
+    if (status2005 == "less") {        
+        document.getElementById("HiddenArea2005").style.display="block";
+        document.getElementById("toggleButton2005").innerText = "See Less";
+        status2005 = "more";
+    } else if (status2005 == "more") {
+        document.getElementById("HiddenArea2005").style.display="none";
+        document.getElementById("toggleButton2005").innerText = "See More";
+        status2005 = "less"
     }
 }
 
