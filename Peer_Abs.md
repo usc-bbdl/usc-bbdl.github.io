@@ -406,7 +406,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>Dayanidhi S, Hedberg &Aring;, Forssberg H, and Valero-Cuevas FJ.<br>
+          <td>Dayanidhi S, Hedberg Aring;, Forssberg H, and Valero-Cuevas FJ.<br>
               <b>"Small force dexterous manipulation reveal changes across the lifespan"</b> <br>
               Canadian Society of Biomechanics / Societe Canadienne de Biomechanique Conference (CSB/SBC), Burnaby, BC, June 6-9, 2012.</td>
           <td></td>
@@ -460,7 +460,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>Dayanidhi S, Hedberg &Aring;, Valero-Cuevas FJ, and Forssberg H. <br>
+          <td>Dayanidhi S, Hedberg Aring;, Valero-Cuevas FJ, and Forssberg H. <br>
               <b>"Measurable improvements in dexterous manipulation throughout adolexcense reveal previously undetected functional effects of neuromaturation"</b> <br>
               22nd Annual Society for the Neural Control of Movement Conference, Venice, Italy, April 21-28, 2012.</td>
           <td></td>
@@ -514,7 +514,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>Dayanidhi S, Hedberg &Aring;, Hägg I, Lilja N, Forssberg H, Valero-Cuevas FJ.<br>
+          <td>Dayanidhi S, Hedberg Aring;, Hägg I, Lilja N, Forssberg H, Valero-Cuevas FJ.<br>
               <b>"Dynamic control of fingertip forces: development in childhood and decline with aging"</b> <br>
               35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011.</td>
           <td></td>
@@ -523,7 +523,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>R&aacute;cz, K, Valero-Cuevas FJ. <br>
+          <td>Raacute;cz, K, Valero-Cuevas FJ. <br>
               <b>Simulations of Optimal Reweighting of Muscle Coordination Reveal Important Benefits of Muscle Redundancy</b> <br>
               35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011.</td>
           <td><a href="https://usc-bbdl.github.io/Papers/Racz_ASB2011_FatigueAbstract.pdf">Link</a></td>
@@ -532,7 +532,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>R&aacute;cz, K*, Sindhurakar A*, Bradley NS, Valero-Cuevas FJ.<br>
+          <td>Raacute;cz, K*, Sindhurakar A*, Bradley NS, Valero-Cuevas FJ.<br>
               <b>Prenatal Motor Development Affects Observed Motor Behavior for Different Incubation Periods in Domestic Chick</b> <br>
               35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011. *equal contribution</td>
           <td><a href="https://usc-bbdl.github.io/Papers/Racz_ASB2011_ChickAbstract.pdf">Link</a></td>
@@ -577,7 +577,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>R&aacute;cz, K*, Sindhurakar A*, Bradley NS, Valero-Cuevas FJ. <br>
+          <td>Raacute;cz, K*, Sindhurakar A*, Bradley NS, Valero-Cuevas FJ. <br>
               <b>"Prenatal motor development for different incubation periods affects postural control but not early gait."</b> <br>
               Proceedings of the 21th Annual Meeting of the Society for the Neural Control of Movement, San Juan, Puerto Rico, April 26-May 1, 2011. *equal contribution </td>
           <td></td>
@@ -586,7 +586,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>R&aacute;cz, K, Valero-Cuevas FJ. <br>
+          <td>Raacute;cz, K, Valero-Cuevas FJ. <br>
               <b>"A computational approach to quantifying muscle redundancy, and a sample application to guide the detection of strategies to mitigate fatigue."</b> <br>
               Proceedings of the 21th Annual Meeting of the Society for the Neural Control of Movement, San Juan, Puerto Rico, April 26-May 1, 2011.</td>
           <td></td>
@@ -631,7 +631,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>R&aacute;cz, K, Valero-Cuevas FJ. <br>
+          <td>Raacute;cz, K, Valero-Cuevas FJ. <br>
               <b>"Motion and force are not controlled independently in multi-finger manipulation tasks."</b> <br>
               40th Annual Meeting of the Society for Neuroscience, San Diego, CA, 2010.</td>
           <td></td>
@@ -721,7 +721,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>R&aacute;cz, K, Inouye J, Valero-Cuevas FJ. <br>
+          <td>Raacute;cz, K, Inouye J, Valero-Cuevas FJ. <br>
               <b>"The spatio-temporal structure of force variability in static grasp suggests a continually active neural controller."</b> <br>
               Summer Bioengineering Conference of the American Society of Mechanical Engineers, Naples, FL, 2010.</td>
           <td><a href="https://usc-bbdl.github.io/Papers/Kornelius2010spatio.pdf">Link</a></td>
@@ -739,7 +739,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>R&aacute;cz, K, Valero-Cuevas FJ. <br>
+          <td>Raacute;cz, K, Valero-Cuevas FJ. <br>
               <b>"Grip force fluctuations are more than just noise."</b> <br>
               Podium presentation, Annual Meeting of the American Society for Biomechanics, Penn State U, State College, PA, 2009.</td>
           <td><a href="https://usc-bbdl.github.io/Papers/Kornelius2009Grip.pdf">Link</a></td>
@@ -748,7 +748,7 @@ menu: main2
         </tr>
 
         <tr>
-          <td>R&aacute;cz, K and Valero-Cuevas FJ. <br>
+          <td>Raacute;cz, K and Valero-Cuevas FJ. <br>
               <b>The grip force dynamics of multi-finger static grasp reveals a control hierarchy.</b> <br>
               Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, p 51. Poster B-73, Waikoloa, HI. April 29th, 2009. </td>
           <td><a href="https://usc-bbdl.github.io/Papers/Racz_NCM2009_Poster.pdf">Link</a></td>
@@ -1052,7 +1052,7 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
           <td></td>
           <td></td>
           <td>1994</td>
-       <!--  </tr>
+        </tr>
 
         </tbody>
          </table>
@@ -1061,4 +1061,4 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
   <div data-role="footer">
     <h1>USC BBDL</h1>
   </div>
-</div> -->
+</div>
