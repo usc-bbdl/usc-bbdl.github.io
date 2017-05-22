@@ -89,7 +89,6 @@ background:#e9e9e9;
       <div>
         <b>2016</b>
         <a id="toggleButton2016" onclick="toggleText2016();" href="javascript:void(0);">See More</a>
-        <b>9</b>
       </div>
 
       <div id="HiddenArea2016" style="display: none;">
@@ -252,7 +251,7 @@ background:#e9e9e9;
 
   <div>
       <div>
-        <b>2013&2014</b>
+        <b>2013-2014</b>
         <a id="toggleButton2014" onclick="toggleText2014();" href="javascript:void(0);">See More</a>
       </div>
 
