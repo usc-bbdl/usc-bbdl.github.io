@@ -86,7 +86,13 @@ background:#e9e9e9;
     </table>
 
     <div>
-      <div id="textArea" style="display: hidden;">
+      <div>
+        <b>2016</b>
+        <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
+        <b>5</b>
+      </div>
+
+      <div id="HiddenArea" style="display: none;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -96,6 +102,7 @@ background:#e9e9e9;
           <th data-priority="3">Year</th>
         </tr>
       </thead>
+
       <tbody>
 
         <tr>
@@ -155,18 +162,17 @@ background:#e9e9e9;
     </table>
   </div>
 
-    <div>
-      <b>2016</b>
-      <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
-      <b>4</b>
-    </div>
-
   </div>
 
+  <div>
       <div>
         <b>2015</b>
+        <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
+        <b>5</b>
+      </div>
 
-        <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
+      <div id="HiddenArea" style="display: none;">
+      <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
           <th>Citation</th>
@@ -239,6 +245,11 @@ background:#e9e9e9;
           <td></td>
           <td>2015</td>
         </tr>
+
+        </tbody>
+      </table>
+    </div>
+  </div>
 
         <tr>
           <td>Lightdale-Miric N, Mueske NM, Lawrence EL, Loiselle J, Berggren J, Dayanidhi S, Stevanovic M, Valero-Cuevas FJ, Wren TAL. <br>
@@ -795,11 +806,11 @@ var status = "less";
 function toggleText()
 {
     if (status == "less") {         
-        document.getElementById("textArea").style.display="block";
+        document.getElementById("HiddenArea").style.display="block";
         document.getElementById("toggleButton").innerText = "See Less";
         status = "more";
     } else if (status == "more") {
-        document.getElementById("textArea").style.display="none";
+        document.getElementById("HiddenArea").style.display="none";
         document.getElementById("toggleButton").innerText = "See More";
         status = "less"
     }
