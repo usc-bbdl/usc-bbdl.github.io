@@ -8,9 +8,9 @@ menu: main
 
 Pre- and Postdoctoral positions in the Brain-Body Dynamics Laboratory
 
-Postdoctoral position in the Brain-Body Dynamics Lab. Please click here.
+Postdoctoral position in the Brain-Body Dynamics Lab. Please click <a href="https://usc-bbdl.github.io/Positions">here</a>.
 
-Postdoctoral positions in TREET Postdoctoral Training Program. Please click here.
+Postdoctoral positions in TREET Postdoctoral Training Program. Please click <a href="http://chan.usc.edu/">here</a>.
 
 
 Thank you for your interest. I am always interested in outstanding, motivated and mature students from all over the world from the fields of Mechanics, Mathematics, Neuroscience, Physical Therapy, Computer Science and related areas to contribute to our lab.
@@ -59,7 +59,7 @@ Financial support. Outstanding applicants deserve support, and the units of USC 
 
 However, if you are able to obtain support (scholarships, etc) from a Foundation (American Heart Association, Hertz, Gates, etc.) or Government agency in the US (NSF Graduate Research Fellowship, NIH) or your country of origin (CONACYT in Mexico, DFG in Germany, EU in Europe, etc), be sure to do so. It demonstrates maturity and commitment to the PhD career. Once again, our admissions committee makes the initial decision based on student quality, and individual professors make decisions based on funding for those admitted students.
 
-If you are a woman or member of an underrepresented minority in science, technology, engineering or mathematics, please make sure you mention that. USC is an equal opportunity institution. See the NSF link if you want to learn more about this topic.
+If you are a woman or member of an underrepresented minority in science, technology, engineering or mathematics, please make sure you mention that. USC is an equal opportunity institution. See the NSF <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=116094">link</a> if you want to learn more about this topic.
 
 Thank you for your interest, and best of luck!
 
