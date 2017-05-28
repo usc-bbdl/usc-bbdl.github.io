@@ -1,16 +1,13 @@
 ---
 layout: page
-title: Applicants
+title: Pre- and Postdoctoral positions in the Brain-Body Dynamics Laboratory
 permalink: /Prospective/
 menu: main
 ---
 
+<b>Postdoctoral position in the Brain-Body Dynamics Lab. Please click <a href="https://usc-bbdl.github.io/Positions">here</a>.
 
-Pre- and Postdoctoral positions in the Brain-Body Dynamics Laboratory
-
-Postdoctoral position in the Brain-Body Dynamics Lab. Please click <a href="https://usc-bbdl.github.io/Positions">here</a>.
-
-Postdoctoral positions in TREET Postdoctoral Training Program. Please click <a href="http://chan.usc.edu/">here</a>.
+Postdoctoral positions in TREET Postdoctoral Training Program. Please click <a href="http://chan.usc.edu/">here</a>.</b>
 
 
 Thank you for your interest. I am always interested in outstanding, motivated and mature students from all over the world from the fields of Mechanics, Mathematics, Neuroscience, Physical Therapy, Computer Science and related areas to contribute to our lab.
