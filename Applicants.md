@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Pre- and Postdoctoral positions in the Brain-Body Dynamics Laboratory
+title: Applicants
 permalink: /Prospective/
 menu: main
 ---
+
+Pre- and Postdoctoral positions in the Brain-Body Dynamics Laboratory
 
 <b>Postdoctoral position in the Brain-Body Dynamics Lab. Please click <a href="https://usc-bbdl.github.io/Positions">here</a>.
 
