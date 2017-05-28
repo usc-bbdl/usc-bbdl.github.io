@@ -5,13 +5,10 @@ permalink: /Positions/
 menu: submain
 ---
 
-
-POSTDOCTORAL POSITIONS 
-
 Brain-Body Dynamics Lab 
 at the University of Southern California 
 
-Research topics
+<center>Research topics</center>
 
 The Brain-Body Dynamics Lab, led by Prof. Francisco Valero-Cuevas, is dedicated to understanding neuromuscular control and the interaction between neural systems and biomechanical/robotic systems. Our laboratory is accepting applications for NIH funded post-doctoral fellowships to understand the neuromuscular control of complex tendon-driven systems, and reverse-engineer brain function in collaboration with Profs. Terry Sanger, and Jerry Loeb. In particular, we are looking for candidates to implement models of neural circuitry and muscle function (in simulation and FPGAs) to control hardware-in-the loop systems. Successful applicants will have strong backgrounds in control and estimation of nonlinear systems, computational neuroscience, mechatronics, computational methods, robotics, and/or biomechanical modeling. Expertise in computer languages (e.g., C, C++, MATLAB) is necessary. 
 
