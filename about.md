@@ -42,7 +42,7 @@ Fax: (213) 821-5696
 
 ## Lab Members
 
-<body style="background-color:DarkGray;color:White;">
+<table style="background-color:DarkGray;color:White;">
 
 <div class="parent">
 	<div class="column">
@@ -78,8 +78,7 @@ Fax: (213) 821-5696
 		nagamori@usc.edu<br>
 	</div> 
 </div>
-<br />
-<br />
+
 
 <div class="parent">
 	<div class="column">
@@ -115,8 +114,7 @@ Fax: (213) 821-5696
 		dhagen@usc.edu
 	</div>  
 </div>
-<br />
-<br />
+
 
 <div class="parent">
 	<div class="column">
@@ -146,7 +144,7 @@ Fax: (213) 821-5696
 	</div>
 </div>
 
-</body>
+</table>
 
 
 -------------------------------------------

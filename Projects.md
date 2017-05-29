@@ -25,9 +25,6 @@ menu: main
   </div> 
 </div>
 
-<br />
-<br />
-
 <div class="parent">
   <div class="column2">
   	<img src="../Photos/francisco.jpg"><br>
