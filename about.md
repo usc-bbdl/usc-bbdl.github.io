@@ -134,7 +134,7 @@ Fax: (213) 821-5696
 
 	<div class="column">
 		<a name="seb"></a>
-		<img src="../Photos/seb.png" height="150px" /><br>
+		<img src="../Photos/seb.png" height="160px" /><br>
 		<a href="http://seba1511.com">Séb Arnold</a><br>
 		Mathematical Optimization for Deep Reinforcement Learning.<br>		
 		arnolds@usc.edu
@@ -145,6 +145,3 @@ Fax: (213) 821-5696
 </div>
 
 </table>
-
-
--------------------------------------------
