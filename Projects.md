@@ -5,17 +5,18 @@ permalink: /projects/
 menu: main
 ---
 <html>
-<head>
+<!-- <head>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-</head>
+</head> -->
 
 <body>
 <table>
 	
-<div class="row">
-  <div class="col-sm-6">
-  	3
+<div class="parent">
+  <div class="column">
+
+  	5
   	<!-- <b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
 	Reverse engineer brain control of the hand.
@@ -23,7 +24,7 @@ menu: main
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>  -->
   </div>  
 
-  <div class="col-sm-6">
+  <div class="column">
   	2
   	<!-- <b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
@@ -31,10 +32,23 @@ menu: main
 	Related Publications:
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>  -->
   </div>
+
+    
+
+  <div class="column">
+  	2
+
+  	</div>  
+
+  <div class="column">
+  	2
+  	</div>  
+
+  
 </div>
 
-<div class="row">
-  <div class="col-sm-6">
+<div class="parent">
+  <div class="column">
   	3
   	<!-- <b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
@@ -43,7 +57,7 @@ menu: main
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>  -->
   </div>  
 
-  <div class="col-sm-6">
+  <div class="column">
   	4
   	<!-- <b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>

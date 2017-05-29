@@ -200,6 +200,15 @@
     font-size: 24px;
 }
 
+.parent{
+    display: flex;
+}
+.column{
+    flex: 1;
+}
+.column+.column{
+    margin-left:20px;
+}
 
 
 /**
