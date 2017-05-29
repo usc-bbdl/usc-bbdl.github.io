@@ -41,7 +41,7 @@ Fax: (213) 821-5696
 
 ## Lab Members
 
-<div class="parent">
+<p><div class="parent">
 	<div class="column">
 		<img src="../Photos/ali.jpg"><br>
 		Ali Marjaninejad<br>
@@ -70,69 +70,63 @@ Fax: (213) 821-5696
 		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br> 	  
 		nagamori@usc.edu<br>
 	</div> 
-</div> 
+</div></p>
 
-<div class="parent">
+<p><div class="parent">
 	<div class="column">
-		<img src="../Photos/kian1.jpg">
-		Kian Jalaleddini
-		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
-		<img src="../Photos/kian1.jpg">  
-		<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a>
+		<img src="../Photos/kian1.jpg"><br>
+		Kian Jalaleddini<br>
+		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.<br>   
+		<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a><br>
 		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a>
 	</div>  
 
 	<div class="column">
-		<img src="../Photos/suraj.jpg">
-		Suraj Chakravarthi Raja 
-		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.  
-		<img src="../Photos/suraj.jpg">  
+		<img src="../Photos/suraj.jpg"><br>
+		Suraj Chakravarthi Raja<br>
+		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.<br>    
 		surajcha@usc.edu
 	</div>  
 
 	<div class="column">
-		<img src="../Photos/jun.jpg">
-		Jun Yong Shin 
-		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.  
-		<img src="../Photos/jun.jpg">  
+		<img src="../Photos/jun.jpg"><br>
+		Jun Yong Shin<br> 
+		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.<br>   
 		junys@uci.edu
 	</div>  
 
 	<div class="column">
-		<img src="../Photos/dan.jpg">
-		Daniel Hagen 
-		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.  
-		<img src="../Photos/dan.jpg">  
-		dhagen@usc.edu
+		<img src="../Photos/dan.jpg"><br>
+		Daniel Hagen<br> 
+		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.<br>    
+		dhagen@usc.edu<br>
 	</div>  
-</div>
+</div></p>
 
-<div class="parent">
+<p><div class="parent">
 	<div class="column">
-		<img src="../Photos/jasmine.jpg"> 
-		Jasmine Berry
-		Examining opportunities at the intersection of biomechanics and computational modeling.   
-		 
+		<img src="../Photos/jasmine.jpg"><br>
+		Jasmine Berry<br>
+		Examining opportunities at the intersection of biomechanics and computational modeling.<br>   
 		jasminab@usc.edu
 	</div>  
 
 	<div class="column">
-		<img src="../Photos/victor.jpg">
-		<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a>		  
+		<img src="../Photos/victor.jpg"><br>
+		<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a><br>		  
 		vesparza@usc.edu
 	</div>  
 
 	<div class="column">
-		<img src="../Photos/seb.png">  <!-- width="150px" />  --> 
-		<a href="http://seba1511.com">Séb Arnold</a>
-		Mathematical Optimization for Deep Reinforcement Learning.		
+		<img src="../Photos/seb.png" width="150px" /><br>
+		<a href="http://seba1511.com">Séb Arnold</a><br>
+		Mathematical Optimization for Deep Reinforcement Learning.<br>		
 		arnolds@usc.edu
 	</div>
 
 	<div class="column">
-		
 	</div>
-</div>
+</div></p>
 
 
 -------------------------------------------
