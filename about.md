@@ -42,7 +42,7 @@ Fax: (213) 821-5696
 
 ## Lab Members
 
-<p><div class="parent">
+<div class="parent">
 	<div class="column">
 		<a name="ali"></a>
 		<img src="../Photos/ali.jpg"><br>
@@ -52,6 +52,7 @@ Fax: (213) 821-5696
 	</div>  
 
 	<div class="column">
+		<a name="chris"></a>
 		<img src="../Photos/chris.jpg"><br>
 		Christopher Laine<br>
 		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.<br>		  
@@ -59,6 +60,7 @@ Fax: (213) 821-5696
 	</div>  
 
 	<div class="column">
+		<a name="brian"></a>
 		<img src="../Photos/brian.jpg"><br>
 		Brian Cohn<br>
 		Computer Science PhD Student<br>
@@ -67,15 +69,19 @@ Fax: (213) 821-5696
 	</div>  
 
 	<div class="column">
+		<a name="akira"></a>
 		<img src="../Photos/akira.jpg"><br>
 		Akira Nagamori<br>
 		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br> 	  
 		nagamori@usc.edu<br>
 	</div> 
-</div></p>
+</div>
+<br />
+<br />
 
-<p><div class="parent">
+<div class="parent">
 	<div class="column">
+		<a name="kian"></a>
 		<img src="../Photos/kian1.jpg"><br>
 		Kian Jalaleddini<br>
 		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.<br>   
@@ -84,6 +90,7 @@ Fax: (213) 821-5696
 	</div>  
 
 	<div class="column">
+		<a name="suraj"></a>
 		<img src="../Photos/suraj.jpg"><br>
 		Suraj Chakravarthi Raja<br>
 		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.<br>    
@@ -91,6 +98,7 @@ Fax: (213) 821-5696
 	</div>  
 
 	<div class="column">
+		<a name="jun"></a>
 		<img src="../Photos/jun.jpg"><br>
 		Jun Yong Shin<br> 
 		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.<br>   
@@ -98,15 +106,19 @@ Fax: (213) 821-5696
 	</div>  
 
 	<div class="column">
+		<a name="dan"></a>
 		<img src="../Photos/dan.jpg"><br>
 		Daniel Hagen<br> 
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.<br>    
 		dhagen@usc.edu
 	</div>  
-</div></p>
+</div>
+<br />
+<br />
 
-<p><div class="parent">
+<div class="parent">
 	<div class="column">
+		<a name="jasmine"></a>
 		<img src="../Photos/jasmine.jpg"><br>
 		Jasmine Berry<br>
 		Examining opportunities at the intersection of biomechanics and computational modeling.<br>   
@@ -114,13 +126,15 @@ Fax: (213) 821-5696
 	</div>  
 
 	<div class="column">
+		<a name="victor"></a>
 		<img src="../Photos/victor.jpg"><br>
 		<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a><br>		  
 		vesparza@usc.edu
 	</div>  
 
 	<div class="column">
-		<img src="../Photos/seb.png" width="150px" /><br>
+		<a name="seb"></a>
+		<img src="../Photos/seb.png" height="150px" /><br>
 		<a href="http://seba1511.com">Séb Arnold</a><br>
 		Mathematical Optimization for Deep Reinforcement Learning.<br>		
 		arnolds@usc.edu
@@ -128,7 +142,7 @@ Fax: (213) 821-5696
 
 	<div class="column">
 	</div>
-</div></p>
+</div>
 
 
 -------------------------------------------
