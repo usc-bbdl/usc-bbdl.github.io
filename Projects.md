@@ -16,7 +16,7 @@ menu: main
 <div class="parent">
   <div class="column">
 
-  	5
+  	6
   	<!-- <b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
 	Reverse engineer brain control of the hand.

@@ -200,14 +200,15 @@
     font-size: 24px;
 }
 
+p{background:#666;}
 .parent{
-    display: flex;
+    margin-left: -20px;
 }
 .column{
-    flex: 1;
-}
-.column+.column{
-    margin-left:20px;
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+    box-sizing: border-box;
 }
 
 
