@@ -139,9 +139,6 @@ Fax: (213) 821-5696
 		Mathematical Optimization for Deep Reinforcement Learning.<br>		
 		arnolds@usc.edu
 	</div>
-
-	<div class="column">
-	</div>
 </div>
 
 </table>
