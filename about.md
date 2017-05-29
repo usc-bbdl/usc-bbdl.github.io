@@ -43,38 +43,39 @@ Fax: (213) 821-5696
 
 <div class="parent">
 	<div class="column">
-		Ali Marjaninejad  
-		Researching biomedical signal processing, neuroscience, and brain machine interfaces.  
-		<img src="../Photos/ali.jpg">  
+		<img src="../Photos/ali.jpg"><br>
+		Ali Marjaninejad<br>
+		Researching biomedical signal processing, neuroscience, and brain machine interfaces.<br>  		 
 		marjanin@usc.edu
 	</div>  
 
 	<div class="column">
-		# Christopher Laine
-		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.  
-		<img src="../Photos/chris.jpg">  
+		<img src="../Photos/chris.jpg"><br>
+		Christopher Laine<br>
+		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.<br>		  
 		claine@usc.edu
 	</div>  
 
 	<div class="column">
-		# Brian Cohn
-		Computer Science PhD Student
-		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.  
-		<img src="../Photos/brian.jpg">  
+		<img src="../Photos/brian.jpg"><br>
+		Brian Cohn<br>
+		Computer Science PhD Student<br>
+		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.<br> 	  
 		brian.cohn@usc.edu
 	</div>  
 
 	<div class="column">
-		# Akira Nagamori
-		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.  
-		<img src="../Photos/akira.jpg">  
-		nagamori@usc.edu
+		<img src="../Photos/akira.jpg"><br>
+		Akira Nagamori<br>
+		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br> 	  
+		nagamori@usc.edu<br>
 	</div> 
 </div> 
 
 <div class="parent">
 	<div class="column">
-		# Kian Jalaleddini 
+		<img src="../Photos/kian1.jpg">
+		Kian Jalaleddini
 		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
 		<img src="../Photos/kian1.jpg">  
 		<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a>
@@ -82,21 +83,24 @@ Fax: (213) 821-5696
 	</div>  
 
 	<div class="column">
-		# Suraj Chakravarthi Raja 
+		<img src="../Photos/suraj.jpg">
+		Suraj Chakravarthi Raja 
 		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.  
 		<img src="../Photos/suraj.jpg">  
 		surajcha@usc.edu
 	</div>  
 
 	<div class="column">
-		# Jun Yong Shin 
+		<img src="../Photos/jun.jpg">
+		Jun Yong Shin 
 		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.  
 		<img src="../Photos/jun.jpg">  
 		junys@uci.edu
 	</div>  
 
 	<div class="column">
-		# Daniel Hagen 
+		<img src="../Photos/dan.jpg">
+		Daniel Hagen 
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.  
 		<img src="../Photos/dan.jpg">  
 		dhagen@usc.edu
@@ -105,23 +109,24 @@ Fax: (213) 821-5696
 
 <div class="parent">
 	<div class="column">
-		# Jasmine Berry
+		<img src="../Photos/jasmine.jpg"> 
+		Jasmine Berry
 		Examining opportunities at the intersection of biomechanics and computational modeling.   
-		<img src="../Photos/jasmine.jpg">  
+		 
 		jasminab@usc.edu
 	</div>  
 
 	<div class="column">
-		# [Victor Esparza](https://sites.google.com/a/usc.edu/victor/)
-		<img src="../Photos/victor.jpg">  
+		<img src="../Photos/victor.jpg">
+		<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a>		  
 		vesparza@usc.edu
 	</div>  
 
 	<div class="column">
-		# [Séb Arnold](http://seba1511.com)
-		Mathematical Optimization for Deep Reinforcement Learning.
 		<img src="../Photos/seb.png">  <!-- width="150px" />  --> 
-		arnolds @ usc.edu
+		<a href="http://seba1511.com">Séb Arnold</a>
+		Mathematical Optimization for Deep Reinforcement Learning.		
+		arnolds@usc.edu
 	</div>
 
 	<div class="column">
