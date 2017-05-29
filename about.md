@@ -43,7 +43,7 @@ Fax: (213) 821-5696
 
 <div class="parent">
 	<div class="column">
-		# Ali Marjaninejad  
+		Ali Marjaninejad  
 		Researching biomedical signal processing, neuroscience, and brain machine interfaces.  
 		<img src="../Photos/ali.jpg">  
 		marjanin@usc.edu
@@ -120,8 +120,12 @@ Fax: (213) 821-5696
 	<div class="column">
 		# [Séb Arnold](http://seba1511.com)
 		Mathematical Optimization for Deep Reinforcement Learning.
-		<img src="../Photos/seb.png" width="150px" />  
+		<img src="../Photos/seb.png">  <!-- width="150px" />  --> 
 		arnolds @ usc.edu
+	</div>
+
+	<div class="column">
+		
 	</div>
 </div>
 
