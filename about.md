@@ -41,6 +41,7 @@ Fax: (213) 821-5696
 
 ## Lab Members
 
+<table>
 # Ali Marjaninejad  
 Researching biomedical signal processing, neuroscience, and brain machine interfaces.  
 <img src="../Photos/ali.jpg">  
@@ -97,7 +98,7 @@ vesparza@usc.edu
 Mathematical Optimization for Deep Reinforcement Learning.
 <img src="../Photos/seb.png" width="150px" />  
 arnolds @ usc.edu
-
+</table>
 
 
 -------------------------------------------
