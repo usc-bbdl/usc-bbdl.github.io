@@ -42,6 +42,8 @@ Fax: (213) 821-5696
 
 ## Lab Members
 
+<body style="background-color:DarkGray;color:White;">
+
 <div class="parent">
 	<div class="column">
 		<a name="ali"></a>
@@ -143,6 +145,8 @@ Fax: (213) 821-5696
 	<div class="column">
 	</div>
 </div>
+
+</body>
 
 
 -------------------------------------------
