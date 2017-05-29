@@ -10,6 +10,7 @@ Our laboratory is dedicated to understanding the biomechanics, neuromuscular con
 
 Our diverse experimental arsenal ranges from EMG recording and custom-made virtual reality modules, detailed characterization of multifinger structure and function, to mapping the function of the human brain with fMRI. These procedures in turn inform theoretical work to characterize complex sensorimotor function through rigorous and anatomically faithful mathematical models.
 
+<a name="Francisco"></a>
 # PI: Francisco Valero-Cuevas Ph.D.
 <img src="../Photos/francisco.jpg">  
 valero@usc.edu
@@ -43,6 +44,7 @@ Fax: (213) 821-5696
 
 <p><div class="parent">
 	<div class="column">
+		<a name="ali"></a>
 		<img src="../Photos/ali.jpg"><br>
 		Ali Marjaninejad<br>
 		Researching biomedical signal processing, neuroscience, and brain machine interfaces.<br>  		 
@@ -99,7 +101,7 @@ Fax: (213) 821-5696
 		<img src="../Photos/dan.jpg"><br>
 		Daniel Hagen<br> 
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.<br>    
-		dhagen@usc.edu<br>
+		dhagen@usc.edu
 	</div>  
 </div></p>
 
