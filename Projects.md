@@ -14,9 +14,9 @@ menu: main
 <table>
 	
 <div class="parent">
-  <div class="column">
+  <div class="column2">
 
-  	6
+  	7
   	<!-- <b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
 	Reverse engineer brain control of the hand.
@@ -24,7 +24,7 @@ menu: main
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>  -->
   </div>  
 
-  <div class="column">
+  <div class="column2">
   	2
   	<!-- <b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
@@ -32,23 +32,13 @@ menu: main
 	Related Publications:
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>  -->
   </div>
-
-    
-
-  <div class="column">
-  	2
-
-  	</div>  
-
-  <div class="column">
-  	2
-  	</div>  
+ 
 
   
 </div>
 
 <div class="parent">
-  <div class="column">
+  <div class="column2">
   	3
   	<!-- <b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
@@ -57,7 +47,7 @@ menu: main
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>  -->
   </div>  
 
-  <div class="column">
+  <div class="column2">
   	4
   	<!-- <b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>

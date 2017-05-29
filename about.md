@@ -41,64 +41,89 @@ Fax: (213) 821-5696
 
 ## Lab Members
 
-<table>
-# Ali Marjaninejad  
-Researching biomedical signal processing, neuroscience, and brain machine interfaces.  
-<img src="../Photos/ali.jpg">  
-marjanin@usc.edu
+<div class="parent">
+	<div class="column">
+		# Ali Marjaninejad  
+		Researching biomedical signal processing, neuroscience, and brain machine interfaces.  
+		<img src="../Photos/ali.jpg">  
+		marjanin@usc.edu
+	</div>  
 
-# Christopher Laine
-Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.  
-<img src="../Photos/chris.jpg">  
-claine@usc.edu
+	<div class="column">
+		# Christopher Laine
+		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.  
+		<img src="../Photos/chris.jpg">  
+		claine@usc.edu
+	</div>  
 
-# Brian Cohn
-Computer Science PhD Student
-Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.  
-<img src="../Photos/brian.jpg">  
-brian.cohn@usc.edu
+	<div class="column">
+		# Brian Cohn
+		Computer Science PhD Student
+		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.  
+		<img src="../Photos/brian.jpg">  
+		brian.cohn@usc.edu
+	</div>  
 
-# Akira Nagamori
-Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.  
-<img src="../Photos/akira.jpg">  
-nagamori@usc.edu
+	<div class="column">
+		# Akira Nagamori
+		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.  
+		<img src="../Photos/akira.jpg">  
+		nagamori@usc.edu
+	</div> 
+</div> 
 
-# Kian Jalaleddini 
-Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
-<img src="../Photos/kian1.jpg">  
-<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a>
-<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a>
+<div class="parent">
+	<div class="column">
+		# Kian Jalaleddini 
+		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.  
+		<img src="../Photos/kian1.jpg">  
+		<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a>
+		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a>
+	</div>  
 
+	<div class="column">
+		# Suraj Chakravarthi Raja 
+		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.  
+		<img src="../Photos/suraj.jpg">  
+		surajcha@usc.edu
+	</div>  
 
-# Suraj Chakravarthi Raja 
-Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.  
-<img src="../Photos/suraj.jpg">  
-surajcha@usc.edu
+	<div class="column">
+		# Jun Yong Shin 
+		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.  
+		<img src="../Photos/jun.jpg">  
+		junys@uci.edu
+	</div>  
 
-# Jun Yong Shin 
-Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.  
-<img src="../Photos/jun.jpg">  
-junys@uci.edu
+	<div class="column">
+		# Daniel Hagen 
+		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.  
+		<img src="../Photos/dan.jpg">  
+		dhagen@usc.edu
+	</div>  
+</div>
 
-# Daniel Hagen 
-Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.  
-<img src="../Photos/dan.jpg">  
-dhagen@usc.edu
+<div class="parent">
+	<div class="column">
+		# Jasmine Berry
+		Examining opportunities at the intersection of biomechanics and computational modeling.   
+		<img src="../Photos/jasmine.jpg">  
+		jasminab@usc.edu
+	</div>  
 
-# Jasmine Berry
-Examining opportunities at the intersection of biomechanics and computational modeling.   
-<img src="../Photos/jasmine.jpg">  
-jasminab@usc.edu
+	<div class="column">
+		# [Victor Esparza](https://sites.google.com/a/usc.edu/victor/)
+		<img src="../Photos/victor.jpg">  
+		vesparza@usc.edu
+	</div>  
 
-# [Victor Esparza](https://sites.google.com/a/usc.edu/victor/)
-<img src="../Photos/victor.jpg">  
-vesparza@usc.edu
-
-# [Séb Arnold](http://seba1511.com)
-Mathematical Optimization for Deep Reinforcement Learning.
-<img src="../Photos/seb.png" width="150px" />  
-arnolds @ usc.edu
-</table>
+	<div class="column">
+		# [Séb Arnold](http://seba1511.com)
+		Mathematical Optimization for Deep Reinforcement Learning.
+		<img src="../Photos/seb.png" width="150px" />  
+		arnolds @ usc.edu
+	</div>
+</div>
 
 
 -------------------------------------------
