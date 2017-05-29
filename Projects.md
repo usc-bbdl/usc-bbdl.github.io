@@ -4,58 +4,43 @@ title: Projects
 permalink: /projects/
 menu: main
 ---
-<html>
-<!-- <head>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-</head> -->
-
-<body>
-<table>
 	
 <div class="parent">
   <div class="column2">
-
-  	7
-  	<!-- <b>Neuroscience</b>
-	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
+  	<img src="../Photos/francisco.jpg">
+  	<b>Neuroscience</b>
+	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Francisco Valero-Cuevas</a>
 	Reverse engineer brain control of the hand.
 	Related Publications:
-	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>  -->
+	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a> 
   </div>  
 
   <div class="column2">
-  	2
-  	<!-- <b>Neuroscience</b>
-	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
+  	<img src="../Photos/francisco.jpg">
+  	<b>Neuroscience</b>
+	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Francisco Valero-Cuevas</a>
 	Reverse engineer brain control of the hand.
 	Related Publications:
-	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>  -->
-  </div>
- 
-
-  
+	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a> 
+  </div> 
 </div>
 
 <div class="parent">
   <div class="column2">
-  	3
-  	<!-- <b>Neuroscience</b>
-	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
+  	<img src="../Photos/francisco.jpg">
+  	<b>Neuroscience</b>
+	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Francisco Valero-Cuevas</a>
 	Reverse engineer brain control of the hand.
 	Related Publications:
-	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>  -->
+	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a> 
   </div>  
 
   <div class="column2">
-  	4
-  	<!-- <b>Neuroscience</b>
-	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
+  	<img src="../Photos/francisco.jpg">
+  	<b>Neuroscience</b>
+	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Francisco Valero-Cuevas</a>
 	Reverse engineer brain control of the hand.
 	Related Publications:
-	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>  -->
+	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a> 
   </div>
 </div>
-</table>
-</body>
-</html>
