@@ -8,7 +8,7 @@ menu: main
 
 <div class="row">
   <div class="col-sm-6">
-  	<center><b>Neuroscience</b></center>
+  	<b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
 	Reverse engineer brain control of the hand.
 	Related Publications:
@@ -16,7 +16,7 @@ menu: main
   </div>  
 
   <div class="col-sm-6">
-  	<center><b>Neuroscience</b></center>
+  	<b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
 	Reverse engineer brain control of the hand.
 	Related Publications:
@@ -26,7 +26,7 @@ menu: main
 
 <div class="row">
   <div class="col-sm-6">
-  	<center><b>Neuroscience</b></center>
+  	<b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
 	Reverse engineer brain control of the hand.
 	Related Publications:
@@ -34,7 +34,7 @@ menu: main
   </div>  
 
   <div class="col-sm-6">
-  	<center><b>Neuroscience</b></center>
+  	<b>Neuroscience</b>
 	<a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a>
 	Reverse engineer brain control of the hand.
 	Related Publications:
