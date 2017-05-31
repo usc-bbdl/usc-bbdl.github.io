@@ -45,7 +45,7 @@ Fax: (213) 821-5696
 <table> <!-- style="background-color:DarkGray;color:White;" -->
 	<td width="25%" style="vertical-align:top">
 		<a name="ali"></a>
-		<img src="../Photos/ali.jpg"><br>
+		<img src="../Photos/ali.jpg" height="150px"/><br>
 		<font size="4"><b>Ali Marjaninejad</b></font><br>
 		<font size="4">BME PhD student</font><br>
 		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
@@ -54,7 +54,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="chris"></a>
-		<img src="../Photos/chris.jpg"><br>
+		<img src="../Photos/chris.jpg" height="150px"/><br>
 		<font size="4"><b>Christopher Laine</b></font><br>
 		<font size="4">Post-doc</font><br>
 		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
@@ -63,7 +63,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="brian"></a>
-		<img src="../Photos/brian.jpg"><br>
+		<img src="../Photos/brian.jpg" height="150px"/><br>
 		<font size="4"><b>Brian Cohn</b></font><br>
 		<font size="4">CS PhD Student</font><br>
 		<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
@@ -72,7 +72,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="akira"></a>
-		<img src="../Photos/akira.jpg"><br>
+		<img src="../Photos/akira.jpg" height="150px"/><br>
 		<font size="4"><b>Akira Nagamori</b></font><br>
 		<font size="4">BKN PhD Student</font><br>
 		<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
@@ -81,36 +81,36 @@ Fax: (213) 821-5696
 </table>
 
 <table>
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="kian"></a>
-		<img src="../Photos/kian1.jpg"><br>
+		<img src="../Photos/kian1.jpg" height="150px"/><br>
 		<font size="4"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
 		<font size="4">Post-doc</font><br>
 		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a><br>
 		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.		
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="suraj"></a>
-		<img src="../Photos/suraj.jpg"><br>
+		<img src="../Photos/suraj.jpg" height="150px"/><br>
 		<font size="4"><b>Suraj Chakravarthi Raja</b></font><br>
 		<font size="4">EE PhD student</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
 		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="jun"></a>
-		<img src="../Photos/jun.jpg"><br>
+		<img src="../Photos/jun.jpg" height="150px"/><br>
 		<font size="4"><b>Jun Yong Shin</b></font><br>
 		<font size="4">Post-doc</font><br>
 		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
 		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.   
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="dan"></a>
-		<img src="../Photos/dan.jpg"><br>
+		<img src="../Photos/dan.jpg" height="150px"/><br>
 		<font size="4"><b>Daniel Hagen</b></font><br>
 		<font size="4">BME PhD student</font><br>
 		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>	
@@ -119,7 +119,7 @@ Fax: (213) 821-5696
 </table>
 
 <table>
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="jasmine"></a>
 		<img src="../Photos/jasmine.jpg" height="150px"/><br>
 		<font size="4"><b>Jasmine Berry</b></font><br>
@@ -128,7 +128,7 @@ Fax: (213) 821-5696
 		Examining opportunities at the intersection of biomechanics and computational modeling.
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="victor"></a>
 		<img src="../Photos/victor.jpg" height="150px"/><br>
 		<font size="4"><b><a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a></b></font><br>
@@ -136,7 +136,7 @@ Fax: (213) 821-5696
 		<a href="mailto:vesparza@usc.edu" target="_top">vesparza@usc.edu</a><br>	
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="seb"></a>
 		<img src="../Photos/seb.png" height="150px" /><br>
 		<font size="4"><b><a href="http://seba1511.com">Séb Arnold</a></b></font><br>
@@ -145,7 +145,7 @@ Fax: (213) 821-5696
 		Mathematical Optimization for Deep Reinforcement Learning.<br>	
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="taegyum"></a>
 		<img src="../Photos/taegyum.jpg" height="150px" /><br>
 		<font size="4"><b>Taegyum Kim</b></font><br>
@@ -155,7 +155,7 @@ Fax: (213) 821-5696
 </table>
 
 <table>
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="priyanka"></a>
 		<img src="../Photos/priyanka.jpg" height="150px" /><br>
 		<font size="4"><b>Priyanka Vachhani</b></font><br>
@@ -163,21 +163,21 @@ Fax: (213) 821-5696
 		<a href="mailto:pvachhan@usc.edu" target="_top">pvachhan@usc.edu</a><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="kasiri"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
 		<font size="4"><b>Maral Kasiri</b></font><br>
 		<font size="4">BME Masters student</font><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="bate"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
 		<font size="4"><b>Keegan W Bate</b></font><br>
 		<font size="4">BME Masters student</font><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="180px" style="vertical-align:top">
 		<a name="giridhar"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
 		<font size="4"><b>Akila Dhakshinamoorthy Giridhar</b></font><br>
