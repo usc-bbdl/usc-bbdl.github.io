@@ -12,7 +12,7 @@ Our diverse experimental arsenal ranges from EMG recording and custom-made virtu
 
 <a name="Francisco"></a>
 # PI: Francisco Valero-Cuevas Ph.D.
-<img src="../Photos/francisco.jpg"  height="160px" /> 
+<img src="../Photos/francisco.jpg"  height="160px" /><br> 
 <a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br> 
 
 *Francisco's Bio*  
@@ -43,56 +43,64 @@ Fax: (213) 821-5696
 ## Lab Members
 
 <ul class="flex-container">
-  <li class="flex-item">
-  	<a name="ali"></a>
-	<img src="../Photos/ali.jpg" height="150px"/><br>
-	<font size="4"><b>Ali Marjaninejad</b></font><br>
-	<font size="4">BME PhD student</font><br>
-	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
-  </li>
-  <li class="flex-item">
-  	<a name="ali"></a>
-	<img src="../Photos/ali.jpg" height="150px"/><br>
-	<font size="4"><b>Ali Marjaninejad</b></font><br>
-	<font size="4">BME PhD student</font><br>
-	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
-  </li>
-  <li class="flex-item">
-  	<a name="ali"></a>
-	<img src="../Photos/ali.jpg" height="150px"/><br>
-	<font size="4"><b>Ali Marjaninejad</b></font><br>
-	<font size="4">BME PhD student</font><br>
-	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
-  </li>
-  <li class="flex-item">
-  	<a name="ali"></a>
-	<img src="../Photos/ali.jpg" height="150px"/><br>
-	<font size="4"><b>Ali Marjaninejad</b></font><br>
-	<font size="4">BME PhD student</font><br>
-	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
-  </li>
-  <li class="flex-item">
-  	<a name="ali"></a>
-	<img src="../Photos/ali.jpg" height="150px"/><br>
-	<font size="4"><b>Ali Marjaninejad</b></font><br>
-	<font size="4">BME PhD student</font><br>
-	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
-  </li>
-  <li class="flex-item">
-  	<a name="ali"></a>
-	<img src="../Photos/ali.jpg" height="150px"/><br>
-	<font size="4"><b>Ali Marjaninejad</b></font><br>
-	<font size="4">BME PhD student</font><br>
-	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
-  </li>
-  
+  <li class="flex-item">1</li>
+  <li class="flex-item">2</li>
+  <li class="flex-item">3</li>
+  <li class="flex-item">4</li>
+  <li class="flex-item">5</li>
+  <li class="flex-item">6</li>
 </ul>
+
+<!-- <ul class="flex-container">
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>  
+</ul> -->
 
 
 <table> <!-- style="background-color:DarkGray;color:White;" -->
@@ -264,6 +272,7 @@ Fax: (213) 821-5696
 	</td>
 </table>
 
+<!-- <b>Fast Interns</b> -->
 <table>
 	<tr>
 		<a name="miao"></a>
