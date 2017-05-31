@@ -51,21 +51,23 @@ Fax: (213) 821-5696
 	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
 	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
   </li>
+
   <li class="flex-item">
-  	<a name="ali"></a>
-	<img src="../Photos/ali.jpg" height="150px"/><br>
-	<font size="4"><b>Ali Marjaninejad</b></font><br>
-	<font size="4">BME PhD student</font><br>
-	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  	<a name="chris"></a>
+	<img src="../Photos/chris.jpg" height="150px"/><br>
+	<font size="4"><b>Christopher Laine</b></font><br>
+	<font size="4">Post-doc</font><br>
+	<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
+	Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.
   </li>
+  
   <li class="flex-item">
-  	<a name="ali"></a>
-	<img src="../Photos/ali.jpg" height="150px"/><br>
-	<font size="4"><b>Ali Marjaninejad</b></font><br>
-	<font size="4">BME PhD student</font><br>
-	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  	<a name="brian"></a>
+	<img src="../Photos/brian.jpg" height="150px"/><br>
+	<font size="4"><b>Brian Cohn</b></font><br>
+	<font size="4">CS PhD Student</font><br>
+	<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
+	Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
   </li>
   <li class="flex-item">
   	<a name="ali"></a>
