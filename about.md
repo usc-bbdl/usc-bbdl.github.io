@@ -49,17 +49,17 @@ Fax: (213) 821-5696
 			<img src="../Photos/ali.jpg">
 		</tr>
 
-		<tr><font size="5">
+		<tr><font size="4">
 			Ali Marjaninejad
 		</font>
 		</tr>
 
-		<tr><font size="10">
+		<tr><font size="3">
 			BME PhD student
 		</font>
 		</tr>
 
-		<tr><font size="15">
+		<tr><font size="2">
 			marjanin@usc.edu
 		</font>
 		</tr>
@@ -143,14 +143,14 @@ Fax: (213) 821-5696
 	<td>
 		<tr>
 		<a name="kian"></a>
-		<img src="../Photos/kian1.jpg"><br>
+		<img src="../Photos/kian1.jpg">
 	</tr>
 
 	<tr>
-		Kian Jalaleddini<br>
-		Post-doc<br>
+		Kian Jalaleddini
+		Post-doc
 		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a>
-		<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a><br>
+		<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a>
 		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.
 		</tr>			
 	</td>
@@ -158,12 +158,12 @@ Fax: (213) 821-5696
 	<td>
 		<tr>
 		<a name="suraj"></a>
-		<img src="../Photos/suraj.jpg"><br>
+		<img src="../Photos/suraj.jpg">
 	</tr>
 
 	<tr>
-		Suraj Chakravarthi Raja<br>
-		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.<br>    
+		Suraj Chakravarthi Raja
+		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.    
 		surajcha@usc.edu
 	</tr>
 
@@ -172,12 +172,12 @@ Fax: (213) 821-5696
 	<td>
 		<tr>
 		<a name="jun"></a>
-		<img src="../Photos/jun.jpg"><br>
+		<img src="../Photos/jun.jpg">
 	</tr>
 
 	<tr>
-		Jun Yong Shin<br> 
-		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.<br>   
+		Jun Yong Shin
+		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.   
 		junys@uci.edu
 	</tr>
 	</td>
