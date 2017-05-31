@@ -44,6 +44,7 @@ Fax: (213) 821-5696
 
 <table style="background-color:DarkGray;color:White;">
 
+<tr>
 <div class="parent">
 	<div class="column">
 		<a name="ali"></a>
@@ -81,79 +82,9 @@ Fax: (213) 821-5696
 		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.		
 	</div> 
 </div>
+</tr>
 
-<div class="parent">
-	<div class="column">
-		<a name="ali"></a>
-		<img src="../Photos/ali.jpg"><br>
-		Ali Marjaninejad<br>
-		BME PhD student<br>
-		marjanin@usc.edu<br>
-		Researching biomedical signal processing, neuroscience, and brain machine interfaces.  		 		
-	</div>  
-
-	<div class="column">
-		<a name="chris"></a>
-		<img src="../Photos/chris.jpg"><br>
-		Christopher Laine<br>
-		Post-doc<br>
-		claine@usc.edu<br>
-		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.		  		
-	</div>  
-
-	<div class="column">
-		<a name="brian"></a>
-		<img src="../Photos/brian.jpg"><br>
-		Brian Cohn<br>
-		Computer Science PhD Student<br>
-		brian.cohn@usc.edu<br>
-		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.		
-	</div>  
-
-	<div class="column">
-		<a name="akira"></a>
-		<img src="../Photos/akira.jpg"><br>
-		Akira Nagamori<br>
-		BKN PhD student<br>
-		nagamori@usc.edu<br>
-		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.		
-	</div> 
-</div>
-
-<div class="parent">
-	<div class="column">
-		<a name="jasmine"></a>
-		<img src="../Photos/jasmine.jpg"><br>
-		Jasmine Berry<br>
-		Examining opportunities at the intersection of biomechanics and computational modeling.<br>   
-		jasminab@usc.edu
-	</div>  
-
-	<div class="column">
-		<a name="victor"></a>
-		<img src="../Photos/victor.jpg"><br>
-		<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a><br>		  
-		vesparza@usc.edu
-	</div>  
-
-	<div class="column">
-		<a name="seb"></a>
-		<img src="../Photos/seb.png" height="160px" /><br>
-		<a href="http://seba1511.com">Séb Arnold</a><br>
-		Mathematical Optimization for Deep Reinforcement Learning.<br>		
-		arnolds@usc.edu
-	</div>
-
-	<div class="column">
-		<!-- <a name="seb"></a>
-		<img src="../Photos/seb.png" height="160px" /><br> -->
-		Taegyum Kim
-		CS undergrad
-		
-	</div>
-</div>
-
-
+<tr>
 <div class="parent">
 	<div class="column">
 		<a name="kian"></a>
@@ -189,8 +120,9 @@ Fax: (213) 821-5696
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.<br>
 	</div>  
 </div>
+</tr>
 
-
+<tr>
 <div class="parent">
 	<div class="column">
 		<a name="jasmine"></a>
@@ -216,12 +148,10 @@ Fax: (213) 821-5696
 	</div>
 
 	<div class="column">
-		<!-- <a name="seb"></a>
-		<img src="../Photos/seb.png" height="160px" /><br> -->
 		Taegyum Kim
-		CS undergrad
-		
+		CS undergrad		
 	</div>
 </div>
+</tr>
 
 </table>
