@@ -199,15 +199,13 @@ Fax: (213) 821-5696
 		<font size="4">BME Masters student</font><br>
 	</li>
 
-	<li class="flex-item">
-	</li>
-
-	<li class="flex-item">
-	</li>
+	
 </ul>
-<br>
 
-#Past Interns
+
+-------------------------------------------
+
+##Past Interns
 <table>
 	<tr>
 		<a name="miao"></a>
