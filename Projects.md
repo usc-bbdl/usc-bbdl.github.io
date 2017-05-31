@@ -8,7 +8,7 @@ menu: main
 <div class="parent">
   <div class="column2">
   	<img src="../Photos/sample.jpg"><br> <!-- the picture should be the project image -->
-  	<b>Neuroscience1</b><br>
+  	<b>Neuroscience</b><br>
 	<a href="https://usc-bbdl.github.io/about/#Francisco">Francisco Valero-Cuevas</a>, <a href="https://usc-bbdl.github.io/about/#ali">Ali Marjaninejad</a><br>
 	Reverse engineer brain control of the hand.<br>
 	Related Publications:<br>
