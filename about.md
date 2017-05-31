@@ -44,98 +44,39 @@ Fax: (213) 821-5696
 
 <table> <!-- style="background-color:DarkGray;color:White;" -->
 	<td width="25%" style="vertical-align:top">
-		<tr>
-			<a name="ali"></a>
-			<img src="../Photos/ali.jpg">
-		</tr>
-
-		<tr><font size="4"><b>
-			Ali Marjaninejad
-		</b></font>
-		</tr>
-
-		<tr><font size="4">
-			BME PhD student
-		</font>
-		</tr>
-
-		<tr>
-			marjanin@usc.edu
-		</font>
-		</tr>
-
-		<tr>
-			Researching biomedical signal processing, neuroscience, and brain machine interfaces.
-		</tr>
+		<a name="ali"></a>
+		<img src="../Photos/ali.jpg"><br>
+		<font size="4"><b>Ali Marjaninejad</b></font><br>
+		<font size="4">BME PhD student</font><br>
+		marjanin@usc.edu<br>
+		Researching biomedical signal processing, neuroscience, and brain machine interfaces.
 	</td>
 
 	<td width="25%" style="vertical-align:top">
-		<tr>
-			<a name="chris"></a>
-			<img src="../Photos/chris.jpg">
-		</tr>
-
-		<tr>
-			Christopher Laine
-		</tr>
-
-		<tr>
-			Post-doc
-		</tr>
-
-		<tr>
-			claine@usc.edu
-		</tr>
-
-		<tr>
-			Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.
-		</tr>		  		
+		<a name="chris"></a>
+		<img src="../Photos/chris.jpg"><br>
+		<font size="4"><b>Christopher Laine</b></font><br>
+		<font size="4">Post-doc</font><br>
+		claine@usc.edu<br>
+		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.		  		
 	</td>
 
 	<td width="25%" style="vertical-align:top">
-		<tr>
-			<a name="brian"></a>
-			<img src="../Photos/brian.jpg">
-		</tr>
-
-		<tr>
-			Brian Cohn
-		</tr>
-
-		<tr>
-			CS PhD Student
-		</tr>
-
-		<tr>
-			brian.cohn@usc.edu
-		</tr>
-
-		<tr>
-			Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
-		</tr>
+		<a name="brian"></a>
+		<img src="../Photos/brian.jpg"><br>
+		<font size="4"><b>Brian Cohn</b></font><br>
+		<font size="4">CS PhD Student</font><br>
+		brian.cohn@usc.edu<br>
+		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
 	</td>
 
 	<td width="25%" style="vertical-align:top">
-		<tr>
-			<a name="akira"></a>
-			<img src="../Photos/akira.jpg">
-		</tr>
-
-		<tr>
-			Akira Nagamori
-		</tr>
-
-		<tr>
-			BKN PhD student
-		</tr>
-
-		<tr>
-			nagamori@usc.edu
-		</tr>
-
-		<tr>
-			Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.	
-		</tr>
+		<a name="akira"></a>
+		<img src="../Photos/akira.jpg"><br>
+		<font size="4"><b>Akira Nagamori</b></font><br>
+		<font size="4">BKN PhD Student</font><br>
+		nagamori@usc.edu<br>
+		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.	
 	</td>
 </table>
 
@@ -144,9 +85,7 @@ Fax: (213) 821-5696
 		<tr>
 		<a name="kian"></a>
 		<img src="../Photos/kian1.jpg">
-	</tr>
-
-	<tr>
+	
 		Kian Jalaleddini
 		Post-doc
 		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a>
