@@ -49,17 +49,17 @@ Fax: (213) 821-5696
 			<img src="../Photos/ali.jpg">
 		</tr>
 
-		<tr><font size="4">
+		<tr><font size="4"><b>
 			Ali Marjaninejad
-		</font>
+		</b></font>
 		</tr>
 
-		<tr><font size="3">
+		<tr><font size="4">
 			BME PhD student
 		</font>
 		</tr>
 
-		<tr><font size="2">
+		<tr>
 			marjanin@usc.edu
 		</font>
 		</tr>
