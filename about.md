@@ -139,6 +139,14 @@ Fax: (213) 821-5696
 		Mathematical Optimization for Deep Reinforcement Learning.<br>		
 		arnolds@usc.edu
 	</div>
+
+	<div class="column">
+		<!-- <a name="seb"></a>
+		<img src="../Photos/seb.png" height="160px" /><br> -->
+		Taegyum Kim
+		CS undergrad
+		taegyumk@usc.edu
+	</div>
 </div>
 
 </table>
