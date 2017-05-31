@@ -216,28 +216,28 @@ Fax: (213) 821-5696
 </table>
 
 <table>
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="Qian"></a>
 		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
 		<font size="4"><b>Feihong Qian</b></font><br>
 		<font size="4">CS undergrad</font><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="Liao"></a>
 		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
 		<font size="4"><b>Xingchen Liao</b></font><br>
 		<font size="4">CS undergrad</font><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="Swieso"></a>
 		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
 		<font size="4"><b>Sloan Swieso</b></font><br>
 		<font size="4">CS undergrad</font><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="Pugliesi"></a>
 		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
 		<font size="4"><b>John Pugliesi</b></font><br>
@@ -246,21 +246,21 @@ Fax: (213) 821-5696
 </table>
 
 <table>
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="Jia"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
 		<font size="4"><b>Cyrus Jia</b></font><br>
 		<font size="4">CS undergrad</font><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="Noel"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
 		<font size="4"><b>Noel Trivedi</b></font><br>
 		<font size="4">CS undergrad</font><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="Chu"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
 		<font size="4"><b>Elizabeth Chu</b></font><br>
