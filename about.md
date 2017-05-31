@@ -88,9 +88,10 @@ Fax: (213) 821-5696
 		<a name="kian"></a>
 		<img src="../Photos/kian1.jpg"><br>
 		Kian Jalaleddini<br>
-		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.<br>   
-		<!-- <a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a><br>
-		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a> -->
+		Post-doc<br>
+		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a>
+		<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a><br>
+		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.		
 	</div>  
 
 	<div class="column">
@@ -112,9 +113,9 @@ Fax: (213) 821-5696
 	<div class="column">
 		<a name="dan"></a>
 		<img src="../Photos/dan.jpg"><br>
-		Daniel Hagen<br> 
-		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.<br>    
-		dhagen@usc.edu
+		Daniel Hagen<br>
+		dhagen@usc.edu<br>
+		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.<br>
 	</div>  
 </div>
 
