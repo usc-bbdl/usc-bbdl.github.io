@@ -45,7 +45,7 @@ Fax: (213) 821-5696
 <table> <!-- style="background-color:DarkGray;color:White;" -->
 	<td width="25%" style="vertical-align:top">
 		<a name="ali"></a>
-		<img src="../Photos/ali.jpg" height="150px"/><br>
+		<img src="../Photos/ali.jpg"><br>
 		<font size="4"><b>Ali Marjaninejad</b></font><br>
 		<font size="4">BME PhD student</font><br>
 		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
@@ -54,7 +54,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="chris"></a>
-		<img src="../Photos/chris.jpg" height="150px"/><br>
+		<img src="../Photos/chris.jpg"><br>
 		<font size="4"><b>Christopher Laine</b></font><br>
 		<font size="4">Post-doc</font><br>
 		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
@@ -63,7 +63,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="brian"></a>
-		<img src="../Photos/brian.jpg" height="150px"/><br>
+		<img src="../Photos/brian.jpg"><br>
 		<font size="4"><b>Brian Cohn</b></font><br>
 		<font size="4">CS PhD Student</font><br>
 		<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
@@ -72,7 +72,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="akira"></a>
-		<img src="../Photos/akira.jpg" height="150px"/><br>
+		<img src="../Photos/akira.jpg"><br>
 		<font size="4"><b>Akira Nagamori</b></font><br>
 		<font size="4">BKN PhD Student</font><br>
 		<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
@@ -83,7 +83,7 @@ Fax: (213) 821-5696
 <table>
 	<td width="25%" style="vertical-align:top">
 		<a name="kian"></a>
-		<img src="../Photos/kian1.jpg" height="150px"/><br>
+		<img src="../Photos/kian1.jpg"><br>
 		<font size="4"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
 		<font size="4">Post-doc</font><br>
 		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a><br>
@@ -92,7 +92,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="suraj"></a>
-		<img src="../Photos/suraj.jpg" height="150px"/><br>
+		<img src="../Photos/suraj.jpg"><br>
 		<font size="4"><b>Suraj Chakravarthi Raja</b></font><br>
 		<font size="4">EE PhD student</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
@@ -101,7 +101,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="jun"></a>
-		<img src="../Photos/jun.jpg" height="150px"/><br>
+		<img src="../Photos/jun.jpg"><br>
 		<font size="4"><b>Jun Yong Shin</b></font><br>
 		<font size="4">Post-doc</font><br>
 		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
@@ -110,7 +110,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="dan"></a>
-		<img src="../Photos/dan.jpg" height="150px"/><br>
+		<img src="../Photos/dan.jpg"><br>
 		<font size="4"><b>Daniel Hagen</b></font><br>
 		<font size="4">BME PhD student</font><br>
 		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>	
