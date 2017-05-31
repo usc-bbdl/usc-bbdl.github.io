@@ -218,28 +218,28 @@ Fax: (213) 821-5696
 <table>
 	<td width="25%" style="vertical-align:top">
 		<a name="Qian"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
+		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
 		<font size="4"><b>Feihong Qian</b></font><br>
 		<font size="4">CS undergrad</font><br>
 	</td>
 
 	<td width="25%" style="vertical-align:top">
 		<a name="Liao"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
+		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
 		<font size="4"><b>Xingchen Liao</b></font><br>
 		<font size="4">CS undergrad</font><br>
 	</td>
 
 	<td width="25%" style="vertical-align:top">
 		<a name="Swieso"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
+		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
 		<font size="4"><b>Sloan Swieso</b></font><br>
 		<font size="4">CS undergrad</font><br>
 	</td>
 
 	<td width="25%" style="vertical-align:top">
 		<a name="Pugliesi"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
+		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
 		<font size="4"><b>John Pugliesi</b></font><br>
 		<font size="4">CS undergrad</font><br>
 	</td>
