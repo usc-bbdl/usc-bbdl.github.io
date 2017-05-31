@@ -245,12 +245,6 @@ Fax: (213) 821-5696
 	</tr>
 
 	<tr>
-		<a name="Jia"></a>
-		<td><font size="4"><b>Cyrus Jia</b></font></td>
-		<td><font size="4">CS undergrad</font></td>
-	</tr>
-
-	<tr>
 		<a name="Noel"></a>
 		<td><font size="4"><b>Noel Trivedi</b></font></td>
 		<td><font size="4">CS undergrad</font></td>
