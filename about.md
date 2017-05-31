@@ -205,7 +205,7 @@ Fax: (213) 821-5696
 
 -------------------------------------------
 
-<font size="5"><b>Past Interns</b></font>
+<font size="5"><b>Past Interns</b></font><br>
 
 <table align="left">
 	<tr>
