@@ -49,16 +49,18 @@ Fax: (213) 821-5696
 		<a name="ali"></a>
 		<img src="../Photos/ali.jpg"><br>
 		Ali Marjaninejad<br>
-		Researching biomedical signal processing, neuroscience, and brain machine interfaces.<br>  		 
-		marjanin@usc.edu
+		BME PhD student<br>
+		marjanin@usc.edu<br>
+		Researching biomedical signal processing, neuroscience, and brain machine interfaces.  		 		
 	</div>  
 
 	<div class="column">
 		<a name="chris"></a>
 		<img src="../Photos/chris.jpg"><br>
 		Christopher Laine<br>
-		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.<br>		  
-		claine@usc.edu
+		Post-doc<br>
+		claine@usc.edu<br>
+		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.		  		
 	</div>  
 
 	<div class="column">
@@ -66,16 +68,17 @@ Fax: (213) 821-5696
 		<img src="../Photos/brian.jpg"><br>
 		Brian Cohn<br>
 		Computer Science PhD Student<br>
-		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.<br> 	  
-		brian.cohn@usc.edu
+		brian.cohn@usc.edu<br>
+		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.		
 	</div>  
 
 	<div class="column">
 		<a name="akira"></a>
 		<img src="../Photos/akira.jpg"><br>
 		Akira Nagamori<br>
-		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.<br> 	  
+		BKN PhD student<br>
 		nagamori@usc.edu<br>
+		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.		
 	</div> 
 </div>
 
