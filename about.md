@@ -208,65 +208,61 @@ Fax: (213) 821-5696
 	</td>
 
 	<td width="180px" style="vertical-align:top">
+	</td>
+</table>
+
+<table>
+	<tr>
 		<a name="miao"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
-		<font size="4"><b>Jiayang Miao</b></font><br>
-		<font size="4">CS undergrad</font><br>
-	</td>
-</table>
+		<td><font size="4"><b>Jiayang Miao</b></font></td>
+		<td><font size="4">CS undergrad</font></td>
+	</tr>
 
-<table>
-	<td width="180px" style="vertical-align:top">
-		<a name="Qian"></a>
-		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
-		<font size="4"><b>Feihong Qian</b></font><br>
-		<font size="4">CS undergrad</font><br>
-	</td>
+	<tr>
+		<a name="FHQian"></a>
+		<td><font size="4"><b>Feihong Qian</b></font></td>
+		<td><font size="4">CS undergrad</font></td>
+	</tr>
 
-	<td width="180px" style="vertical-align:top">
+	<tr>
 		<a name="Liao"></a>
-		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
-		<font size="4"><b>Xingchen Liao</b></font><br>
-		<font size="4">CS undergrad</font><br>
-	</td>
+		<td><font size="4"><b>Xingchen Liao</b></font></td>
+		<td><font size="4">CS undergrad</font></td>
+	</tr>
 
-	<td width="180px" style="vertical-align:top">
+	<tr>
 		<a name="Swieso"></a>
-		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
-		<font size="4"><b>Sloan Swieso</b></font><br>
-		<font size="4">CS undergrad</font><br>
-	</td>
+		<td><font size="4"><b>Sloan Swieso</b></font></td>
+		<td><font size="4">CS undergrad</font></td>
+	</tr>
 
-	<td width="180px" style="vertical-align:top">
+	<tr>
 		<a name="Pugliesi"></a>
-		<img src="../Photos/hand.jpg" height="150px" width="150px"/><br>
-		<font size="4"><b>John Pugliesi</b></font><br>
-		<font size="4">CS undergrad</font><br>
-	</td>
-</table>
+		<td><font size="4"><b>John Pugliesi</b></font></td>
+		<td><font size="4">CS undergrad</font></td>
+	</tr>
 
-<table>
-	<td width="180px" style="vertical-align:top">
+	<tr>
 		<a name="Jia"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
-		<font size="4"><b>Cyrus Jia</b></font><br>
-		<font size="4">CS undergrad</font><br>
-	</td>
+		<td><font size="4"><b>Cyrus Jia</b></font></td>
+		<td><font size="4">CS undergrad</font></td>
+	</tr>
 
-	<td width="180px" style="vertical-align:top">
+	<tr>
+		<a name="Jia"></a>
+		<td><font size="4"><b>Cyrus Jia</b></font></td>
+		<td><font size="4">CS undergrad</font></td>
+	</tr>
+
+	<tr>
 		<a name="Noel"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
-		<font size="4"><b>Noel Trivedi</b></font><br>
-		<font size="4">CS undergrad</font><br>
-	</td>
+		<td><font size="4"><b>Noel Trivedi</b></font></td>
+		<td><font size="4">CS undergrad</font></td>
+	</tr>
 
-	<td width="180px" style="vertical-align:top">
+	<tr>
 		<a name="Chu"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
-		<font size="4"><b>Elizabeth Chu</b></font><br>
-		<font size="4">CS undergrad</font><br>
-	</td>
-
-	<td width="180px" style="vertical-align:top">
-	</td>
+		<td><font size="4"><b>Elizabeth Chu</b></font></td>
+		<td><font size="4">CS undergrad</font></td>
+	</tr>
 </table>
