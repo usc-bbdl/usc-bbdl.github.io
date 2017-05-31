@@ -83,7 +83,7 @@ Fax: (213) 821-5696
 <table>
 	<td width="180px" style="vertical-align:top">
 		<a name="kian"></a>
-		<img src="../Photos/kian1.jpg" height="150px"/><br>
+		<img src="../Photos/kian1.jpg"><br>
 		<font size="4"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
 		<font size="4">Post-doc</font><br>
 		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a><br>
@@ -92,7 +92,7 @@ Fax: (213) 821-5696
 
 	<td width="180px" style="vertical-align:top">
 		<a name="suraj"></a>
-		<img src="../Photos/suraj.jpg" height="150px"/><br>
+		<img src="../Photos/suraj.jpg"><br>
 		<font size="4"><b>Suraj Chakravarthi Raja</b></font><br>
 		<font size="4">EE PhD student</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
@@ -101,7 +101,7 @@ Fax: (213) 821-5696
 
 	<td width="180px" style="vertical-align:top">
 		<a name="jun"></a>
-		<img src="../Photos/jun.jpg" height="150px"/><br>
+		<img src="../Photos/jun.jpg"><br>
 		<font size="4"><b>Jun Yong Shin</b></font><br>
 		<font size="4">Post-doc</font><br>
 		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
@@ -110,7 +110,7 @@ Fax: (213) 821-5696
 
 	<td width="180px" style="vertical-align:top">
 		<a name="dan"></a>
-		<img src="../Photos/dan.jpg" height="150px"/><br>
+		<img src="../Photos/dan.jpg"><br>
 		<font size="4"><b>Daniel Hagen</b></font><br>
 		<font size="4">BME PhD student</font><br>
 		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>	
