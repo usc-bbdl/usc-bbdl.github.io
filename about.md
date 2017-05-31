@@ -186,28 +186,28 @@ Fax: (213) 821-5696
 </table>
 
 <table>
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="jason"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
 		<font size="4"><b>Jason Lin</b></font><br>
 		<font size="4">CS undergrad</font><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="qian"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
 		<font size="4"><b>Shaohui Qian</b></font><br>
 		<font size="4">EE Masters student</font><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="singh"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
 		<font size="4"><b>Niharika Singh</b></font><br>
 		<font size="4">BME Masters student</font><br>
 	</td>
 
-	<td width="25%" style="vertical-align:top">
+	<td width="160px" style="vertical-align:top">
 		<a name="miao"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
 		<font size="4"><b>Jiayang Miao</b></font><br>
