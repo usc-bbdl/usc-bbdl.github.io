@@ -45,7 +45,7 @@ Fax: (213) 821-5696
 <table> <!-- style="background-color:DarkGray;color:White;" -->
 	<!-- <div class="parent">
 		<div class="column"> -->
-			<td width="25%">
+			<td width="25%" style="vertical-align:top">
 			<a name="ali"></a>
 			<img src="../Photos/ali.jpg"><br>
 			Ali Marjaninejad<br>
@@ -56,7 +56,7 @@ Fax: (213) 821-5696
 		<!-- </div>   -->
 
 		<!-- <div class="column"> -->
-		<td width="25%">
+		<td width="25%" style="vertical-align:top">
 			<a name="chris"></a>
 			<img src="../Photos/chris.jpg"><br>
 			Christopher Laine<br>
@@ -67,7 +67,7 @@ Fax: (213) 821-5696
 	</td>
 
 		<!-- <div class="column"> -->
-		<td width="25%">
+		<td width="25%" style="vertical-align:top">
 			<a name="brian"></a>
 			<img src="../Photos/brian.jpg"><br>
 			Brian Cohn<br>
@@ -78,7 +78,7 @@ Fax: (213) 821-5696
 	</td>
 
 		<!-- <div class="column"> -->
-		<td width="25%">
+		<td width="25%" style="vertical-align:top">
 			<a name="akira"></a>
 			<img src="../Photos/akira.jpg"><br>
 			Akira Nagamori<br>
