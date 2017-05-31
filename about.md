@@ -177,7 +177,7 @@ Fax: (213) 821-5696
 		<font size="4"><b>Akila Dhakshinamoorthy Giridhar</b></font><br>
 		<font size="4">CS Masters student</font><br>
 	</li>
-		
+
 	<li class="flex-item">
 		<a name="jason"></a>
 		<img src="../Photos/hand.jpg" height="150px" /><br>
@@ -198,7 +198,14 @@ Fax: (213) 821-5696
 		<font size="4"><b>Niharika Singh</b></font><br>
 		<font size="4">BME Masters student</font><br>
 	</li>
+
+	<li class="flex-item">
+	</li>
+
+	<li class="flex-item">
+	</li>
 </ul>
+<br>
 
 #Past Interns
 <table>
