@@ -48,7 +48,7 @@ Fax: (213) 821-5696
 		<img src="../Photos/ali.jpg"><br>
 		<font size="4"><b>Ali Marjaninejad</b></font><br>
 		<font size="4">BME PhD student</font><br>
-		marjanin@usc.edu<br>
+		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
 		Researching biomedical signal processing, neuroscience, and brain machine interfaces.
 	</td>
 
@@ -57,7 +57,7 @@ Fax: (213) 821-5696
 		<img src="../Photos/chris.jpg"><br>
 		<font size="4"><b>Christopher Laine</b></font><br>
 		<font size="4">Post-doc</font><br>
-		claine@usc.edu<br>
+		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
 		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.		  		
 	</td>
 
@@ -66,7 +66,7 @@ Fax: (213) 821-5696
 		<img src="../Photos/brian.jpg"><br>
 		<font size="4"><b>Brian Cohn</b></font><br>
 		<font size="4">CS PhD Student</font><br>
-		brian.cohn@usc.edu<br>
+		<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
 		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
 	</td>
 
@@ -75,62 +75,46 @@ Fax: (213) 821-5696
 		<img src="../Photos/akira.jpg"><br>
 		<font size="4"><b>Akira Nagamori</b></font><br>
 		<font size="4">BKN PhD Student</font><br>
-		nagamori@usc.edu<br>
+		<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
 		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.	
 	</td>
 </table>
 
 <table>
 	<td>
-		<tr>
 		<a name="kian"></a>
-		<img src="../Photos/kian1.jpg">
-	
-		Kian Jalaleddini
-		Post-doc
-		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a>
-		<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a>
-		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.
-		</tr>			
+		<img src="../Photos/kian1.jpg"><br>
+		<font size="4"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
+		<font size="4">Post-doc</font><br>
+		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a><br>
+		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.		
 	</td>
 
 	<td>
-		<tr>
 		<a name="suraj"></a>
-		<img src="../Photos/suraj.jpg">
-	</tr>
-
-	<tr>
-		Suraj Chakravarthi Raja
-		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.    
-		surajcha@usc.edu
-	</tr>
-
+		<img src="../Photos/suraj.jpg"><br>
+		<font size="4"><b>Suraj Chakravarthi Raja</b></font><br>
+		<font size="4">EE PhD student</font><br>
+		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
+		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.
 	</td>
 
 	<td>
-		<tr>
 		<a name="jun"></a>
-		<img src="../Photos/jun.jpg">
-	</tr>
-
-	<tr>
-		Jun Yong Shin
+		<img src="../Photos/jun.jpg"><br>
+		<font size="4"><b>Jun Yong Shin</b></font><br>
+		<font size="4">Post-doc</font><br>
+		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
 		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.   
-		junys@uci.edu
-	</tr>
 	</td>
 
 	<td>
-		<tr>
 		<a name="dan"></a>
 		<img src="../Photos/dan.jpg"><br>
-	</tr>
-	<tr>
-		Daniel Hagen<br>
-		dhagen@usc.edu<br>
+		<font size="4"><b>Daniel Hagen</b></font><br>
+		<font size="4">BME PhD student</font><br>
+		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>	
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.
-	</tr>
 	</td>
 </table>
 
