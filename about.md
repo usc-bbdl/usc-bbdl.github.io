@@ -138,7 +138,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="seb"></a>
-		<img src="../Photos/seb.png" height="155px" /><br>
+		<img src="../Photos/seb.png" height="150px" /><br>
 		<font size="4"><b><a href="http://seba1511.com">Séb Arnold</a></b></font><br>
 		<font size="4">CS/Math undergrad</font><br>
 		<a href="mailto:arnolds@usc.edu" target="_top">arnolds@usc.edu</a><br>
@@ -147,7 +147,7 @@ Fax: (213) 821-5696
 
 	<td width="25%" style="vertical-align:top">
 		<a name="taegyum"></a>
-		<img src="../Photos/taegyum.jpg"><br>
+		<img src="../Photos/taegyum.jpg" height="150px" /><br>
 		<font size="4"><b>Taegyum Kim</b></font><br>
 		<font size="4">CS undergrad</font><br>
 		<a href="mailto:taegyumk@usc.edu" target="_top">taegyumk@usc.edu</a><br>		
@@ -157,7 +157,7 @@ Fax: (213) 821-5696
 <table>
 	<td width="25%" style="vertical-align:top">
 		<a name="priyanka"></a>
-		<img src="../Photos/priyanka.jpg"><br>
+		<img src="../Photos/priyanka.jpg" height="150px" /><br>
 		<font size="4"><b>Priyanka Vachhani</b></font><br>
 		<font size="4">INF MS student</font><br>
 		<a href="mailto:pvachhan@usc.edu" target="_top">pvachhan@usc.edu</a><br>
