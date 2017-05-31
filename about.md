@@ -42,6 +42,59 @@ Fax: (213) 821-5696
 
 ## Lab Members
 
+<ul class="flex-container">
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  <li class="flex-item">
+  	<a name="ali"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="4"><b>Ali Marjaninejad</b></font><br>
+	<font size="4">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+  </li>
+  
+</ul>
+
+
 <table> <!-- style="background-color:DarkGray;color:White;" -->
 	<td width="25%" style="vertical-align:top">
 		<a name="ali"></a>
