@@ -145,7 +145,7 @@ Fax: (213) 821-5696
 		<img src="../Photos/seb.png" height="160px" /><br> -->
 		Taegyum Kim
 		CS undergrad
-		taegyumk@usc.edu
+		
 	</div>
 </div>
 
