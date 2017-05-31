@@ -86,8 +86,8 @@ Fax: (213) 821-5696
 		<img src="../Photos/kian1.jpg"><br>
 		Kian Jalaleddini<br>
 		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.<br>   
-		<a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a><br>
-		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a>
+		<!-- <a href="http://www.jalaleddini.com/">http://www.jalaleddini.com/</a><br>
+		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a> -->
 	</div>  
 
 	<div class="column">
