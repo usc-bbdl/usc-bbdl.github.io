@@ -155,7 +155,7 @@ Fax: (213) 821-5696
 		<font size="4"><b>Priyanka Vachhani</b></font><br>
 		<font size="4">INF MS student</font><br>
 		<a href="mailto:pvachhan@usc.edu" target="_top">pvachhan@usc.edu</a><br>
-	</td>
+	</li>
 
 	<li class="flex-item">
 		<a name="kasiri"></a>
@@ -206,7 +206,7 @@ Fax: (213) 821-5696
 -------------------------------------------
 
 ##Past Interns
-<table>
+<table align="left">
 	<tr>
 		<a name="miao"></a>
 		<td><font size="4"><b>Jiayang Miao</b></font></td>
