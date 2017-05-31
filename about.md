@@ -81,7 +81,7 @@ Fax: (213) 821-5696
 </table>
 
 <table>
-	<td>
+	<td width="25%" style="vertical-align:top">
 		<a name="kian"></a>
 		<img src="../Photos/kian1.jpg"><br>
 		<font size="4"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
@@ -90,7 +90,7 @@ Fax: (213) 821-5696
 		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.		
 	</td>
 
-	<td>
+	<td width="25%" style="vertical-align:top">
 		<a name="suraj"></a>
 		<img src="../Photos/suraj.jpg"><br>
 		<font size="4"><b>Suraj Chakravarthi Raja</b></font><br>
@@ -99,7 +99,7 @@ Fax: (213) 821-5696
 		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.
 	</td>
 
-	<td>
+	<td width="25%" style="vertical-align:top">
 		<a name="jun"></a>
 		<img src="../Photos/jun.jpg"><br>
 		<font size="4"><b>Jun Yong Shin</b></font><br>
@@ -108,7 +108,7 @@ Fax: (213) 821-5696
 		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.   
 	</td>
 
-	<td>
+	<td width="25%" style="vertical-align:top">
 		<a name="dan"></a>
 		<img src="../Photos/dan.jpg"><br>
 		<font size="4"><b>Daniel Hagen</b></font><br>
@@ -119,34 +119,38 @@ Fax: (213) 821-5696
 </table>
 
 <table>
-	<td>
+	<td width="25%" style="vertical-align:top">
 		<a name="jasmine"></a>
 		<img src="../Photos/jasmine.jpg"><br>
-		Jasmine Berry<br>
-		Examining opportunities at the intersection of biomechanics and computational modeling.<br>   
-		jasminab@usc.edu
+		<font size="4"><b>Jasmine Berry</b></font><br>
+		<font size="4">BME PhD student</font><br>
+		<a href="mailto:jasminab@usc.edu" target="_top">jasminab@usc.edu</a><br>
+		Examining opportunities at the intersection of biomechanics and computational modeling.
 	</td>
 
-	<td>
+	<td width="25%" style="vertical-align:top">
 		<a name="victor"></a>
 		<img src="../Photos/victor.jpg"><br>
-		<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a><br>		  
-		vesparza@usc.edu
+		<font size="4"><b><a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a></b></font><br>
+		<font size="4">BME Masters student</font><br>
+		<a href="mailto:vesparza@usc.edu" target="_top">vesparza@usc.edu</a><br>	
 	</td>
 
-	<td>
+	<td width="25%" style="vertical-align:top">
 		<a name="seb"></a>
 		<img src="../Photos/seb.png" height="160px" /><br>
-		<a href="http://seba1511.com">Séb Arnold</a><br>
-		Mathematical Optimization for Deep Reinforcement Learning.<br>		
-		arnolds@usc.edu
+		<font size="4"><b><a href="http://seba1511.com">Séb Arnold</a></b></font><br>
+		<font size="4">CS/Math undergrad</font><br>
+		<a href="mailto:arnolds@usc.edu" target="_top">arnolds@usc.edu</a><br>
+		Mathematical Optimization for Deep Reinforcement Learning.<br>	
 	</td>
 
-	<td>	
-			Taegyum Kim<br>
-			CS undergrad
+	<td width="25%" style="vertical-align:top">
+		<a name="seb"></a>
+		<img src="../Photos/seb.png" height="160px" /><br>
+		<font size="4"><b>Taegyum Kim</b></font><br>
+		<font size="4">CS undergrad</font><br>
+		<a href="mailto:taegyumk@usc.edu" target="_top">taegyumk@usc.edu</a><br>		
 	</td>
-
 </table>
 
-</table>
