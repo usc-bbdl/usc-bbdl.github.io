@@ -272,7 +272,7 @@ Fax: (213) 821-5696
 	</td>
 </table>
 
-#Fast Interns
+#Past Interns
 <table>
 	<tr>
 		<a name="miao"></a>
