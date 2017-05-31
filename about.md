@@ -43,15 +43,6 @@ Fax: (213) 821-5696
 ## Lab Members
 
 <ul class="flex-container">
-  <li class="flex-item">1</li>
-  <li class="flex-item">2</li>
-  <li class="flex-item">3</li>
-  <li class="flex-item">4</li>
-  <li class="flex-item">5</li>
-  <li class="flex-item">6</li>
-</ul>
-
-<!-- <ul class="flex-container">
   <li class="flex-item">
   	<a name="ali"></a>
 	<img src="../Photos/ali.jpg" height="150px"/><br>
@@ -100,7 +91,7 @@ Fax: (213) 821-5696
 	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
 	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
   </li>  
-</ul> -->
+</ul>
 
 
 <table> <!-- style="background-color:DarkGray;color:White;" -->
