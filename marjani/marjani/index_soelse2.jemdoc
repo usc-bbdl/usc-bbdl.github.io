@@ -1,0 +1,61 @@
+# jemdoc: fwtitle, menu{MENU}{index.html}, addcss{person.css}, addcss{bibtex.css}, title{Patrick Bouffard}, analytics{UA-28868110-1}
+#include{toggle_bibtex.jemdoc}
+= Patrick Bouffard
+
+~~~
+{}{img_left}{mugshot_small.jpg}{Patrick Bouffard}
+[http://hybrid.eecs.berkeley.edu/~bouffard/ Patrick Bouffard]
+({{<a href="http://canada.gc.ca"><img src="Flag_of_Canada.svg" alt="CAN" width=25/></a>}}) \n
+[http://www.eecs.berkeley.edu/ Electrical Engineering and Computer Sciences]\n
+[http://www.berkeley.edu/ University of California, Berkeley]\n\n
+Advisor: [http://www.eecs.berkeley.edu/~tomlin/ Professor Claire Tomlin]
+{{<a href="http://www.linkedin.com/in/pbouffard"><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Patrick Bouffard's profile on LinkedIn"></a>}}
+~~~
+
+== About
+
+{{<img src="pelican.jpg" width=250 align="right" style="padding:10px;"/> }}
+
+
+
+I'm a graduate student at UC Berkeley in Electrical Engineering and Computer Sciences. I work with my research advisor, [http://www.eecs.berkeley.edu/~tomlin/ Professor Claire Tomlin], in the [http://hybrid.eecs.berkeley.edu Hybrid Systems Lab]. My research interests include robotics, control, perception, motion planning, and artificial intelligence. Most of my research work involves the use of the [http://hybrid.eecs.berkeley.edu/starmac/ Stanford/Berkeley Testbed of Autonomous Rotorcraft for Multi-Agent Control (STARMAC)], a set of quadrotor helicopters and associated hardware and software.
+
+Between receiving my undergraduate degree and returning to school to pursue an advanced degree, I worked in the aerospace industry. Specifically, I worked in the Controls, Operations & Analysis department of [http://sm.mdacorporation.com/ MDA Space Missions], on the Mobile Servicing System (MSS), which is a system on the International Space Station (ISS) comprised of elements including the Canadarm2 and Dextre robotic manipulators. My work included conducting analyses to ensure that planned space station assembly operations using Canadarm2 would be safe and successful, providing real-time engineering support during Space Shuttle missions to the ISS, and training astronauts and flight controllers on the systems of the MSS.
+{{<a href="http://spaceflight.nasa.gov/gallery/images/shuttle/sts-114/html/s114e6642.html"><img src="s114e6642.jpg" alt="STS-114 - Steve Robinson on Canadarm2" width=250 align="right" style="padding:10px;"/></a>}}
+== Contact
+7th Floor Sutardja Dai Hall\n
+University of California, Berkeley\n
+Berkeley, CA 94720-1772\n
+[bouffard@eecs.berkeley.edu]
+
+
+== Education
+- M.S., Electrical Engineering and Computer Sciences, University of California, Berkeley, 2012
+- B.Sc. (Hons) (First class), [http://www.mast.queensu.ca/meng/ Mathematics and Engineering],
+  [http://www.queensu.ca/ Queen's University], 1999
+
+== Publications
+#include{pubs/aswani_acc2012.jemdoc}
+
+#include{pubs/bouffard_icra2012.jemdoc}
+
+#include{pubs/brockers_etal_2011.jemdoc}
+
+#include{pubs/bouffard_waslander_2009.jemdoc}
+
+== Teaching
+- Fall 2011: Graduate Student Instructor (GSI) for EE221A Linear System Theory
+
+== Professional Service
+- Reviewer, 2011 IEEE International Conference on Robotics and Automation (ICRA)
+- Reviewer, 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+
+== Software
+=== starmac-ros-pkg
+A repository of [http://www.ros.org ROS] stacks for quadrotors ([http://www.ros.org/wiki/starmac-ros-pkg ros wiki page])
+=== pgr_camera
+A [http://www.ros.org ROS] driver node for interfacing with Point Grey Research cameras ([https://github.com/pbouffard/ros.pgr_camera github])
+
+== Misc
+- Thanks to [http://www.stanford.edu/~jacobm/ Jacob Mattingly] for [http://jemdoc.jaboc.net/ jemdoc] and his homepage which was the basis for this one.
+
