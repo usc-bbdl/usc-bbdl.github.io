@@ -165,7 +165,7 @@ Fax: (213) 821-5696
 		<a href="mailto:pvachhan@usc.edu" target="_top">theo-tim.denisart@epfl.ch</a><br>
 	</li>
 </ul>
-
+-------------------------------------------
 
 <font size="5"><b>Interns</b></font><br>
 
