@@ -46,8 +46,8 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="ali"></a>
 		<img src="../Photos/ali.jpg" height="150px"/><br>
-		<font size="4"><b>Ali Marjaninejad</b></font><br>
-		<font size="4">BME PhD student</font><br>
+		<font size="3"><b>Ali Marjaninejad</b></font><br>
+		<font size="3">BME PhD student</font><br>
 		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
 		Researching biomedical signal processing, neuroscience, and brain machine interfaces.
 	</li>
@@ -55,8 +55,8 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="chris"></a>
 		<img src="../Photos/chris.jpg" height="150px"/><br>
-		<font size="4"><b>Christopher Laine</b></font><br>
-		<font size="4">Post-doc</font><br>
+		<font size="3"><b>Christopher Laine</b></font><br>
+		<font size="3">Post-doc</font><br>
 		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
 		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.
 	</li>
@@ -64,8 +64,8 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="brian"></a>
 		<img src="../Photos/brian.jpg" height="150px"/><br>
-		<font size="4"><b>Brian Cohn</b></font><br>
-		<font size="4">CS PhD Student</font><br>
+		<font size="3"><b>Brian Cohn</b></font><br>
+		<font size="3">CS PhD Student</font><br>
 		<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
 		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
 	</li>
@@ -73,8 +73,8 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="akira"></a>
 		<img src="../Photos/akira.jpg" height="150px"/><br>
-		<font size="4"><b>Akira Nagamori</b></font><br>
-		<font size="4">BKN PhD Student</font><br>
+		<font size="3"><b>Akira Nagamori</b></font><br>
+		<font size="3">BKN PhD Student</font><br>
 		<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
 		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.
 	</li>
@@ -82,8 +82,8 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="kian"></a>
 		<img src="../Photos/kian1.jpg"><br>
-		<font size="4"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
-		<font size="4">Post-doc</font><br>
+		<font size="3"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
+		<font size="3">Post-doc</font><br>
 		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a><br>
 		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.
 	</li>
@@ -91,8 +91,8 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="suraj"></a>
 		<img src="../Photos/suraj.jpg"><br>
-		<font size="4"><b>Suraj Chakravarthi Raja</b></font><br>
-		<font size="4">EE PhD student</font><br>
+		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
+		<font size="3">EE PhD student</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
 		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.
 	</li> 
@@ -100,8 +100,8 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="jun"></a>
 		<img src="../Photos/jun.jpg"><br>
-		<font size="4"><b>Jun Yong Shin</b></font><br>
-		<font size="4">Post-doc</font><br>
+		<font size="3"><b>Jun Yong Shin</b></font><br>
+		<font size="3">Post-doc</font><br>
 		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
 		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.   
 	</li> 
@@ -109,8 +109,8 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="dan"></a>
 		<img src="../Photos/dan.jpg"><br>
-		<font size="4"><b>Daniel Hagen</b></font><br>
-		<font size="4">BME PhD student</font><br>
+		<font size="3"><b>Daniel Hagen</b></font><br>
+		<font size="3">BME PhD student</font><br>
 		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>	
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.
 	</li> 
@@ -118,8 +118,8 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="jasmine"></a>
 		<img src="../Photos/jasmine.jpg" height="150px"/><br>
-		<font size="4"><b>Jasmine Berry</b></font><br>
-		<font size="4">BME PhD student</font><br>
+		<font size="3"><b>Jasmine Berry</b></font><br>
+		<font size="3">BME PhD student</font><br>
 		<a href="mailto:jasminab@usc.edu" target="_top">jasminab@usc.edu</a><br>
 		Examining opportunities at the intersection of biomechanics and computational modeling.
 	</li> 
@@ -127,16 +127,16 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="victor"></a>
 		<img src="../Photos/victor.jpg" height="150px"/><br>
-		<font size="4"><b><a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a></b></font><br>
-		<font size="4">BME Masters student</font><br>
+		<font size="3"><b><a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a></b></font><br>
+		<font size="3">BME Masters student</font><br>
 		<a href="mailto:vesparza@usc.edu" target="_top">vesparza@usc.edu</a><br>	
 	</li> 
 
 	<li class="flex-item">
 		<a name="seb"></a>
 		<img src="../Photos/seb.png" height="150px" /><br>
-		<font size="4"><b><a href="http://seba1511.com">Séb Arnold</a></b></font><br>
-		<font size="4">CS/Math undergrad</font><br>
+		<font size="3"><b><a href="http://seba1511.com">Séb Arnold</a></b></font><br>
+		<font size="3">CS/Math undergrad</font><br>
 		<a href="mailto:arnolds@usc.edu" target="_top">arnolds@usc.edu</a><br>
 		Mathematical Optimization for Deep Reinforcement Learning.<br>	
 	</li> 
@@ -144,64 +144,63 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 		<a name="taegyum"></a>
 		<img src="../Photos/taegyum.jpg" height="150px" /><br>
-		<font size="4"><b>Taegyum Kim</b></font><br>
-		<font size="4">CS undergrad</font><br>
+		<font size="3"><b>Taegyum Kim</b></font><br>
+		<font size="3">CS undergrad</font><br>
 		<a href="mailto:taegyumk@usc.edu" target="_top">taegyumk@usc.edu</a><br>		
 	</li> 
 
 	<li class="flex-item">
 		<a name="priyanka"></a>
 		<img src="../Photos/priyanka.jpg" height="150px" /><br>
-		<font size="4"><b>Priyanka Vachhani</b></font><br>
-		<font size="4">INF MS student</font><br>
+		<font size="3"><b>Priyanka Vachhani</b></font><br>
+		<font size="3">INF MS student</font><br>
 		<a href="mailto:pvachhan@usc.edu" target="_top">pvachhan@usc.edu</a><br>
 	</li>
 
 	<li class="flex-item">
-		<a name="kasiri"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
-		<font size="4"><b>Maral Kasiri</b></font><br>
-		<font size="4">BME Masters student</font><br>
+		<a name="theo"></a>
+		<img src="https://user-images.githubusercontent.com/4623063/27665013-8ce946c0-5c1f-11e7-890f-c7a038bb03c9.jpg" height="150px" /><br>
+		<font size="3"><b>Théo Denisart</b></font><br>
+		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology) interested in designing bio-inspired systems and novel mechanical designs. Working on a tendon driven systems.​</font><br>
+		<a href="mailto:pvachhan@usc.edu" target="_top">theo-tim.denisart@epfl.ch</a><br>
 	</li>
-
-	<li class="flex-item">
-		<a name="bate"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
-		<font size="4"><b>Keegan W Bate</b></font><br>
-		<font size="4">BME Masters student</font><br>
-	</li>
-
-	<li class="flex-item">
-		<a name="giridhar"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
-		<font size="4"><b>Akila Dhakshinamoorthy Giridhar</b></font><br>
-		<font size="4">CS Masters student</font><br>
-	</li>
-
-	<li class="flex-item">
-		<a name="jason"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
-		<font size="4"><b>Jason Lin</b></font><br>
-		<font size="4">CS undergrad</font><br>
-	</li>
-
-	<li class="flex-item">
-		<a name="qian"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
-		<font size="4"><b>Shaohui Qian</b></font><br>
-		<font size="4">EE Masters student</font><br>
-	</li>
-
-	<li class="flex-item">
-		<a name="singh"></a>
-		<img src="../Photos/hand.jpg" height="150px" /><br>
-		<font size="4"><b>Niharika Singh</b></font><br>
-		<font size="4">BME Masters student</font><br>
-	</li>
-
-	
 </ul>
 
+
+<font size="5"><b>Interns</b></font><br>
+
+<table align="left">
+	<tr>
+		<a name="miao"></a>
+		<td><font size="3"><b>Giridhar Akila Dhakshinamoorthy</b></font></td>
+		<td><font size="3">CS Masters Student</font></td>
+	</tr>
+
+	<tr>
+		<a name="FHQian"></a>
+		<td><font size="3"><b>Shaohui Quian</b></font></td>
+		<td><font size="3">EE Masters Student</font></td>
+	</tr>
+
+	<tr>
+		<a name="Liao"></a>
+		<td><font size="3"><b>Niharika Singh</b></font></td>
+		<td><font size="3">BME Masters Student</font></td>
+	</tr>
+
+	<tr>
+		<a name="Swieso"></a>
+		<td><font size="3"><b>Keegan Bate</b></font></td>
+		<td><font size="3">BME Masters Student</font></td>
+	</tr>
+
+	<tr>
+		<a name="Pugliesi"></a>
+		<td><font size="3"><b>Maral Kasiri</b></font></td>
+		<td><font size="3">BME Masters Student</font></td>
+	</tr>
+
+</table>
 
 -------------------------------------------
 
@@ -210,49 +209,49 @@ Fax: (213) 821-5696
 <table align="left">
 	<tr>
 		<a name="miao"></a>
-		<td><font size="4"><b>Jiayang Miao</b></font></td>
-		<td><font size="4">CS undergrad</font></td>
+		<td><font size="3"><b>Jiayang Miao</b></font></td>
+		<td><font size="3">CS undergrad</font></td>
 	</tr>
 
 	<tr>
 		<a name="FHQian"></a>
-		<td><font size="4"><b>Feihong Qian</b></font></td>
-		<td><font size="4">CS undergrad</font></td>
+		<td><font size="3"><b>Feihong Qian</b></font></td>
+		<td><font size="3">CS undergrad</font></td>
 	</tr>
 
 	<tr>
 		<a name="Liao"></a>
-		<td><font size="4"><b>Xingchen Liao</b></font></td>
-		<td><font size="4">CS undergrad</font></td>
+		<td><font size="3"><b>Xingchen Liao</b></font></td>
+		<td><font size="3">CS undergrad</font></td>
 	</tr>
 
 	<tr>
 		<a name="Swieso"></a>
-		<td><font size="4"><b>Sloan Swieso</b></font></td>
-		<td><font size="4">CS undergrad</font></td>
+		<td><font size="3"><b>Sloan Swieso</b></font></td>
+		<td><font size="3">CS undergrad</font></td>
 	</tr>
 
 	<tr>
 		<a name="Pugliesi"></a>
-		<td><font size="4"><b>John Pugliesi</b></font></td>
-		<td><font size="4">CS undergrad</font></td>
+		<td><font size="3"><b>John Pugliesi</b></font></td>
+		<td><font size="3">CS undergrad</font></td>
 	</tr>
 
 	<tr>
 		<a name="Jia"></a>
-		<td><font size="4"><b>Cyrus Jia</b></font></td>
-		<td><font size="4">CS undergrad</font></td>
+		<td><font size="3"><b>Cyrus Jia</b></font></td>
+		<td><font size="3">CS undergrad</font></td>
 	</tr>
 
 	<tr>
 		<a name="Noel"></a>
-		<td><font size="4"><b>Noel Trivedi</b></font></td>
-		<td><font size="4">CS undergrad</font></td>
+		<td><font size="3"><b>Noel Trivedi</b></font></td>
+		<td><font size="3">CS undergrad</font></td>
 	</tr>
 
 	<tr>
 		<a name="Chu"></a>
-		<td><font size="4"><b>Elizabeth Chu</b></font></td>
-		<td><font size="4">CS undergrad</font></td>
+		<td><font size="3"><b>Elizabeth Chu</b></font></td>
+		<td><font size="3">CS undergrad</font></td>
 	</tr>
 </table>
