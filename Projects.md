@@ -9,7 +9,7 @@ menu: main
 	<li class="flex-item-project">
 		<img src="../img/projects/cohn2017.gif"><br> <!-- the picture should be the project image -->
 	  	<b>High dimensional solution mapping</b><br>
-		<a href="https://usc-bbdl.github.io/about/#briancohn">Brian Cohn</a>, <a href="https://usc-bbdl.github.io/about/#kianjalaleddini">kianjalaleddini</a><br>
+		<a href="https://usc-bbdl.github.io/about/#briancohn">Brian Cohn</a>, <a href="https://usc-bbdl.github.io/about/#kianjalaleddini">Kian Jalaleddini, PhD</a><br>
 		Reverse engineering force control of the hand through robotic and cadaveric studies.<br>
 		Related Publications:<br>
 		<a href="../Papers/2015_JOB_Valero-Cuevas.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>
