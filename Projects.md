@@ -8,9 +8,9 @@ menu: main
 <ul class="flex-container">
 	<li class="flex-item-project">
 		<img src="../img/projects/cohn2017.gif"><br> <!-- the picture should be the project image -->
-	  	<b>Neuroscience</b><br>
-		<a href="https://usc-bbdl.github.io/about/#Francisco">Francisco Valero-Cuevas</a>, <a href="https://usc-bbdl.github.io/about/#ali">Ali Marjaninejad</a><br>
-		Reverse engineer brain control of the hand.<br>
+	  	<b>High dimensional solution mapping</b><br>
+		<a href="https://usc-bbdl.github.io/about/#briancohn">Brian Cohn</a>, <a href="https://usc-bbdl.github.io/about/#kianjalaleddini">kianjalaleddini</a><br>
+		Reverse engineering force control of the hand through robotic and cadaveric studies.<br>
 		Related Publications:<br>
 		<a href="../Papers/2015_JOB_Valero-Cuevas.pdf">Unilateral Eccentric Contraction of the Plantarflexors Leads to Bilateral Alterations in Leg Dexterity.</a>
 	</li>
