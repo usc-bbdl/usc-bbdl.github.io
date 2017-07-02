@@ -44,7 +44,7 @@ Fax: (213) 821-5696
 
 <ul class="flex-container">
 	<li class="flex-item">
-		<a name="ali"></a>
+		<a name="alimarjaninejad"></a>
 		<img src="../Photos/ali.jpg" height="150px"/><br>
 		<font size="3"><b>Ali Marjaninejad</b></font><br>
 		<font size="3">BME PhD student</font><br>
@@ -53,7 +53,7 @@ Fax: (213) 821-5696
 	</li>
 
 	<li class="flex-item">
-		<a name="chris"></a>
+		<a name="chrislaine"></a>
 		<img src="../Photos/chris.jpg" height="150px"/><br>
 		<font size="3"><b>Christopher Laine</b></font><br>
 		<font size="3">Post-doc</font><br>
@@ -62,7 +62,7 @@ Fax: (213) 821-5696
 	</li>
 
 	<li class="flex-item">
-		<a name="brian"></a>
+		<a name="briancohn"></a>
 		<img src="../Photos/brian.jpg" height="150px"/><br>
 		<font size="3"><b>Brian Cohn</b></font><br>
 		<font size="3">CS PhD Student</font><br>
@@ -71,7 +71,7 @@ Fax: (213) 821-5696
 	</li>
 
 	<li class="flex-item">
-		<a name="akira"></a>
+		<a name="akiranagamori"></a>
 		<img src="../Photos/akira.jpg" height="150px"/><br>
 		<font size="3"><b>Akira Nagamori</b></font><br>
 		<font size="3">BKN PhD Student</font><br>
@@ -80,7 +80,7 @@ Fax: (213) 821-5696
 	</li>
 
 	<li class="flex-item">
-		<a name="kian"></a>
+		<a name="kianjalaleddini"></a>
 		<img src="../Photos/kian1.jpg"><br>
 		<font size="3"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
 		<font size="3">Post-doc</font><br>
@@ -89,7 +89,7 @@ Fax: (213) 821-5696
 	</li>
 
 	<li class="flex-item">
-		<a name="suraj"></a>
+		<a name="surajchakravarthi"></a>
 		<img src="../Photos/suraj.jpg"><br>
 		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
 		<font size="3">EE PhD student</font><br>
@@ -98,7 +98,7 @@ Fax: (213) 821-5696
 	</li> 
 
 	<li class="flex-item">
-		<a name="jun"></a>
+		<a name="junshin"></a>
 		<img src="../Photos/jun.jpg"><br>
 		<font size="3"><b>Jun Yong Shin</b></font><br>
 		<font size="3">Post-doc</font><br>
@@ -107,7 +107,7 @@ Fax: (213) 821-5696
 	</li> 
 
 	<li class="flex-item">
-		<a name="dan"></a>
+		<a name="danhagen"></a>
 		<img src="../Photos/dan.jpg"><br>
 		<font size="3"><b>Daniel Hagen</b></font><br>
 		<font size="3">BME PhD student</font><br>
@@ -116,7 +116,7 @@ Fax: (213) 821-5696
 	</li> 
 
 	<li class="flex-item">
-		<a name="jasmine"></a>
+		<a name="jasmineberry"></a>
 		<img src="../Photos/jasmine.jpg" height="150px"/><br>
 		<font size="3"><b>Jasmine Berry</b></font><br>
 		<font size="3">BME PhD student</font><br>
@@ -125,7 +125,7 @@ Fax: (213) 821-5696
 	</li> 
 
 	<li class="flex-item">
-		<a name="victor"></a>
+		<a name="victoresparza"></a>
 		<img src="../Photos/victor.jpg" height="150px"/><br>
 		<font size="3"><b><a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a></b></font><br>
 		<font size="3">BME Masters student</font><br>
@@ -133,7 +133,7 @@ Fax: (213) 821-5696
 	</li> 
 
 	<li class="flex-item">
-		<a name="seb"></a>
+		<a name="sebarnold"></a>
 		<img src="../Photos/seb.png" height="150px" /><br>
 		<font size="3"><b><a href="http://seba1511.com">Séb Arnold</a></b></font><br>
 		<font size="3">CS/Math undergrad</font><br>
@@ -142,7 +142,7 @@ Fax: (213) 821-5696
 	</li> 
 
 	<li class="flex-item">
-		<a name="taegyum"></a>
+		<a name="taegyumkim"></a>
 		<img src="../Photos/taegyum.jpg" height="150px" /><br>
 		<font size="3"><b>Taegyum Kim</b></font><br>
 		<font size="3">CS undergrad</font><br>
@@ -150,7 +150,7 @@ Fax: (213) 821-5696
 	</li> 
 
 	<li class="flex-item">
-		<a name="priyanka"></a>
+		<a name="priyankavachhani"></a>
 		<img src="../Photos/priyanka.jpg" height="150px" /><br>
 		<font size="3"><b>Priyanka Vachhani</b></font><br>
 		<font size="3">INF MS student</font><br>
@@ -158,7 +158,7 @@ Fax: (213) 821-5696
 	</li>
 
 	<li class="flex-item">
-		<a name="theo"></a>
+		<a name="theodenisart"></a>
 		<img src="https://user-images.githubusercontent.com/4623063/27665013-8ce946c0-5c1f-11e7-890f-c7a038bb03c9.jpg" height="150px" /><br>
 		<font size="3"><b>Théo Denisart</b></font><br>
 		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology) interested in designing bio-inspired systems and novel mechanical designs. Working on a tendon driven systems.​</font><br>
