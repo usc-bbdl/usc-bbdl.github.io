@@ -12,8 +12,8 @@ Our diverse experimental arsenal ranges from EMG recording and custom-made virtu
 
 <a name="Francisco"></a>
 # PI: Francisco Valero-Cuevas Ph.D.
-<img src="../Photos/francisco.jpg"  height="160px" /><br> 
-<a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br> 
+<img src="../Photos/francisco.jpg"  height="160px" /><br>
+<a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
 
 *Francisco's Bio*  
 I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Masters Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.
@@ -28,7 +28,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 Brain Body Dynamics Lab  
 Ronald Tutor Hall, RTH-421  
 3710 S. McClintock Ave  
-Los Angeles, CA 90089-2905, USA 
+Los Angeles, CA 90089-2905, USA
 ```
 
 Phone: (213) 740-4219  
@@ -56,9 +56,9 @@ Fax: (213) 821-5696
 		<a name="chrislaine"></a>
 		<img src="../Photos/chris.jpg" height="150px"/><br>
 		<font size="3"><b>Christopher Laine</b></font><br>
-		<font size="3">Post-doc</font><br>
+		<font size="3">Research Assistant Professor</font><br>
 		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
-		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.
+		Division of Biokinesiology and Physical Therapy. Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.
 	</li>
 
 	<li class="flex-item">
@@ -95,7 +95,7 @@ Fax: (213) 821-5696
 		<font size="3">EE PhD student</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
 		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.
-	</li> 
+	</li>
 
 	<li class="flex-item">
 		<a name="junshin"></a>
@@ -104,16 +104,16 @@ Fax: (213) 821-5696
 		<font size="3">Post-doc</font><br>
 		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
 		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.   
-	</li> 
+	</li>
 
 	<li class="flex-item">
 		<a name="danhagen"></a>
 		<img src="../Photos/dan.jpg"><br>
 		<font size="3"><b>Daniel Hagen</b></font><br>
 		<font size="3">BME PhD student</font><br>
-		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>	
+		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.
-	</li> 
+	</li>
 
 	<li class="flex-item">
 		<a name="jasmineberry"></a>
@@ -122,15 +122,15 @@ Fax: (213) 821-5696
 		<font size="3">BME PhD student</font><br>
 		<a href="mailto:jasminab@usc.edu" target="_top">jasminab@usc.edu</a><br>
 		Examining opportunities at the intersection of biomechanics and computational modeling.
-	</li> 
+	</li>
 
 	<li class="flex-item">
 		<a name="victoresparza"></a>
 		<img src="../Photos/victor.jpg" height="150px"/><br>
 		<font size="3"><b><a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a></b></font><br>
 		<font size="3">BME Masters student</font><br>
-		<a href="mailto:vesparza@usc.edu" target="_top">vesparza@usc.edu</a><br>	
-	</li> 
+		<a href="mailto:vesparza@usc.edu" target="_top">vesparza@usc.edu</a><br>
+	</li>
 
 	<li class="flex-item">
 		<a name="sebarnold"></a>
@@ -138,8 +138,8 @@ Fax: (213) 821-5696
 		<font size="3"><b><a href="http://seba1511.com">Séb Arnold</a></b></font><br>
 		<font size="3">CS/Math undergrad</font><br>
 		<a href="mailto:arnolds@usc.edu" target="_top">arnolds@usc.edu</a><br>
-		Mathematical Optimization for Deep Reinforcement Learning.<br>	
-	</li> 
+		Mathematical Optimization for Deep Reinforcement Learning.<br>
+	</li>
 
 	<li class="flex-item">
 		<a name="taegyumkim"></a>
@@ -147,7 +147,7 @@ Fax: (213) 821-5696
 		<font size="3"><b>Taegyum Kim</b></font><br>
 		<font size="3">CS undergrad</font><br>
 		<a href="mailto:taegyumk@usc.edu" target="_top">taegyumk@usc.edu</a><br>		
-	</li> 
+	</li>
 
 	<li class="flex-item">
 		<a name="priyankavachhani"></a>
