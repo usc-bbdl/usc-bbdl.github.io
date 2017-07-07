@@ -19,7 +19,7 @@ background:#e9e9e9;
 </style>
 
 <div data-role="page" id="pageone">
-  
+
   <div data-role="main" class="ui-content">
     <form>
       <input id="filterTable-input" data-type="search" placeholder="Search For Publications...">
@@ -184,6 +184,16 @@ background:#e9e9e9;
               <b>Strength, multi-joint coordination, and sensorimotor processing are independent contributors to overall balance ability.</b> <br>
               BioMed Research International, Special Issue "Motor Functional Evaluation from Physiology to Biomechanics to Clinical and Training Application," http://dx.doi.org/10.1155/2015/561243, 2015.</td>
           <td><a href="https://usc-bbdl.github.io/Papers/2015_Lawrence_Balance_Contributors.pdf">Link</a></td>
+          <td></td>
+          <td>2015</td>
+        </tr>
+
+        <tr>
+          <td>Krenn O, Werner I, Lawrence EL, Valero-Cuevas FJ. <br>
+              <b>Structure of the set of feasible neural commands for complex motor tasks.</b> <br>
+              Valero-Cuevas FJ, Cohn BA, Szedlák M, Fukuda K, Gärtner B. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Vol. 2015.
+              </td>
+          <td><a href="https://usc-bbdl.github.io/Papers/2015_StructureIEEE.pdf">Link</a></td>
           <td></td>
           <td>2015</td>
         </tr>
@@ -885,7 +895,7 @@ aper.</td>
     </div>
   </div>
 
-  
+
     <!--   
 
       </tbody>
@@ -986,5 +996,3 @@ function toggleText2005()
 }
 
 </script>
-
-
