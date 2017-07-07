@@ -189,9 +189,9 @@ background:#e9e9e9;
         </tr>
 
         <tr>
-          <td>Krenn O, Werner I, Lawrence EL, Valero-Cuevas FJ. <br>
+          <td>Valero-Cuevas FJ, Cohn BA, Szedlák M, Fukuda K, Gärtner B. <br>
               <b>Structure of the set of feasible neural commands for complex motor tasks.</b> <br>
-              Valero-Cuevas FJ, Cohn BA, Szedlák M, Fukuda K, Gärtner B. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Vol. 2015.
+              Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Vol. 2015.
               </td>
           <td><a href="https://usc-bbdl.github.io/Papers/2015_StructureIEEE.pdf">Link</a></td>
           <td></td>
