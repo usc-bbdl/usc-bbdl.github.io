@@ -48,7 +48,7 @@ clipboard.on('error', function(e) {
 <div>
 {% for paper in site.data.publications %}
   <div class="publication_card">
-    <a class="article_title" href="./{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
+    <a class="article_title" href="../{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
   </div>
   <div class="paper_author_p">
     <span class="paper_authors">{{paper.Author | upcase}}</span>
