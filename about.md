@@ -162,96 +162,59 @@ Fax: (213) 821-5696
 		<a href="mailto:pvachhan@usc.edu" target="_top">theo-tim.denisart@epfl.ch</a><br>
 	</li>
 </ul>
--------------------------------------------
 
-<font size="5"><b>Interns</b></font><br>
 
-<table align="left">
-	<tr>
-		<a name="miao"></a>
-		<td><font size="3"><b>Giridhar Akila Dhakshinamoorthy</b></font></td>
-		<td><font size="3">CS Masters Student</font></td>
-	</tr>
+# Current Interns  
 
-	<tr>
-		<a name="FHQian"></a>
-		<td><font size="3"><b>Shaohui Quian</b></font></td>
-		<td><font size="3">EE Masters Student</font></td>
-	</tr>
+<a href="./Prospective/"> Information for Prospective Interns</a>
 
-	<tr>
-		<a name="Liao"></a>
-		<td><font size="3"><b>Niharika Singh</b></font></td>
-		<td><font size="3">BME Masters Student</font></td>
-	</tr>
+<b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
+<b>Shaohui Quian</b> - EE Masters Student  
+<b>Niharika Singh</b> - BME Masters Student  
+<b>Keegan Bate</b> - BME Masters Student  
+<b>Maral Kasiri</b> - BME Masters Student  
+<b>Taylor Stroobosscher</b> - Electrical Engineering undergrad  
+<b>Mayumi Ishikawa</b> -  Biomedical Engineering undergrad  
+<b>Brandon Miura</b> - Biomedical Engineering  
 
-	<tr>
-		<a name="Swieso"></a>
-		<td><font size="3"><b>Keegan Bate</b></font></td>
-		<td><font size="3">BME Masters Student</font></td>
-	</tr>
 
-	<tr>
-		<a name="Pugliesi"></a>
-		<td><font size="3"><b>Maral Kasiri</b></font></td>
-		<td><font size="3">BME Masters Student</font></td>
-	</tr>
 
-</table>
+# Doctoral Alumni
+Kornelius Rácz—
+Joshua Inouye—
+Marta—
+Melissa Sajnani—
+Sudarshan Dayanidhi—
+Emily Lawrence—
+Alexander Reyes—
+Na-hyeon (Hannah) Ko—
+Evangelos Theodorou—
+Jason Kutch—
+Madhusudhan Venkadesan—
+Veronica Santos—
+Brendan Holt—
+Kevin Keenan—
+Rob Clewley—
+Jonathan Pearlman—
+Laurel Kuxhaus—
+Manish Kurse—
+Sudarshan Dayanidhi—
+Vic Anand—
+Nathan Wilson—
+Jaewoon Yi—
+Marta Mora-Aguilar—
+Robert Riener—
+Maria Makarov
 
--------------------------------------------
-<br>
-<br>
-<br>
+#Post Docs
+Srideep Musuvathy—Chandana Paul
 
-<font size="5"><b>Past Interns</b></font><br>
-
-<table align="left">
-	<tr>
-		<a name="miao"></a>
-		<td><font size="3"><b>Jiayang Miao</b></font></td>
-		<td><font size="3">CS undergrad</font></td>
-	</tr>
-
-	<tr>
-		<a name="FHQian"></a>
-		<td><font size="3"><b>Feihong Qian</b></font></td>
-		<td><font size="3">CS undergrad</font></td>
-	</tr>
-
-	<tr>
-		<a name="Liao"></a>
-		<td><font size="3"><b>Xingchen Liao</b></font></td>
-		<td><font size="3">CS undergrad</font></td>
-	</tr>
-
-	<tr>
-		<a name="Swieso"></a>
-		<td><font size="3"><b>Sloan Swieso</b></font></td>
-		<td><font size="3">CS undergrad</font></td>
-	</tr>
-
-	<tr>
-		<a name="Pugliesi"></a>
-		<td><font size="3"><b>John Pugliesi</b></font></td>
-		<td><font size="3">CS undergrad</font></td>
-	</tr>
-
-	<tr>
-		<a name="Jia"></a>
-		<td><font size="3"><b>Cyrus Jia</b></font></td>
-		<td><font size="3">CS undergrad</font></td>
-	</tr>
-
-	<tr>
-		<a name="Noel"></a>
-		<td><font size="3"><b>Noel Trivedi</b></font></td>
-		<td><font size="3">CS undergrad</font></td>
-	</tr>
-
-	<tr>
-		<a name="Chu"></a>
-		<td><font size="3"><b>Elizabeth Chu</b></font></td>
-		<td><font size="3">CS undergrad</font></td>
-	</tr>
-</table>
+# Internship Alumni  
+<b>Jiayang Miao</b> - CS undergrad  
+<b>Feihong Qian</b> - CS undergrad  
+<b>Xingchen Liao</b> - CS undergrad  
+<b>Sloan Swieso</b> - CS undergrad  
+<b>John Pugliesi</b> - CS undergrad  
+<b>Cyrus Jia</b> - CS undergrad  
+<b>Noel Trivedi</b> - CS undergrad  
+<b>Elizabeth Chu</b> - CS undergrad  

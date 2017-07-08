@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 10px/1.5 "System", Helvetica, Arial, sans-serif;
+  font: 400 14px/1.5 "chaparral-pro-caption", Helvetica, Arial, sans-serif;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -44,7 +44,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 8.75px; }
+  font-size: 12.25px; }
 
 /**
  * Lists
@@ -187,7 +187,7 @@ pre {
     color: #0e0202; }
 
 .site-nav {
-  float: right;
+  float: left;
   line-height: 56px; }
   .site-nav .menu-icon {
     display: none; }
@@ -306,7 +306,7 @@ pre {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 8.75px;
+  font-size: 12.25px;
   color: #810e0e; }
 
 .post-link {
