@@ -69,7 +69,7 @@ menu: main
     </table>
 
     <div>
-      <div id="HiddenArea2016" style="display: none;">
+      <div>
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -144,7 +144,7 @@ menu: main
   <div>
 
 
-      <div id="HiddenArea2015" style="display: none;">
+      <div>
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -235,7 +235,7 @@ menu: main
   </div>
 
   <div>
-      <div id="HiddenArea2014" style="display: none;">
+      <div>
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -372,7 +372,7 @@ menu: main
 
   <div>
 
-      <div id="HiddenArea2012" style="display: none;">
+      <div>
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -526,7 +526,7 @@ menu: main
   </div>
 
   <div>
-      <div id="HiddenArea2009" style="display: none;">
+      <div>
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -700,7 +700,7 @@ menu: main
   <div>
 
 
-      <div id="HiddenArea2005" style="display: none;">
+      <div>
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
