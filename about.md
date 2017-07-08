@@ -6,9 +6,10 @@ menu: main
 ---
 
 
-<a name="Francisco"></a>
+<a name="Francisco"></a>  
+
 # PI: Francisco Valero-Cuevas Ph.D.
-<img src="../Photos/francisco.jpg"  height="160px" /><br>
+<img src="../img/francisco.jpg"  width="100%" /><br>
 <a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
 
 *Francisco's Bio*  
@@ -35,19 +36,13 @@ Fax: (213) 821-5696
 
 
 -------------------------------------------
+<br>
+
 
 
 ## Lab Members
 
 <ul class="flex-container">
-	<li class="flex-item">
-		<a name="alimarjaninejad"></a>
-		<img src="../Photos/ali.jpg" height="150px"/><br>
-		<font size="3"><b>Ali Marjaninejad</b></font><br>
-		<font size="3">BME PhD student</font><br>
-		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-		Researching biomedical signal processing, neuroscience, and brain machine interfaces.
-	</li>
 
 	<li class="flex-item">
 		<a name="chrislaine"></a>
@@ -77,12 +72,38 @@ Fax: (213) 821-5696
 	</li>
 
 	<li class="flex-item">
+	<a name="jasmineberry"></a>
+	<img src="../Photos/jasmine.jpg" height="150px"/><br>
+	<font size="3"><b>Jasmine Berry</b></font><br>
+	<font size="3">BME PhD student</font><br>
+	<a href="mailto:jasminab@usc.edu" target="_top">jasminab@usc.edu</a><br>
+	Examining opportunities at the intersection of biomechanics and computational modeling.
+	</li>
+
+	<li class="flex-item">
 		<a name="kianjalaleddini"></a>
 		<img src="../Photos/kian1.jpg"><br>
 		<font size="3"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
 		<font size="3">Post-doc</font><br>
 		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a><br>
 		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.
+	</li>
+
+	<li class="flex-item">
+	<a name="priyankavachhani"></a>
+	<img src="../Photos/priyanka.jpg" height="150px" /><br>
+	<font size="3"><b>Priyanka Vachhani</b></font><br>
+	<font size="3">INF MS student</font><br>
+	<a href="mailto:pvachhan@usc.edu" target="_top">pvachhan@usc.edu</a><br>
+	</li>
+
+	<li class="flex-item">
+	<a name="alimarjaninejad"></a>
+	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<font size="3"><b>Ali Marjaninejad</b></font><br>
+	<font size="3">BME PhD student</font><br>
+	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
 	</li>
 
 	<li class="flex-item">
@@ -112,14 +133,6 @@ Fax: (213) 821-5696
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.
 	</li>
 
-	<li class="flex-item">
-		<a name="jasmineberry"></a>
-		<img src="../Photos/jasmine.jpg" height="150px"/><br>
-		<font size="3"><b>Jasmine Berry</b></font><br>
-		<font size="3">BME PhD student</font><br>
-		<a href="mailto:jasminab@usc.edu" target="_top">jasminab@usc.edu</a><br>
-		Examining opportunities at the intersection of biomechanics and computational modeling.
-	</li>
 
 	<li class="flex-item">
 		<a name="victoresparza"></a>
@@ -135,30 +148,24 @@ Fax: (213) 821-5696
 		<font size="3"><b><a href="http://seba1511.com">Séb Arnold</a></b></font><br>
 		<font size="3">CS/Math undergrad</font><br>
 		<a href="mailto:arnolds@usc.edu" target="_top">arnolds@usc.edu</a><br>
-		Mathematical Optimization for Deep Reinforcement Learning.<br>
+		Researching artificial intelligence, distributed systems, and mathematical optimization.<br>
 	</li>
 
 	<li class="flex-item">
 		<a name="taegyumkim"></a>
 		<img src="../Photos/taegyum.jpg" height="150px" /><br>
 		<font size="3"><b>Taegyum Kim</b></font><br>
-		<font size="3">CS undergrad</font><br>
+		<font size="3">Computer Science Graduate (USC)</font><br>
+		Focused on API development and interface development.</font><br>
 		<a href="mailto:taegyumk@usc.edu" target="_top">taegyumk@usc.edu</a><br>		
 	</li>
 
-	<li class="flex-item">
-		<a name="priyankavachhani"></a>
-		<img src="../Photos/priyanka.jpg" height="150px" /><br>
-		<font size="3"><b>Priyanka Vachhani</b></font><br>
-		<font size="3">INF MS student</font><br>
-		<a href="mailto:pvachhan@usc.edu" target="_top">pvachhan@usc.edu</a><br>
-	</li>
 
 	<li class="flex-item">
 		<a name="theodenisart"></a>
 		<img src="https://user-images.githubusercontent.com/4623063/27665013-8ce946c0-5c1f-11e7-890f-c7a038bb03c9.jpg" height="150px" /><br>
 		<font size="3"><b>Théo Denisart</b></font><br>
-		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology) interested in designing bio-inspired systems and novel mechanical designs. Working on a tendon driven systems.​</font><br>
+		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems and novel mechanical designs. Working on a tendon driven systems.​ <br>
 		<a href="mailto:pvachhan@usc.edu" target="_top">theo-tim.denisart@epfl.ch</a><br>
 	</li>
 </ul>
@@ -166,8 +173,7 @@ Fax: (213) 821-5696
 
 # Current Interns  
 
-<a href="./Prospective/"> Information for Prospective Interns</a>
-
+<a href="./Prospective/"> Information for Prospective Interns</a>  
 <b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
 <b>Shaohui Quian</b> - EE Masters Student  
 <b>Niharika Singh</b> - BME Masters Student  

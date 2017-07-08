@@ -379,7 +379,10 @@ h1 {
   font-size: 20px; }
 
 p {
-  padding: 20px 0; }
+  padding: 20px 0;
+  font-family: "chaparral-pro-caption",serif;
+  font-style: normal;
+  font-weight: 300; }
 
 .show-more {
   padding: 20px 0;

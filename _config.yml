@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Brain Body Dynamics Lab
+title: ValeroLab
 email: valero@usc.edu
 description: > # this means to ignore newlines until "baseurl:"
-  The Brain Body Dynamics Laboratory of the University of Southern California. Principal Investigator: Francisco Valero-Cuevas
+  ValeroLab
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://valerolab.org" # the base hostname & protocol for your site
 
