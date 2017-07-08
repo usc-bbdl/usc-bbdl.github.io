@@ -4,21 +4,37 @@ title: Publications
 permalink: /publications/
 menu: main
 ---
-
-
+<!-- Clipboard copier -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
+<script>
+var clipboard = new Clipboard('.btn');
+clipboard.on('success', function(e) {
+    console.log(e);
+});
+clipboard.on('error', function(e) {
+    console.log(e);
+});
+</script>
+
+<!-- end Clipboard copier -->
+
+
 <style>
 paper_authors {font-size: 10px; color: '#e8e8e8'}
 journal_info {font-size: 10px; color: '#fff000'}
-td.b {font-size: 18px; font-weight: bold;}
+.article_title {font-size: 18px; font-weight: bold;}
 </style>
 
 
 
 {% for paper in site.data.publications %}
-  <p>{{paper.Author}}</p>
-  <p>{{paper.Title}}</p>
-  <p>{{Paper.BibTex\ Citation}}<p>
+  <a class="article_title" href="{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
+  <br>
+  <paper_authors>{{paper.Author}}</paper_authors>
+  <p><p>
+  <button class="btn" data-clipboard-text="{{paper.BibTex}}">
+    Copy BibTex
+  </button>
 {% endfor %}
 
 
