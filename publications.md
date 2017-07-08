@@ -5,6 +5,12 @@ permalink: /publications/
 menu: main
 ---
 
+<style>
+paper_title {font-size: 18px; font-weight: bold;}
+paper_authors {font-size: 10px; color: '#e8e8e8'}
+journal_info {font-size: 10px; color: '#fff000'}
+</style>
+
 
 <div data-role="page" id="pageone">
 
@@ -21,10 +27,16 @@ menu: main
       </thead>
       <tbody>
 
-        <tr>
-          <td>Von Walden F, Jalaleddini K, Evertsson B, Friberg J, Valero-Cuevas FJ, Ponten E.  <br>
-              <b>Forearm flexor muscles in children with cerebral palsy are weak, thin and stiff. </b> <br>
-              Frontiers in Computational Neuroscience, 11, 2017.</td>
+        <tr><td>
+          <paper_authors>Von Walden F, Jalaleddini K, Evertsson B, Friberg J, Valero-Cuevas FJ, Ponten E.</paper_authors>  <br>
+              <paper_title>
+              Forearm flexor muscles in children with cerebral palsy are weak, thin and stiff.
+              </paper_title>
+              <br>
+              <journal_info>
+              Frontiers in Computational Neuroscience, 11, 2017.
+              </journal_info>
+              </td>
           <td><a href="https://usc-bbdl.github.io/Papers/2017WaldenFrontiers.pdf">Link</a></td>
           <td></td>
           <td>2017</td>
@@ -233,7 +245,6 @@ menu: main
       </table>
     </div>
   </div>
-
   <div>
       <div>
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
