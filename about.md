@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 menu: main
 ---
-<!-- TypeKit -->
-  <script src="https://use.typekit.net/hgo4odf.js"></script>
-  <script>try{Typekit.load({ async: true });console.log('loaded');}catch(e){}</script>
-<!-- TypeKit -->
 
 <style>
 .profile {width:}
