@@ -28,13 +28,12 @@ journal_info {font-size: 10px; color: '#fff000'}
 
 
 {% for paper in site.data.publications %}
-  <a class="article_title" href="{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
-  <br>
+  <a class="article_title" href="./{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
   <paper_authors>{{paper.Author}}</paper_authors>
-  <p><p>
   <button class="btn" data-clipboard-text="{{paper.BibTex}}">
     Copy BibTex
   </button>
+  <br>
 {% endfor %}
 
 
