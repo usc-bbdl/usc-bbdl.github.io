@@ -41,9 +41,6 @@ journal_info {font-size: 10px; color: '#fff000'}
 
 
 
-
-
-
 <a>
     <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location.href=this.options[this.selectedIndex].value;this.options[0].selected;" style="width:300px;font-size:16px;border:none;-webkit-appearance:none; color: 'blue'" >
         <option value="">Click here for Extended Publications</option>
