@@ -171,7 +171,7 @@ Fax: (213) 821-5696
 
 # Current Interns  
 
-<a href="../Prospective/"> Information for Prospective Interns</a>  
+<a href="../work/"> Information for Prospective Interns</a>  
 <b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
 <b>Shaohui Quian</b> - EE Masters Student  
 <b>Niharika Singh</b> - BME Masters Student  
