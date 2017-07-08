@@ -4,26 +4,11 @@ title: Publications
 permalink: /publications/
 menu: main
 ---
-<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
-<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-<style>
-th
-{
-border-bottom: 1px solid #d6d6d6;
-}
-tr:nth-child(even)
-{
-background:#e9e9e9;
-}
-</style>
+
 
 <div data-role="page" id="pageone">
 
   <div data-role="main" class="ui-content">
-    <form>
-      <input id="filterTable-input" data-type="search" placeholder="Search For Publications...">
-    </form>
 
     <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input">
       <thead>
@@ -84,11 +69,6 @@ background:#e9e9e9;
     </table>
 
     <div>
-      <div>
-        <b>2016</b>
-        <a id="toggleButton2016" onclick="toggleText2016();" href="javascript:void(0);">See More</a>
-      </div>
-
       <div id="HiddenArea2016" style="display: none;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
@@ -162,10 +142,7 @@ background:#e9e9e9;
   </div>
 
   <div>
-      <div>
-        <b>2015</b>
-        <a id="toggleButton2015" onclick="toggleText2015();" href="javascript:void(0);">See More</a>
-      </div>
+
 
       <div id="HiddenArea2015" style="display: none;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
@@ -258,11 +235,6 @@ background:#e9e9e9;
   </div>
 
   <div>
-      <div>
-        <b>2013-2014</b>
-        <a id="toggleButton2014" onclick="toggleText2014();" href="javascript:void(0);">See More</a>
-      </div>
-
       <div id="HiddenArea2014" style="display: none;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
@@ -399,10 +371,6 @@ background:#e9e9e9;
   </div>
 
   <div>
-      <div>
-        <b>2010-2012</b>
-        <a id="toggleButton2012" onclick="toggleText2012();" href="javascript:void(0);">See More</a>
-      </div>
 
       <div id="HiddenArea2012" style="display: none;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
@@ -558,11 +526,6 @@ background:#e9e9e9;
   </div>
 
   <div>
-      <div>
-        <b>2006-2009</b>
-        <a id="toggleButton2009" onclick="toggleText2009();" href="javascript:void(0);">See More</a>
-      </div>
-
       <div id="HiddenArea2009" style="display: none;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
       <thead>
@@ -735,10 +698,7 @@ background:#e9e9e9;
   </div>
 
   <div>
-      <div>
-        <b>2005 and previous</b>
-        <a id="toggleButton2005" onclick="toggleText2005();" href="javascript:void(0);">See More</a>
-      </div>
+
 
       <div id="HiddenArea2005" style="display: none;">
       <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" data-filter="true" data-input="#filterTable-input">
@@ -903,96 +863,3 @@ aper.</td>
   </div> -->
 
 </div>
-
-<script language="javascript">
-var status2016 = "less";
-
-function toggleText2016()
-{
-    if (status2016 == "less") {         
-        document.getElementById("HiddenArea2016").style.display="block";
-        document.getElementById("toggleButton2016").innerText = "See Less";
-        status2016 = "more";
-    } else if (status2016 == "more") {
-        document.getElementById("HiddenArea2016").style.display="none";
-        document.getElementById("toggleButton2016").innerText = "See More";
-        status2016 = "less"
-    }
-}
-
-var status2015 = "less";
-
-function toggleText2015()
-{
-    if (status2015 == "less") {         
-        document.getElementById("HiddenArea2015").style.display="block";
-        document.getElementById("toggleButton2015").innerText = "See Less";
-        status2015 = "more";
-    } else if (status2015 == "more") {
-        document.getElementById("HiddenArea2015").style.display="none";
-        document.getElementById("toggleButton2015").innerText = "See More";
-        status2015 = "less"
-    }
-}
-
-var status2014 = "less";
-
-function toggleText2014()
-{
-    if (status2014 == "less") {         
-        document.getElementById("HiddenArea2014").style.display="block";
-        document.getElementById("toggleButton2014").innerText = "See Less";
-        status2014 = "more";
-    } else if (status2014 == "more") {
-        document.getElementById("HiddenArea2014").style.display="none";
-        document.getElementById("toggleButton2014").innerText = "See More";
-        status2014 = "less"
-    }
-}
-
-var status2012 = "less";
-
-function toggleText2012()
-{
-    if (status2012 == "less") {         
-        document.getElementById("HiddenArea2012").style.display="block";
-        document.getElementById("toggleButton2012").innerText = "See Less";
-        status2012 = "more";
-    } else if (status2012 == "more") {
-        document.getElementById("HiddenArea2012").style.display="none";
-        document.getElementById("toggleButton2012").innerText = "See More";
-        status2012 = "less"
-    }
-}
-
-var status2009 = "less";
-
-function toggleText2009()
-{
-    if (status2009 == "less") {         
-        document.getElementById("HiddenArea2009").style.display="block";
-        document.getElementById("toggleButton2009").innerText = "See Less";
-        status2009 = "more";
-    } else if (status2009 == "more") {
-        document.getElementById("HiddenArea2009").style.display="none";
-        document.getElementById("toggleButton2009").innerText = "See More";
-        status2009 = "less"
-    }
-}
-
-var status2005 = "less";
-
-function toggleText2005()
-{
-    if (status2005 == "less") {        
-        document.getElementById("HiddenArea2005").style.display="block";
-        document.getElementById("toggleButton2005").innerText = "See Less";
-        status2005 = "more";
-    } else if (status2005 == "more") {
-        document.getElementById("HiddenArea2005").style.display="none";
-        document.getElementById("toggleButton2005").innerText = "See More";
-        status2005 = "less"
-    }
-}
-
-</script>
