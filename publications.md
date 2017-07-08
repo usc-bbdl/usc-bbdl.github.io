@@ -6,10 +6,17 @@ menu: main
 ---
 <!-- Clipboard copier -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/notify/0.4.2/notify.min.js"></script>
+<script
+  src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+  integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
+  crossorigin="anonymous"></script>
+
 <script>
 var clipboard = new Clipboard('.btn');
 clipboard.on('success', function(e) {
     console.log(e);
+    $(".btn").notify("Copied to Clipboard");
 });
 clipboard.on('error', function(e) {
     console.log(e);
@@ -17,6 +24,7 @@ clipboard.on('error', function(e) {
 </script>
 
 <!-- end Clipboard copier -->
+
 
 
 <style>
@@ -30,9 +38,11 @@ journal_info {font-size: 10px; color: '#fff000'}
 {% for paper in site.data.publications %}
   <a class="article_title" href="./{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
   <paper_authors>{{paper.Author}}</paper_authors>
+
   <button class="btn" data-clipboard-text="{{paper.BibTex}}">
     Copy BibTex
   </button>
+
   <br>
 {% endfor %}
 
