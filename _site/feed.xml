@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Brain Body Dynamics Lab</title>
-    <description>The Brain Body Dynamics Laboratory of the University of Southern California. Principal Investigator: Francisco Valero-Cuevas
+    <title>ValeroLab</title>
+    <description>ValeroLab
 </description>
     <link>http://valerolab.org/</link>
     <atom:link href="http://valerolab.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Jul 2017 00:52:53 -0700</pubDate>
-    <lastBuildDate>Sat, 08 Jul 2017 00:52:53 -0700</lastBuildDate>
+    <pubDate>Sat, 08 Jul 2017 01:03:00 -0700</pubDate>
+    <lastBuildDate>Sat, 08 Jul 2017 01:03:00 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>

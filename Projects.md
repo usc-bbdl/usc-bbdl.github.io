@@ -24,8 +24,8 @@ menu: main
 		<b>Uncovering muscle strategies across health and disease.</b><br>
 		<a href="../about/#chrislaine">Chris Laine Ph.D.</a>, <a href="../about/#akiranagamori">Akira Nagamori</a> <br>
 		Working with Parkinson's Disease patients to better understand how the descending cortical drive collaborates across muscles.<br>
-		<b>Related Publications:</b>  <br>
-		<a href="../Papers/2016FrontComputNeuroscLaine.pdf">The Dynamics of Voluntary Force Production in Afferented Muscle Influence Involuntary Tremor</a>
+		Related Publication:  <br>
+		<a class="small_reference" href="../Papers/2016FrontComputNeuroscLaine.pdf">The Dynamics of Voluntary Force Production in Afferented Muscle Influence Involuntary Tremor</a>
 	</li>
 
 	<li class="flex-item-project">

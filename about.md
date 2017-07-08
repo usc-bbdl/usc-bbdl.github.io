@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 menu: main
 ---
-
+<style>
+.profile {width:}
+</style>
 
 <a name="Francisco"></a>  
 
@@ -33,7 +35,6 @@ Fax: (213) 821-5696
 
 -------------------------------------------
 <br>
-
 
 
 ## Lab Members
@@ -117,7 +118,7 @@ Fax: (213) 821-5696
 		<font size="3"><b>Jun Yong Shin</b></font><br>
 		<font size="3">Post-doc</font><br>
 		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
-		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time. This will ameliorate data collection and analysis across multiple areas of kinesiology.   
+		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time.   
 	</li>
 
 	<li class="flex-item">
@@ -161,7 +162,7 @@ Fax: (213) 821-5696
 		<a name="theodenisart"></a>
 		<img src="https://user-images.githubusercontent.com/4623063/27665013-8ce946c0-5c1f-11e7-890f-c7a038bb03c9.jpg" height="150px" /><br>
 		<font size="3"><b>Théo Denisart</b></font><br>
-		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems and novel mechanical designs. Working on a tendon driven systems.​ <br>
+		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems and novel mechanical designs. Working on a tendon driven system.​ <br>
 		<a href="mailto:pvachhan@usc.edu" target="_top">theo-tim.denisart@epfl.ch</a><br>
 	</li>
 </ul>

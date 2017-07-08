@@ -42,7 +42,7 @@ menu: main2
           <th data-priority="3">Year</th>
         </tr>
       </thead>
-      
+
       <tbody>
 
         <tr>
@@ -233,4 +233,3 @@ menu: main2
     <h1>USC BBDL</h1>
   </div>
 </div>
-    
