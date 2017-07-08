@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 14px/1.5 "chaparral-pro-caption", Helvetica, Arial, sans-serif;
+  font: 400 14px/1.5 "chaparral-pro-caption", serif;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
