@@ -6,9 +6,9 @@ menu: main2
 ---
 
 <head>
-  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
-  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+  <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
   <style>
     th
     {
@@ -27,7 +27,7 @@ menu: main2
   <div data-role="header">
     <h1>Abstracts</h1>
   </div>
-  
+
   <div data-role="main" class="ui-content">
    <!--  <form>
       <input id="filterTable-input" data-type="search" placeholder="Search For Publications...">
