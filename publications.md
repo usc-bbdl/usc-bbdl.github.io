@@ -11,12 +11,23 @@ journal_info {font-size: 10px; color: '#fff000'}
 td.b {font-size: 18px; font-weight: bold;}
 </style>
 
+<a>
+    <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location.href=this.options[this.selectedIndex].value;this.options[0].selected;" style="width:300px;font-size:16px;border:none;-webkit-appearance:none; color: 'blue'" >
+        <option value="">Click here for Extended Publications</option>
+        <option value="https://usc-bbdl.github.io/fulllengthpeerreviewedabstracts/">Full-Length Peer-Reviewed Abstracts</option>
+        <option value="https://usc-bbdl.github.io/peerreviewedabstracts/">Peer-Reviewed Abstracts</option>
+        <option value="https://usc-bbdl.github.io/abstracts/">Abstracts</option>
+        <option value="https://usc-bbdl.github.io/bookchpt/">Book Chapters</option>
+        <option value="https://usc-bbdl.github.io/invitedsymposia/">Invited Symposia</option>
+        <option value="https://usc-bbdl.github.io/dissertation_theses/">Dissertations & Theses</option>
+    </select>
+  </a>
 
 <div data-role="page" id="pageone">
 
   <div data-role="main" class="ui-content">
 
-    <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input">
+    <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input" style="width: 100%;">
       <thead>
         <tr>
           <th>Citation</th>
