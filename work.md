@@ -11,7 +11,7 @@ I am always interested in outstanding, motivated and mature students from all ov
 
 >We have opportunities for prospective students in PhD, Masters, and Undergraduate positions
 
-#### Formal ValeroLab Application for Pursuit of a Ph.D.— [FAQ](#doctoral-faq)  
+#### Formal ValeroLab Application for Pursuit of a Ph.D.  
 Submit the following to valero@usc.edu in a single PDF document.  
 
 >• Explain why you are interested in our research, and refer to our papers in your explanation. (paragraph)  
