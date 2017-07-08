@@ -49,7 +49,7 @@ menu: main2
           <td>Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ. <br>
               <b>"Dynamic fingertip force variability in individuals with ParkinsonÕs disease."</b> <br>
               Hand Rehabilitation Section, American Physical Therapy Association Combined Sections Meeting, Anaheim, CA, Feb 17-20, 2016.</td>
-          <td><a href="https://usc-bbdl.github.io/Papers/Ko2016Dynamic.pdf">Link</a></td>
+          <td><a href="../Papers/Ko2016Dynamic.pdf">Link</a></td>
           <td></td>
           <td>2016</td>
         </tr>
