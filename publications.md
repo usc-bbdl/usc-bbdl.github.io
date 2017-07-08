@@ -5,11 +5,28 @@ permalink: /publications/
 menu: main
 ---
 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
 <style>
 paper_authors {font-size: 10px; color: '#e8e8e8'}
 journal_info {font-size: 10px; color: '#fff000'}
 td.b {font-size: 18px; font-weight: bold;}
 </style>
+
+
+
+{% for paper in site.data.publications %}
+  <p>{{paper.Author}}</p>
+  <p>{{paper.Title}}</p>
+  <p>{{Paper.BibTex\ Citation}}<p>
+{% endfor %}
+
+
+
+
+
+
+
 
 <a>
     <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location.href=this.options[this.selectedIndex].value;this.options[0].selected;" style="width:300px;font-size:16px;border:none;-webkit-appearance:none; color: 'blue'" >
@@ -872,6 +889,8 @@ aper.</td>
       </table>
     </div>
   </div>
+
+
 
 
     <!--   
