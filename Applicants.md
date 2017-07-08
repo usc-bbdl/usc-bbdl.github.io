@@ -1,67 +1,63 @@
 ---
 layout: page
-title: Applicants
-permalink: /Prospective/
+title: Work with us
+permalink: /work/
 menu: main
 ---
 
-Pre- and Postdoctoral positions in the Brain-Body Dynamics Laboratory
-
-<b>Postdoctoral position in the Brain-Body Dynamics Lab. Please click <a href="https://usc-bbdl.github.io/Positions">here</a>.</b>
-
-<b>Postdoctoral positions in TREET Postdoctoral Training Program. Please click <a href="http://chan.usc.edu/">here</a>.</b>
 
 
-Thank you for your interest. I am always interested in outstanding, motivated and mature students from all over the world from the fields of Mechanics, Mathematics, Neuroscience, Physical Therapy, Computer Science and related areas to contribute to our lab.
+I am always interested in outstanding, motivated and mature students from all over the world from the fields of Mechanics, Mathematics, Neuroscience, Physical Therapy, Computer Science and related areas to contribute to our lab. Choosing a PhD research direction is a big commitment in life. Maturity, understanding your goals in life, and motivation are as necessary to a successful PhD as is intellectual ability. Therefore, plan accordingly and only apply to labs that truly meet your goals.
 
-Most of all, I enjoy students interested in bridging the Mathematics-Biology-Medicine divide (I put engineering inside the Mathematics). They must be very strong in at least one of those areas, and have interest in the other two.
+>We have opportunities for prospective students in PhD, Masters, and Undergraduate positions
 
-<b>Are you interested in our Lab?</b> Choosing a PhD research direction is a big commitment in life. Maturity, understanding your goals in life, and motivation are as necessary to a successful PhD as is intellectual ability. Therefore, plan accordingly and only apply to labs that truly meet your goals.
+#### Formal ValeroLab Application for Pursuit of a Ph.D.— [FAQ](#doctoral-faq)  
+Submit the following to valero@usc.edu in a single PDF document.  
 
-We study how the sensorimotor processes in the brain control the body to produce versatile function in the context of the physical world. We study this in the context of motor skill and disability in humans, as well as innovative machines. I emphasize combining (i) analytical, (ii) computational, and (iii) experimental, approaches, tools, and goals. For example, we develop computational modeling tools and approaches. We study analytical approaches to sensorimotor function. We build machines, robots and instrumentation. We do behavioral experimental work with healthy subjects, clinical populations, and people with uncommon skill and disabilities. We run clinical trials.
+>• Explain why you are interested in our research, and refer to our papers in your explanation. (paragraph)  
+• Statement of Intent. Describe your goals and how ValeroLab plays into your vision for your own personal and professional growth (page)  
+• GPA, GRE, Class Rank, and TOEFL (attached or printed inline)  
+• Describe your prior research experience and why your prior research aligns you to produce great research in the future at our lab.(page)  
+• Prior publications (attached) (if available)  
+• Two references who can speak on behalf of your research capability and collaborative affability. (Contact Information)  
+• Webpage, CV, Resume, or Portfolio (attached or linked):  
+• Where do you fit into the intersection of Mathematics + Biology + Medicine? (paragraph)  
+• Which of those categories do you serve to improve upon the most? and why? (paragraph)  
+• Describe two technical skills that you aim to master as a result of pursuing a PhD in the lab. (paragraph)  
+• Describe two interpersonal skills that you aim to master as a result of pursuing a PhD in the lab. (paragraph)  
+• If you are a woman or member of an underrepresented minority in science, technology, engineering or mathematics, please make sure you mention that.
 
-To apply to our lab you do not need to be excellent at all three (that is what the PhD should do), but you need to be outstanding in at least one, and proficient in a second.
+### What projects are available?  
+As Ph.D. students are training to be independent thinkers, they are responsible for instigating new directions for their research. If our previous research literature excites you, we'll work together on crafting a new project for you.
 
-<b>What projects are available?</b> The research must necessarily be associated with our ongoing funded projects (explore our website), but PhD students drive their own research because they are training to be independent thinkers and researchers. So, if our previous research excites you, we'll work together on finding a new project for you.
+#What do Ph.D. Students acheive during their work in ValeroLab?
+We study how the sensorimotor processes in the brain control the body to produce versatile function in the context of the physical world. We study this in the context of motor skill and disability in humans, as well as innovative machines. I emphasize combining (i) analytical, (ii) computational, and (iii) experimental, approaches, tools, and goals. For example, we develop computational modeling tools and approaches. We study analytical approaches to sensorimotor function. We build machines, robots and instrumentation. We do behavioral experimental work with healthy subjects, clinical populations, and people with uncommon skill and disabilities. We often bring our projects into clinical trials and industry collaborations.
 
-<b>PhD positions</b> are available either through Biomedical Engineering, Mechanical Engineering, and Computer Science Departments, the Division of Biokinesiology and Physical Therapy, and the Neuroscience Graduate Program, among others. I usually recruit about 1-2 new PhD students every year. <b>Our admissions committees make the initial admission decision based on student quality, and individual professors make decisions for those admitted students based on matching interest and financial support (See below).</b>
-
-<b>Informal inquiries for graduate studies.</b> At USC, graduate admissions are handled by committee, not individually by faculty member. You are welcome to contact me directly if you have specific questions about research in the lab, or about how your own interests might line up with lab activities and plans (see below). If you decide to apply, you will need to do so formally through the graduate admissions offices of the departments, divisions and programs at USC. Once you have decided to apply, you should concentrate on making sure that your strengths are evident from your application. For example, if you have done any prior research, and especially if you have authored any international publications, be sure to point that out. Needless to say, admissions are very competitive at USC, and I can only recruit into the Lab very few of those very best students that are admitted.
-
-<b>If you want to contact me.</b> I get hundreds of e-mail inquiries per year. For me to be able to respond to you, I strongly suggest you include the following information. 
-
-•	Please explain succinctly why you are interested in our lab. To be specific, please let me know which of our papers you have read, and describe why at least one of them is of particular interest to you. 
-
-•	Please let me know which skill set is strongest in you, and why you want to build up the other two (remember: (i) analytical, (ii) computational, and (iii) experimental). 
-
-•	Please be very clear why you want to be in our lab as opposed to any of the thousands of other research/clinical labs in the world. 
-
-•	Please do not send me PDF’s, word files, etc, unless I request them. I rarely open files from people I do not know, and delete many of them because we have limited mail storage space. If you have a user-friendly webpage, feel free to point me to it. 
-
-<b>Formal applications.</b> We look at hundreds of applications every year. Here are some ideas that might help your application stand out (at least for me): 
-
-•	When you write your statement of purpose, write clearly and at the beginning, what specific areas in which you are interested. 
-
-•	If you found specific Professors you might like to work with, mention their names explicitly. This helps assure they will pay close attention to your application. 
-
-•	Highlight any prior research experience you have. Try to have a research publication submitted to an international conference or journal, and provide a URL to it. Few students have this pre-PhD, so having a publication will definitely make you stand out. 
-
-•	State your rank within your class and the rank of your university within your country, if not in the US. 
-
-•	Be sure to include references who can talk about your research ability, not just about your personality and motivation, although these are important too. 
-
-•	Practice, take and retake the GRE (and any other standardized tests like TOEFL, etc). Practice makes perfect, and you are competing against people with near-perfect scores. 
-
-•	Work on your GPA early in your undergraduate degree. Once again, you will be competing against people with near-perfect grades. 
-
-<b>Financial support.</b> Outstanding applicants deserve support, and the units of USC mentioned above have mechanisms for this, as well as my ongoing projects.
-
-However, if you are able to obtain support (scholarships, etc) from a Foundation (American Heart Association, Hertz, Gates, etc.) or Government agency in the US (NSF Graduate Research Fellowship, NIH) or your country of origin (CONACYT in Mexico, DFG in Germany, EU in Europe, etc), be sure to do so. It demonstrates maturity and commitment to the PhD career. Once again, our admissions committee makes the initial decision based on student quality, and individual professors make decisions based on funding for those admitted students.
-
-If you are a woman or member of an underrepresented minority in science, technology, engineering or mathematics, please make sure you mention that. USC is an equal opportunity institution. See the NSF <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=116094">link</a> if you want to learn more about this topic.
-
-Thank you for your interest, and best of luck!
+### How does Ph.D. student admission work with ValeroLab and with USC?  
+At USC, graduate admissions are handled by committee, not individually by faculty member. If you have specific questions about research in the lab, or about how your own interests might line up with lab activities and plans, you are welcome to contact me directly. If you decide to apply to USC and ValeroLab, you must submit a formal application (see above) to ValeroLab well before you submit your final application to USC. For the USC application, you will need to submit through the graduate admissions offices of the departments, division, or programs at USC.
 
 
+### Financial Support for Ph.D. students
+Outstanding applicants deserve support, and the units of USC mentioned above have mechanisms for this, as well as my ongoing projects.
 
--------------------------------------------
+# Masters and Undergraduate Opportunities FAQ
+1. Project Internships: Individual students can apply to work in the lab. Accepted applicants are matched to a project to be completed over the course of one or two semesters, in collaboration with Ph.D. students, Post-Docs, visiting scientists, and fellow Masters and Undergraduate students. These projects culminate in a conference abstract or proceeding, and often lead to publications within the lab.
+1. Undergraduate Group Capstone Project: This is run through the USC Computer Science Department, where 4-5 students form a team to produce a deliverable to the neurobiological community by the end of one semester. Contact valero@usc.edu if you are interested in forming a team to pursue research as a part of your graduation requirement and include the following information:
+>Name:  
+Year:
+Attached CV/Resume and Unofficial Transcript:
+Explain why you are interested in our research, and refer to specific papers that you were intrigued by. (paragraph)  
+Specific Skills to gain as a part of this project:
+If you are a woman or member of an underrepresented minority in science, technology, engineering or mathematics, please make sure you mention that.
+
+# External Collaboration Proposals
+We typically host 1-2 students or visiting scientists to participate in the lab on an interdisciplinary project. These projects typically culminate in a conference abstract and/or publication of the research findings. To submit a proposal, include the following information in an email to valero@usc.edu.
+
+
+>Name:  
+Institution:
+Attached CV/Resume:  
+Project Aim:  
+Methods:  
+People within ValeroLab to involve:  
+If you are a woman or member of an underrepresented minority in science, technology, engineering or mathematics, please make sure you mention that.

@@ -21,16 +21,12 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 -------------------------------------------  
 
-
-```
-Brain Body Dynamics Lab  
-Ronald Tutor Hall, RTH-421  
+>Ronald Tutor Hall, RTH-421  
 3710 S. McClintock Ave  
-Los Angeles, CA 90089-2905, USA
-
-Phone: (213) 740-4219  
+Los Angeles, CA 90089-2905, USA  
+(213) 740-4219   
 Fax: (213) 821-5696
-```
+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.924975500565!2d-118.29214788478588!3d34.02013668061464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7fc9ad4d9bd%3A0x7f0dfd17fcb6ec29!2s3710+McClintock+Ave%2C+Los+Angeles%2C+CA+90089!5e0!3m2!1sen!2sus!4v1453572044486" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -173,7 +169,7 @@ Fax: (213) 821-5696
 
 # Current Interns  
 
-<a href="./Prospective/"> Information for Prospective Interns</a>  
+<a href="../Prospective/"> Information for Prospective Interns</a>  
 <b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
 <b>Shaohui Quian</b> - EE Masters Student  
 <b>Niharika Singh</b> - BME Masters Student  
