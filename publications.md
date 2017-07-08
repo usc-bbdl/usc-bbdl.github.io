@@ -6,9 +6,9 @@ menu: main
 ---
 
 <style>
-paper_title {font-size: 18px; font-weight: bold;}
 paper_authors {font-size: 10px; color: '#e8e8e8'}
 journal_info {font-size: 10px; color: '#fff000'}
+td.b {font-size: 18px; font-weight: bold;}
 </style>
 
 
