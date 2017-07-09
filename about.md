@@ -140,7 +140,7 @@ Fax: (213) 821-5696
 
 	<li class="flex-item">
 		<a name="sebarnold"></a>
-		<img src="../Photos/seb.png" height="150px" /><br>
+		<img src="../Photos/sebastianarnolds.jpg" height="150px" /><br>
 		<font size="3"><b><a href="http://seba1511.com">Séb Arnold</a></b></font><br>
 		<font size="3">CS/Math undergrad</font><br>
 		<a href="mailto:arnolds@usc.edu" target="_top">arnolds@usc.edu</a><br>
@@ -167,19 +167,18 @@ Fax: (213) 821-5696
 
 	<li class="flex-item">
 		<a name="dariourbina"></a>
-		<img src="..Photos/dariourbina.jpg" width="100%" /><br>
-		<font size="3"><b>Théo Denisart</b></font><br>
-		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems and novel mechanical designs. Working on a tendon driven system.​ <br>
-		<a href="mailto:pvachhan@usc.edu" target="_top">theo-tim.denisart@epfl.ch</a><br>
+		<img src="../Photos/dariourbina.jpg" height="150px" /><br>
+		<font size="3"><b>Darío Urbina</b></font><br>
+		<font size="3">Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br></font>
+		<a href="mailto:pvachhan@usc.edu" target="_top">dario41tan@hotmail.com</a><br>
 	</li>
 </ul>
 
 
-# Current Interns  
-
+# Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
-<b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student
-<b>Melisa Osborne</b> - BME Undergraduate
+<b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
+<b>Melisa Osborne</b> - BME Undergraduate  
 <b>Shaohui Quian</b> - EE Masters Student  
 <b>Niharika Singh</b> - BME Masters Student  
 <b>Keegan Bate</b> - BME Masters Student  
@@ -217,7 +216,7 @@ Marta Mora-Aguilar—
 Robert Riener—
 Maria Makarov
 
-#Post Docs
+#Postdoctoral Alumni
 Srideep Musuvathy—Chandana Paul
 
 # Internship Alumni  
