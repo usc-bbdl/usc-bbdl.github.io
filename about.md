@@ -164,20 +164,29 @@ Fax: (213) 821-5696
 		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems and novel mechanical designs. Working on a tendon driven system.​ <br>
 		<a href="mailto:pvachhan@usc.edu" target="_top">theo-tim.denisart@epfl.ch</a><br>
 	</li>
+
+	<li class="flex-item">
+		<a name="dariourbina"></a>
+		<img src="..Photos/dariourbina.jpg" width="100%" /><br>
+		<font size="3"><b>Théo Denisart</b></font><br>
+		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems and novel mechanical designs. Working on a tendon driven system.​ <br>
+		<a href="mailto:pvachhan@usc.edu" target="_top">theo-tim.denisart@epfl.ch</a><br>
+	</li>
 </ul>
 
 
 # Current Interns  
 
 <a href="../work/"> Information for Prospective Interns</a>  
-<b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
+<b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student
+<b>Melisa Osborne</b> - BME Undergraduate
 <b>Shaohui Quian</b> - EE Masters Student  
 <b>Niharika Singh</b> - BME Masters Student  
 <b>Keegan Bate</b> - BME Masters Student  
 <b>Maral Kasiri</b> - BME Masters Student  
-<b>Taylor Stroobosscher</b> - Electrical Engineering undergrad  
-<b>Mayumi Ishikawa</b> -  Biomedical Engineering undergrad  
-<b>Brandon Miura</b> - Biomedical Engineering  
+<b>Taylor Stroobosscher</b> - EE undergrad  
+<b>Mayumi Ishikawa</b> -  BME undergrad  
+<b>Brandon Miura</b> - BME undergrad
 
 
 
@@ -212,9 +221,11 @@ Maria Makarov
 Srideep Musuvathy—Chandana Paul
 
 # Internship Alumni  
-
+<b>Rose Chiang</b> - BME Ph.D. in Rotation
+<b>Babak Taherian</b> - BME Masters Student  
+<b>Catherine Leigh Raquel</b> - Stanford Human Biology Undergraduate  
+<b>Catherine Parsekian</b> - Claremont McKenna Neuroscience Undergraduate  
 <b>Jiayang Miao</b> - CS Undergraduate  
-<b>	Babak Taherian</b> - BME Masters Student  
 <b>Feihong Qian</b> - CS Undergraduate  
 <b>Xingchen Liao</b> - CS Undergraduate  
 <b>Sloan Swieso</b> - CS Undergraduate  
