@@ -174,6 +174,9 @@ Fax: (213) 821-5696
 	</li>
 </ul>
 
+# Current Visiting Scientists
+<b>Anton Dogadov</b> - Grenoble INP-France PhD Student
+
 
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
