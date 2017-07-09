@@ -7,11 +7,23 @@ menu: main
 
 <style>
 .small_reference {font-size:10px}
+.project_pic_crop {
+    width: 100%;
+    height: 170px;
+    overflow: hidden;
+}
+.project_pic_crop {height:100%}
+
 </style>
 
 <ul class="flex-container">
 	<li class="flex-item-project">
-		<img src="../img/projects/cohn2017.gif"><br> <!-- the picture should be the project image -->
+
+		<div class="crop">
+			<img src="../img/projects/cohn2017.gif">
+		</div>
+
+		<br> <!-- the picture should be the project image -->
 	  	<b>Reverse engineering fingertip motor control</b><br>
 		<a href="../about/#briancohn">Brian Cohn</a>, <a href="../about/#kianjalaleddini">Kian Jalaleddini Ph.D.</a><br>
 		How do we learn to manipulate forces in spite of having squishy tendon-driven limbs? We are exploring how the mechanics of biology define the dimensionality of control. We achieve this with robotic and cadaveric studies, pulling on tendons, and identifying how muscle forces contribute to fingertip forces.<br>
@@ -20,7 +32,7 @@ menu: main
 	</li>
 
 	<li class="flex-item-project">
-		<img src="../img/projects/laine2017.jpg"><br>
+		<img class="project_pic" src="../img/projects/laine2017.jpg"><br>
 		<b>Uncovering muscle strategies across health and disease.</b><br>
 		<a href="../about/#chrislaine">Chris Laine Ph.D.</a>, <a href="../about/#akiranagamori">Akira Nagamori</a> <br>
 		Working with Parkinson's Disease patients to better understand how the descending cortical drive collaborates across muscles.<br>

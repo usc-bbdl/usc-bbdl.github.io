@@ -16,10 +16,8 @@ menu: main
 <a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
 
 *Francisco's Bio*  
-I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Masters Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.
-
-In 1991, I joined the doctoral program in the Design Division of the Mechanical Engineering Department at Stanford University. I worked with Dr. Felix Zajac developing a realistic biomechanical model of the human digits. This research, done at the Rehabilitation R & D Center in Palo Alto, focused on predicting optimal coordination patterns of finger musculature during static force production.  
-
+I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Masters Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.  <br>
+In 1991, I joined the doctoral program in the Design Division of the Mechanical Engineering Department at Stanford University. I worked with Dr. Felix Zajac developing a realistic biomechanical model of the human digits. This research, done at the Rehabilitation R & D Center in Palo Alto, focused on predicting optimal coordination patterns of finger musculature during static force production.    <br>
 After completing my doctoral degree in 1997, I joined the core faculty of the Biomechanical Engineering Division at Stanford University as a Research Associate and Lecturer. In 1999, I joined the faculty of the Sibley School of Mechanical and Aerospace Engineering at Cornell University as Assistant Professor, and was tenured in 2005. In 2007, I joined the faculty at the Department of Biomedical Engineering, and the Division of Biokinesiology & Physical Therapy at the University of Southern California as Associate Professor; where I was promoted to Full Professor in 2011. In 2013 I was elected Senior Member of the IEEE, and in 2014 to the College of Fellows of the American Institute for Medical and Biological Engineers.  
 
 -------------------------------------------  
@@ -48,7 +46,7 @@ Fax: (213) 821-5696
 		<font size="3"><b>Christopher Laine</b></font><br>
 		<font size="3">Research Assistant Professor</font><br>
 		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
-		Division of Biokinesiology and Physical Therapy. Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.
+		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.
 	</li>
 
 	<li class="flex-item">
@@ -84,7 +82,7 @@ Fax: (213) 821-5696
 		<font size="3"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
 		<font size="3">Post-doc</font><br>
 		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a><br>
-		Postdoc scholar interested in understanding the role of peripheral neuromuscular mechanisms in the control of posture and movement with a passion in signal processing and system identification.
+		Peripheral neuromuscular mechanisms in the control of posture and movement, leveraging signal processing and system identification.
 	</li>
 
 	<li class="flex-item">
@@ -119,7 +117,7 @@ Fax: (213) 821-5696
 		<font size="3"><b>Jun Yong Shin</b></font><br>
 		<font size="3">Post-doc</font><br>
 		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
-		Designing a wireless data collection system so signals from various sensors (such as accelerator, gyroscope, and load cells) are wirelessly transmitted to a mobile device for visualization of all waveforms in real time.   
+		Designing a wireless data collection system so real-time signals from various sensors are wirelessly transmitted to a mobile device for visualization.   
 	</li>
 
 	<li class="flex-item">
@@ -128,7 +126,7 @@ Fax: (213) 821-5696
 		<font size="3"><b>Daniel Hagen</b></font><br>
 		<font size="3">BME PhD student</font><br>
 		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>
-		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints. Observing how subtle changes in endpoint trajectories in a simple basketball shot can potentially alter accuracy.
+		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints.
 	</li>
 
 
@@ -214,11 +212,13 @@ Maria Makarov
 Srideep Musuvathy—Chandana Paul
 
 # Internship Alumni  
-<b>Jiayang Miao</b> - CS undergrad  
-<b>Feihong Qian</b> - CS undergrad  
-<b>Xingchen Liao</b> - CS undergrad  
-<b>Sloan Swieso</b> - CS undergrad  
-<b>John Pugliesi</b> - CS undergrad  
-<b>Cyrus Jia</b> - CS undergrad  
-<b>Noel Trivedi</b> - CS undergrad  
-<b>Elizabeth Chu</b> - CS undergrad  
+
+<b>Jiayang Miao</b> - CS Undergraduate  
+<b>	Babak Taherian</b> - BME Masters Student  
+<b>Feihong Qian</b> - CS Undergraduate  
+<b>Xingchen Liao</b> - CS Undergraduate  
+<b>Sloan Swieso</b> - CS Undergraduate  
+<b>John Pugliesi</b> - CS Undergraduate   
+<b>Cyrus Jia</b> - CS Undergraduate  
+<b>Noel Trivedi</b> - CS Undergraduate  
+<b>Elizabeth Chu</b> - CS Undergraduate   
