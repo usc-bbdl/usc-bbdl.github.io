@@ -152,7 +152,7 @@ Fax: (213) 821-5696
 		<img src="../Photos/taegyum.jpg" height="150px" /><br>
 		<font size="3"><b>Taegyum Kim</b></font><br>
 		<font size="3">Computer Science Graduate (USC)</font><br>
-		Focused on API development and interface development.</font><br>
+		Focused on API development and interface development.<br>
 		<a href="mailto:taegyumk@usc.edu" target="_top">taegyumk@usc.edu</a><br>		
 	</li>
 
