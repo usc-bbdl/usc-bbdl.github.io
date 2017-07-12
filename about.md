@@ -161,7 +161,7 @@ Fax: (213) 821-5696
 		<a name="theodenisart"></a>
 		<img src="https://user-images.githubusercontent.com/4623063/27665013-8ce946c0-5c1f-11e7-890f-c7a038bb03c9.jpg" height="150px" /><br>
 		<font size="3"><b>Théo Denisart</b></font><br>
-		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems and novel mechanical designs. Working on a tendon driven system.​ <br>
+		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems, novel mechanical designs, and evolutionary robotics.​ <br>
 		<a href="mailto:pvachhan@usc.edu" target="_top">theo-tim.denisart@epfl.ch</a><br>
 	</li>
 
