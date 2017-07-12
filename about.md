@@ -220,10 +220,10 @@ Robert Riener—
 Maria Makarov
 
 #Postdoctoral Alumni
-Srideep Musuvathy—Chandana Paul
+<b>Srideep Musuvathy</b>—Chandana Paul
 
 # Internship Alumni  
-<b>Rose Chiang</b> - BME Ph.D. in Rotation
+<b>Rose Chiang</b> - BME Ph.D. in Rotation  
 <b>Babak Taherian</b> - BME Masters Student  
 <b>Catherine Leigh Raquel</b> - Stanford Human Biology Undergraduate  
 <b>Catherine Parsekian</b> - Claremont McKenna Neuroscience Undergraduate  
