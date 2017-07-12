@@ -53,7 +53,7 @@ clipboard.on('error', function(e) {
   <div class="paper_author_p">
     <span class="paper_authors">{{paper.Author | upcase}}</span>
     <br>
-    <span class="journal_info">{{paper.Journal | upcase}}</span>
+    <span class="journal_info">{{paper.Year}}—{{paper.Journal | upcase}}</span>
 
     <button class="btn" data-clipboard-text="{{paper.BibTex}}">
       BIBTEX
