@@ -4,17 +4,9 @@ title: About
 permalink: /about/
 menu: main
 ---
-
-<style>
-.profile {width:}
-</style>
-
-<a name="Francisco"></a>  
-
 # PI: Francisco Valero-Cuevas Ph.D.
-<img src="../img/francisco.jpg"  width="100%" /><br>
 <a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
-
+<img src="../img/francisco.jpg"  width="100%" /><br>
 *Francisco's Bio*  
 I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Masters Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.  <br>
 In 1991, I joined the doctoral program in the Design Division of the Mechanical Engineering Department at Stanford University. I worked with Dr. Felix Zajac developing a realistic biomechanical model of the human digits. This research, done at the Rehabilitation R & D Center in Palo Alto, focused on predicting optimal coordination patterns of finger musculature during static force production.    <br>
