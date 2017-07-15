@@ -8,7 +8,7 @@ Prepared By: Brian Cohn
 https://github.com/usc-bbdl/usc-bbdl.github.io/
 
 
-# New Publication
+# IF: You want to add a new Publication
 ## Each time publications are updated, I download this file and upload it to this repository so it can be built into the website code.
 https://docs.google.com/a/usc.edu/spreadsheets/d/18Xno5qeb8pBl2C3h3s4faZ2AkRu27kn5T3F0TPytNFc/edit?usp=sharing
 
@@ -38,7 +38,7 @@ If there's no supplemental material, just leave it blank.
 To get the BibTex, you can use https://scholar.google.com, and click Cite. There is a button for BibTex.
 
 
-# Issue with website (change/removal/addition)
+# IF There's an issue with website (change/removal/addition)
 
 ## Include: 
 - the link to the file where the change needs to happen, exact text, images, etc to include/remove
