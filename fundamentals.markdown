@@ -6,8 +6,9 @@ menu: main
 ---
 
 # Fundamentals of Neuromechanics
-#### Springer Biosystems & Biorobotics Series, Volume 8
-#### Francisco J. Valero-Cuevas © 2015
+### Francisco J. Valero-Cuevas © 2015
+Springer Biosystems & Biorobotics Series, Volume 8
+
 ![image](https://cloud.githubusercontent.com/assets/4623063/12007743/85617314-abc7-11e5-9fbc-324daf52acbe.png)
 
 
