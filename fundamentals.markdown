@@ -5,17 +5,20 @@ permalink: /fundamentals/
 menu: main
 ---
 
-# Fundamentals of Neuromechanics — Companion Website
-Springer Biosystems & Biorobotics Series, Volume 8
-Francisco J. Valero-Cuevas © 2015
+# Fundamentals of Neuromechanics
+#### Springer Biosystems & Biorobotics Series, Volume 8
+#### Francisco J. Valero-Cuevas © 2015
 ![image](https://cloud.githubusercontent.com/assets/4623063/12007743/85617314-abc7-11e5-9fbc-324daf52acbe.png)
-[Click here to download the book](http://link.springer.com/content/pdf/10.1007/978-1-4471-6747-1.pdf)<br>
-<sup>*If you are at an institution subscribed to SpringerLink, you should see the PDF. Otherwise, you will be directed to the SpringerLink page.*</sup>
-[View book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)  
-[Professors: Click here to request a desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)  
-[Companion video lectures from BKN504](http://valerolab.org/BMEBKN504.php)
 
-**This website is under construction and will be updated regularly as additional material becomes available.**
+
+
+## [Download book PDF](http://link.springer.com/content/pdf/10.1007/978-1-4471-6747-1.pdf)  
+>If you are at an institution subscribed to SpringerLink, you should see the PDF.  
+Otherwise, you will be directed to the SpringerLink page.  
+
+[View book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)  
+
+[Professors: Click here to request a desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)  
 ________________
 # Scope
 
@@ -23,9 +26,9 @@ This book provides a conceptual and computational framework to study how the ner
 I revisit this problem from the emerging perspective of neuromechanics that emphasizes finding and implementing families of feasible solutions, instead of a single and unique optimal solution. Those families of feasible solutions emerge naturally from the interactions among the feasible neural commands, anatomy of the limb, and constraints of the task. Such alternative perspective to the neural control of function is not only biologically plausible, but sheds light on the most central tenets and debates in the fields of neural control, robotics, rehabilitation, and brain-body co-evolutionary adaptations. This perspective developed from courses I taught to engineers and life scientists at Cornell University and the University of Southern California, and is made possible by combining fundamental concepts from mechanics, anatomy, robotics and neuroscience with advances in the field of computational geometry.  
 *Fundamentals of Neuromechanics* is intended for neuroscientists, roboticists, engineers, physicians, evolutionary biologists, athletes, and physical and occupational therapists seeking to advance their understanding of neuromechanics. Therefore, the tone is decidedly pedagogical, engaging, integrative and practical to make it accessible to people coming from a broad spectrum of disciplines. I attempt to tread the line between making the mathematical exposition accessible to life scientists, and convey the wonder and complexity of neuroscience to engineers and computational scientists. While no one approach can hope to definitively resolve the important questions in these related fields, I hope to provide you with the fundamental background and tools to allow you to contribute to the emerging field of neuromechanics.
 
-________
 
-# Chapter Resources
+
+# Companion Website
 
 1. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch1.html)
 2. [Chapter 2](http://usc-bbdl.github.io/book_chapters/ch2.html)
@@ -38,15 +41,10 @@ ________
 9. [Chapter 9](http://usc-bbdl.github.io/book_chapters/ch9.html)
 10. [Chapter 10](http://usc-bbdl.github.io/book_chapters/ch10.html)
 
-_______________________
 
-# Extended Resources
 
-[Book Exercises by Chapter(.pdf)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72510/Exercises_V1_0.pdf)
-
-[Numerical Code (.zip)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72511/Numerical_Code_V1_0.zip)
-
-________________
-
-#Product Flyer
-[![image](https://cloud.githubusercontent.com/assets/4623063/12007732/ca36c65c-abc6-11e5-88f2-2c4f559af692.png)](http://www.springer.com/cda/content/document/productFlyer/productFlyer_978-1-4471-6746-4.pdf?SGWID=0-0-1297-177589478-0)
+## Extended Resources
+- [Companion video lectures from BKN504](http://valerolab.org/BMEBKN504.php)
+- [Book Exercises by Chapter(.pdf)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72510/Exercises_V1_0.pdf)  
+- [Numerical Code (.zip)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72511/Numerical_Code_V1_0.zip)  
+- [Download Product Flyer](book_chapters/fundamentals_flyer.pdf)
