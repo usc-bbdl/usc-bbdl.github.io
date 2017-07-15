@@ -43,7 +43,7 @@ menu: main
 	<li class="flex-item-project">
 	  	<img src="../img/projects/hagen2017.jpg"><br>
 	  	<b>Analysis of different movement trajectories</b> <br>
-		<a href="../about/#danhagen">Dan Hagen</a><br>
+		<a href="../about/#danhagen">Daniel Hagen</a><br>
 		When it comes to free throws, what's the difference between a good shot, and a good looking shot? We are delving into the high dimensionality surrounding the many ways that an arm can shoot a basketball, and are uncovering the limitations of muscle control for different trajectories.<br>
 	</li>
 

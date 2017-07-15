@@ -121,8 +121,8 @@ Fax: (213) 821-5696
 	</li>
 
 	<li class="flex-item">
-		<a name="danhagen"></a>
-		<img src="../Photos/dan.jpg"><br>
+		<a name="danielhagen"></a>
+		<img src="../Photos/danielhagen.jpg"><br>
 		<font size="3"><b>Daniel Hagen</b></font><br>
 		<font size="3">BME PhD student</font><br>
 		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>
