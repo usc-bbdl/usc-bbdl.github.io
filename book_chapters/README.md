@@ -29,3 +29,10 @@ The main advantages of Jekyll are:
 -You can use a simplified build process to build your site with GitHub Pages.
 -You can automatically compress all images across the site for consistency in performance.
 ```
+
+# How is bbdl.usc.edu set up?
+```
+2017-07-14 05:05:33 PM PDT - Joseph Barnes ,
+Your request is completed as follows:
+bbdl.usc.edu. 3600 IN CNAME kjbcfvc.com.
+```
