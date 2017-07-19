@@ -169,7 +169,7 @@ Fax: (213) 821-5696
 
 	<li class="flex-item">
 		<a name="theodenisart"></a>
-		<img src="../Photos/theo.jpg" height="150px" /><br>
+		<img src="../Photos/theo.JPG" height="150px" /><br>
 		<font size="3"><b>Théo Denisart</b></font><br>
 		<a href="mailto:theo-tim.denisart@epfl.ch" target="_top">theo-tim.denisart@epfl.ch</a><br>
 		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems, novel mechanical designs, and evolutionary robotics.​ <br>
