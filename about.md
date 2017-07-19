@@ -50,14 +50,6 @@ Fax: (213) 821-5696
 		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
 	</li>
 
-	<li class="flex-item">
-		<a name="akiranagamori"></a>
-		<img src="../Photos/akira.jpg" height="150px"/><br>
-		<font size="3"><b>Akira Nagamori</b></font><br>
-		<font size="3">BKN PhD Student</font><br>
-		<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
-		Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.
-	</li>
 
 	<li class="flex-item">
 	<a name="jasmineberry"></a>
@@ -76,6 +68,18 @@ Fax: (213) 821-5696
 		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a><br>
 		Peripheral neuromuscular mechanisms in the control of posture and movement, leveraging signal processing and system identification.
 	</li>
+
+
+
+		<li class="flex-item">
+			<a name="akiranagamori"></a>
+			<img src="../Photos/akira.jpg" height="150px"/><br>
+			<font size="3"><b>Akira Nagamori</b></font><br>
+			<font size="3">BKN PhD Student</font><br>
+			<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
+			Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.
+		</li>
+
 
 	<li class="flex-item">
 	<a name="maralkasiri"></a>
