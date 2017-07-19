@@ -78,11 +78,29 @@ Fax: (213) 821-5696
 	</li>
 
 	<li class="flex-item">
+	<a name="maralkasiri"></a>
+	<img src="../Photos/maral.jpg" height="150px"/><br>
+	<font size="3"><b>Maral Kasiri</b></font><br>
+	<font size="3">BME Masters student</font><br>
+	<a href="mailto:kasiri@usc.edu" target="_top">kasiri@usc.edu</a><br>
+	Exploring EMG muscle control of a robotic manipulator.
+	</li>
+
+	<li class="flex-item">
 	<a name="priyankavachhani"></a>
 	<img src="../Photos/priyanka.jpg" height="150px" /><br>
 	<font size="3"><b>Priyanka Vachhani</b></font><br>
 	<font size="3">INF MS student</font><br>
 	<a href="mailto:pvachhan@usc.edu" target="_top">pvachhan@usc.edu</a><br>
+	</li>
+
+	<li class="flex-item">
+	<a name="melisa"></a>
+	<img src="../Photos/melisa.jpg" height="150px"/><br>
+	<font size="3"><b>Melisa Osborne</b></font><br>
+	<font size="3">BME Masters student</font><br>
+	<a href="mailto:mgosborn@usc.edu" target="_top">mgosborn@usc.edu</a><br>
+	Description
 	</li>
 
 	<li class="flex-item">
@@ -143,26 +161,26 @@ Fax: (213) 821-5696
 		<a name="taegyumkim"></a>
 		<img src="../Photos/taegyum.jpg" height="150px" /><br>
 		<font size="3"><b>Taegyum Kim</b></font><br>
+		<a href="mailto:taegyumk@usc.edu" target="_top">taegyumk@usc.edu</a><br>		
 		<font size="3">Computer Science Graduate (USC)</font><br>
 		Focused on API development and interface development.<br>
-		<a href="mailto:taegyumk@usc.edu" target="_top">taegyumk@usc.edu</a><br>		
 	</li>
 
 
 	<li class="flex-item">
 		<a name="theodenisart"></a>
-		<img src="https://user-images.githubusercontent.com/4623063/27665013-8ce946c0-5c1f-11e7-890f-c7a038bb03c9.jpg" height="150px" /><br>
+		<img src="../Photos/theo.jpg" height="150px" /><br>
 		<font size="3"><b>Théo Denisart</b></font><br>
+		<a href="mailto:theo-tim.denisart@epfl.ch" target="_top">theo-tim.denisart@epfl.ch</a><br>
 		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems, novel mechanical designs, and evolutionary robotics.​ <br>
-		<a href="mailto:pvachhan@usc.edu" target="_top">theo-tim.denisart@epfl.ch</a><br>
 	</li>
 
 	<li class="flex-item">
 		<a name="dariourbina"></a>
 		<img src="../Photos/dariourbina.jpg" height="150px" /><br>
 		<font size="3"><b>Darío Urbina</b></font><br>
-		<font size="3">Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br></font>
 		<a href="mailto:pvachhan@usc.edu" target="_top">dario41tan@hotmail.com</a><br>
+		<font size="3">Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br></font>
 	</li>
 </ul>
 
@@ -173,11 +191,9 @@ Fax: (213) 821-5696
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
 <b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
-<b>Melisa Osborne</b> - BME Undergraduate  
 <b>Shaohui Quian</b> - EE Masters Student  
 <b>Niharika Singh</b> - BME Masters Student  
 <b>Keegan Bate</b> - BME Masters Student  
-<b>Maral Kasiri</b> - BME Masters Student  
 <b>Taylor Stroobosscher</b> - EE undergrad  
 <b>Mayumi Ishikawa</b> -  BME undergrad  
 <b>Brandon Miura</b> - BME undergrad
