@@ -77,7 +77,7 @@ Fax: (213) 821-5696
 			<font size="3"><b>Akira Nagamori</b></font><br>
 			<font size="3">BKN PhD Student</font><br>
 			<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
-			Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neruomuscluar modeling.
+			Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neuromuscular modeling.
 		</li>
 
 
