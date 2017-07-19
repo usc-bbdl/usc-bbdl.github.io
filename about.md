@@ -34,7 +34,7 @@ Fax: (213) 821-5696
 
 	<li class="flex-item">
 		<a name="chrislaine"></a>
-		<img src="../Photos/chris.jpg" height="150px"/><br>
+		<img src="../Photos/christopherlaine.jpg" height="150px"/><br>
 		<font size="3"><b>Christopher Laine</b></font><br>
 		<font size="3">Research Assistant Professor</font><br>
 		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
@@ -79,7 +79,7 @@ Fax: (213) 821-5696
 
 	<li class="flex-item">
 	<a name="maralkasiri"></a>
-	<img src="../Photos/maral.jpg" height="150px"/><br>
+	<img src="../Photos/maral.JPG" height="150px"/><br>
 	<font size="3"><b>Maral Kasiri</b></font><br>
 	<font size="3">BME Masters student</font><br>
 	<a href="mailto:kasiri@usc.edu" target="_top">kasiri@usc.edu</a><br>
@@ -96,7 +96,7 @@ Fax: (213) 821-5696
 
 	<li class="flex-item">
 	<a name="melisa"></a>
-	<img src="../Photos/melisa.jpg" height="150px"/><br>
+	<img src="../Photos/melisa.JPG" height="150px"/><br>
 	<font size="3"><b>Melisa Osborne</b></font><br>
 	<font size="3">BME Masters student</font><br>
 	<a href="mailto:mgosborn@usc.edu" target="_top">mgosborn@usc.edu</a><br>
