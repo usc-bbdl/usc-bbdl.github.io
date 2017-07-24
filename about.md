@@ -104,7 +104,7 @@ Fax: (213) 821-5696
 	<font size="3"><b>Melisa Osborne</b></font><br>
 	<font size="3">BME Masters student</font><br>
 	<a href="mailto:mgosborn@usc.edu" target="_top">mgosborn@usc.edu</a><br>
-	Description
+	Exploring correlation between EEG and EMG signals in neuromuscular disorders.	
 	</li>
 
 	<li class="flex-item">
