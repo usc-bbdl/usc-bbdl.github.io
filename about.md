@@ -104,7 +104,7 @@ Fax: (213) 821-5696
 	<font size="3"><b>Melisa Osborne</b></font><br>
 	<font size="3">BME Masters student</font><br>
 	<a href="mailto:mgosborn@usc.edu" target="_top">mgosborn@usc.edu</a><br>
-	Exploring correlation between EEG and EMG signals in neuromuscular disorders.	
+	Exploring correlation between EEG and EMG signals in neuromuscular disorders.
 	</li>
 
 	<li class="flex-item">
@@ -198,9 +198,9 @@ Fax: (213) 821-5696
 <b>Shaohui Quian</b> - EE Masters Student  
 <b>Niharika Singh</b> - BME Masters Student  
 <b>Keegan Bate</b> - BME Masters Student  
-<b>Taylor Stroobosscher</b> - EE undergrad  
 <b>Mayumi Ishikawa</b> -  BME undergrad  
 <b>Brandon Miura</b> - BME undergrad
+<b>Taylor Stroobosscher</b> - EE undergrad  
 
 
 
