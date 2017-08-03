@@ -5,7 +5,7 @@ Prepared By: Brian Cohn
 
 # 1. Sign Up for a GitHub Account
 # 2. Create an Issue Request here:
-https://github.com/usc-bbdl/usc-bbdl.github.io/
+https://github.com/usc-bbdl/usc-bbdl.github.io/issues/new
 
 
 # IF: You want to add a new Publication
