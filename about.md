@@ -110,7 +110,7 @@ Fax: (213) 821-5696
 	<li class="flex-item">
 	<a name="alimarjaninejad"></a>
 	<img src="../Photos/ali.jpg" height="150px"/><br>
-	<font size="3"><a href="http://valerolab.org/marjani/"><b>Ali Marjaninejad</b></font><br>
+	<font size="3"><b><a href="http://valerolab.org/marjani/"><b>Ali Marjaninejad</b></font><br>
 	<font size="3">BME PhD student</font><br>
 	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
 	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
