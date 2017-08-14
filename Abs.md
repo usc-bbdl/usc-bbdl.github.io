@@ -70,7 +70,7 @@ menu: main2
             Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
         <td><a href="../Papers/Ko2016Dynamic.pdf">Link</a></td>
         <td></td>
-        <td>2016</td>
+        <td>2017</td>
       </tr>
 
       <tr>
