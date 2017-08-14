@@ -91,22 +91,6 @@ menu: main2
         <td>2017</td>
       </tr>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         <tr>
           <td>Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ. <br>
               <b>"Dynamic fingertip force variability in individuals with Parkinsons disease."</b> <br>
