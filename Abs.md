@@ -273,6 +273,5 @@ menu: main2
   </div>
 
   <div data-role="footer">
-    <h1>USC BBDL</h1>
   </div>
 </div>
