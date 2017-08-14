@@ -74,7 +74,7 @@ menu: main2
       </tr>
 
       <tr>
-        <td>Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ. <br>
+        <td>Nagamori A, Laine CM, Jalaleddini K, Valero-Cuevas FJ<br>
             <b>"Interactions between Tendon Stiffness and Spindle Afferent Feedback Determine the Magnitude of Involuntary Force Variability"</b> <br>
             Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
         <td><a href="../Papers/ASB_2017_nagamori.pdf">Link</a></td>
