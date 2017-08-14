@@ -44,10 +44,72 @@ menu: main2
       </thead>
 
       <tbody>
+      <tr>
+        <td>Cohn BA, Jalaleddini K, Valero-Cuevas FJ <br>
+            <b>"Neuromechanical implications of postural changes to motor learning and performance"</b> <br>
+            Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
+        <td><a href="../Papers/cohn_jalaleddini_valerocuevas_asb_2017.pdf">Link</a></td>
+        <td></td>
+        <td>2017</td>
+      </tr>
+
+
+      <tr>
+        <td>Jalaleddini K, Nagamori A, Laine CM, Golkar MA, Kearney RE, Valero-Cuevas FJ<br>
+            <b>"Evidence That Tuning of Muscle Spindles Can Be Decoupled from Muscle Activation"</b> <br>
+            Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
+        <td><a href="../Papers/ASB2017_Poster_Kian.pdf">Link</a></td>
+        <td></td>
+        <td>2017</td>
+      </tr>
+
+
+      <tr>
+        <td> Marjaninejad A, Taherian B, Jalaleddini K, and Valero-Cuevas FJ <br>
+            <b>"Simple and Two-Element Hill-Type Muscle Models Cannot Replicate Realistic Muscle Stiffness"</b> <br>
+            Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
+        <td><a href="../Papers/Ko2016Dynamic.pdf">Link</a></td>
+        <td></td>
+        <td>2016</td>
+      </tr>
+
+      <tr>
+        <td>Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ. <br>
+            <b>"Interactions between Tendon Stiffness and Spindle Afferent Feedback Determine the Magnitude of Involuntary Force Variability"</b> <br>
+            Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
+        <td><a href="../Papers/ASB_2017_nagamori.pdf">Link</a></td>
+        <td></td>
+        <td>2017</td>
+      </tr>
+
+      <tr>
+        <td>Laine CM, Valero-Cuevas FJ<br>
+            <b>"Specific Manual Tasks Transform EMG into a Probe for Neural Dysfunction in Parkinson’s Disease"</b> <br>
+            Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
+        <td><a href="../Papers/CML_FJVC_ASB_2017.pdf">Link</a></td>
+        <td></td>
+        <td>2017</td>
+      </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <tr>
           <td>Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ. <br>
-              <b>"Dynamic fingertip force variability in individuals with ParkinsonÕs disease."</b> <br>
+              <b>"Dynamic fingertip force variability in individuals with Parkinsons disease."</b> <br>
               Hand Rehabilitation Section, American Physical Therapy Association Combined Sections Meeting, Anaheim, CA, Feb 17-20, 2016.</td>
           <td><a href="../Papers/Ko2016Dynamic.pdf">Link</a></td>
           <td></td>
