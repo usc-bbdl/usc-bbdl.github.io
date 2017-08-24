@@ -39,9 +39,13 @@ I revisit this problem from the emerging perspective of neuromechanics that emph
 10. [Chapter 10](http://usc-bbdl.github.io/book_chapters/ch10.html)
 
 
+## Companion video lectures from USC Biokinesiology 504
+![image](img/recorded_lectures_banner.jpg)
+- [2016 Lectures](https://drive.google.com/drive/folders/0BzHB5nqViKrfR2ZCdmdaWEhLbzA?usp=sharing)  
+- [2015 Lectures](https://drive.google.com/drive/folders/0BzHB5nqViKrfTUl2Z3JNcFJCYmc?usp=sharing)  
+- [2013 Lectures](https://drive.google.com/drive/folders/0BzHB5nqViKrfZ3VnU1RKRmpaNVE?usp=sharing)  
 
 ## Extended Resources
-- [Companion video lectures from BKN504](http://valerolab.org/BMEBKN504.php)
 - [Book Exercises by Chapter(.pdf)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72510/Exercises_V1_0.pdf)  
 - [Numerical Code (.zip)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72511/Numerical_Code_V1_0.zip)  
 - [Download Product Flyer](book_chapters/fundamentals_flyer.pdf)
