@@ -33,13 +33,13 @@ menu: main
 }
 .paper_authors {
   font-size: 0.6em;
-  color: #b9c1ce;
+  color: #494546;
   text-align: justify;
   text-justify: inter-word;
   float:'left'
 }
 .paper_author_container {margin-bottom:0px; padding:0px; width: 100%}
-.journal_info {font-size: 0.6em; color: #b9c1ce}
+.journal_info {font-size: 0.6em; color: #494546}
 .publication_card {
   padding-top: 5px;
   text-justify: inter-word;
@@ -49,7 +49,7 @@ menu: main
 }
 .article_title {font-size: 1em; font-weight: bold; font-style: normal; font-weight: 300;    text-align: justify;
     text-justify: inter-word;}
-.btn {float:'right'; border: 1px solid #f4f5f7; background-color:#f4f5f7; padding-left:0; padding-right:0; color: #b9c1ce}
+.btn {float:'right'; border: 1px solid #494546; background-color:#f4f5f7; padding-left:0; padding-right:0; color: #b9c1ce}
 large_year {
   font-size: 3em;
   font-weight:600;
