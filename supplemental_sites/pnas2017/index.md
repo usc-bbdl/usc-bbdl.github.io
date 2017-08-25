@@ -13,16 +13,16 @@ For our example of static force production with a finger with seven muscles, com
 The feasible activation space for a given task is _the_ landscape where all neuromuscular learning, control, and performance must occur.
 This approach unifies current theories of neuromuscular control because the structure of feasible activation spaces can be separately approximated as either low-dimensional basis functions (synergies), high-dimensional joint probability distributions (Bayesian priors), or fitness landscapes (to optimize cost functions).
 # [Interactive Parallel Coordinates Visualization](https://briancohn.github.io/space-parcoords/)
-<div class="crop"><img src="../img/projects/cohn2017.gif"></div>
+<img src="../../img/projects/cohn2017.gif">
 
 # Code to produce datapoints for a given task
 [GitHub Repository](https://github.com/briancohn/space)
 
-# Code to produce figures
-[Parallel Coordinates in R](https://github.com/briancohn/fig5_parcoord)
-[Histogram Heatmap in R](https://github.com/briancohn/space/blob/master/src/R/hist_heatmap.r)
-[PCA, Loadings, and Bootstrapped Figures](https://github.com/briancohn/space/tree/master/pca_figure_code)
-[Code used to calculate the size of the feasible activation space before and after post hoc constraints] (https://github.com/briancohn/constraint_statistics/blob/master/main.Rmd)
+# Code to produce figures  
+[Parallel Coordinates in R](https://github.com/briancohn/fig5_parcoord)  
+[Histogram Heatmap in R](https://github.com/briancohn/space/blob/master/src/R/hist_heatmap.r)  
+[PCA, Loadings, and Bootstrapped Figures](https://github.com/briancohn/space/tree/master/pca_figure_code)  
+[Code used to calculate the size of the feasible activation space before and after post hoc constraints] (https://github.com/briancohn/constraint_statistics/blob/master/main.Rmd)  
 
 ________
 
