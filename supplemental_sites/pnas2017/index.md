@@ -22,7 +22,7 @@ This approach unifies current theories of neuromuscular control because the stru
 [Parallel Coordinates in R](https://github.com/briancohn/fig5_parcoord)  
 [Histogram Heatmap in R](https://github.com/briancohn/space/blob/master/src/R/hist_heatmap.r)  
 [PCA, Loadings, and Bootstrapped Figures](https://github.com/briancohn/space/tree/master/pca_figure_code)  
-[Code used to calculate the size of the feasible activation space before and after post hoc constraints] (https://github.com/briancohn/constraint_statistics/blob/master/main.Rmd)  
+[Code used to calculate the size of the feasible activation space before and after post hoc constraints](https://github.com/briancohn/constraint_statistics/blob/master/main.Rmd)  
 
 ________
 
