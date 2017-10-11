@@ -6,7 +6,7 @@ menu: main
 ---
 
 <b> PostDoc Position Available </b>   
-<a href="flyers/postdocAd.pdf">Download Job Opportunity PDF</a>
+<a href="../flyers/postdocAd.pdf">Download Job Opportunity PDF</a>
 
 
 I am always interested in outstanding, motivated and mature students from all over the world from the fields of Mechanics, Mathematics, Neuroscience, Physical Therapy, Computer Science and related areas to contribute to our lab. Choosing a PhD research direction is a big commitment in life. Maturity, understanding your goals in life, and motivation are as necessary to a successful PhD as is intellectual ability. Therefore, plan accordingly and only apply to labs that truly meet your goals.
