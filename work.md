@@ -5,13 +5,14 @@ permalink: /work/
 menu: main
 ---
 
-<b> PostDoc Position Available </b></br>
+<b> PostDoc Position Available </b>   
 <a href="flyers/postdocAd.pdf">Download Job Opportunity PDF</a>
 
 
 I am always interested in outstanding, motivated and mature students from all over the world from the fields of Mechanics, Mathematics, Neuroscience, Physical Therapy, Computer Science and related areas to contribute to our lab. Choosing a PhD research direction is a big commitment in life. Maturity, understanding your goals in life, and motivation are as necessary to a successful PhD as is intellectual ability. Therefore, plan accordingly and only apply to labs that truly meet your goals.
 
->We have opportunities for visiting scientists and prospective students in PhD, Masters, and Undergraduate positions. Please read the instructions on this page carefully.
+>We have opportunities for visiting scientists and prospective students in PhD, [Masters, and Undergraduate](#mastersandundergraduate) positions. Please read the instructions on this page carefully.
+
 
 #### Formal ValeroLab Application for Pursuit of a Ph.D.  
 Submit all of the following to valero@usc.edu in a single PDF document.  
@@ -42,9 +43,9 @@ At USC, graduate admissions are handled by committee, not individually by facult
 ### Financial Support for Ph.D. students
 Outstanding applicants deserve support, and the units of USC mentioned above have mechanisms for this, as well as my ongoing projects.
 
-# Masters and Undergraduate Opportunities FAQ
+# <a name="mastersandundergraduate"></a> Masters and Undergraduate Opportunities FAQ
 1. Project Internships: Individual students can apply to work in the lab. Accepted applicants are matched to a project to be completed over the course of one or two semesters, in collaboration with Ph.D. students, Post-Docs, visiting scientists, and fellow Masters and Undergraduate students. These projects culminate in a conference abstract or proceeding, and often lead to publications within the lab.
-1. Undergraduate Group Capstone Project: This is run through the USC Computer Science Department, where 4-5 students form a team to produce a deliverable to the neurobiological community by the end of one semester. Contact valero@usc.edu if you are interested in forming a team to pursue research as a part of your graduation requirement and include the following information:
+1. Undergraduate Group Capstone Project: This is run through the USC Computer Science Department, where 4-5 students form a team to produce a deliverable to the neurobiological community by the end of one semester. If you are interested in forming a team to pursue research as a part of your graduation requirement include all of the following information in a message to valero@usc.edu.
 >Name:  
 Year:
 Attached CV/Resume and Unofficial Transcript:
@@ -54,7 +55,6 @@ If you are a woman or member of an underrepresented minority in science, technol
 
 # External Collaboration Proposals
 We typically host 1-2 students or visiting scientists to participate in the lab on an interdisciplinary project. These projects typically culminate in a conference abstract and/or publication of the research findings. To submit a proposal, include the following information in an email to valero@usc.edu.
-
 
 >Name:  
 Institution:
