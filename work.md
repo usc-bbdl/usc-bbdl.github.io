@@ -5,14 +5,16 @@ permalink: /work/
 menu: main
 ---
 
+<b> PostDoc Position Available </b></br>
+<a href="flyers/postdocAd.pdf">Download Job Opportunity PDF</a>
 
 
 I am always interested in outstanding, motivated and mature students from all over the world from the fields of Mechanics, Mathematics, Neuroscience, Physical Therapy, Computer Science and related areas to contribute to our lab. Choosing a PhD research direction is a big commitment in life. Maturity, understanding your goals in life, and motivation are as necessary to a successful PhD as is intellectual ability. Therefore, plan accordingly and only apply to labs that truly meet your goals.
 
->We have opportunities for prospective students in PhD, Masters, and Undergraduate positions
+>We have opportunities for visiting scientists and prospective students in PhD, Masters, and Undergraduate positions. Please read the instructions on this page carefully.
 
 #### Formal ValeroLab Application for Pursuit of a Ph.D.  
-Submit the following to valero@usc.edu in a single PDF document.  
+Submit all of the following to valero@usc.edu in a single PDF document.  
 
 >• Explain why you are interested in our research, and refer to our papers in your explanation. (paragraph)  
 • Statement of Intent. Describe your goals and how ValeroLab plays into your vision for your own personal and professional growth (page)  
@@ -30,7 +32,7 @@ Submit the following to valero@usc.edu in a single PDF document.
 ### What projects are available?  
 As Ph.D. students are training to be independent thinkers, they are responsible for instigating new directions for their research. If our previous research literature excites you, we'll work together on crafting a new project for you.
 
-#What do Ph.D. Students acheive during their work in ValeroLab?
+# What do Ph.D. Students achieve during their work in ValeroLab?
 We study how the sensorimotor processes in the brain control the body to produce versatile function in the context of the physical world. We study this in the context of motor skill and disability in humans, as well as innovative machines. I emphasize combining (i) analytical, (ii) computational, and (iii) experimental, approaches, tools, and goals. For example, we develop computational modeling tools and approaches. We study analytical approaches to sensorimotor function. We build machines, robots and instrumentation. We do behavioral experimental work with healthy subjects, clinical populations, and people with uncommon skill and disabilities. We often bring our projects into clinical trials and industry collaborations.
 
 ### How does Ph.D. student admission work with ValeroLab and with USC?  
