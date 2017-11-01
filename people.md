@@ -12,18 +12,6 @@ I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engin
 In 1991, I joined the doctoral program in the Design Division of the Mechanical Engineering Department at Stanford University. I worked with Dr. Felix Zajac developing a realistic biomechanical model of the human digits. This research, done at the Rehabilitation R & D Center in Palo Alto, focused on predicting optimal coordination patterns of finger musculature during static force production.    <br>
 After completing my doctoral degree in 1997, I joined the core faculty of the Biomechanical Engineering Division at Stanford University as a Research Associate and Lecturer. In 1999, I joined the faculty of the Sibley School of Mechanical and Aerospace Engineering at Cornell University as Assistant Professor, and was tenured in 2005. In 2007, I joined the faculty at the Department of Biomedical Engineering, and the Division of Biokinesiology & Physical Therapy at the University of Southern California as Associate Professor; where I was promoted to Full Professor in 2011. In 2013 I was elected Senior Member of the IEEE, and in 2014 to the College of Fellows of the American Institute for Medical and Biological Engineers.  
 
--------------------------------------------  
-
->Ronald Tutor Hall, RTH-421  
-3710 S. McClintock Ave  
-Los Angeles, CA 90089-2905, USA  
-(213) 740-4219   
-Fax: (213) 821-5696
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.924975500565!2d-118.29214788478588!3d34.02013668061464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7fc9ad4d9bd%3A0x7f0dfd17fcb6ec29!2s3710+McClintock+Ave%2C+Los+Angeles%2C+CA+90089!5e0!3m2!1sen!2sus!4v1453572044486" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
 -------------------------------------------
 <br>
 
