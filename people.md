@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: People
+permalink: /people/
 menu: main
 ---
 # PI: Francisco Valero-Cuevas Ph.D.
