@@ -45,10 +45,10 @@ function showAll() {
   '.biomechanics',
   '.manipulation'
   ]
-    l = tagnames.length
+    l = tagNames.length
     i = 0
     for (i; i < l; i++) {
-        show(classNames[i])
+        show(tagNames[i])
     }
 }
 function hideAll() {
