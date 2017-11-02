@@ -7,135 +7,9 @@ menu: main
 
 <!-- Clipboard copier -->
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
-
-<script>
-function tagNames(){
-  return([
-    '.athletics',
-    '.neuroscience',
-    '.computation_and_modeling',
-    '.robotics',
-    '.clinical_research',
-    '.biomechanics',
-    '.manipulation'
-    ])
-  }
-function show(className) {
-  affectDisplay(className, 'block')
-}
-function hide(className) {
-  affectDisplay(className, 'none')
-}
-function getElements(className){
-  return(document.querySelectorAll(className))
-}
-function affectDisplay(className, newValue){
-  Array.prototype.map.call(getElements(className),
-    function(element){
-      changeDisplay(element, newValue)
-    }
-  )
-}
-function changeDisplay(element, newValue){
-  element.style.display = newValue;
-}
-function hideMultiple(classNames) {
-  classNames.map(hide)
-}
-function showAll() {
-  tagNames().map(show)
-}
-function hideAll() {
-  hideMultiple(tagNames())
-}
-function showOnly(className){
-  hideAll()
-  show(className)
-}
-</script>
-
-
-
-
-
-<style>
-#myBtn {
-    display: none; /* Hidden by default */
-    position: fixed; /* Fixed/sticky position */
-    bottom: 20px; /* Place the button at the bottom of the page */
-    right: 30px; /* Place the button 30px from the right */
-    z-index: 99; /* Make sure it does not overlap */
-    border: none; /* Remove borders */
-    outline: none; /* Remove outline */
-    background-color: #9b4343; /* Set a background color */
-    color: white; /* Text color */
-    cursor: pointer; /* Add a mouse pointer on hover */
-    padding: 15px; /* Some padding */
-    border-radius: 10px; /* Rounded corners */
-}
-
-#myBtn:hover {
-    background-color: #555; /* Add a dark-grey background on hover */
-}
-.paper_authors {
-  font-size: 0.6em;
-  color: #494546;
-  text-align: justify;
-  text-justify: inter-word;
-  float:'left'
-}
-.paper_author_container {margin-bottom:0px; padding:0px; width: 100%}
-.journal_info {font-size: 0.6em; color: #494546}
-.publication_card {
-  padding-top: 5px;
-  text-justify: inter-word;
-  padding-bottom: 0px;
-  margin-top: 10px;
-  margin-bottom:2px
-}
-.article_title {font-size: 1em; font-weight: bold; font-style: normal; font-weight: 300;    text-align: justify;
-    text-justify: inter-word;}
-.btn {float:'right'; border: 1px solid #494546; background-color:#f4f5f7; padding-left:0; padding-right:0; color: #b9c1ce}
-large_year {
-  font-size: 3em;
-  font-weight:600;
-}
-.year_button {
-    box-shadow: 0 0 0 1px #767676 inset!important;
-    color: #767676!important;
-    margin-bottom: 0.75em;
-    font-weight: 400;
-    border-radius: .28571429rem;
-    text-transform: none;
-    font-size: 0.7rem;
-    user-select: none;
-    line-height: 1em;
-    -webkit-tap-highlight-color: transparent;
-    font-style: normal;
-    transition: opacity .1s ease,background-color .1s ease,color .1s ease,box-shadow .1s ease,background .1s ease;
-    text-align: center;
-    text-decoration: none;
-    text-shadow: none!important;
-    cursor: pointer;
-    display: inline-block;
-    min-height: 1em;
-    margin-bottom: 0.2rem;
-    width:50px;
-    padding-top: 0.5em;
-    padding-right: 1em;
-    padding-bottom: 0.5em;
-    padding-left: 1em;
-    outline: 0;
-    border: none;
-    vertical-align: baseline;
-    background: transparent none!important;
-}
-.year_button_container:hover {
-    text-decoration:none;
-}
-</style>
-
-
+<script src="../publication_tags.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="../css/styles.css" />
+<div>
 <div class="yearbuttons">
 {% for year_of_interest in (1997..2017) reversed %}
   <a class="year_button_container" href="#{{year_of_interest}}">
@@ -143,35 +17,31 @@ large_year {
   </a>
   {% endfor %}
 </div>
+  <br>
+<h3>Topics</h3>
 
-<a>
-    <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location.href=this.options[this.selectedIndex].value;this.options[0].selected;" style="width:300px;font-size:16px;border:none;-webkit-appearance:none; color: 'blue'" >
-        <option value="">Click here for Extended Publications</option>
-        <option value="../fulllengthpeerreviewedabstracts/">Full-Length Peer-Reviewed Abstracts</option>
-        <option value="../peerreviewedabstracts/">Peer-Reviewed Abstracts</option>
-        <option value="../abstracts/">Abstracts</option>
-        <option value="../bookchpt/">Book Chapters</option>
-        <option value="../invitedsymposia/">Invited Symposia</option>
-        <option value="../dissertation_theses/">Dissertations & Theses</option>
-    </select>
-  </a>
-
-
-
-
-<h2>Topics</h2>
-<br>
 <button onclick="showAll()">Show All</button>
-<button onclick="showOnly('.athletics')">Athletics</button>
 <button onclick="showOnly('.neuroscience')">Neuroscience</button>
 <button onclick="showOnly('.computation_and_modeling')">Computation and Modeling</button>
 <button onclick="showOnly('.robotics')">Robotics</button>
 <button onclick="showOnly('.clinical_research')">Clinical Research</button>
 <button onclick="showOnly('.biomechanics')">Biomechanics</button>
 <button onclick="showOnly('.manipulation')">Manipulation</button>
-
+<button onclick="showOnly('.athletics')">Athletics</button>
+<br>
+<a>
+<select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location.href=this.options[this.selectedIndex].value;this.options[0].selected;" style="width:300px;font-size:16px;border:none;-webkit-appearance:none; color: 'blue'" >
+<option value="">Click here for Extended Publications</option>
+<option value="../fulllengthpeerreviewedabstracts/">Full-Length Peer-Reviewed Abstracts</option>
+<option value="../peerreviewedabstracts/">Peer-Reviewed Abstracts</option>
+<option value="../abstracts/">Abstracts</option>
+<option value="../bookchpt/">Book Chapters</option>
+<option value="../invitedsymposia/">Invited Symposia</option>
+<option value="../dissertation_theses/">Dissertations & Theses</option>
+</select>
+</a>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-
+</div>
 {% for year_of_interest in (1997..2017) reversed %}
 
   {% comment %} casting an integer to a string {% endcomment %}

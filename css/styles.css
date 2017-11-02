@@ -1,0 +1,74 @@
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #9b4343; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+}
+
+#myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
+.paper_authors {
+  font-size: 0.6em;
+  color: #494546;
+  text-align: justify;
+  text-justify: inter-word;
+  float:'left'
+}
+.paper_author_container {margin-bottom:0px; padding:0px; width: 100%}
+.journal_info {font-size: 0.6em; color: #494546}
+.publication_card {
+  padding-top: 5px;
+  text-justify: inter-word;
+  padding-bottom: 0px;
+  margin-top: 10px;
+  margin-bottom:2px
+}
+.article_title {font-size: 1em; font-weight: bold; font-style: normal; font-weight: 300;    text-align: justify;
+    text-justify: inter-word;}
+.btn {float:'right'; border: 1px solid #494546; background-color:#f4f5f7; padding-left:0; padding-right:0; color: #b9c1ce}
+large_year {
+  font-size: 3em;
+  font-weight:600;
+}
+.year_button {
+    box-shadow: 0 0 0 1px #767676 inset!important;
+    color: #767676!important;
+    margin-bottom: 0.75em;
+    font-weight: 400;
+    border-radius: .28571429rem;
+    text-transform: none;
+    font-size: 0.7rem;
+    user-select: none;
+    line-height: 1em;
+    -webkit-tap-highlight-color: transparent;
+    font-style: normal;
+    transition: opacity .1s ease,background-color .1s ease,color .1s ease,box-shadow .1s ease,background .1s ease;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: none!important;
+    cursor: pointer;
+    display: inline-block;
+    min-height: 1em;
+    margin-bottom: 0.2rem;
+    width:50px;
+    padding-top: 0.5em;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    outline: 0;
+    border: none;
+    vertical-align: baseline;
+    background: transparent none!important;
+}
+.year_button_container:hover {
+    text-decoration:none;
+}
