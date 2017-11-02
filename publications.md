@@ -26,13 +26,18 @@ function show(className) {
 function hide(className) {
   affectDisplay(className, 'none')
 }
+function getElements(className){
+  return(document.querySelectorAll(className))
+}
 function affectDisplay(className, newValue){
-  var myClasses = document.querySelectorAll(className),
-      i = 0,
-      l = myClasses.length;
-  for (i; i < l; i++) {
-      myClasses[i].style.display = newValue;
-  }
+  Array.prototype.map.call(getElements(className),
+    function(element){
+      changeDisplay(element, newValue)
+    }
+  )
+}
+function changeDisplay(element, newValue){
+  element.style.display = newValue;
 }
 function hideMultiple(classNames) {
   classNames.map(hide)
@@ -40,7 +45,6 @@ function hideMultiple(classNames) {
 function showAll() {
   tagNames.apply(show)
 }
-
 function hideAll() {
   hideMultiple(tagNames())
 }
@@ -48,7 +52,6 @@ function showOnly(className){
   hideAll()
   show(className)
 }
-
 </script>
 
 
