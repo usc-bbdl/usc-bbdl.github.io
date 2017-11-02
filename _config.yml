@@ -16,3 +16,6 @@ url: "usc-bbdl.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+plugins:
+  - jekyll-sitemap
