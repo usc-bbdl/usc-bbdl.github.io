@@ -43,7 +43,7 @@ function hideMultiple(classNames) {
   classNames.map(hide)
 }
 function showAll() {
-  tagNames.apply(show)
+  tagNames().map(show)
 }
 function hideAll() {
   hideMultiple(tagNames())
