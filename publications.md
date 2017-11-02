@@ -9,59 +9,40 @@ menu: main
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
 
 <script>
+function tagNames(){
+  return([
+    '.athletics',
+    '.neuroscience',
+    '.computation_and_modeling',
+    '.robotics',
+    '.clinical_research',
+    '.biomechanics',
+    '.manipulation'
+    ])
+  }
 function show(className) {
-    var myClasses = document.querySelectorAll(className),
-        i = 0,
-        l = myClasses.length;
-    for (i; i < l; i++) {
-        myClasses[i].style.display = 'block';
-    }
+  affectDisplay(className, 'block')
 }
 function hide(className) {
-    var myClasses = document.querySelectorAll(className),
-        i = 0,
-        l = myClasses.length;
-
-    for (i; i < l; i++) {
-        myClasses[i].style.display = 'none';
-    }
+  affectDisplay(className, 'none')
+}
+function affectDisplay(className, newValue){
+  var myClasses = document.querySelectorAll(className),
+      i = 0,
+      l = myClasses.length;
+  for (i; i < l; i++) {
+      myClasses[i].style.display = newValue;
+  }
 }
 function hideMultiple(classNames) {
-    l = classNames.length
-    i = 0
-    for (i; i < l; i++) {
-        console.log(i)
-        console.log(classNames[i])
-        hide(classNames[i])
-    }
+  classNames.map(hide)
 }
 function showAll() {
-  tagNames = [
-  '.athletics',
-  '.neuroscience',
-  '.computation_and_modeling',
-  '.robotics',
-  '.clinical_research',
-  '.biomechanics',
-  '.manipulation'
-  ]
-    l = tagNames.length
-    i = 0
-    for (i; i < l; i++) {
-        show(tagNames[i])
-    }
+  tagNames.apply(show)
 }
+
 function hideAll() {
-  tagNames = [
-  '.athletics',
-  '.neuroscience',
-  '.computation_and_modeling',
-  '.robotics',
-  '.clinical_research',
-  '.biomechanics',
-  '.manipulation'
-  ]
-  hideMultiple(tagNames)
+  hideMultiple(tagNames())
 }
 function showOnly(className){
   hideAll()
