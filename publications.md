@@ -8,6 +8,68 @@ menu: main
 <!-- Clipboard copier -->
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
 
+<script>
+function show(className) {
+    var myClasses = document.querySelectorAll(className),
+        i = 0,
+        l = myClasses.length;
+    for (i; i < l; i++) {
+        myClasses[i].style.display = 'block';
+    }
+}
+function hide(className) {
+    var myClasses = document.querySelectorAll(className),
+        i = 0,
+        l = myClasses.length;
+
+    for (i; i < l; i++) {
+        myClasses[i].style.display = 'none';
+    }
+}
+function hideMultiple(classNames) {
+    l = classNames.length
+    i = 0
+    for (i; i < l; i++) {
+        console.log(i)
+        console.log(classNames[i])
+        hide(classNames[i])
+    }
+}
+function showAll() {
+  tagNames = [
+  '.athletics',
+  '.neuroscience',
+  '.computation_and_modeling',
+  '.robotics',
+  '.clinical_research',
+  '.biomechanics',
+  '.manipulation'
+  ]
+    l = tagnames.length
+    i = 0
+    for (i; i < l; i++) {
+        show(classNames[i])
+    }
+}
+function hideAll() {
+  tagNames = [
+  '.athletics',
+  '.neuroscience',
+  '.computation_and_modeling',
+  '.robotics',
+  '.clinical_research',
+  '.biomechanics',
+  '.manipulation'
+  ]
+  hideMultiple(tagNames)
+}
+function showOnly(className){
+  hideAll()
+  show(className)
+}
+
+</script>
+
 
 
 
@@ -110,9 +172,21 @@ large_year {
     </select>
   </a>
 
-<!-- scroll to top button -->
+
+
+
+<h2>Topics</h2>
+<br>
+<button onclick="showAll()">Show All</button>
+<button onclick="showOnly('.athletics')">Athletics</button>
+<button onclick="showOnly('.neuroscience')">Neuroscience</button>
+<button onclick="showOnly('.computation_and_modeling')">Computation and Modeling</button>
+<button onclick="showOnly('.robotics')">Robotics</button>
+<button onclick="showOnly('.clinical_research')">Clinical Research</button>
+<button onclick="showOnly('.biomechanics')">Biomechanics</button>
+<button onclick="showOnly('.manipulation')">Manipulation</button>
+
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-<!-- end scroll to top button -->
 
 {% for year_of_interest in (1997..2017) reversed %}
 
@@ -125,9 +199,8 @@ large_year {
   {% comment %} filtering datas {% endcomment %}
   {% assign selectedEntries = site.data.publications | where: "Year", yearAsString %}
   {% for paper in selectedEntries %}
-             <div class="publication_card">
+             <div class="publication_card {{paper.Tags}}" >
                <a class="article_title" href="../../{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
-             </div>
              <div class="paper_author_container">
                <div class="paper_authors">{{paper.Author | upcase}}</div>
                <div class="journal_info">{{paper.Year}}—{{paper.Journal | upcase}}
@@ -135,6 +208,7 @@ large_year {
                    BIBTEX
                  </button>
                </div>
+             </div>
              </div>
      {% endfor %}
  {% endfor %}
