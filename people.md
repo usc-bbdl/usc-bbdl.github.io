@@ -172,8 +172,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="dariourbina"></a>
 		<img src="../Photos/dariourbina.jpg" height="150px" /><br>
 		<font size="3"><b>Darío Urbina</b></font><br>
-		<a href="mailto:pvachhan@usc.edu" target="_top">dario41tan@hotmail.com</a><br>
-		<font size="3">Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br></font>
+		<a href="mailto:dario41tan@hotmail.com" target="_top">dario41tan@hotmail.com</a><br>
+				<font size="3">Ph.D. Student in Biomedical Engineering</font><br> Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
 	</li>
 </ul>
 
