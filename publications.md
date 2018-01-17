@@ -54,10 +54,10 @@ menu: main
   {% assign selectedEntries = site.data.publications | where: "Year", yearAsString %}
   {% for paper in selectedEntries %}
              <div class="publication_card {{paper.Tags}}" >
-               <a class="article_title" href="../../{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
              <div class="paper_author_container">
                <div class="paper_authors">{{paper.Author | upcase}}</div>
-               <div class="journal_info">{{paper.Year}}—{{paper.Journal | upcase}}
+               <a class="article_title" href="../../{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
+               <div class="journal_info">{{paper.Year}}.{{paper.Journal | upcase}}
                  <button class="btn" data-clipboard-text="{{paper.BibTex}}">
                    BIBTEX
                  </button>
