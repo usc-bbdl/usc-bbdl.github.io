@@ -42,7 +42,7 @@ menu: main
 </a>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>
-{% for year_of_interest in (1997..2017) reversed %}
+{% for year_of_interest in (1997..2018) reversed %}
 
   {% comment %} casting an integer to a string {% endcomment %}
   {% assign yearAsString = year_of_interest | append:"" %}
