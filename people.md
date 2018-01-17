@@ -48,17 +48,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	Examining opportunities at the intersection of biomechanics and computational modeling.
 	</li>
 
-	<li class="flex-item">
-		<a name="kianjalaleddini"></a>
-		<img src="../Photos/kian1.jpg"><br>
-		<font size="3"><a href="http://www.jalaleddini.com/"><b>Kian Jalaleddini</b></a></font><br>
-		<font size="3">Post-doc</font><br>
-		<a href="mailto:jalaledd@usc.edu" target="_top">jalaledd@usc.edu</a><br>
-		Peripheral neuromuscular mechanisms in the control of posture and movement, leveraging signal processing and system identification.
-	</li>
-
-
-
 		<li class="flex-item">
 			<a name="akiranagamori"></a>
 			<img src="../Photos/akira.jpg" height="150px"/><br>
@@ -76,14 +65,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<font size="3">BME Masters student</font><br>
 	<a href="mailto:kasiri@usc.edu" target="_top">kasiri@usc.edu</a><br>
 	Exploring EMG muscle control of a robotic manipulator.
-	</li>
-
-	<li class="flex-item">
-	<a name="priyankavachhani"></a>
-	<img src="../Photos/priyanka.jpg" height="150px" /><br>
-	<font size="3"><b>Priyanka Vachhani</b></font><br>
-	<font size="3">INF MS student</font><br>
-	<a href="mailto:pvachhan@usc.edu" target="_top">pvachhan@usc.edu</a><br>
 	</li>
 
 	<li class="flex-item">
@@ -142,25 +123,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 
 	<li class="flex-item">
-		<a name="sebarnold"></a>
-		<img src="../Photos/sebastianarnolds.jpg" height="150px" /><br>
-		<font size="3"><b><a href="http://seba1511.com">Séb Arnold</a></b></font><br>
-		<font size="3">CS/Math undergrad</font><br>
-		<a href="mailto:arnolds@usc.edu" target="_top">arnolds@usc.edu</a><br>
-		Researching artificial intelligence, distributed systems, and mathematical optimization.<br>
-	</li>
-
-	<li class="flex-item">
-		<a name="taegyumkim"></a>
-		<img src="../Photos/taegyum.jpg" height="150px" /><br>
-		<font size="3"><b>Taegyum Kim</b></font><br>
-		<a href="mailto:taegyumk@usc.edu" target="_top">taegyumk@usc.edu</a><br>		
-		<font size="3">Computer Science Graduate (USC)</font><br>
-		Focused on API development and interface development.<br>
-	</li>
-
-
-	<li class="flex-item">
 		<a name="theodenisart"></a>
 		<img src="../Photos/theo.JPG" height="150px" /><br>
 		<font size="3"><b>Théo Denisart</b></font><br>
@@ -194,6 +156,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 
 # Doctoral Alumni
+<a href="http://www.jalaleddini.com/">Kian Jalaleddini</a>—
 Kornelius Rácz—
 Joshua Inouye—
 Marta—
@@ -224,7 +187,11 @@ Maria Makarov
 <b>Srideep Musuvathy</b>—Chandana Paul
 
 # Internship Alumni  
-<b>Rose Chiang</b> - BME Ph.D. in Rotation  
+
+<b>Taegyum Kim</b> - CS Undergraduate  
+<b>Priyanka Vachhani</b> - INF MS Student  
+<b>Séb Arnold</b> - CS Ph.D. in Rotation   
+<b>Rose Chiang</b> - BME  Ph.D. in Rotation
 <b>Babak Taherian</b> - BME Masters Student  
 <b>Catherine Leigh Raquel</b> - Stanford Human Biology Undergraduate  
 <b>Catherine Parsekian</b> - Claremont McKenna Neuroscience Undergraduate  
