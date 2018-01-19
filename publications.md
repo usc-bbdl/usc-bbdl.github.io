@@ -4,6 +4,17 @@ title: Publications
 permalink: /publications/
 menu: main
 ---
+<a>
+<select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location.href=this.options[this.selectedIndex].value;this.options[0].selected;" style="width:300px;font-size:16px;border:none;-webkit-appearance:none; color: 'blue'" >
+<option value="">Click here for Extended Publications</option>
+<option value="../fulllengthpeerreviewedabstracts/">Full-Length Peer-Reviewed Abstracts</option>
+<option value="../peerreviewedabstracts/">Peer-Reviewed Abstracts</option>
+<option value="../abstracts/">Abstracts</option>
+<option value="../bookchpt/">Book Chapters</option>
+<option value="../invitedsymposia/">Invited Symposia</option>
+<option value="../dissertation_theses/">Dissertations & Theses</option>
+</select>
+</a>
 
 <!-- Clipboard copier -->
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
@@ -29,17 +40,6 @@ menu: main
 <button onclick="showOnly('.manipulation')">Manipulation</button>
 <button onclick="showOnly('.athletics')">Athletics</button>
 <br>
-<a>
-<select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location.href=this.options[this.selectedIndex].value;this.options[0].selected;" style="width:300px;font-size:16px;border:none;-webkit-appearance:none; color: 'blue'" >
-<option value="">Click here for Extended Publications</option>
-<option value="../fulllengthpeerreviewedabstracts/">Full-Length Peer-Reviewed Abstracts</option>
-<option value="../peerreviewedabstracts/">Peer-Reviewed Abstracts</option>
-<option value="../abstracts/">Abstracts</option>
-<option value="../bookchpt/">Book Chapters</option>
-<option value="../invitedsymposia/">Invited Symposia</option>
-<option value="../dissertation_theses/">Dissertations & Theses</option>
-</select>
-</a>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>
 {% for year_of_interest in (1997..2018) reversed %}
