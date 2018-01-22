@@ -145,8 +145,9 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
-<b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
 <b>Shaohui Quian</b> - EE Masters Student  
+<b>Paris Hajili</b> - BME Undergraduate  
+<b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
 <b>Niharika Singh</b> - BME Masters Student  
 <b>Keegan Bate</b> - BME Masters Student  
 <b>Mayumi Ishikawa</b> -  BME undergrad  
