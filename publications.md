@@ -38,7 +38,6 @@ menu: main
 <button onclick="showOnly('.clinical_research')">Clinical Research</button>
 <button onclick="showOnly('.biomechanics')">Biomechanics</button>
 <button onclick="showOnly('.manipulation')">Manipulation</button>
-<button onclick="showOnly('.athletics')">Athletics</button>
 <br>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>

@@ -1,6 +1,5 @@
 function tagNames(){
   return([
-    '.athletics',
     '.neuroscience',
     '.computation_and_modeling',
     '.robotics',
