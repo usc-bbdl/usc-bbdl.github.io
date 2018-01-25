@@ -1,4 +1,34 @@
 Title,Link,Abstract,Author,BibTex,Year,Journal,SupplementalLink,Tags,
+Physiological tremor increases when skeletal muscle is shortened: implications for fusimotor control.,Papers/Jalaleddini_et_al-2017-The_Journal_of_Physiology.pdf,"The involuntary force fluctuations associated with physiological (as distinct from
+pathological) tremor are an unavoidable component of human motor control.While the origins
+of physiological tremor are known to depend on muscle afferentation, it is possible that
+the mechanical properties of muscle–tendon systems also affect its generation, amplification
+and maintenance. In this paper, we investigated the dependence of physiological tremor on
+muscle length in healthy individuals. We measured physiological tremor during tonic, isometric
+plantarflexion torque at 30% of maximum at three ankle angles. The amplitude of
+physiological tremor increased as calf muscles shortened in contrast to the stretch reflex whose
+amplitude decreases as muscle shortens. We used a published closed-loop simulation model of
+afferentedmuscle to explore the mechanisms responsible for this behaviour.We demonstrate that
+changingmuscle lengths does not suffice to explain our experimental findings. Rather, the model
+consistently required the modulation of γ-static fusimotor drive to produce increases in physiological
+tremor withmuscle shortening – while successfully replicating the concomitant reduction
+in stretch reflex amplitude. This need to control γ-static fusimotor drive explicitly as a function of
+muscle length has important implications. First, it permits the amplitudes of physiological tremor
+and stretch reflex to be decoupled. Second, it postulates neuromechanical interactions that require
+length-dependent γ drivemodulation to be independent fromα drive to the parentmuscle. Lastly,
+it suggests that physiological tremor can be used as a simple, non-invasivemeasure of the afferent
+mechanisms underlying healthy motor function, and their disruption in neurological conditions.
+
+","Jalaleddini K, Nagamori A, Laine CM, Golkar MA, Kearney RE, Valero‐Cuevas FJ.","@Article{jalaleddini2017physiological,
+title={Physiological tremor increases when skeletal muscle is shortened: implications for fusimotor control},
+author={Jalaleddini, Kian and Nagamori, Akira and Laine, Christopher M and Golkar, Mahsa A and Kearney, Robert E and Valero-Cuevas, Francisco J},
+journal={The Journal of physiology},
+volume={595},
+number={24},
+pages={7331--7346},
+year={2017},
+publisher={Wiley Online Library}
+}",2017,Journal of Physiology,,computation_and_modeling,
 Cardinal features of involuntary force variability can arise from the closed-loop control of viscoelastic afferented muscles,Papers/nagamori_plos_2018.pdf,"Author summary Involuntary fluctuations in muscle force are an unavoidable consequence of human motor control and underlie movement execution errors. Amplification and distortion of involuntary force variability are common phenomena found in various neurological conditions and in fatigue. However, the underlying mechanisms for this are often unclear. We investigated the generation and modulation of involuntary force variability arising from different sources, as well as their interactions. We used a closed-loop simulation which included a physiologically-grounded model of an afferented musculotendon and an error-controller. We show that interactions among neural noise, musculotendon mechanics, proprioceptive feedback, and error correction are critical components of force control, and by taking these into account, our model was able to both replicate and explain many cardinal features of involuntary force variability previously reported experimentally. Also, our results suggest previously unrecognized pathways through which force variability may be altered in fatigue and in certain neurological diseases. Finally, we emphasize the potential for important clinical and scientific information to be extracted from relatively simple, non-invasive measurements of force.","Nagamori A, Laine CM, Valero-Cuevas FJ.","@Article{nagamori2018cardinal,
 title={Cardinal features of involuntary force variability can arise from the closed-loop control of viscoelastic afferented muscles},
 author={Nagamori, Akira and Laine, Christopher M and Valero-Cuevas, Francisco J},
@@ -24,7 +54,7 @@ pages = {1 - 7},
 year = {2017},
 issn = {0021-9290},
 author = {Emily L. Lawrence and Lorenzo Peppoloni and Francisco J. Valero-Cuevas}
-}",2017,Journal of Biomechanics,,biomechanics athletics,
+}",2017,Journal of Biomechanics,,biomechanics,
 Finger movements are mainly represented by a linear transformation of energy in band-specific ECoG signals,Papers/ieeeecog2017.pdf,"Electrocardiogram (ECoG) recordings are very attractive for Brain Machine Interface (BMI) applications due to their balance between good signal to noise ratio and minimal invasiveness. The design of ECoG signal decoders is an open research area to date which requires a better understanding of the nature of these signals and how information is encoded in them. In this study, a linear and a non-linear method, Linear Regression Model (LRM) and Artificial Neural Network (ANN) respectively, were used to decode finger movements from energy in band-specific ECoG signals. It is shown that the ANN only slightly outperformed the LRM, which suggests that finger movements are mainly represented by a linear transformation of energy in band-specific ECoG signals. In addition, comparing our results to similar Electroencephalogram (EEG) studies illustrated that the spatio-temporal summation of multiple neural signals is itself linearly correlated with movement, and is not an artifact introduced by the scalp or cranium. Furthermore, a new algorithm was employed to reduce the number of spectral features of the input signals required for either of the decoding methods.","Marjaninejad A, Taherian B, Valero-Cuevas FJ","@inproceedings{marjaninejad2017finger,
 title={Finger movements are mainly represented by a linear transformation of energy in band-specific ECoG signals},
 author={Marjaninejad, Ali and Taherian, Babak and Valero-Cuevas, Francisco J},
@@ -272,7 +302,7 @@ skill of athletes.","Krenn O, Werner I, Lawrence EL, Valero-Cuevas FJ.","@articl
   journal={Science in Skiing VI},
   pages={439--445},
   year={2015}
-}",2015,Science in Skiing VI,,biomechanics athletics,
+}",2015,Science in Skiing VI,,biomechanics,
 Long Term Functional Outcomes After Early Childhood Pollicization,Papers/Lightdale_Miric_JHT.pdf,"Study design Retrospective Cohort
 Introduction Important outcomes of polliciation to treat thumb hypoplasia/aplasia include strength, function, dexterity, and quality of life.
 Purpose of the Study To evaluate outcomes and examine predictors of outcome after early childhood pollicization.
