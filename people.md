@@ -113,15 +113,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints.
 	</li>
 
-
-	<li class="flex-item">
-		<a name="victoresparza"></a>
-		<img src="../Photos/victor.jpg" height="150px"/><br>
-		<font size="3"><b><a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a></b></font><br>
-		<font size="3">BME Masters student</font><br>
-		<a href="mailto:vesparza@usc.edu" target="_top">vesparza@usc.edu</a><br>
-	</li>
-
 	<li class="flex-item">
 		<a name="theodenisart"></a>
 		<img src="../Photos/theo.JPG" height="150px" /><br>
@@ -186,6 +177,10 @@ Maria Makarov
 # Postdoctoral Alumni
 <b>Srideep Musuvathy—
 Chandana Paul—<a href="http://www.jalaleddini.com/">Kian Jalaleddini</a></b>
+
+# Past Masters Students
+<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a> - BME
+
 # Internship Alumni  
 
 <b>Taegyum Kim</b> - CS Undergraduate  
