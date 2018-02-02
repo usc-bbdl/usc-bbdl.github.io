@@ -1,4 +1,54 @@
 Title,Link,Abstract,Author,BibTex,Year,Journal,SupplementalLink,Tags,
+Should anthropomorphic systems be &#34;redundant&#34;?,Papers/amfvc_chapter2018.pdf,"We explore the conceptual design and implementation of muscle redundancy and
+kinematic redundancy for anthropomorphic robots from three perspectives: (i) The
+control of tendon-driven systems, (ii) How the number of muscles define functional
+capabilities, and (iii) How too few synergies can be detrimental to functional versatility.
+Historically, roboticists prefer either rotational actuators located at each joint (i.e.,
+rotational degree-of-freedom, DOF), or few linear actuators (i.e., two dedicated
+muscles per joint) for tendon-driven robots. In contrast, biological limbs have
+evolved to include too many muscles [1], which are thought to unnecessarily complicate
+their anatomy and control. The question, then, is why has evolution converged
+on these apparently under-determined (or redundant) solutions? If we really have
+extra muscles, then which muscle would you give up? By taking a formal mathematical
+approach to the control of tendons—which is the actual problem that confronts
+the nervous system—we have proposed a resolution to this apparent paradox
+by proposing that vertebrates may have, in fact, barely enough muscles to meet the
+numerous physical constraints for ecological functions (as opposed to simple laboratory
+tasks) [1, 2]. This approach can be called Feasibility Theory, which describes
+how the anatomy of the system, and the constraints defining the task define the set
+of feasible actions the system can produce. The role of the (neural or engineered)
+controller is then, to find ways to use the mechanical capabilities of the combined
+controller-plant system to the fullest [1].
+Similarly, the effective mechanical design of a robotic limb, at a minimum, requires controllability (i.e., enough control degrees of freedom, or muscles) to produce arbitrary
+forces and movements (i.e., changes of state [3]). Force and movement capabilities
+have distinct governing equations and are, in fact, in competition with one
+another (e.g., a see-saw demonstrates, as per the Law of Conservation of Energy,
+how producing higher forces is associated with lower velocities and vice versa).
+Therefore, we explored the potential evolutionary pressures that may have shaped
+vertebrate limbs by evaluating how the number of muscles affects the competing
+demands to produce endpoint forces and velocities.
+A related concept that cuts across biological and robotic systems is the idea that
+the kinematics and kinetics of a wide variety of actions exhibit a low-dimensional
+structure that can be approximated with a few principal components (sometimes
+called descriptive synergies [4, 5]). This has been taken to mean that a few degrees
+of freedom suffice to produce versatile behavior in the real world. However, the fine
+behavioral details that distinguish different actions are, by definition, not captured
+by the commonalities among them. Thus, versatility in the real world likely depends
+on recognizing and executing fine distinctions among actions; which implies
+that more degrees of freedom of control are critical for true functional versatility.
+These three independent arguments support the perspective that creating anthropomorphic
+systems requires apparently redundant structures, because only then can
+they truly execute a wide variety of real-world tasks. In addition, we also present
+an open-access MATLAB toolbox that allows users from different backgrounds to
+explore these concepts in detail. We believe this new perspective will improve the
+conceptualization, understanding, and design of anthropomorphic systems.","Marjaninejad A, Valero-Cuevas FJ","@incollection{marjaninejad2018should,
+title={Should anthropomorphic systems be \&#34;redundant\&#34;},
+author={Marjaninejad, Ali and Valero-Cuevas, Francisco J.},
+booktitle={Biomechanics of Anthropomorphic Systems, Springer Tracts in Advanced Robotics (STAR) series},
+pages={},
+year={2018},
+publisher={Springer}
+}",2018,Biomechanics of Anthropomorphic Systems,,biomechanics,
 Physiological tremor increases when skeletal muscle is shortened: implications for fusimotor control.,Papers/Jalaleddini_et_al-2017-The_Journal_of_Physiology.pdf,"The involuntary force fluctuations associated with physiological (as distinct from
 pathological) tremor are an unavoidable component of human motor control.While the origins
 of physiological tremor are known to depend on muscle afferentation, it is possible that
@@ -37,7 +87,7 @@ volume={14},
 issue = {1},
 year={2018}
 }",2018,PLOS Computational Biology,,computation_and_modeling,
-The neural control of movement must contend with trajectory-specific and nonlinearly distorted manifolds of afferent muscle spindle activity,Papers/BerryIJCNN17.pdf,"We introduce the concept of trajectory-specific sensory manifolds. They are the unique multidimensional and time-varying combinations of afferent signals that obligatorily emerge during a limb movement. We use the example of muscle spindles (i.e., the muscle's proprioceptors for length and velocity) that arise during movements of an arm (a planar 2-DOF 6-muscle model) during the production of straight, curved and oscillatory hand movements. Through the use of parallel coordinates, we visualize the high-dimensional evolution of the afferent signaling across muscles and tasks. We demonstrate that a given movement gives rise to a distinct sensory manifold embedded in the 12-D space of spindle information that is largely independent of the choice of muscle coordination strategy. Given that muscle lengths and velocities are fully determined by joint kinematics, such manifolds provide a rich set of information to use in its control.","Berry JA, Ritter R, Nagamori A, Valero-Cuevas, FJ.","@inproceedings{berry2017neural,
+The neural control of movement must contend with trajectory-specific and nonlinearly distorted manifolds of afferent muscle spindle activity,Papers/BerryIJCNN17.pdf,"We introduce the concept of trajectory-specific sensory manifolds. They are the unique multidimensional and time-varying combinations of afferent signals that obligatorily emerge during a limb movement. We use the example of muscle spindles (i.e., the muscle&#39;s proprioceptors for length and velocity) that arise during movements of an arm (a planar 2-DOF 6-muscle model) during the production of straight, curved and oscillatory hand movements. Through the use of parallel coordinates, we visualize the high-dimensional evolution of the afferent signaling across muscles and tasks. We demonstrate that a given movement gives rise to a distinct sensory manifold embedded in the 12-D space of spindle information that is largely independent of the choice of muscle coordination strategy. Given that muscle lengths and velocities are fully determined by joint kinematics, such manifolds provide a rich set of information to use in its control.","Berry JA, Ritter R, Nagamori A, Valero-Cuevas, FJ.","@inproceedings{berry2017neural,
 title={The neural control of movement must contend with trajectory-specific and nonlinearly distorted manifolds of afferent muscle spindle activity},
 author={Berry, Jasmine A and Ritter, Robert and Nagamori, Akira and Valero-Cuevas, Francisco J},
 booktitle={Neural Networks (IJCNN), 2017 International Joint Conference on},
