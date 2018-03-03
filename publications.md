@@ -19,6 +19,7 @@ menu: main
 <!-- Clipboard copier -->
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
 <script src="../publication_tags.js"></script>
+
 <link rel="stylesheet" type="text/css" media="screen" href="../css/styles.css" />
 <div>
 <div class="yearbuttons">
@@ -57,9 +58,15 @@ menu: main
                <div class="paper_authors">{{paper.Author}}</div>
                <a class="article_title" href="../../{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
                <div class="journal_info">{{paper.Year}}.{{paper.Journal}}
+
                  <button class="btn" data-clipboard-text="{{paper.BibTex}}">
                    BIBTEX
                  </button>
+<div class="profile-hover">
+    <div class="journal_info">Click to copy to clipboard</div>
+</div>
+
+
                </div>
              </div>
              </div>
