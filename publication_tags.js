@@ -40,3 +40,7 @@ function showOnly(className){
   hideAll()
   show(className)
 }
+function notify_bibtex_copied(ele) {
+  console.log(ele.value)
+    ele.value = "Open Curtain";
+}

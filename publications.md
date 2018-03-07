@@ -58,15 +58,7 @@ menu: main
                <div class="paper_authors">{{paper.Author}}</div>
                <a class="article_title" href="../../{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
                <div class="journal_info">{{paper.Year}}.{{paper.Journal}}
-
-                 <button class="btn" data-clipboard-text="{{paper.BibTex}}">
-                   BIBTEX
-                 </button>
-<div class="profile-hover">
-    <div class="journal_info">Click to copy to clipboard</div>
-</div>
-
-
+                 <button class="btn" data-clipboard-text="{{paper.BibTex}}">BIBTEX</button>
                </div>
              </div>
              </div>

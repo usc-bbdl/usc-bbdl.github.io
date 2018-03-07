@@ -72,20 +72,3 @@ large_year {
 .year_button_container:hover {
     text-decoration:none;
 }
-
-
-bibtex-holder { padding: 5%; position: relative; }
-.profile-hover { 
-    display: none; 
-    float:right;
-    position: static;
-    top: 0
-    left: 0;
-    z-index: 99;
-    margin-top:4px;
-    /*border: 1px solid #333;*/
-    background: #eee;
-    width: 300px;
-    text-align: center;
-}
-button:hover + div { display: block; }
