@@ -5,8 +5,8 @@ permalink: /people/
 menu: main
 ---
 # PI: Francisco Valero-Cuevas Ph.D.
+<img src="../Photos/photoshoot_spring_2018/franciscovalerocuevas.jpg"  width="150px" /><br>
 <a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
-<img src="../img/francisco.jpg"  width="100%" /><br>
 *Francisco's Bio*  
 I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Masters Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.  <br>
 In 1991, I joined the doctoral program in the Design Division of the Mechanical Engineering Department at Stanford University. I worked with Dr. Felix Zajac developing a realistic biomechanical model of the human digits. This research, done at the Rehabilitation R & D Center in Palo Alto, focused on predicting optimal coordination patterns of finger musculature during static force production.    <br>
@@ -135,6 +135,23 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
 				<font size="3">Ph.D. Student in Biomedical Engineering</font><br> Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
 	</li>
+
+	<li class="flex-item">
+		<a name="gabeglasser"></a>
+		<img src="../Photos/photoshoot_spring_2018/gabeglasser.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Gabe Glasser</b></font><br>
+		<a href="mailto:gabrielmglasser@gmail.com" target="_top">gabrielmglasser@gmail.com</a><br>
+				<font size="3">M.S. Student in Biomedical Engineering</font><br> Creating novel, mechanically efficient designs to tendon-driven anthropomorphic robots<br>
+	</li>
+
+	<li class="flex-item">
+		<a name="parishajali"></a>
+		<img src="../Photos/photoshoot_spring_2018/parishajali.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Gabe Glasser</b></font><br>
+		<a href="mailto:hajali@usc.edu" target="_top">hajali@usc.edu</a><br>
+				<font size="3">M.S. Student in Biomedical Engineering</font><br>...<br>
+	</li>
+
 </ul>
 
 <!-- # Current Visiting Scientists -->
