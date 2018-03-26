@@ -144,14 +144,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 				<font size="3">M.S. Student in Biomedical Engineering</font><br> Creating novel, mechanically efficient designs to tendon-driven anthropomorphic robots<br>
 	</li>
 
-	<li class="flex-item">
-		<a name="parishajali"></a>
-		<img src="../Photos/photoshoot_spring_2018/parishajali.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Gabe Glasser</b></font><br>
-		<a href="mailto:hajali@usc.edu" target="_top">hajali@usc.edu</a><br>
-				<font size="3">M.S. Student in Biomedical Engineering</font><br>...<br>
-	</li>
-
 </ul>
 
 <!-- # Current Visiting Scientists -->
