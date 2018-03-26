@@ -15,14 +15,12 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 -------------------------------------------
 <br>
 
-
-## Lab Members
-
+## PostDocs
 <ul class="flex-container">
 
 	<li class="flex-item">
 		<a name="chrislaine"></a>
-		<img src="../Photos/christopherlaine.jpg" height="150px"/><br>
+		<img src="../Photos/photoshoot_spring_2018/chrislaine.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Christopher Laine</b></font><br>
 		<font size="3">Research Assistant Professor</font><br>
 		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
@@ -30,27 +28,43 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 
 	<li class="flex-item">
-		<a name="briancohn"></a>
-		<img src="../Photos/brian.jpg" height="150px"/><br>
-		<font size="3"><b>Brian Cohn</b></font><br>
-		<font size="3">CS PhD Student</font><br>
-		<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
-		Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
+		<a name="junshin"></a>
+		<img src="../Photos/jun.jpg" class = "profilepicture"><br>
+		<font size="3"><b>Jun Yong Shin</b></font><br>
+		<font size="3">Post-doc</font><br>
+		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
+		Designing a wireless data collection system so real-time signals from various sensors are wirelessly transmitted to a mobile device for visualization.   
 	</li>
+
+	</ul>
+
+
+## Lab Members
+
+<ul class="flex-container">
 
 
 	<li class="flex-item">
 	<a name="jasmineberry"></a>
-	<img src="../Photos/jasmine.jpg" height="150px"/><br>
+	<img src="../Photos/photoshoot_spring_2018/jasmineberry.jpg" class = "profilepicture"/><br>
 	<font size="3"><b>Jasmine Berry</b></font><br>
 	<font size="3">BME PhD student</font><br>
 	<a href="mailto:jasminab@usc.edu" target="_top">jasminab@usc.edu</a><br>
 	Examining opportunities at the intersection of biomechanics and computational modeling.
 	</li>
 
+	<li class="flex-item">
+	<a name="briancohn"></a>
+	<img src="../Photos/photoshoot_spring_2018/briancohn.jpg" class = "profilepicture"/><br>
+	<font size="3"><b>Brian Cohn</b></font><br>
+	<font size="3">CS PhD Student</font><br>
+	<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
+	Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
+	</li>
+
 		<li class="flex-item">
 			<a name="akiranagamori"></a>
-			<img src="../Photos/akira.jpg" height="150px"/><br>
+			<img src="../Photos/akira.jpg" class = "profilepicture"/><br>
 			<font size="3"><b>Akira Nagamori</b></font><br>
 			<font size="3">BKN PhD Student</font><br>
 			<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
@@ -60,7 +74,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 	<a name="maralkasiri"></a>
-	<img src="../Photos/maral.JPG" height="150px"/><br>
+	<img src="../Photos/maral.JPG" class = "profilepicture"/><br>
 	<font size="3"><b>Maral Kasiri</b></font><br>
 	<font size="3">BME Masters student</font><br>
 	<a href="mailto:kasiri@usc.edu" target="_top">kasiri@usc.edu</a><br>
@@ -69,7 +83,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 	<a name="melisa"></a>
-	<img src="../Photos/melisa.JPG" height="150px"/><br>
+	<img src="../Photos/melisa.JPG" class = "profilepicture"/><br>
 	<font size="3"><b>Melisa Osborne</b></font><br>
 	<font size="3">BME Masters student</font><br>
 	<a href="mailto:mgosborn@usc.edu" target="_top">mgosborn@usc.edu</a><br>
@@ -78,7 +92,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 	<a name="alimarjaninejad"></a>
-	<img src="../Photos/ali.jpg" height="150px"/><br>
+	<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.jpg" class = "profilepicture"/><br>
 	<font size="3"><a href="http://valerolab.org/marjani/"><b>Ali Marjaninejad</b></a></font><br>
 	<font size="3">BME PhD student</font><br>
 	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
@@ -88,25 +102,18 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="surajchakravarthi"></a>
-		<img src="../Photos/suraj.jpg"><br>
+		<img src="../Photos/photoshoot_spring_2018/surajchakravarthi.jpg" class = "profilepicture" ><br>
 		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
 		<font size="3">EE PhD student</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
 		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.
 	</li>
 
-	<li class="flex-item">
-		<a name="junshin"></a>
-		<img src="../Photos/jun.jpg"><br>
-		<font size="3"><b>Jun Yong Shin</b></font><br>
-		<font size="3">Post-doc</font><br>
-		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
-		Designing a wireless data collection system so real-time signals from various sensors are wirelessly transmitted to a mobile device for visualization.   
-	</li>
+
 
 	<li class="flex-item">
 		<a name="danielhagen"></a>
-		<img src="../Photos/danielhagen.jpg"><br>
+		<img src="../Photos/photoshoot_spring_2018/danielhagen.jpg" class = "profilepicture" ><br>
 		<font size="3"><b>Daniel Hagen</b></font><br>
 		<font size="3">BME PhD student</font><br>
 		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>
@@ -115,7 +122,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="theodenisart"></a>
-		<img src="../Photos/theo.JPG" height="150px" /><br>
+		<img src="../Photos/photoshoot_spring_2018/theodenisart.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Théo Denisart</b></font><br>
 		<a href="mailto:theo-tim.denisart@epfl.ch" target="_top">theo-tim.denisart@epfl.ch</a><br>
 		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems, novel mechanical designs, and evolutionary robotics.​ <br>
@@ -123,15 +130,15 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="dariourbina"></a>
-		<img src="../Photos/dariourbina.jpg" height="150px" /><br>
+		<img src="../Photos/photoshoot_spring_2018/dariourbina.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Darío Urbina</b></font><br>
 		<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
 				<font size="3">Ph.D. Student in Biomedical Engineering</font><br> Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
 	</li>
 </ul>
 
-# Current Visiting Scientists
-<b>Anton Dogadov</b> - Grenoble INP-France PhD Student
+<!-- # Current Visiting Scientists -->
+<!-- <b>Anton Dogadov</b> - Grenoble INP-France PhD Student -->
 
 
 # Current Interns

@@ -72,3 +72,7 @@ large_year {
 .year_button_container:hover {
     text-decoration:none;
 }
+
+.profilepicture {
+  width: 150px;
+}
