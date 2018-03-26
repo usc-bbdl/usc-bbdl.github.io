@@ -5,7 +5,7 @@ permalink: /people/
 menu: main
 ---
 # PI: Francisco Valero-Cuevas Ph.D.
-<img src="../Photos/photoshoot_spring_2018/franciscovalerocuevas.JPG"  width="150px" /><br>
+<img src="../Photos/photoshoot_spring_2018/franciscovalerocuevas.jpg"  width="150px" /><br>
 <a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
 *Francisco's Bio*  
 I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Masters Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.  <br>
@@ -20,7 +20,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="chrislaine"></a>
-		<img src="../Photos/photoshoot_spring_2018/chrislaine.JPG" class = "profilepicture"/><br>
+		<img src="../Photos/photoshoot_spring_2018/chrislaine.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Christopher Laine</b></font><br>
 		<font size="3">Research Assistant Professor</font><br>
 		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
@@ -29,7 +29,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="junshin"></a>
-		<img src="../Photos/jun.JPG" class = "profilepicture"><br>
+		<img src="../Photos/jun.jpg" class = "profilepicture"><br>
 		<font size="3"><b>Jun Yong Shin</b></font><br>
 		<font size="3">Post-doc</font><br>
 		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
@@ -46,7 +46,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 	<a name="jasmineberry"></a>
-	<img src="../Photos/photoshoot_spring_2018/jasmineberry.JPG" class = "profilepicture"/><br>
+	<img src="../Photos/photoshoot_spring_2018/jasmineberry.jpg" class = "profilepicture"/><br>
 	<font size="3"><b>Jasmine Berry</b></font><br>
 	<font size="3">BME PhD student</font><br>
 	<a href="mailto:jasminab@usc.edu" target="_top">jasminab@usc.edu</a><br>
@@ -55,7 +55,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 	<a name="briancohn"></a>
-	<img src="../Photos/photoshoot_spring_2018/briancohn.JPG" class = "profilepicture"/><br>
+	<img src="../Photos/photoshoot_spring_2018/briancohn.jpg" class = "profilepicture"/><br>
 	<font size="3"><b>Brian Cohn</b></font><br>
 	<font size="3">CS PhD Student</font><br>
 	<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
@@ -64,7 +64,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 		<li class="flex-item">
 			<a name="akiranagamori"></a>
-			<img src="../Photos/akira.JPG" class = "profilepicture"/><br>
+			<img src="../Photos/akira.jpg" class = "profilepicture"/><br>
 			<font size="3"><b>Akira Nagamori</b></font><br>
 			<font size="3">BKN PhD Student</font><br>
 			<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
@@ -73,7 +73,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 	<a name="alimarjaninejad"></a>
-	<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.JPG" class = "profilepicture"/><br>
+	<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.jpg" class = "profilepicture"/><br>
 	<font size="3"><a href="http://valerolab.org/marjani/"><b>Ali Marjaninejad</b></a></font><br>
 	<font size="3">BME PhD student</font><br>
 	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
@@ -83,7 +83,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="surajchakravarthi"></a>
-		<img src="../Photos/photoshoot_spring_2018/surajchakravarthi.JPG" class = "profilepicture" ><br>
+		<img src="../Photos/photoshoot_spring_2018/surajchakravarthi.jpg" class = "profilepicture" ><br>
 		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
 		<font size="3">EE PhD student</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
@@ -94,7 +94,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="danielhagen"></a>
-		<img src="../Photos/photoshoot_spring_2018/danielhagen.JPG" class = "profilepicture" ><br>
+		<img src="../Photos/photoshoot_spring_2018/danielhagen.jpg" class = "profilepicture" ><br>
 		<font size="3"><b>Daniel Hagen</b></font><br>
 		<font size="3">BME PhD student</font><br>
 		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>
@@ -103,7 +103,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="theodenisart"></a>
-		<img src="../Photos/photoshoot_spring_2018/theodenisart.JPG" class = "profilepicture" /><br>
+		<img src="../Photos/photoshoot_spring_2018/theodenisart.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Théo Denisart</b></font><br>
 		<a href="mailto:theo-tim.denisart@epfl.ch" target="_top">theo-tim.denisart@epfl.ch</a><br>
 		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems, novel mechanical designs, and evolutionary robotics.​ <br>
@@ -111,7 +111,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="dariourbina"></a>
-		<img src="../Photos/photoshoot_spring_2018/dariourbina.JPG" class = "profilepicture" /><br>
+		<img src="../Photos/photoshoot_spring_2018/dariourbina.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Darío Urbina</b></font><br>
 		<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
 				<font size="3">Ph.D. Student in Biomedical Engineering</font><br> Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
@@ -119,7 +119,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="gabeglasser"></a>
-		<img src="../Photos/photoshoot_spring_2018/gabeglasser.JPG" class = "profilepicture" /><br>
+		<img src="../Photos/photoshoot_spring_2018/gabeglasser.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Gabe Glasser</b></font><br>
 		<a href="mailto:gabrielmglasser@gmail.com" target="_top">gabrielmglasser@gmail.com</a><br>
 				<font size="3">M.S. Student in Biomedical Engineering</font><br> Creating novel, mechanically efficient designs to tendon-driven anthropomorphic robots<br>
