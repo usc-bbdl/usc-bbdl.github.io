@@ -71,25 +71,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 			Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neuromuscular modeling.
 		</li>
 
-
-	<li class="flex-item">
-	<a name="maralkasiri"></a>
-	<img src="../Photos/maral.JPG" class = "profilepicture"/><br>
-	<font size="3"><b>Maral Kasiri</b></font><br>
-	<font size="3">BME Masters student</font><br>
-	<a href="mailto:kasiri@usc.edu" target="_top">kasiri@usc.edu</a><br>
-	Exploring EMG muscle control of a robotic manipulator.
-	</li>
-
-	<li class="flex-item">
-	<a name="melisa"></a>
-	<img src="../Photos/melisa.JPG" class = "profilepicture"/><br>
-	<font size="3"><b>Melisa Osborne</b></font><br>
-	<font size="3">BME Masters student</font><br>
-	<a href="mailto:mgosborn@usc.edu" target="_top">mgosborn@usc.edu</a><br>
-	Exploring correlation between EEG and EMG signals in neuromuscular disorders.
-	</li>
-
 	<li class="flex-item">
 	<a name="alimarjaninejad"></a>
 	<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.jpg" class = "profilepicture"/><br>
@@ -155,13 +136,11 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 
 <b>Vishweshwar Shastri</b> - BME Masters student
+<b>Paris Hajali</b> - BME Masters student
 <b>Young Jin Kim</b> - CS Undergraduate
 <b>Chintalapudi Sarath</b> - EE Masters student
-<b>Shaohui Quian</b> - EE Masters Student  
 <b>Paris Hajili</b> - BME Undergraduate  
-<b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
 <b>Niharika Singh</b> - BME Masters Student  
-<b>Keegan Bate</b> - BME Masters Student  
 <b>Mayumi Ishikawa</b> -  BME undergrad  
 <b>Brandon Miura</b> - BME undergrad  
 <b>Taylor Stroobosscher</b> - EE undergrad  
@@ -201,10 +180,13 @@ Chandana Paul—<a href="http://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 
 # Past Masters Students
 <a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a> - BME
+<b>Maral Kasiri</b> - BME Masters Student
 
-# Internship Alumni  
-
+# Internship Alumni
+<b>Keegan Bate</b> - BME Masters Student  
+<b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
 <b>Taegyum Kim</b> - CS Undergraduate  
+<b>Melisa Osborne</b> - BME Undergraduate
 <b>Priyanka Vachhani</b> - INF MS Student  
 <b>Séb Arnold</b> - CS Ph.D. in Rotation   
 <b>Rose Chiang</b> - BME  Ph.D. in Rotation
@@ -219,3 +201,4 @@ Chandana Paul—<a href="http://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 <b>Cyrus Jia</b> - CS Undergraduate  
 <b>Noel Trivedi</b> - CS Undergraduate  
 <b>Elizabeth Chu</b> - CS Undergraduate   
+<b>Shaohui Quian</b> - EE Masters Student  
