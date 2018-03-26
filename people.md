@@ -105,24 +105,29 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="theodenisart"></a>
 		<img src="../Photos/photoshoot_spring_2018/theodenisart.JPG" class = "profilepicture" /><br>
 		<font size="3"><b>Théo Denisart</b></font><br>
+		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br>
 		<a href="mailto:theo-tim.denisart@epfl.ch" target="_top">theo-tim.denisart@epfl.ch</a><br>
-		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br> Interested in designing bio-inspired systems, novel mechanical designs, and evolutionary robotics.​ <br>
+		Interested in designing bio-inspired systems, novel mechanical designs, and evolutionary robotics.​ <br>
 	</li>
 
 	<li class="flex-item">
 		<a name="dariourbina"></a>
 		<img src="../Photos/photoshoot_spring_2018/dariourbina.JPG" class = "profilepicture" /><br>
 		<font size="3"><b>Darío Urbina</b></font><br>
-		<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
-				<font size="3">Ph.D. Student in Biomedical Engineering</font><br> Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
+
+				<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
+				<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
+				Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
 	</li>
 
 	<li class="flex-item">
 		<a name="gabeglasser"></a>
 		<img src="../Photos/photoshoot_spring_2018/gabeglasser.JPG" class = "profilepicture" /><br>
 		<font size="3"><b>Gabe Glasser</b></font><br>
-		<a href="mailto:gabrielmglasser@gmail.com" target="_top">gabrielmglasser@gmail.com</a><br>
-				<font size="3">M.S. Student in Biomedical Engineering</font><br> Creating novel, mechanically efficient designs to tendon-driven anthropomorphic robots<br>
+
+				<font size="3">M.S. Student in Biomedical Engineering</font><br>
+				<a href="mailto:gabrielmglasser@gmail.com" target="_top">gabrielmglasser@gmail.com</a><br>
+				Creating novel, mechanically efficient designs to tendon-driven anthropomorphic robots<br>
 	</li>
 
 </ul>
