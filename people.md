@@ -5,7 +5,7 @@ permalink: /people/
 menu: main
 ---
 # PI: Francisco Valero-Cuevas Ph.D.
-<img src="../Photos/photoshoot_spring_2018/franciscovalerocuevas.JPG"  width="150px" /><br>
+<img src="../img/francisco.jpg"  width="100%" /><br>
 <a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
 *Francisco's Bio*  
 I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Masters Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.  <br>
