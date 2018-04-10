@@ -3,7 +3,7 @@ layout: page
 title: Feasibility theory
 ---
 # Companion Website
-*Prepared by: Brian Cohn*
+*Prepared by: Brian A. Cohn*
 
 ## JNP2017
 ### **Abstract:**
@@ -15,7 +15,10 @@ This approach unifies current theories of neuromuscular control because the stru
 # [Interactive Parallel Coordinates Visualization](https://briancohn.github.io/space-parcoords/)
 <img src="../../img/projects/cohn2017.gif">
 
-# Code to produce datapoints for a given task
+# Have comments or questions about how to apply these methods to your work?
+We'd be happy to help. Send us a message: brian.cohn@usc.edu
+
+# Code to produce muscle activation patterns for a given task
 [GitHub Repository](https://github.com/briancohn/space)
 
 # Code to produce figures  
