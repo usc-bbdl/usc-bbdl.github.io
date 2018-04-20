@@ -13,13 +13,13 @@ Springer Biosystems & Biorobotics Series, Volume 8
 
 
 
-## [Download book PDF](http://link.springer.com/content/pdf/10.1007/978-1-4471-6747-1.pdf)  
+## [Download book PDF](https://link.springer.com/content/pdf/10.1007/978-1-4471-6747-1.pdf)  
 >If you are at an institution subscribed to SpringerLink, you should see the PDF.  
 Otherwise, you will be directed to the SpringerLink page.  
 
-[View book on Amazon](http://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)  
+[View book on Amazon](https://www.amazon.com/Fundamentals-Neuromechanics-Biosystems-Biorobotics-Valero-Cuevas/dp/1447167465/ref=sr_1_1?ie=UTF8&qid=1451158117&sr=8-1&keywords=valero-cuevas)  
 
-[Professors: Click here to request a desk copy](http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)  
+[Professors: Click here to request a desk copy](https://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9781447167464)  
 
 This book provides a conceptual and computational framework to study how the nervous system exploits the anatomical properties of limbs to produce mechanical function. The study of the neural control of limbs has historically emphasized the use of optimization to find solutions to the muscle redundancy problem. That is, how does the nervous system select a specific muscle coordination pattern when the many muscle of a limb allow for multiple solutions?  
 I revisit this problem from the emerging perspective of neuromechanics that emphasizes finding and implementing families of feasible solutions, instead of a single and unique optimal solution. Those families of feasible solutions emerge naturally from the interactions among the feasible neural commands, anatomy of the limb, and constraints of the task. Such alternative perspective to the neural control of function is not only biologically plausible, but sheds light on the most central tenets and debates in the fields of neural control, robotics, rehabilitation, and brain-body co-evolutionary adaptations. This perspective developed from courses I taught to engineers and life scientists at Cornell University and the University of Southern California, and is made possible by combining fundamental concepts from mechanics, anatomy, robotics and neuroscience with advances in the field of computational geometry.  
@@ -27,16 +27,16 @@ I revisit this problem from the emerging perspective of neuromechanics that emph
 
 # Companion Website
 
-1. [Chapter 1](http://usc-bbdl.github.io/book_chapters/ch1.html)
-2. [Chapter 2](http://usc-bbdl.github.io/book_chapters/ch2.html)
-3. [Chapter 3](http://usc-bbdl.github.io/book_chapters/ch3.html)
-4. [Chapter 4](http://usc-bbdl.github.io/book_chapters/ch4.html)
-5. [Chapter 5](http://usc-bbdl.github.io/book_chapters/ch5.html)
-6. [Chapter 6](http://usc-bbdl.github.io/book_chapters/ch6.html)
-7. [Chapter 7](http://usc-bbdl.github.io/book_chapters/ch7.html)
-8. [Chapter 8](http://usc-bbdl.github.io/book_chapters/ch8.html)
-9. [Chapter 9](http://usc-bbdl.github.io/book_chapters/ch9.html)
-10. [Chapter 10](http://usc-bbdl.github.io/book_chapters/ch10.html)
+1. [Chapter 1](book_chapters/ch1.html)
+2. [Chapter 2](book_chapters/ch2.html)
+3. [Chapter 3](book_chapters/ch3.html)
+4. [Chapter 4](book_chapters/ch4.html)
+5. [Chapter 5](book_chapters/ch5.html)
+6. [Chapter 6](book_chapters/ch6.html)
+7. [Chapter 7](book_chapters/ch7.html)
+8. [Chapter 8](book_chapters/ch8.html)
+9. [Chapter 9](book_chapters/ch9.html)
+10. [Chapter 10](book_chapters/ch10.html)
 
 
 ## Companion video lectures from USC Biokinesiology 504
