@@ -56,10 +56,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 	<a name="briancohn"></a>
 	<img src="../Photos/photoshoot_spring_2018/briancohn.JPG" class = "profilepicture"/><br>
-	<font size="3"><b>Brian Cohn</b></font><br>
+	<font size="3"><b><a href="https://briancohn.com/">Brian Cohn</a></b></font><br>
 	<font size="3">CS PhD Student</font><br>
 	<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
-	Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
+	Using virtual reality, high dimensional analysis, and electrical engineering to reverse engineer the hand.
 	</li>
 
 		<li class="flex-item">
