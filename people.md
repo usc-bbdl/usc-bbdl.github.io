@@ -120,15 +120,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 				Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
 	</li>
 
-	<li class="flex-item">
-		<a name="gabeglasser"></a>
-		<img src="../Photos/photoshoot_spring_2018/gabeglasser.JPG" class = "profilepicture" /><br>
-		<font size="3"><b>Gabe Glasser</b></font><br>
-
-				<font size="3">M.S. Student in Biomedical Engineering</font><br>
-				<a href="mailto:gabrielmglasser@gmail.com" target="_top">gabrielmglasser@gmail.com</a><br>
-				Creating novel, mechanically efficient designs to tendon-driven anthropomorphic robots<br>
-	</li>
 
 </ul>
 
@@ -139,7 +130,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
 
-
+<b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering
 <b>Vishweshwar Shastri</b> - BME Masters student
 <b>Paris Hajali</b> - BME Masters student
 <b>Young Jin Kim</b> - CS Undergraduate
