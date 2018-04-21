@@ -102,15 +102,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 
 	<li class="flex-item">
-		<a name="theodenisart"></a>
-		<img src="../Photos/photoshoot_spring_2018/theodenisart.JPG" class = "profilepicture" /><br>
-		<font size="3"><b>Théo Denisart</b></font><br>
-		<font size="3">Visiting Scholar from EPFL (Swiss Federal Institute of Technology)</font><br>
-		<a href="mailto:theo-tim.denisart@epfl.ch" target="_top">theo-tim.denisart@epfl.ch</a><br>
-		Interested in designing bio-inspired systems, novel mechanical designs, and evolutionary robotics.​ <br>
-	</li>
-
-	<li class="flex-item">
 		<a name="dariourbina"></a>
 		<img src="../Photos/photoshoot_spring_2018/dariourbina.JPG" class = "profilepicture" /><br>
 		<font size="3"><b>Darío Urbina</b></font><br>
@@ -119,7 +110,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 				<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
 				Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
 	</li>
-
 
 </ul>
 
