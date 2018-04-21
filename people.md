@@ -169,6 +169,7 @@ Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 <b>Maral Kasiri</b> - BME Masters Student
 
 # Internship Alumni
+<b>Théo Denisart</b> -  Visiting Masters Student from EPFL
 <b>Keegan Bate</b> - BME Masters Student  
 <b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
 <b>Taegyum Kim</b> - CS Undergraduate  
