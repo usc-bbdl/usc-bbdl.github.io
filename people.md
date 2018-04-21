@@ -182,10 +182,10 @@ Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 <b>Keegan Bate</b> - BME Masters Student  
 <b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
 <b>Taegyum Kim</b> - CS Undergraduate  
-<b>Melisa Osborne</b> - BME Undergraduate
+<b>Melisa Osborne</b> - BME Undergraduate  
 <b>Priyanka Vachhani</b> - INF MS Student  
 <b>Séb Arnold</b> - CS Ph.D. in Rotation   
-<b>Rose Chiang</b> - BME  Ph.D. in Rotation
+<b>Rose Chiang</b> - BME  Ph.D. in Rotation  
 <b>Babak Taherian</b> - BME Masters Student  
 <b>Catherine Leigh Raquel</b> - Stanford Human Biology Undergraduate  
 <b>Catherine Parsekian</b> - Claremont McKenna Neuroscience Undergraduate  
