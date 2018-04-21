@@ -56,7 +56,9 @@ menu: main
              <div class="publication_card {{paper.Tags}}" >
              <div class="paper_author_container">
                <div class="paper_authors">{{paper.Author}}</div>
-               <a class="article_title" href="../../{{paper.Link}}" title="{{paper.Abstract}}">{{paper.Title}}</a>
+               <a class="article_title" href="../../{{paper.Link}}" 
+               target="_blank"
+               title="{{paper.Abstract}}">{{paper.Title}}</a>
                <div class="journal_info">{{paper.Year}}.{{paper.Journal}}
                  <button class="btn" data-clipboard-text="{{paper.BibTex}}">BIBTEX</button>
                </div>
