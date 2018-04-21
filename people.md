@@ -175,7 +175,7 @@ Maria Makarov
 Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 
 # Past Masters Students
-<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a> - BME
+<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a> - BME  
 <b>Maral Kasiri</b> - BME Masters Student
 
 # Internship Alumni
