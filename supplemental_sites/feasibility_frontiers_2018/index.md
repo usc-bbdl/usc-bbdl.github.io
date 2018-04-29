@@ -5,7 +5,7 @@ title: Feasibility theory
 # Companion Website
 *Prepared by: Brian A. Cohn*
 
-## JNP2017
+## Frontiers 2018
 ### **Abstract:**
 We present a conceptual and computational framework to unify today's theories of neuromuscular control called feasibility theory.
 We begin by describing how the musculoskeletal anatomy of the limb, the need to control individual tendons, and the physics of a motor task uniquely specify the family of all valid muscle activations that accomplish it (its `feasible activation space').
