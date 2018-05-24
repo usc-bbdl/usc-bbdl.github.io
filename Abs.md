@@ -41,6 +41,25 @@ menu: main2
       </thead>
 
       <tbody>
+
+
+      <tr>
+        <td>Nagamori A, Laine CM, Valero-Cuevas FJ<br>
+            <b>"A computational model of afferented muscles reproduces cardinal features of force variability"</b> <br>
+            Proceedings of the 28th Annual Meeting of the Society for the Neural Control of Movement, Santa Fe, New Mexico, USA, May 2018</td>
+        <td><a href="../Abstracts/AN_NCM_Abstract_2018.pdf">Link</a></td>
+        <td></td>
+        <td>2017</td>
+      </tr>
+<!-- 
+      @inproceedings{nagamori2018computational,
+title={A computational model of afferented muscles reproduces cardinal features of force variability },
+author = {Nagamori, Akira and Laine, Christopher M and Valero-Cuevas, Francisco J},
+booktitle = {Proceedings of the 28th Annual Meeting of the Society for the Neural Control of Movement (Santa Fe, New Mexico, USA, May 2018)},
+year = {2018}
+} -->
+
+
       <tr>
         <td>Cohn BA, Jalaleddini K, Valero-Cuevas FJ <br>
             <b>"Neuromechanical implications of postural changes to motor learning and performance"</b> <br>
