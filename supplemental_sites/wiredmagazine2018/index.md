@@ -15,11 +15,16 @@ Terence Sanger M.D. Ph.D.
 *Assistant Professor:*
 Chris Laine, Ph.D.
 
+
+*Mechanical Design:*
+Desinart Théo Tim
+
+*Software and AI development:*
+Séb Arnold
+
 *Students Involved:*
-Théo Desinart
 Darío Urbina
 Ali Marjaninejad
-Séb Arnold
 Suraj Chakravarthi
 Brian Cohn
 Jasmine Berry
