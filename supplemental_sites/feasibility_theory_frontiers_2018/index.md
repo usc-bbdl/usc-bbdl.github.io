@@ -23,7 +23,9 @@ We'd be happy to help. Send us a message: brian.cohn@usc.edu
 
 [Visualization of all three principal components (rows) at differing levels of subsampling (columns)](https://github.com/briancohn/space/raw/master/pca_figure_code/pca_loadings_bootstrapped.pdf)
 ```
-Each plot shows how loading changes for each muscle. You can read each group of boxplots as a muscle's task-dependent loading distribution. As in the paper, we use 100 replicates (PCA was run 100 times for each boxplot; each boxplot has an n=100).
+Each plot shows how loading changes for each muscle. You can read each group of boxplots as a muscle's 
+task-dependent loading distribution. As in the paper, we use 100 replicates (PCA was run 100 times for 
+each boxplot; each boxplot has an n=100).
 ```
 
 # Code to produce figures  
