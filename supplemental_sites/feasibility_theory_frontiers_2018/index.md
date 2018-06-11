@@ -21,6 +21,11 @@ We'd be happy to help. Send us a message: brian.cohn@usc.edu
 # Code to produce muscle activation patterns for a given task
 [GitHub Repository](https://github.com/briancohn/space)
 
+[Visualization of all three principal components (rows) at differing levels of subsampling (columns)](https://github.com/briancohn/space/raw/master/pca_figure_code/pca_loadings_bootstrapped.pdf)
+```
+Each plot shows how loading changes for each muscle. You can read each group of boxplots as a muscle's task-dependent loading distribution. As in the paper, we use 100 replicates (PCA was run 100 times for each boxplot; each boxplot has an n=100).
+```
+
 # Code to produce figures  
 [Parallel Coordinates in R](https://github.com/briancohn/fig5_parcoord)  
 [Histogram Heatmap in R](https://github.com/briancohn/space/blob/master/src/R/hist_heatmap.r)  
