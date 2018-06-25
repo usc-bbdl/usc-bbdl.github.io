@@ -17,7 +17,7 @@ Chris Laine, Ph.D.
 
 
 *Mechanical Design:*. 
-Desinart Théo Tim. 
+Denisart Théo Tim. 
 
 *Software and AI development:*. 
 Séb Arnold. 
