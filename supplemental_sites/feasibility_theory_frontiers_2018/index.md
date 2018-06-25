@@ -15,26 +15,39 @@ This approach unifies current theories of neuromuscular control because the stru
 # [Interactive Parallel Coordinates Visualization](https://briancohn.github.io/space-parcoords/)
 <img src="../../img/projects/cohn2017.gif">
 
-# Have comments or questions about how to apply these methods to your work?
+# PCA Loadings Bootstrapping Figure
+*Prepared by: Brian A. Cohn*
+
+<a href="https://github.com/briancohn/space/raw/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"><img src="https://github.com/briancohn/space/raw/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"></a>
+
+> Click for full size figure
+
+<b>Supplementary Figure: Normalized PC Loadings as task intensity increases, under different sampling sizes for PCA analysis.</b> How do PCA loadings act when the sample number of the input dataset is impoverished? Each facet (a squared-in set of boxplots) shows how loadings change over increasing task intensity. Each facet represents a different number of samples fed to PCA. You can read each group of boxplots as a muscle's task-dependent loading distribution. As in the paper, we use 100 replicates (PCA was run 100 times for each boxplot; each boxplot has an n=100). Each color represents a task intensity, so each cluster of boxplots (through the color pallete) represents a given loading's change over increasing distal force as the output task. The columns of faceted plots represent the number of samples fed to PCA, which were 10, 100, or 1000 (as in the paper), as well as 5000 samples.
+
+
+#### Commands to replicate this figure on Linux or Mac.
+Terminal:
+```bash
+$ git clone git@github.com:briancohn/space.git && cd space/pca_figure_code && R
+```
+In R:
+```r
+install.packages('ggplot2')
+install.packages('devtools')
+install.packages('pbmcapply')
+install.packages('dplyr')
+install.packages('gridExtra')
+source('pca_bootstrapped_loadings_comparison.r')
+```
+R and git must be installed. The same commands can be used on PC via the <a href="https://gitforwindows.org/">Git Bash Terminal</a>.
+________
+
+### Have comments or questions about how to apply these methods to your work?
 We'd be happy to help. Send us a message: brian.cohn@usc.edu
 
-# Code to produce muscle activation patterns for a given task
-[GitHub Repository](https://github.com/briancohn/space)
-
-[Visualization of all three principal components (rows) at differing levels of subsampling (columns)](https://github.com/briancohn/space/raw/master/pca_figure_code/pca_loadings_bootstrapped.pdf)
-```
-Each plot shows how loading changes for each muscle. You can read each group of boxplots as a muscle's 
-task-dependent loading distribution. As in the paper, we use 100 replicates (PCA was run 100 times for 
-each boxplot; each boxplot has an n=100).
-```
-
 # Code to produce figures  
+[Code to produce muscle activation patterns for a given task](https://github.com/briancohn/space)
 [Parallel Coordinates in R](https://github.com/briancohn/fig5_parcoord)  
 [Histogram Heatmap in R](https://github.com/briancohn/space/blob/master/src/R/hist_heatmap.r)  
 [PCA, Loadings, and Bootstrapped Figures](https://github.com/briancohn/space/tree/master/pca_figure_code)  
 [Code used to calculate the size of the feasible activation space before and after post hoc constraints](https://github.com/briancohn/constraint_statistics/blob/master/main.Rmd)  
-
-________
-
-
-#
