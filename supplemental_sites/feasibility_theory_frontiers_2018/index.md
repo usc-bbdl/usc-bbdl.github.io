@@ -18,7 +18,7 @@ This approach unifies current theories of neuromuscular control because the stru
 # PCA Loadings Bootstrapping Figure
 *Prepared by: Brian A. Cohn*
 
-<a href="https://github.com/briancohn/space/raw/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"><img src="https://github.com/briancohn/space/raw/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"></a>
+<a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"><img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"></a>
 
 > Click for full size figure
 
@@ -45,7 +45,8 @@ ________
 # Muscle Task-Variance Visualization
 *Prepared by: Brian A. Cohn*
 
-<a href="https://github.com/briancohn/space/raw/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"><img src="https://github.com/briancohn/space/raw/master/pca_figure_code/muscle_variance_over_tasks.jpg"></a>
+<a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/muscle_variance_over_tasks.png"><img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/muscle_variance_over_tasks.png"></a>
+
 <b> Supplementary Figure: Visualization of activation variance for a given muscle, for a given task intensity.</b> We find that as the intensity of the task increases, the standard deviation of all muscles decreases, where each task intensity had 10,000 points sampled. Although the muscles appear to change in variance in a similar way, different muscles have differing starting values of variance.
 
 #### Commands to replicate this figure on Linux or Mac
@@ -53,6 +54,16 @@ In R, after the commands from above:
 ```r
 source('muscle_variance_over_tasks.r')
 ```
+
+# Muscle Task-Variance Visualization
+*Prepared by: Brian A. Cohn*
+
+<a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pc_loadings_FDP_made_positive_all_three_PCs.jpg"><img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pc_loadings_FDP_made_positive_all_three_PCs.jpg"></a>
+<b> Supplementary Figure: Figure 6 (extended with third PC shown) PCA loadings change with task intensity.</b>  For each of 1,000 task intensities, we collected1,000 muscle activation patterns from the feasible activation space, and performed PCA. The rows show thechanges in PC loadings, which determine the direction of PC1 and PC2 in 7-dimensional space. Note thatthe signs of the loadings depend on the numerics of the PCA algorithm, and are subject to arbitrary flips insign (Clewley et al., 2008)—thus for clarity we plot them such that FDP’s loadings in PC1 are positiveat all task intensities. These loadings (i.e. synergies) change systematically, as noted for representativetask intensities a, b, c in Fig. 5, and more so after b. This reflects changes in the geometric structure of thefeasible activation space as redundancy is lost.
+
+#### Commands to replicate this figure on Linux or Mac
+In RStudio, in the same working directory as above, knit the file `pca_loadings_spin.Rmd`
+
 
 
 ### Have comments or questions about how to apply these methods to your work?
