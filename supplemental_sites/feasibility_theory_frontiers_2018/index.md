@@ -42,6 +42,19 @@ source('pca_bootstrapped_loadings_comparison.r')
 R and git must be installed. The same commands can be used on PC via the <a href="https://gitforwindows.org/">Git Bash Terminal</a>.
 ________
 
+# Muscle Task-Variance Visualization
+*Prepared by: Brian A. Cohn*
+
+<a href="https://github.com/briancohn/space/raw/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"><img src="https://github.com/briancohn/space/raw/master/pca_figure_code/muscle_variance_over_tasks.jpg"></a>
+<b> Supplementary Figure: Visualization of activation variance for a given muscle, for a given task intensity.</b> We find that as the intensity of the task increases, the standard deviation of all muscles decreases, where each task intensity had 10,000 points sampled. Although the muscles appear to change in variance in a similar way, different muscles have differing starting values of variance.
+
+#### Commands to replicate this figure on Linux or Mac
+In R, after the commands from above:
+```r
+source('muscle_variance_over_tasks.r')
+```
+
+
 ### Have comments or questions about how to apply these methods to your work?
 We'd be happy to help. Send us a message: brian.cohn@usc.edu
 
