@@ -19,7 +19,7 @@ This approach unifies current theories of neuromuscular control because the stru
 *Prepared by: Brian A. Cohn*
 
 <a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"><img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"></a>
-[https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg][Direct Link To Figure]
+
 > Click for full size figure
 
 <b>Supplementary Figure: Normalized PC Loadings as task intensity increases, under different sampling sizes for PCA analysis.</b> How do PCA loadings act when the sample number of the input dataset is impoverished? Each facet (a squared-in set of boxplots) shows how loadings change over increasing task intensity. Each facet represents a different number of samples fed to PCA. You can read each group of boxplots as a muscle's task-dependent loading distribution. In the paper, we usd 100 replicates (PCA was run 100 times for each boxplot; each boxplot has an n=100) but for this supplemental visualization we did 1000 replicates. Each color represents a task intensity, so each cluster of boxplots (through the color palette) represents a given loading's change over increasing distal force as the output task. The columns of faceted plots represent the number of *samples* fed to PCA, which were 10, 100, or 1000 (as in the paper), as well as 5000 samples.
@@ -41,7 +41,6 @@ ________
 *Prepared by: Brian A. Cohn*
 
 <img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/muscle_variance_over_tasks.png">
-[https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/muscle_variance_over_tasks.png][Direct Link To Figure]
 
 <b> Supplementary Figure: Visualization of activation variance for a given muscle, for a given task intensity.</b> We find that as the intensity of the task increases, the standard deviation of all muscles decreases, where each task intensity had 10,000 points sampled. Although the muscles appear to change in variance in a similar way, different muscles have differing starting values of variance.
 
@@ -57,7 +56,7 @@ source('muscle_variance_over_tasks.r')
 <a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pc_loadings_FDP_made_positive_all_three_PCs.jpg">
 	<img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pc_loadings_FDP_made_positive_all_three_PCs.jpg" height=500pt>
 </a>
-[https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pc_loadings_FDP_made_positive_all_three_PCs.jpg][Direct Link to Figure]
+
 
 <b> Supplementary Figure: Figure 6 (extended with third PC shown) PCA loadings change with task intensity.</b>  For each of 1,000 task intensities, we collected1,000 muscle activation patterns from the feasible activation space, and performed PCA. The rows show thechanges in PC loadings, which determine the direction of PC1 and PC2 in 7-dimensional space. Note thatthe signs of the loadings depend on the numerics of the PCA algorithm, and are subject to arbitrary flips insign (Clewley et al., 2008)—thus for clarity we plot them such that FDP’s loadings in PC1 are positiveat all task intensities. These loadings (i.e. synergies) change systematically, as noted for representativetask intensities a, b, c in Fig. 5, and more so after b. This reflects changes in the geometric structure of thefeasible activation space as redundancy is lost.
 
