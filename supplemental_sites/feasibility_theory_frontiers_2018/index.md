@@ -54,7 +54,7 @@ source('muscle_variance_over_tasks.r')
 *Prepared by: Brian A. Cohn*
 
 <a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pc_loadings_FDP_made_positive_all_three_PCs.jpg">
-	<img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pc_loadings_FDP_made_positive_all_three_PCs.jpg" height=500pt>
+	<img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pc_loadings_FDP_made_positive_all_three_PCs.jpg">
 </a>
 
 
