@@ -15,7 +15,7 @@ This approach unifies current theories of neuromuscular control because the stru
 # [Interactive Parallel Coordinates Visualization](https://briancohn.github.io/space-parcoords/)
 <img src="../../img/projects/cohn2017.gif">
 
-# PCA Loadings Bootstrapping Figure
+# A. PCA Loadings Bootstrapping Figure
 *Prepared by: Brian A. Cohn*
 
 <a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"><img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"></a>
@@ -37,7 +37,7 @@ source('pca_bootstrapped_loadings_comparison.r')
 For PC, use the <a href="https://gitforwindows.org/">Git Bash Terminal</a>.
 ________
 
-# Muscle Task-Variance Visualization
+# B. Muscle Task-Variance Visualization
 *Prepared by: Brian A. Cohn*
 
 <img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/muscle_variance_over_tasks.png">
@@ -50,7 +50,7 @@ In R, after the commands from above:
 source('muscle_variance_over_tasks.r')
 ```
 
-# Figure 6 with all PCs
+# C. Figure 6 with all PCs
 *Prepared by: Brian A. Cohn*
 
 <a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pc_loadings_FDP_made_positive_all_three_PCs.jpg">
@@ -58,11 +58,42 @@ source('muscle_variance_over_tasks.r')
 </a>
 
 
-<b> Supplementary Figure: Figure 6 (extended with third PC shown) PCA loadings change with task intensity.</b>  For each of 1,000 task intensities, we collected1,000 muscle activation patterns from the feasible activation space, and performed PCA. The rows show thechanges in PC loadings, which determine the direction of PC1 and PC2 in 7-dimensional space. Note thatthe signs of the loadings depend on the numerics of the PCA algorithm, and are subject to arbitrary flips insign (Clewley et al., 2008)—thus for clarity we plot them such that FDP’s loadings in PC1 are positiveat all task intensities. These loadings (i.e. synergies) change systematically, as noted for representativetask intensities a, b, c in Fig. 5, and more so after b. This reflects changes in the geometric structure of thefeasible activation space as redundancy is lost.
+<b> Supplementary Figure: Figure 6 (extended with third PC shown) PCA loadings change with task intensity.</b>  For each of 1,000 task intensities, we collected 1,000 muscle activation patterns from the feasible activation space, and performed PCA. The rows show thechanges in PC loadings, which determine the direction of PC1 and PC2 in 7-dimensional space. Note thatthe signs of the loadings depend on the numerics of the PCA algorithm, and are subject to arbitrary flips insign (Clewley et al., 2008)—thus for clarity we plot them such that FDP’s loadings in PC1 are positiveat all task intensities. These loadings (i.e. synergies) change systematically, as noted for representativetask intensities a, b, c in Fig. 5, and more so after b. This reflects changes in the geometric structure of thefeasible activation space as redundancy is lost.
 
 **Commands to replicate this figure on Linux or Mac**  
 
-In RStudio, in the same working directory as above, knit the file `pca_loadings_spin.Rmd`
+In RStudio, in the same working directory as above, run the file `thousand_loadings.R`.
+
+
+# D. Figure 6 with all PCs and four different input preprocessing options
+*Prepared by: Brian A. Cohn*
+
+<a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/loadings_over_different_preprocessing_params.jpg">
+	<img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/loadings_over_different_preprocessing_params.jpg">
+</a>
+
+
+<b> Supplementary Figure: Figure 6 with different input preprocessing </b> The column marked "scale and center" matches that of D. and Figure 6 of the paper. We show other permutations of scaling and centering of the input data to PCA, and the results in the form of the PCA loadings for each of the three PCs. Note that all 3 PCs explain for 100% of the data. Colors do not match the pallete of the paper; see the Figure legends for each figure.
+
+# E. Same as D, but with absolute-value applied to all loadings to look at smoothing.
+*Prepared by: Brian A. Cohn*
+
+<a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/loadings_over_different_preprocessing_params_absolute_value_result.jpg">
+	<img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/loadings_over_different_preprocessing_params_absolute_value_result.jpg">
+</a>
+
+
+<b> Supplementary Figure: Figure 6 </b> We see that while it looks more smooth, some of the loadings bounce at the origin unnaturally. This is a result of calling absolute value on the loadings, where the loadings pass through the origin. Therefore, we find that showing absolute values of loadings would be misleading, as it would not highlight the actual migration of loadings.
+
+
+# F. Derivative of Figure 6, where pca parameters are set to scale + centering.
+
+<a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/differential_for_centered_and_scaled.jpg">
+	<img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/differential_for_centered_and_scaled.jpg">
+</a>
+
+
+<b> Supplementary Figure: </b> After scaling and centering the hit and run points at each task level, we computed PCA and thereby the loadings. As in the paper, we force FDP in PC1 to keep its loading value to be positive, and propagate that flip in sign to PC2 and PC3 respectively. As a result, we do not expect to see flips in PC1—this is corroborated by our data. We can see from this derivative plot that there are instantaneously fast flips, and they typically flip up, down, and up in a cycle.
 
 
 

@@ -120,9 +120,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
 
+<b>Sithara</b> - M.S. Student in Biomedical Engineering
+<b>Yasmine</b> - Roski Design Undergraduate
 <b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering
 <b>Vishweshwar Shastri</b> - BME Masters student
-<b>Paris Hajali</b> - BME Masters student
 <b>Young Jin Kim</b> - CS Undergraduate
 <b>Chintalapudi Sarath</b> - EE Masters student
 <b>Paris Hajili</b> - BME Undergraduate  
