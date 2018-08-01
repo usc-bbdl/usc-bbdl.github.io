@@ -36,3 +36,8 @@ The main advantages of Jekyll are:
 Your request is completed as follows:
 bbdl.usc.edu. 3600 IN CNAME kjbcfvc.com.
 ```
+
+
+# Licenses
+Logo font: Raleway: SIL Open Font License v1.10
+https://www.fontsquirrel.com/license/raleway
