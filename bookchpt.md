@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Extended Publications
+title: Book Chapters
 permalink: /bookchpt/
 menu: main2
 ---
