@@ -119,7 +119,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
-
+<b>Huan Zhao</b> - M.S. Student in Biomedical Engineering  
 <b>Sithara</b> - M.S. Student in Biomedical Engineering
 <b>Yasmine</b> - Roski Design Undergraduate
 <b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering
