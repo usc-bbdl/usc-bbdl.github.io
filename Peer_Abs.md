@@ -46,6 +46,14 @@ menu: main2
       <tbody>
 
         <tr>
+          <td title = "Accurate and precise movement executions are confronted with variability associated with generation of muscle force. Such variability arises from various sources including mechanical properties of muscles and limbs, motor unit properties, proprioceptive feedback, and descending neural commands. Previously, contributions of individual sources have been studied in isolation and in a feedforward manner. However, those factors interact during closed-loop control, which describes nearly all experimental paradigms in which muscle force must be voluntarily controlled. Recently, we showed using a closed-loop simulation of an afferented muscle that neuromechanical interactions among neural noise, mechanical properties of musculotendon unit, proprioceptive feedback and error corrective mechanism suffice to explain cardinal features of involuntary force variability previously observed experimentally. Here, we attempt to extend this observation by incorporating new elements in our model. New elements added to our existing model include stochastic motor unit firing patterns, conversion of neural firing into muscle force, and additional spinal feedback pathways within and across muscles (pathway involved with monosynaptic Ia excitatory feedback, Ia inhibitory interneurons, Ib interneurons, Renshaw inhibitory interneurons, propriospinal interneurons,). Our results show that motor unit properties are important, yet are typically insufficient to explain the majority of force variability or its frequency spectrum. Importantly, we demonstrate previously an unrecognized influence of coordinated activities between two muscles on the amplitude and spectral features of force variability. These results highlight potential importance of such neuromechanical interactions in understanding the generation of force variability in precise and accurate motor tasks and explaining physiological mechanisms of altered neuromuscular control in health and diseases.">Nagamori A, Laine CM, Valero-Cuevas FJ<br>
+              <b>"Closed-loop control of afferented muscles determines the amplitude of force variability and its power spectrum." </b> <br>
+              Proceedings of the 2018 meeting of the International Motoneuron Society, Boulder, CO, USA, June 2018</td>
+          <td><a href="https://github.com/usc-bbdl/usc-bbdl.github.io/files/2757092/IMS_Abstract_AkiraNagamori.pdf">Link</a></td>
+          <td></td>
+          <td>2016</td>
+        </tr>
+        <tr>
           <td>Lawrence EL, Peppoloni L, Valero-Cuevas FJ. <br>
               <b>"Evidence that lower levels of leg dexterity may be a previously unrecognized risk factor for knee ligament injury in women." </b> <br>
               Proceedings of the 40th Annual Meeting of the American Society of Biomechanics, Raleigh NC, August 2-5, 2016 </td>
