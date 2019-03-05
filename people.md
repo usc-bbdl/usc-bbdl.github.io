@@ -27,14 +27,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.
 	</li>
 
-	<li class="flex-item">
-		<a name="junshin"></a>
-		<img src="../Photos/jun.JPG" class = "profilepicture"><br>
-		<font size="3"><b>Jun Yong Shin</b></font><br>
-		<font size="3">Post-doc</font><br>
-		<a href="mailto:junys@uci.edu" target="_top">junys@uci.edu</a><br>		
-		Designing a wireless data collection system so real-time signals from various sensors are wirelessly transmitted to a mobile device for visualization.   
-	</li>
 
 	</ul>
 
@@ -66,7 +58,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 			<a name="akiranagamori"></a>
 			<img src="../Photos/akira.JPG" class = "profilepicture"/><br>
 			<font size="3"><b>Akira Nagamori</b></font><br>
-			<font size="3">BKN PhD Student</font><br>
+			<font size="3">BKN PhD Candidate</font><br>
 			<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
 			Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neuromuscular modeling.
 		</li>
@@ -120,7 +112,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
 <b>Huan Zhao</b> - M.S. Student in Biomedical Engineering    
-<b>Sithara</b> - M.S. Student in Biomedical Engineering      
+<b>SitharaSithara Kamalakkannan</b> - M.S. Student in Biomedical Engineering      
 <b>Vishweshwar Shastri</b> - BME Masters student    
 <b>Young Jin Kim</b> - CS Undergraduate    
 <b>Chintalapudi Sarath</b> - EE Masters student  
@@ -157,7 +149,7 @@ Robert Riener—
 Maria Makarov
 
 # Postdoctoral Alumni
-<b>Srideep Musuvathy—
+<b>Jun Yong Shin—Srideep Musuvathy—
 Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 
 # Past Masters Students
@@ -165,7 +157,7 @@ Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 <b>Maral Kasiri</b> - BME Masters Student
 
 # Internship Alumni
-<b>Yasmine</b> - Roski Design Undergraduate 
+<b>Yasmine Kahsai</b> - Roski Design Undergraduate 
 <b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering 
 <b>Mayumi Ishikawa</b> -  BME undergrad  
 <b>Brandon Miura</b> - BME undergrad  
