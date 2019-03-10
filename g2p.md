@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Extended Publications
+title: Redirecting to G2P Supplemental Site
 permalink: /g2p
 menu: main2
 ---
 
-<html>
+<html>i
     <head>
-	<meta http-equiv="refresh" content="0; url=http://www.lifestonechurch.net/media/videos/">
-	<link rel="canonical" href="http://www.lifestonechurch.net/media/videos/" />
+    <meta http-equiv="refresh" content="0; url=/supplemental_sites/g2p/">
+    <link rel="canonical" href="/supplemental_sites/g2p/" />
     </head>
 </html>
