@@ -5,11 +5,12 @@ title: General to Particular (G2P) algorithm
 # Companion Website
 <img src="../../img/nmi_banner.jpg">
 
+## Nature Machine Intelligence - March 2019
+
 # [Article: Nature.com](https://www.nature.com/articles/s42256-019-0029-0)
 # [Free-Access PDF: Arxiv Preprint](https://arxiv.org/pdf/1810.08615.pdf)
-
-## Nature Machine Intelligence - March 2019
 A tendon-driven robotic limb learns movements autonomously from sparse experience, by a short period of ‘motor babbling’ (that is, repeated exploratory movements), followed by a phase of reinforcement learning. In the photo, the limb is learning to make cyclic movements to propel the treadmill. The approach is a step towards designing robots with the versatility and robustness of vertebrates, which can adapt quickly to everyday environments.
+
 <img src="../../img/nmi.png" width=25%>
 
 ### **Abstract:**
