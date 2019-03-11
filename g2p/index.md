@@ -19,14 +19,12 @@ Robots will become ubiquitously useful only when they require just a few attempt
 Ali Marjaninejad<sup>1,2</sup>, Darío Urbina-Meléndez<sup>1</sup>, Brian A. Cohn<sup>4</sup>, Francisco J. Valero-Cuevas<sup>1,2,3,4,5,*</sup>     
 *Corresponding author’s email: valero@usc.edu. 
 
-#Affiliations
+# Affiliations
 Departments of Biomedical<sup>1</sup>, Electrical (Systems)<sup>2</sup>, and Aerospace & Mechanical Engineering<sup>3</sup>, Department of Computer Science<sup>4</sup>, and Division of Biokinesiology & Physical Therapy<sup>5</sup> University of Southern California, Los Angeles, CA, USA.
 
 ### Have comments or questions about how to apply these methods to your work?
 We'd be happy to help. Send us a message: marjanin@usc.edu
-
-# Code to run the experiment 
 [Machine Learning Code: marjanin/Marjaninejad-et-al-2019-NMI](https://github.com/marjanin/Marjaninejad-et.-al.-2019-NMI)
 
 
-*Prepared by: Brian A. Cohn*
+*Supplemental site prepared by: Brian A. Cohn*
