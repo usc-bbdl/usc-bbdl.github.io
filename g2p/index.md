@@ -4,7 +4,7 @@ title: General to Particular (G2P) algorithm
 ---
 # Companion Website
 <img src="../../img/nmi_banner.jpg">
-<img src="../../img/nmi.png">
+<img src="../../img/nmi.png" size=25%>
 
 # [Article: Nature.com](https://www.nature.com/articles/s42256-019-0029-0)
 # [Free-Access PDF: Arxiv Preprint](https://arxiv.org/pdf/1810.08615.pdf)
