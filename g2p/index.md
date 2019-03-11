@@ -4,11 +4,12 @@ title: General to Particular (G2P) algorithm
 ---
 # Companion Website
 <img src="../../img/banner_nmi.png">
+<img src="../../img/nmi.png">
 
 
 ## Nature Machine Intelligence - March 2019
 ### **Abstract:**
-<img width=100% style="float:left" src="img/nmi.png">
+
 #### Authors
 #####Ali Marjaninejad<sup>1,2</sup>, Darío Urbina-Meléndez<sup>1</sup>, Brian A. Cohn<sup>4</sup>, Francisco J. Valero-Cuevas<sup>1,2,3,4,5,*</sup>   
 *Corresponding author’s email: valero@usc.edu. 
