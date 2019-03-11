@@ -16,7 +16,7 @@ title: General to Particular (G2P) algorithm
 Departments of Biomedical<sup>1</sup>, Electrical (Systems)<sup>2</sup>, and Aerospace & Mechanical Engineering<sup>3</sup>, Department of Computer Science<sup>4</sup>, and Division of Biokinesiology & Physical Therapy<sup>5</sup> University of Southern California, Los Angeles, CA, USA.
 
 
-# [Article: Nature.com](nature.com)
+# [Article: Nature.com](https://www.nature.com/articles/s42256-019-0029-0)
 # [Free-Access PDF: Arxiv Preprint](https://arxiv.org/pdf/1810.08615.pdf)
 
 ### Have comments or questions about how to apply these methods to your work?
