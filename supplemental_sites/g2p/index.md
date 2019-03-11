@@ -17,7 +17,7 @@ Departments of Biomedical<sup>1</sup>, Electrical (Systems)<sup>2</sup>, and Aer
 
 
 # [Article: Nature.com](nature.com)
-# [Free-Access PDF: Arxiv Preprint ](https://arxiv.org/pdf/1810.08615.pdf)
+# [Free-Access PDF: Arxiv Preprint](https://arxiv.org/pdf/1810.08615.pdf)
 
 ### Have comments or questions about how to apply these methods to your work?
 We'd be happy to help. Send us a message: marjanin@usc.edu
