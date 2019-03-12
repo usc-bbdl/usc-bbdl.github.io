@@ -27,17 +27,30 @@ We'd be happy to help. Send us a message: [marjanin@usc.edu](mailto:marjanin@usc
 ### In press
 
 [Nature: Editorial](https://doi.org/10.1038/s42256-019-0035-2)
+
 [Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/news-events/2019-03-12)
+
 [Longroom](https://longroom.com/discussion/1401781/a-robotic-leg-born-without-prior-knowledge-learns-to-walk)
+
 [Nanowerk](https://www.nanowerk.com/news2/robotics/newsid=52337.php)
+
 [TechXplore: Robotics](https://techxplore.com/news/2019-03-robotic-leg-born-prior-knowledge.html)
+
 [Neuroscience News](https://neurosciencenews.com/ai-robotic-leg-learns-walk-10878/)
+
 [USC Viterbi School of Engineering](https://viterbischool.usc.edu/news/2019/03/a-robotic-leg-born-without-prior-knowledge-learns-to-walk/)
+
 [PCMag](https://www.pcmag.com/news/367051/how-this-robotic-leg-learned-to-walk-by-itself)
+
 [EurekAlert-AAAS Photo](https://www.eurekalert.org/multimedia/pub/195144.php)
+
 [EurekAlert-AAAS Article](https://www.eurekalert.org/pub_releases/2019-03/uosc-arl031019.php)
+
 [TuniseSoir News](http://www.tunisiesoir.com/science/research-new-ai-algorithms-could-allow-robots-to-learn-to-move-by-themselves-imitating-animals-13989-2019/)
+
 [ScienceDaily](https://www.sciencedaily.com/releases/2019/03/190311125138.htm)
+
 [NeuroLogica Blog](https://theness.com/neurologicablog/index.php/robots-learning-to-walk/)
+
 
 *Supplemental site prepared by: Brian A. Cohn and Ali Marjaninejad*
