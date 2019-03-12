@@ -17,8 +17,8 @@ A tendon-driven robotic limb learns movements autonomously from sparse experienc
 ### **Abstract:**
 Robots will become ubiquitously useful only when they require just a few attempts to teach themselves to perform different tasks, even with complex bodies and in dynamic environments. Vertebrates use sparse trial and error to learn multiple tasks, despite their intricate tendon-driven anatomies, which are particularly hard to control because they are simultaneously nonlinear, under-determined and over-determined. We demonstrate—in simulation and hardware—how a model-free, open-loop approach allows few-shot autonomous learning to produce effective movements in a three-tendon two-joint limb. We use a short period of motor babbling (to create an initial inverse map) followed by building functional habits by reinforcing high-reward behaviour and refinements of the inverse map in a movement’s neighbourhood. This biologically plausible algorithm, which we call G2P (general to particular), can potentially enable quick, robust and versatile adaptation in robots as well as shed light on the foundations of the enviable functional versatility of organisms.
 
-### Fundings
-Research reported in this publication was mainly supported by the National Institute of Arthritis and Musculoskeletal and Skin Diseases of the National Institutes of Health under award numbers R01 AR-050520, R01 AR-052345Department of Defense CDMRP Grant MR150091, and Award W911NF1820264 from the DARPA's Lifelong Learning Machine (L2M) program to Francisco J. Valero-Cuevas.
+### Funding
+Research reported in this publication was supported in part by the National Institute of Arthritis and Musculoskeletal and Skin Diseases of the National Institutes of Health under award numbers R01 AR-050520, R01 AR-052345, the Department of Defense CDMRP Grant MR150091, and Award W911NF1820264 from the DARPA's Lifelong Learning Machine (L2M) program.
 
 ### Have comments or questions about how to apply these methods to your work?
 We'd be happy to help. Send us a message: [marjanin@usc.edu](mailto:marjanin@usc.edu)
