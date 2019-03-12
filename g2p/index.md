@@ -28,5 +28,28 @@ Departments of Biomedical<sup>1</sup>, Electrical (Systems)<sup>2</sup>, and Aer
 We'd be happy to help. Send us a message: marjanin@usc.edu
 [Machine Learning Code: marjanin/Marjaninejad-et-al-2019-NMI](https://github.com/marjanin/Marjaninejad-et.-al.-2019-NMI)
 
+### In press
+
+[Nature: Editorial](https://doi.org/10.1038/s42256-019-0035-2)
+
+[Longroom](https://longroom.com/discussion/1401781/a-robotic-leg-born-without-prior-knowledge-learns-to-walk)
+
+[Nanowerk](https://www.nanowerk.com/news2/robotics/newsid=52337.php)
+
+[TechXplore: Robotics](https://techxplore.com/news/2019-03-robotic-leg-born-prior-knowledge.html)
+
+[Neuroscience News](https://neurosciencenews.com/ai-robotic-leg-learns-walk-10878/)
+
+[USC Viterbi School of Engineering](https://viterbischool.usc.edu/news/2019/03/a-robotic-leg-born-without-prior-knowledge-learns-to-walk/)
+
+[PCMag](https://www.pcmag.com/news/367051/how-this-robotic-leg-learned-to-walk-by-itself)
+
+[EurekAlert-AAAS Photo](https://www.eurekalert.org/multimedia/pub/195144.php)
+
+[EurekAlert-AAAS Article](https://www.eurekalert.org/pub_releases/2019-03/uosc-arl031019.php)
+
+[TuniseSoir News](http://www.tunisiesoir.com/science/research-new-ai-algorithms-could-allow-robots-to-learn-to-move-by-themselves-imitating-animals-13989-2019/)
+
+[ScienceDaily](https://www.sciencedaily.com/releases/2019/03/190311125138.htm)
 
 *Supplemental site prepared by: Brian A. Cohn*
