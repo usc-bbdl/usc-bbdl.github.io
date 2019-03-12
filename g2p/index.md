@@ -25,7 +25,7 @@ Ali Marjaninejad<sup>1,2</sup>, Darío Urbina-Meléndez<sup>1</sup>, Brian A. 
 Departments of Biomedical<sup>1</sup>, Electrical (Systems)<sup>2</sup>, and Aerospace & Mechanical Engineering<sup>3</sup>, Department of Computer Science<sup>4</sup>, and Division of Biokinesiology & Physical Therapy<sup>5</sup> University of Southern California, Los Angeles, CA, USA.
 
 ### Have comments or questions about how to apply these methods to your work?
-We'd be happy to help. Send us a message: marjanin@usc.edu
+We'd be happy to help. Send us a message: [marjanin@usc.edu](mailto:marjanin@usc.edu)
 [Machine Learning Code: marjanin/Marjaninejad-et-al-2019-NMI](https://github.com/marjanin/Marjaninejad-et.-al.-2019-NMI)
 
 ### In press
