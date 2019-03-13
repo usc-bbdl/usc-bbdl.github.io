@@ -21,7 +21,7 @@ We'd be happy to hel you apply these methods to your work. Send us a message: [m
 
 ### Related Work
 
-[<img src="https://valerolab.org/img/wired2018.png" width=50%>](https://valerolab.org/supplemental_sites/wiredmagazine2018/)
+[<p><img src="https://valerolab.org/img/wired2018.png" width=50%></p>](https://valerolab.org/supplemental_sites/wiredmagazine2018/)
 
 ### News Coverage
 
