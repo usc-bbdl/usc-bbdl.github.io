@@ -22,7 +22,6 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 
 [Feature in Wired Magazine, 2018 ](https://valerolab.org/supplemental_sites/wiredmagazine2018/)
 
-
 ### News Coverage
 
 [Nature: Editorial](https://doi.org/10.1038/s42256-019-0035-2)<br />
