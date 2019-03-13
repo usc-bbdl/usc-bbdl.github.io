@@ -17,11 +17,11 @@ Research reported in this publication was supported in part by the National Inst
 ### Machine Learning: Open-Source Code
 We'd be happy to hel you apply these methods to your work. Send us a message: [marjanin@usc.edu](mailto:marjanin@usc.edu)
 
-[<img src="../../img/octocat.png" width=20%>](https://github.com/marjanin/Marjaninejad-et.-al.-2019-NMI)
+[![](../../img/octocat.png | width=20%)](https://github.com/marjanin/Marjaninejad-et.-al.-2019-NMI)
 
 ### Related Work
 
-[![](https://valerolab.org/img/wired2018.png | width=50)](https://valerolab.org/supplemental_sites/wiredmagazine2018/)
+[Feature in Wired Magazine, 2018 ](https://valerolab.org/supplemental_sites/wiredmagazine2018/)
 
 
 ### News Coverage
