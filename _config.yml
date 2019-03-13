@@ -19,4 +19,3 @@ highlighter: rouge
 
 plugins:
   - jekyll-sitemap
-permalink: /404.html
