@@ -51,6 +51,7 @@ We'd be happy to help. Send us a message: [marjanin@usc.edu](mailto:marjanin@usc
 [ScienceDaily](https://www.sciencedaily.com/releases/2019/03/190311125138.htm)
 
 [NeuroLogica Blog](https://theness.com/neurologicablog/index.php/robots-learning-to-walk/)
-
+[ForeignAffairs](ttps://foreignaffairs.co.nz/2019/03/13/mil-osi-usa-2019-03-12-progress-on-lifelong-learning-machines-shows-potential-for-bio-inspired-algorithms/)
+[hackster.io](https://blog.hackster.io/usc-engineers-design-ai-powered-robotic-limb-with-animal-like-tendons-be86ee418d6e)
 
 *Supplemental site prepared by: Brian A. Cohn and Ali Marjaninejad*
