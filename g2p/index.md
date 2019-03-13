@@ -15,9 +15,8 @@ A tendon-driven robotic limb learns movements autonomously from sparse experienc
 Research reported in this publication was supported in part by the National Institute of Arthritis and Musculoskeletal and Skin Diseases of the National Institutes of Health under award numbers R01 AR-050520, R01 AR-052345, the Department of Defense CDMRP Grant MR150091, and Award W911NF1820264 from the DARPA's Lifelong Learning Machines (L2M) program.
 
 ### Machine Learning: Open-Source Code
-We'd be happy to hel you apply these methods to your work. Send us a message: [marjanin@usc.edu](mailto:marjanin@usc.edu)
-
-[GitHub Link](https://github.com/marjanin/Marjaninejad-et.-al.-2019-NMI)
+We'd be happy to help you apply these methods to your work. Send us a message: [marjanin@usc.edu](mailto:marjanin@usc.edu)
+## [GitHub Link](https://github.com/marjanin/Marjaninejad-et.-al.-2019-NMI)
 
 ### Related Work
 
