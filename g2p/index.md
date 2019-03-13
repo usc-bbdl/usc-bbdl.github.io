@@ -27,7 +27,6 @@ We'd be happy to help. Send us a message: [marjanin@usc.edu](mailto:marjanin@usc
 ### In press
 
 [Nature: Editorial](https://doi.org/10.1038/s42256-019-0035-2)
-
 [Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/news-events/2019-03-12)
 
 [Longroom](https://longroom.com/discussion/1401781/a-robotic-leg-born-without-prior-knowledge-learns-to-walk)
@@ -50,8 +49,8 @@ We'd be happy to help. Send us a message: [marjanin@usc.edu](mailto:marjanin@usc
 
 [ScienceDaily](https://www.sciencedaily.com/releases/2019/03/190311125138.htm)
 
-[NeuroLogica Blog](https://theness.com/neurologicablog/index.php/robots-learning-to-walk/)
-[ForeignAffairs](ttps://foreignaffairs.co.nz/2019/03/13/mil-osi-usa-2019-03-12-progress-on-lifelong-learning-machines-shows-potential-for-bio-inspired-algorithms/)
+[NeuroLogica Blog](https://theness.com/neurologicablog/index.php/robots-learning-to-walk/)<br />
+[ForeignAffairs](ttps://foreignaffairs.co.nz/2019/03/13/mil-osi-usa-2019-03-12-progress-on-lifelong-learning-machines-shows-potential-for-bio-inspired-algorithms/)<br />
 [hackster.io](https://blog.hackster.io/usc-engineers-design-ai-powered-robotic-limb-with-animal-like-tendons-be86ee418d6e)
 
 *Supplemental site prepared by: Brian A. Cohn and Ali Marjaninejad*
