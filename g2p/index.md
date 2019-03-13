@@ -16,9 +16,11 @@ Research reported in this publication was supported in part by the National Inst
 
 ### Machine Learning: Open-Source Code
 We'd be happy to hel you apply these methods to your work. Send us a message: [marjanin@usc.edu](mailto:marjanin@usc.edu)
+
 <a href="https://github.com/marjanin/Marjaninejad-et.-al.-2019-NMI"><img src="../../img/octocat.png" width=20%></a>
 
 ### Related Work
+
 <a href="https://valerolab.org/supplemental_sites/wiredmagazine2018/"><img src="../../img/wired2018.png" width=50%></a>
 
 ### News Coverage
