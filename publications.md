@@ -42,7 +42,8 @@ menu: main
 <br>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>
-{% for year_of_interest in (1997..2018) reversed %}
+<!-- make sure the max date is the current year! -->
+{% for year_of_interest in (1997..2019) reversed %}
 
   {% comment %} casting an integer to a string {% endcomment %}
   {% assign yearAsString = year_of_interest | append:"" %}
