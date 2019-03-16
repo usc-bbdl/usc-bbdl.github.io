@@ -61,7 +61,7 @@ menu: main
                target="_blank"
                title="{{paper.Abstract}}">{{paper.Title}}</a>
                <div class="journal_info">{{paper.Year}}.{{paper.Journal}}
-                 <button class="btn" data-clipboard-text="{{paper.BibTex}}">BIBTEX</button>
+                 <button class="btn" data-clipboard-text="{{paper.BibTex}}">Copy BibTex</button>
                </div>
              </div>
              </div>
