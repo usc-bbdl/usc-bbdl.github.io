@@ -20,8 +20,8 @@ A tendon-driven robotic limb learns movements autonomously from sparse experienc
 > Marjaninejad, Ali, et al. "Autonomous functional movements in a tendon-driven limb via limited experience." Nature Machine Intelligence 1.3 (2019): 144.
 
 
-[Citation (.ris)](https://www.nature.com/articles/s42256-019-0029-0.ris)
-[BibTex](marjaninejad.txt)
+[Citation (.ris)](https://www.nature.com/articles/s42256-019-0029-0.ris)  
+[Citation (BibTex)](marjaninejad.txt)
 
 ### Funding
 Research reported in this publication was supported in part by the National Institute of Arthritis and Musculoskeletal and Skin Diseases of the National Institutes of Health under award numbers R01 AR-050520, R01 AR-052345, the Department of Defense CDMRP Grant MR150091, and Award W911NF1820264 from the DARPA's Lifelong Learning Machines (L2M) program.
