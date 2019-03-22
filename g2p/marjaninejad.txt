@@ -1,0 +1,10 @@
+@article{marjaninejad2019autonomous,
+  title={Autonomous functional movements in a tendon-driven limb via limited experience},
+  author={Marjaninejad, Ali and Urbina-Mel{\'e}ndez, Dar{\'\i}o and Cohn, Brian A and Valero-Cuevas, Francisco J},
+  journal={Nature Machine Intelligence},
+  volume={1},
+  number={3},
+  pages={144},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
