@@ -56,15 +56,10 @@ menu: main
   {% for paper in selectedEntries %}
              <div class="publication_card {{paper.Tags}}" >
              <div class="paper_author_container">
-               <div class="paper_authors">{{paper.Author}}</div>
-               <a class="article_title" href="../../{{paper.Link}}" 
+               {{paper.Author}}.<a class="article_title" href="../../{{paper.Link}}" 
                target="_blank"
-               title="{{paper.Abstract}}">{{paper.Title}}</a>
-               
-               <div class="journal_info">
-               {{paper.Journal}}, {{paper.Year}} 
+               title="{{paper.Abstract}}">{{paper.Title}}</a> {{paper.Journal}}, {{paper.Year}} <br>
                  <button class="btn" data-clipboard-text="{{paper.BibTex}}">Copy BibTex</button>
-               </div>
              </div>
              </div>
      {% endfor %}
