@@ -9,12 +9,16 @@ title: General to Particular (G2P) Algorithm
 
 # [Article (open-access): Nature.com](https://www.nature.com/articles/s42256-019-0029-0)
 # [Arxiv Preprint](https://arxiv.org/pdf/1810.08615.pdf)
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=oe8tgMMdpqg?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+A tendon-driven robotic limb learns movements autonomously from sparse experience, by a short period of ‘motor babbling’ (that is, repeated exploratory movements), followed by a phase of reinforcement learning. In this video, the limb is learning to make cyclic movements to propel the treadmill. The approach is a step towards designing robots with the versatility and robustness of vertebrates, which can adapt quickly to everyday environments.
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zxj-DpxMnwo?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-A tendon-driven robotic limb learns movements autonomously from sparse experience, by a short period of ‘motor babbling’ (that is, repeated exploratory movements), followed by a phase of reinforcement learning. In this video, the limb is learning to make cyclic movements to propel the treadmill. The approach is a step towards designing robots with the versatility and robustness of vertebrates, which can adapt quickly to everyday environments.
 
 ### Citation
 > Marjaninejad, Ali, et al. "Autonomous functional movements in a tendon-driven limb via limited experience." Nature Machine Intelligence 1.3 (2019): 144.
