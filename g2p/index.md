@@ -40,7 +40,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 
 ### News Coverage
 
-# In English:
+#### In English:
 [Nature: Editorial](https://doi.org/10.1038/s42256-019-0035-2)<br />
 [USC Viterbi School of Engineering](https://viterbischool.usc.edu/news/2019/03/a-robotic-leg-born-without-prior-knowledge-learns-to-walk/)<br />
 [Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/news-events/2019-03-12)<br />
@@ -91,7 +91,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 [technologytimes](https://www.technologytimes.pk/ai-robotic-leg-teaches-walk/)<br />
 [meritalk](https://www.meritalk.com/articles/bio-inspired-algorithms-walk-ai-robots-through-learning-process/)<br />
 
-# In other languages:
+#### In other languages:
 [popmech](https://www.popmech.ru/technologies/news-468232-razrabotana-robonoga-samostoyatelno-uchashchayasya-hodit/)<br />
 [visao](http://visao.sapo.pt/actualidade/sociedade/2019-03-12-Equipa-da-California-criou-uma-perna-robotica-que-aprendeu-a-andar-sozinha)<br />
 [computerworld](https://www.computerworld.ch/technik/robotik/roboterbein-lernt-selbststaendiges-laufen-1690075.html)<br />
