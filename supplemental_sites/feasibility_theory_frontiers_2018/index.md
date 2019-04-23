@@ -5,7 +5,8 @@ title: Feasibility theory
 # Companion Website
 *Prepared by: Brian A. Cohn*
 
-## Frontiers 2018
+## Feasibility Theory Reconciles and Informs Alternative Approaches to Neuromuscular Control 
+[Journal Article, Frontiers in Computational Neuroscience (Link)](https://valerolab.org/Papers/cohn_feasibility_theory_2018.pdf)
 ### **Abstract:**
 We present a conceptual and computational framework to unify today's theories of neuromuscular control called feasibility theory.
 We begin by describing how the musculoskeletal anatomy of the limb, the need to control individual tendons, and the physics of a motor task uniquely specify the family of all valid muscle activations that accomplish it (its `feasible activation space').
@@ -14,6 +15,8 @@ The feasible activation space for a given task is _the_ landscape where all neur
 This approach unifies current theories of neuromuscular control because the structure of feasible activation spaces can be separately approximated as either low-dimensional basis functions (synergies), high-dimensional joint probability distributions (Bayesian priors), or fitness landscapes (to optimize cost functions).
 # [Interactive Parallel Coordinates Visualization](https://briancohn.github.io/space-parcoords/)
 <img src="../../img/projects/cohn2017.gif">
+
+[See also: Fundamentals of Neuromechanics (Book)](https://valerolab.org/fundamentals/)
 
 # A. PCA Loadings Bootstrapping Figure
 *Prepared by: Brian A. Cohn*
@@ -94,8 +97,6 @@ In RStudio, in the same working directory as above, run the file `thousand_loadi
 
 
 <b> Supplementary Figure: </b> After scaling and centering the hit and run points at each task level, we computed PCA and thereby the loadings. As in the paper, we force FDP in PC1 to keep its loading value to be positive, and propagate that flip in sign to PC2 and PC3 respectively. As a result, we do not expect to see flips in PC1—this is corroborated by our data. We can see from this derivative plot that there are instantaneously fast flips, and they typically flip up, down, and up in a cycle.
-
-
 
 ### Have comments or questions about how to apply these methods to your work?
 We'd be happy to help. Send us a message: brian.cohn@usc.edu
