@@ -13,10 +13,14 @@ We begin by describing how the musculoskeletal anatomy of the limb, the need to 
 For our example of static force production with a finger with seven muscles, computational geometry characterizes, in a complete way, the structure of  feasible activation spaces as 3-dimensional polytopes embedded in 7-D.
 The feasible activation space for a given task is _the_ landscape where all neuromuscular learning, control, and performance must occur.
 This approach unifies current theories of neuromuscular control because the structure of feasible activation spaces can be separately approximated as either low-dimensional basis functions (synergies), high-dimensional joint probability distributions (Bayesian priors), or fitness landscapes (to optimize cost functions).
+
+
+[See also: Fundamentals of Neuromechanics (Book)](https://valerolab.org/fundamentals/)
+
+
 # [Interactive Parallel Coordinates Visualization](https://briancohn.github.io/space-parcoords/)
 <img src="../../img/projects/cohn2017.gif">
 
-[See also: Fundamentals of Neuromechanics (Book)](https://valerolab.org/fundamentals/)
 
 # A. PCA Loadings Bootstrapping Figure
 *Prepared by: Brian A. Cohn*
