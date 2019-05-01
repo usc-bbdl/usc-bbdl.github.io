@@ -61,7 +61,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 [reddit, I](https://www.reddit.com/r/science/comments/azw4fz/a_robotic_leg_born_without_prior_knowledge_learns/)<br />
 [reddit, II](https://www.reddit.com/r/Futurology/comments/azvsru/a_robotic_leg_born_without_prior_knowledge_learns/)<br />
 [neurosciencenews](https://neurosciencenews.com/ai-robotic-leg-learns-walk-10878/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+neuroscience-rss-feeds-neuroscience-news+%28Neuroscience+News+Updates%29)<br />
-[bioengineer](https://bioengineer.org/a-robotic-leg-born-without-prior-knowledge-learns-to-walk/)
+[bioengineer](https://bioengineer.org/a-robotic-leg-born-without-prior-knowledge-learns-to-walk/)<br />
 [interestingengineering](https://interestingengineering.com/ai-driven-robotic-leg-teaches-itself-to-walk)<br />
 [newatlas](https://newatlas.com/robotic-leg-teaches-walk/58817/)<br />
 [techradar](https://www.techradar.com/news/researchers-develop-robot-leg-that-learns-to-walk-by-itself)
@@ -90,6 +90,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 [azorobotics](https://www.azorobotics.com/News.aspx?newsID=10366)<br />
 [technologytimes](https://www.technologytimes.pk/ai-robotic-leg-teaches-walk/)<br />
 [meritalk](https://www.meritalk.com/articles/bio-inspired-algorithms-walk-ai-robots-through-learning-process/)<br />
+[psychologytoday](https://www.psychologytoday.com/us/blog/the-future-brain/201904/will-one-small-step-ai-be-one-giant-leap-robotics)<br />
 
 #### In other languages:
 [popmech](https://www.popmech.ru/technologies/news-468232-razrabotana-robonoga-samostoyatelno-uchashchayasya-hodit/)<br />
