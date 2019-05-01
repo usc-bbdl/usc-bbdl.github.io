@@ -64,7 +64,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 [bioengineer](https://bioengineer.org/a-robotic-leg-born-without-prior-knowledge-learns-to-walk/)<br />
 [interestingengineering](https://interestingengineering.com/ai-driven-robotic-leg-teaches-itself-to-walk)<br />
 [newatlas](https://newatlas.com/robotic-leg-teaches-walk/58817/)<br />
-[techradar](https://www.techradar.com/news/researchers-develop-robot-leg-that-learns-to-walk-by-itself)
+[techradar](https://www.techradar.com/news/researchers-develop-robot-leg-that-learns-to-walk-by-itself)<br />
 [scienceworldreport](https://www.scienceworldreport.com/articles/60781/20190312/robotic-leg-born-without-prior-knowledge-learns-walk.htm)<br />
 [electronicsweekly](https://www.electronicsweekly.com/news/research-news/ai-teaches-robot-leg-walk-scratch-2019-03/)<br />
 [theness](https://theness.com/neurologicablog/index.php/robots-learning-to-walk/)<br />
