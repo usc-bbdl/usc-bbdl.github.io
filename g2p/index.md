@@ -45,6 +45,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 [USC Viterbi School of Engineering](https://viterbischool.usc.edu/news/2019/03/a-robotic-leg-born-without-prior-knowledge-learns-to-walk/)<br />
 [Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/news-events/2019-03-12)<br />
 [PCMag](https://www.pcmag.com/news/367051/how-this-robotic-leg-learned-to-walk-by-itself)<br />
+[Voice of America](https://www.voanews.com/a/4907996.html)<br />
 [CHIPS: The department of the Navy's information technology magazine]( https://www.doncio.navy.mil/CHIPS/ArticleDetails.aspx?id=12281)<br />
 [USC Stevens Innovation Center](https://stevens.usc.edu/stevens-center-awards-viterbi-bme-phd-students/)<br />
 [Sciencedaily]( https://www.sciencedaily.com/releases/2019/03/190311125138.htm)<br />
