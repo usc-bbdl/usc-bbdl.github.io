@@ -104,7 +104,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 [deingenieur](https://www.deingenieur.nl/artikel/robot-leert-zichzelf-razendsnel-lopen)<br />
 [ednchina](https://www.ednchina.com/news/201903120351.html)<br />
 [N+1](https://nplus1.ru/news/2019/03/12/robotic-leg)<br />
-[ghatreh](https://www.ghatreh.com/news/nn46604233/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%D9%87-%D8%B1%D9%81%D8%AA%D9%86-%D8%B1%D8%A8%D8%A7%D8%AA-%D9%85%D9%85%DA%A9%D9%86-%D8%B4%D9%88%D8%AF)
+[ghatreh](https://www.ghatreh.com/news/nn46604233/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%D9%87-%D8%B1%D9%81%D8%AA%D9%86-%D8%B1%D8%A8%D8%A7%D8%AA-%D9%85%D9%85%DA%A9%D9%86-%D8%B4%D9%88%D8%AF)<br />
 [mukola](https://mukola.net/razrabotana-robonoga-samostoyatelno-uchashhayasya-hodit/)<br />
 [negociosdisruptivos](https://www.negociosdisruptivos.com/equipa-da-california-criou-uma-perna-robotica-que-aprendeu-andar-sozinha/)<br />
 [ardina.news](https://ardina.news/article/2019_03_12_306113756_equipa-da-california-criou-uma-perna-robotica-que-aprendeu-a-andar-sozinha)<br />
