@@ -1,8 +1,0 @@
----
-layout: post
-title:  "ValeroLab"
-date:   2017-06-24 13:01:16 -0800
-categories: ValeroLab
----
-
-While ultimately seeking improved clinical diagnosis and treatment procedures, we emphasize the scientific investigation of the neuromuscular biomechanics of the hand in general, and actively promote the use of this knowledge to improve the design and control of prosthetic and robotic systems.
