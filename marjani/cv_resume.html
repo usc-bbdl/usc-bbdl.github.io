@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+/* mouse over link */
+
+a:hover {
+  color: hotpink;
+}
+
+a.news_links {
+font-family:georgia,garamond,serif;
+font-size:18px;
+}
+
+a.news_links:link {
+  color: black;
+} 
+a.news_links:hover {
+  color: hotpink;
+}
+
+div.relative {
+  position: relative;
+  left: 30px;
+  border: 3px
+}
+img {
+  border-radius: 5%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+.content {
+  max-width: 1000px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<div class="content">
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="projects.html">Projects</a></li>
+  <li><a href="on_the_news.html">On the news</a></li>
+  <li><a href="publications.html">Publications</a></li>
+  <li><a class="active" href="cv_resume.html">CV/Resume</a></li>
+  <li><a href="contact.html">Contact</a></li>
+</ul>
+
+
+<h1 style = "font-family:georgia,garamond,serif;font-size:18px;">Please click on either CV or Resume to download it in Portable Document Format (PDF):</h1><br />
+
+<br />
+  <table style="width:100%">
+  <tr>
+    <th>  <a href="./assets/resume.PDF"><img src="./assets/resume.png" width="256" height="256" title="resume" alt="resume"></a></th>
+    <th>  <a href="./assets/cv.PDF"><img src="./assets/cv.png" width="256" height="256" title="cv" alt="cv"></a></th>
+  </tr>
+</table>
+
+</div>
+</div>
+</body>
+</html>
