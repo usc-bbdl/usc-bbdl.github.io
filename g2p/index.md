@@ -122,4 +122,25 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 [comunicacionfi.unam](http://www.comunicacionfi.unam.mx/mostrar_nota.php?id_noticia=1792&fbclid=IwAR2_m8x28gxyxsLNF0yiKpmt2gYL6s23ob3tNCxfBFOQwSBUdMQwJqqYaiY)<br />
 [yucatan](https://www.yucatan.com.mx/imagen/joven-mexicano-publica-articulo-de-neuromecanica-en-nature )<br />
 
+### Talks and workshops:
+
+#### Talks
+1- “Understanding learning in the context of neuromechanics: The real problem the brain faces.” School of Engineering, Queen’s University, Kingston, Ontario.  August 1, 2019.
+2- “A neuromorphic approach to understand learning in the context of neuromechanics.” Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD.  April 28, 2019.
+3- “Neuromorphic systems for mechanical function and biologically-plausible machine learning algorithms” Chiba University, Japan. April 28, 2019.
+4- “A NeuRoBot that learns without forgetting” DARPA L2M PI meeting. DARPA headquarters, Arlington, VA. March 26, 2019.              “Neuromorphic simulation of spinal circuitry for sensorimotor function” Society for Brain Mapping and Therapeutics, March 17, 2019.
+5- “Principios de neuomecánica y su aplicación a neurociencia, rehabilitación y robotica”  Instituto de Neurobiología, Universidad Nacional Autónoma de México, Juriquilla, Querétaro, México. March 17, 2019.
+6- “Neuromorphic testbeds of the mammalian spinal cord” University of California at Davis, January 7, 2019
+7- "Bio-plausible mechanics, learning, and control for robots" – Google Brain / Robotics, Mountain View, Ca. April 17, 2019. By Ali Marjaninejad
+8- "On the new generation of bio-inspired robots" – MATLAB EXPO 2019
+#### Workshops
+1- Marjaninejad A, Urbina-Meléndez D , Cohn BA, Valero-Cuevas FJ “Autonomous Functional Locomotor Movements in a Tendon-Driven Limb via Limited Experience” The 9th International Symposium on Adaptive Motion of Animals and Machines EPFL, Lausanne, August 20th–23rd, 2019.
+2- 19th Yale workshop on Learning and Adaptive Systems. “Learning in the Context of Neuromechanics: The Real Problem the Brain Faces.” Yale University, New Haven, CT. June 10, 2019.
+3- DARPA Electronics Resurgence Initiative (ERI) Summit. “Seedling: A NeuRoBot that learns locomotion online, and generalizes/learns variations autonomously without forgetting.” Detroit, MI, July 15-17, 2019.
+4- DARPA Electronics Resurgence Initiative (ERI) Summit. “Learning without forgetting in real-time with limited experience: A bio-inspired approach.” Detroit, MI, July 15-17, 2019.
+5- BIRS Optimal Neuroethology of Movement and Motor Control. “The nervous system controls afferented muscles, which makes t a simultaneously over- and under-determined problem.” The BIRS Center, Banff, Alberta, Canada. May 245, 2019.
+6- Tokyo Hand Meeting. “Neuromorphic controls for neuromuscular systems.” University of Tokyo, Japan. April 23, 2019.     
+7- 31st Annual CSU Biotechnology Symposium, Hyatt Regency Orange County, Breakout Session: Bioengineering Workshop. Garden Grove, CA. January 3-5, 2019. 
+
+#### 
 *Supplemental site prepared by: Brian A. Cohn and Ali Marjaninejad*
