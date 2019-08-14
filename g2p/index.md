@@ -139,7 +139,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 3- DARPA Electronics Resurgence Initiative (ERI) Summit. “Seedling: A NeuRoBot that learns locomotion online, and generalizes/learns variations autonomously without forgetting.” Detroit, MI, July 15-17, 2019. <br />
 4- DARPA Electronics Resurgence Initiative (ERI) Summit. “Learning without forgetting in real-time with limited experience: A bio-inspired approach.” Detroit, MI, July 15-17, 2019. <br />
 5- BIRS Optimal Neuroethology of Movement and Motor Control. “The nervous system controls afferented muscles, which makes t a simultaneously over- and under-determined problem.” The BIRS Center, Banff, Alberta, Canada. May 245, 2019. <br />
-6- Tokyo Hand Meeting. “Neuromorphic controls for neuromuscular systems.” University of Tokyo, Japan. April 23, 2019.  <br />    
+6- Tokyo Hand Meeting. “Neuromorphic controls for neuromuscular systems.” University of Tokyo, Japan. April 23, 2019. <br />
 7- 31st Annual CSU Biotechnology Symposium, Hyatt Regency Orange County, Breakout Session: Bioengineering Workshop. Garden Grove, CA. January 3-5, 2019. <br />
 
 #### 
