@@ -132,7 +132,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 5- “Principios de neuomecánica y su aplicación a neurociencia, rehabilitación y robotica”  Instituto de Neurobiología, Universidad Nacional Autónoma de México, Juriquilla, Querétaro, México. March 17, 2019. <br />
 6- “Neuromorphic testbeds of the mammalian spinal cord” University of California at Davis, January 7, 2019
 7- "Bio-plausible mechanics, learning, and control for robots" – Google Brain / Robotics, Mountain View, Ca. April 17, 2019. by Ali Marjaninejad <br />
-8- "Autonomous Functional Movements in a Tendon-Driven Limb via Limited Experience" USC Biomedical Graduate Talks series. University of Southern California, Los Angeles, Ca. January 9, 2019. by Ali Marjaninejad
+8- "Autonomous Functional Movements in a Tendon-Driven Limb via Limited Experience" USC Biomedical Graduate Talks series. University of Southern California, Los Angeles, Ca. January 9, 2019. by Ali Marjaninejad <br />
 9- "On the new generation of bio-inspired robots" – MATLAB EXPO 2019 <br />
 #### Workshops
 1- Marjaninejad A, Urbina-Meléndez D , Cohn BA, Valero-Cuevas FJ “Autonomous Functional Locomotor Movements in a Tendon-Driven Limb via Limited Experience” The 9th International Symposium on Adaptive Motion of Animals and Machines EPFL, Lausanne, August 20th–23rd, 2019. <br />
