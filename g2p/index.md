@@ -48,6 +48,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 [Voice of America (VoA)](https://www.voanews.com/a/4907996.html)<br />
 [CHIPS: The department of the Navy's information technology magazine]( https://www.doncio.navy.mil/CHIPS/ArticleDetails.aspx?id=12281)<br />
 [USC Stevens Innovation Center](https://stevens.usc.edu/stevens-center-awards-viterbi-bme-phd-students/)<br />
+[MathWorks - Technical Articles and Newsletters](https://www.mathworks.com/company/newsletters/articles/reinforcement-learning-a-brief-guide.html)<br />
 [MathWorks - MATLAB Central Blogs](https://blogs.mathworks.com/headlines/2019/05/16/robot-quickly-teaches-itself-to-walk-using-reinforcement-learning/)<br />
 [Sciencedaily]( https://www.sciencedaily.com/releases/2019/03/190311125138.htm)<br />
 [eurekalert]( https://www.eurekalert.org/pub_releases/2019-03/uosc-arl031019.php) <br />
