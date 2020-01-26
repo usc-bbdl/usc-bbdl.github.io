@@ -147,17 +147,17 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 ### Publications and abstracts
 
 #### Publication
-1- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, Autonomous functional movements in a tendon-driven limb via limited experience Nature Machine Intelligence, 2019 (also available on ArXiv)
-2- Marjaninejad A, Urbina-Meléndez D,Valero-Cuevas FJ, Simple Kinematic Feedback Enhances Autonomous Learning in Bio-Inspired Tendon-Driven Systems, 2019 (arXiv:1907.04539)
-3- Marjaninejad A, Jie T, Valero-Cuevas FJ, Autonomous Control of a Tendon-driven Robotic Limb with Elastic Elements Reveals that Added Elasticity can Enhance Learning, 2019 (arXiv:1909.12436)
+1- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, Autonomous functional movements in a tendon-driven limb via limited experience Nature Machine Intelligence, 2019 (also available on ArXiv) <br />
+2- Marjaninejad A, Urbina-Meléndez D,Valero-Cuevas FJ, Simple Kinematic Feedback Enhances Autonomous Learning in Bio-Inspired Tendon-Driven Systems, 2019 (arXiv:1907.04539) <br />
+3- Marjaninejad A, Jie T, Valero-Cuevas FJ, Autonomous Control of a Tendon-driven Robotic Limb with Elastic Elements Reveals that Added Elasticity can Enhance Learning, 2019 (arXiv:1909.12436) <br />
 
 #### Abstracts
-1- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, Bioinspired few-shot learning in robotic systems, Society for Neuroscience annual meeting, Chicago, 2019
-2- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, New generation of bio-inspired robots that learn and adapt using limited experience, The 23rd Grodins Biomedical Engineering Symposium, University of Southern California, 2019
+1- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, Bioinspired few-shot learning in robotic systems, Society for Neuroscience annual meeting, Chicago, 2019 <br />
+2- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, New generation of bio-inspired robots that learn and adapt using limited experience, The 23rd Grodins Biomedical Engineering Symposium, University of Southern California, 2019 <br />
 
 ### Awards
-USC Stevens Best Commercial Potential Award 2019
+USC Stevens Best Commercial Potential Award 2019 <br />
 
 
 #### 
-*Supplemental site prepared by: Brian A. Cohn and Ali Marjaninejad*
+*Supplemental site prepared by: Brian A. Cohn and Ali Marjaninejad*  <br />
