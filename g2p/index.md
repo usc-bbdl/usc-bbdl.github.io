@@ -144,6 +144,9 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 6- Tokyo Hand Meeting. “Neuromorphic controls for neuromuscular systems.” University of Tokyo, Japan. April 23, 2019. <br />
 7- 31st Annual CSU Biotechnology Symposium, Hyatt Regency Orange County, Breakout Session: Bioengineering Workshop. Garden Grove, CA. January 3-5, 2019. <br />
 
+### Awards
+USC Stevens Best Commercial Potential Award 2019 <br />
+
 ### Publications and abstracts
 
 #### Publication
@@ -154,9 +157,6 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 #### Abstracts
 1- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, Bioinspired few-shot learning in robotic systems, Society for Neuroscience (SfN) annual meeting, Chicago, 2019 <br />
 2- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, New generation of bio-inspired robots that learn and adapt using limited experience, The 23rd Grodins Biomedical Engineering Symposium, University of Southern California, 2019 <br />
-
-### Awards
-USC Stevens Best Commercial Potential Award 2019 <br />
 
 
 #### 
