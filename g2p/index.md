@@ -97,6 +97,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 
 #### In other languages:
 [Gaceta UNAM](https://www.gaceta.unam.mx/egresado-de-ingenieria-publica-en-nature-machine-intelligence/)<br />
+[Gaceta Facultad de Ingeniería UNAM](https://www.comunicacionfi.unam.mx/mostrar_nota.php?id_noticia=1792&fbclid=IwAR2_m8x28gxyxsLNF0yiKpmt2gYL6s23ob3tNCxfBFOQwSBUdMQwJqqYaiY)<br />
 [popmech](https://www.popmech.ru/technologies/news-468232-razrabotana-robonoga-samostoyatelno-uchashchayasya-hodit/)<br />
 [visao](http://visao.sapo.pt/actualidade/sociedade/2019-03-12-Equipa-da-California-criou-uma-perna-robotica-que-aprendeu-a-andar-sozinha)<br />
 [computerworld](https://www.computerworld.ch/technik/robotik/roboterbein-lernt-selbststaendiges-laufen-1690075.html)<br />
