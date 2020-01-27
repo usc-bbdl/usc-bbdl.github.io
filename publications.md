@@ -58,7 +58,7 @@ menu: main
              <div class="paper_author_container">
                {{paper.Author}} <a class="article_title" href="../../{{paper.Link}}" 
                target="_blank"
-               title="{{paper.Abstract}}">{{paper.Title}}</a> {{paper.Journal}}, {{paper.Year}} <br>
+               title="{{paper.Abstract}}">{{paper.Title}}</a> <i>{{paper.Journal}}</i>, {{paper.Year}} <br>
                  <button class="btn" data-clipboard-text="{{paper.BibTex}}">Copy BibTex</button>
              </div>
              </div>
