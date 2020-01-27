@@ -57,7 +57,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 [nanowerk](https://www.nanowerk.com/news2/robotics/newsid=52337.php?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=nanowerkemergingtechnologiesnews)<br />
 [esciencenews](https://esciencenews.com/sources/science.daily/2019/03/11/a.robotic.leg.born.without.prior.knowledge.learns.walk)<br />
 [onenewspage](https://www.onenewspage.us/n/Science/1zkh09apu8/robotic-leg-born-without-prior-knowledge-learns.htm)<br />
-[Google news stories](https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWlDMllMYWpZQU1FWFZKekZ0VGFUelFLQUFQAQ?hl=en-US&gl=US&ceid=US:en)<br />
+[Google News: Stories](https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWlDMllMYWpZQU1FWFZKekZ0VGFUelFLQUFQAQ?hl=en-US&gl=US&ceid=US:en)<br />
 [phys.org](https://phys.org)<br />
 [tunisiesoir](http://www.tunisiesoir.com/science/research-new-ai-algorithms-could-allow-robots-to-learn-to-move-by-themselves-imitating-animals-13989-2019/)<br />
 [longroom](https://www.longroom.com/discussion/1401781/a-robotic-leg-born-without-prior-knowledge-learns-to-walk)<br />
@@ -96,6 +96,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 [psychologytoday](https://www.psychologytoday.com/us/blog/the-future-brain/201904/will-one-small-step-ai-be-one-giant-leap-robotics)<br />
 
 #### In other languages:
+[Gaceta UNAM](https://www.gaceta.unam.mx/egresado-de-ingenieria-publica-en-nature-machine-intelligence/)<br />
 [popmech](https://www.popmech.ru/technologies/news-468232-razrabotana-robonoga-samostoyatelno-uchashchayasya-hodit/)<br />
 [visao](http://visao.sapo.pt/actualidade/sociedade/2019-03-12-Equipa-da-California-criou-uma-perna-robotica-que-aprendeu-a-andar-sozinha)<br />
 [computerworld](https://www.computerworld.ch/technik/robotik/roboterbein-lernt-selbststaendiges-laufen-1690075.html)<br />
