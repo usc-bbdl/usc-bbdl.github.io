@@ -148,7 +148,7 @@ We'd be happy to help you apply these methods to your work. Send us a message: [
 7- 31st Annual CSU Biotechnology Symposium, Hyatt Regency Orange County, Breakout Session: Bioengineering Workshop. Garden Grove, CA. January 3-5, 2019. <br />
 
 ### Awards
-USC Stevens Best Commercial Potential Award 2019 <br />
+USC Stevens Best Commercial Potential Award 2019 [link] (https://viterbischool.usc.edu/news/2019/04/student-research-shines-at-grodins-symposium/) <br />
 
 ### Publications and abstracts
 
