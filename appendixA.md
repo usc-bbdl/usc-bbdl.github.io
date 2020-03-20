@@ -6,16 +6,9 @@ _________
 
 This brief primer provides basic concepts and reference material related to the critical concepts of linear algebra that are needed to work with rigid body kinematics. These concepts are critical to the intuition developed throughout the book. Readers with recent backgrounds in linear algebra may not need this, but others who have not seen linear algebra for some time would benefit from this review. I cannot overemphasize the benefits that come from having working knowledge of these fundamental con- cepts that are, in fact, within reach for anyone with even cursory exposure to high school algebra. There are multiple texts that cover this material in detail, but I would recommend [1, 2] as first texts, followed by [3] for those interested in a more detailed treatment of the subject in the context of robotics.
 
-**Forum and commentary:**
+**Forum, Exercises and Commentary:**
 _____________________
 *Coming soon!*
-
-
-**Exercises:**
-__________
-*Coming soon!*
-
-
 
 **Additional references and suggested reading:**
 ____________________________________________
