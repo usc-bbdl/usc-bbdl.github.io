@@ -103,7 +103,7 @@ In RStudio, in the same working directory as above, run the file `thousand_loadi
 <b> Supplementary Figure: </b> After scaling and centering the hit and run points at each task level, we computed PCA and thereby the loadings. As in the paper, we force FDP in PC1 to keep its loading value to be positive, and propagate that flip in sign to PC2 and PC3 respectively. As a result, we do not expect to see flips in PC1—this is corroborated by our data. We can see from this derivative plot that there are instantaneously fast flips, and they typically flip up, down, and up in a cycle.
 
 ### Have comments or questions about how to apply these methods to your work?
-We'd be happy to help. Send us a message: brian.cohn@usc.edu
+We'd be happy to help. Send us a message: valero@usc.edu
 
 # Code to produce figures  
 [Code to produce muscle activation patterns for a given task](https://github.com/briancohn/space)
