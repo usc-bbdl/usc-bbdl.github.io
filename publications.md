@@ -23,7 +23,7 @@ menu: main
 <link rel="stylesheet" type="text/css" media="screen" href="../css/styles.css" />
 <div>
 <div class="yearbuttons">
-{% for year_of_interest in (1997..2019) reversed %}
+{% for year_of_interest in (1997..2020) reversed %}
   <a class="year_button_container" href="#{{year_of_interest}}">
     <button class="year_button">{{year_of_interest}}</button>
   </a>
@@ -43,7 +43,7 @@ menu: main
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>
 <!-- make sure the max date is the current year! -->
-{% for year_of_interest in (1997..2019) reversed %}
+{% for year_of_interest in (1997..2020) reversed %}
 
   {% comment %} casting an integer to a string {% endcomment %}
   {% assign yearAsString = year_of_interest | append:"" %}
