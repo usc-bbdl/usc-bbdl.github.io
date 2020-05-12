@@ -12,7 +12,9 @@ title: General to Particular (G2P) Algorithm
 
 
 A tendon-driven robotic limb learns movements autonomously from sparse experience, by a short period of ‘motor babbling’ (that is, repeated exploratory movements), followed by a phase of reinforcement learning. In this video, the limb is learning to make cyclic movements to propel the treadmill. The approach is a step towards designing robots with the versatility and robustness of vertebrates, which can adapt quickly to everyday environments.
+
 <div data-badge-details="right" data-badge-type="large-donut" data-doi="10.1038/s42256-019-0029-0" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zxj-DpxMnwo?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
