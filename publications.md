@@ -53,7 +53,7 @@ menu: main
 
   {% comment %} filtering datas {% endcomment %}
   {% assign selectedEntries = site.data.publications | where: "Year", yearAsString %}
-  {% for paper in selectedEntries %}
+    {% for paper in selectedEntries %}
              <div class="publication_card {{paper.Tags}}" >
              <div class="paper_author_container">
                {{paper.Author}} <a class="article_title" href="../../{{paper.Link}}" 
