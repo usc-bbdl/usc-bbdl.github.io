@@ -112,7 +112,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
 <b>Huan Zhao</b> - M.S. Student in Biomedical Engineering    
-<b>SitharaSithara Kamalakkannan</b> - M.S. Student in Biomedical Engineering      
 <b>Vishweshwar Shastri</b> - BME Masters student    
 <b>Young Jin Kim</b> - CS Undergraduate    
 <b>Chintalapudi Sarath</b> - EE Masters student  
@@ -157,6 +156,7 @@ Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 <b>Maral Kasiri</b> - BME Masters Student
 
 # Internship Alumni
+<b>Sithara Kamalakkannan</b> - M.S. Student in Biomedical Engineering      
 <b>Yasmine Kahsai</b> - Roski Design Undergraduate 
 <b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering 
 <b>Mayumi Ishikawa</b> -  BME undergrad  
