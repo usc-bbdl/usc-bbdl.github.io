@@ -111,11 +111,11 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
-<b>Neil Koby Reid</b> - M.S. Student in Biomedical Engineering
-<b>Hanyu She</b> - M.S. Student in Mechanical Engineering
-<b>Tailun Liu</b> - M.S. Student in Mechanical Engineering
-<b>Xuchen Ning </b> - M.S. Student in Mechanical Engineering
-<b>Jiaoran Wang</b> - M.S. Student in Mechanical Engineering
+<b>Neil Koby Reid</b> - M.S. Student in Biomedical Engineering  
+<b>Hanyu She</b> - M.S. Student in Mechanical Engineering  
+<b>Tailun Liu</b> - M.S. Student in Mechanical Engineering  
+<b>Xuchen Ning </b> - M.S. Student in Mechanical Engineering  
+<b>Jiaoran Wang</b> - M.S. Student in Mechanical Engineering  
 
 
 
@@ -156,12 +156,12 @@ Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 
 # Internship Alumni
 <b>Sithara Kamalakkannan</b> - M.S. Student in Biomedical Engineering      
-<b>Yasmine Kahsai</b> - Roski Design Undergraduate 
+<b>Yasmine Kahsai</b> - Roski Design Undergraduate  
 <b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering 
 <b>Mayumi Ishikawa</b> -  BME undergrad  
 <b>Brandon Miura</b> - BME undergrad  
 <b>Taylor Stroobosscher</b> - EE undergrad  
-<b>Théo Denisart</b> -  Visiting Masters Student from EPFL
+<b>Théo Denisart</b> -  Visiting Masters Student from EPFL  
 <b>Keegan Bate</b> - BME Masters Student  
 <b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
 <b>Taegyum Kim</b> - CS Undergraduate  
