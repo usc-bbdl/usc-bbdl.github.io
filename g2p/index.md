@@ -154,10 +154,11 @@ USC Stevens Best Commercial Potential Award 2019 [(link)](https://viterbischool.
 
 ### Publications and abstracts
 
-#### Publication
-1- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, Autonomous functional movements in a tendon-driven limb via limited experience Nature Machine Intelligence, 2019 (also available on ArXiv) <br />
-2- Marjaninejad A, Urbina-Meléndez D,Valero-Cuevas FJ, Simple Kinematic Feedback Enhances Autonomous Learning in Bio-Inspired Tendon-Driven Systems, 2019 (arXiv:1907.04539) <br />
-3- Marjaninejad A, Jie T, Valero-Cuevas FJ, Autonomous Control of a Tendon-driven Robotic Limb with Elastic Elements Reveals that Added Elasticity can Enhance Learning, 2019 (arXiv:1909.12436) <br />
+#### Publications
+1- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, Autonomous functional movements in a tendon-driven limb via limited experience Nature Machine Intelligence, 2019 (preprint version available on arXiv) <br />
+2- Marjaninejad A, Urbina-Meléndez D,Valero-Cuevas FJ, Simple Kinematic Feedback Enhances Autonomous Learning in Bio-Inspired Tendon-Driven Systems, 42th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2020 (preprint version available on arXiv:1907.04539) <br />
+3- Marjaninejad A, Jie T, Valero-Cuevas FJ, Autonomous Control of a Tendon-driven Robotic Limb with Elastic Elements Reveals that Added Elasticity can Enhance Learning, 42th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2020 (preprint version available on arXiv:1909.12436) <br />
+4- Hagen DA, Marjaninejad A, Valero-Cuevas FJ A Bio-Inspired Framework for Joint Angle Estimation from Non-Collocated Sensors in Tendon-driven Systems IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
 
 #### Abstracts
 1- Marjaninejad A, Urbina-Meléndez D, Cohn BA, and Valero-Cuevas FJ, Bioinspired few-shot learning in robotic systems, Society for Neuroscience (SfN) annual meeting, Chicago, 2019 <br />
