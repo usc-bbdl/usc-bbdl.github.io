@@ -67,7 +67,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<a name="alimarjaninejad"></a>
 	<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.JPG" class = "profilepicture"/><br>
 	<font size="3"><a href="https://valerolab.org/marjani/"><b>Ali Marjaninejad</b></a></font><br>
-	<font size="3">BME PhD student</font><br>
+	<font size="3">BME PhD candidate</font><br>
 	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
 	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
 	</li>
