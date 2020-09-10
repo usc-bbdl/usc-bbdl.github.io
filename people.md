@@ -102,6 +102,16 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 				<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
 				Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
 	</li>
+	
+		<li class="flex-item">
+		<a name="rominamir"></a>
+		<img src="../Photos/RominaMir.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Romina Mir</b></font><br>
+
+				<font size="3">M.Sc. Student in Biomedical Engineering</font><br>
+				<a href="mailto:rmir@usc.edu" target="_top">rmir@usc.edu</a><br>
+				Studying the role of sensory information in autonomous robotic manipulation.<br>
+	</li>
 
 </ul>
 
