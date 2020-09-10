@@ -105,7 +105,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 		<li class="flex-item">
 		<a name="rominamir"></a>
-		<img src="../Photos/RominaMir.jpg" class = "profilepicture" /><br>
+		<img src="../Photos/RominaMir2.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Romina Mir</b></font><br>
 
 				<font size="3">M.Sc. Student in Biomedical Engineering</font><br>
