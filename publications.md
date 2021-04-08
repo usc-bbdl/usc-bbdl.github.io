@@ -23,7 +23,7 @@ menu: main
 <link rel="stylesheet" type="text/css" media="screen" href="../css/styles.css" />
 <div>
 <div class="yearbuttons">
-{% for year_of_interest in (1997..2020) reversed %}
+{% for year_of_interest in (1997..2021) reversed %}
   <a class="year_button_container" href="#{{year_of_interest}}">
     <button class="year_button">{{year_of_interest}}</button>
   </a>
@@ -43,7 +43,7 @@ menu: main
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>
 <!-- make sure the max date is the current year! -->
-{% for year_of_interest in (1997..2020) reversed %}
+{% for year_of_interest in (1997..2021) reversed %}
 
   {% comment %} casting an integer to a string {% endcomment %}
   {% assign yearAsString = year_of_interest | append:"" %}
@@ -56,7 +56,7 @@ menu: main
     {% for paper in selectedEntries %}
              <div class="publication_card {{paper.Tags}}" >
              <div class="paper_author_container">
-               {{paper.Author}} <a class="article_title" href="../../{{paper.Link}}" 
+               {{paper.Author}} <a class="article_title" href="../../{{paper.Link}}"
                target="_blank"
                title="{{paper.Abstract}}">{{paper.Title}}</a> <i>{{paper.Journal}}</i>, {{paper.Year}} <br>
                  <button class="btn" data-clipboard-text="{{paper.BibTex}}">Copy BibTex</button>
