@@ -36,6 +36,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <ul class="flex-container">
 
 
+<!--
 	<li class="flex-item">
 	<a name="jasmineberry"></a>
 	<img src="../Photos/photoshoot_spring_2018/jasmineberry.JPG" class = "profilepicture"/><br>
@@ -44,7 +45,9 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<a href="mailto:jasminab@usc.edu" target="_top">jasminab@usc.edu</a><br>
 	Examining opportunities at the intersection of biomechanics and computational modeling.
 	</li>
+-->
 
+<!--
 	<li class="flex-item">
 	<a name="briancohn"></a>
 	<img src="../Photos/photoshoot_spring_2018/briancohn.JPG" class = "profilepicture"/><br>
@@ -53,7 +56,9 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
 	Using virtual reality, high dimensional analysis, and artificial intelligence to reverse engineer the hand.
 	</li>
+-->
 
+<!--
 		<li class="flex-item">
 			<a name="akiranagamori"></a>
 			<img src="../Photos/akira.JPG" class = "profilepicture"/><br>
@@ -62,6 +67,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 			<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
 			Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neuromuscular modeling.
 		</li>
+-->
 
 	<li class="flex-item">
 	<a name="alimarjaninejad"></a>
@@ -83,7 +89,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 
 
-
+<!--
 	<li class="flex-item">
 		<a name="danielhagen"></a>
 		<img src="../Photos/photoshoot_spring_2018/danielhagen.JPG" class = "profilepicture" ><br>
@@ -92,6 +98,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints.
 	</li>
+-->
 
 	<li class="flex-item">
 		<a name="dariourbina"></a>
@@ -102,8 +109,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 				<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
 				Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
 	</li>
-	
-		<li class="flex-item">
+
+	<li class="flex-item">
 		<a name="rominamir"></a>
 		<img src="../Photos/RominaMir2.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Romina Mir</b></font><br>
@@ -113,6 +120,53 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 				Studying the role of sensory information in autonomous robotic manipulation.<br>
 	</li>
 
+<!--New Lab Members. Ask for emails and bios-->
+<!--
+	<li class="flex-item">
+		<a name="angelobartsch"></a>
+		<img src="../Photos/AngeloBartsch.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Angelo Barstch</b></font><br>
+
+				<font size="3">Ph.D. Student in Biomedical Engineering</font><br> 				 <!--Student?->
+				<a href="mailto:angeloba@usc.edu" target="_top">angeloba@usc.edu</a><br>
+				<b>Placeholder Bio</b>.<br>
+	</li>
+<!--Fix->
+
+	<li class="flex-item">
+		<a name="parmitaojaghi"></a>
+		<img src="../Photos/ParmitaOjaghi.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Parmita Ojaghi</b></font><br>
+
+				<font size="3">Ph.D. Student in Computer Science</font><br>  
+				<a href="mailto:pojaghi@ucsc.edu" target="_top">pojaghi@ucsc.edu</a><br>
+				<b>Placeholder Bio</b>.<br>
+	</li>
+<!--Fix->
+
+	<li class="flex-item">
+		<a name="andrewerwin"></a>
+		<img src="../Photos/AndrewErwin.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Andrew Erwin</b></font><br>
+
+				<font size="3">Postdoctorate in Biomedical Engineering</font><br>  <!--I don't believe this is written right ->
+				<a href="mailto:placeholder@email" target="_top">placeholder@email</a><br>
+				<b>Placeholder Bio</b>.<br>
+	</li>
+<!--Fix->
+
+<li class="flex-item">
+	<a name="graceniyo"></a>
+	<img src="../Photos/GraceNiyo.jpg" class = "profilepicture" /><br>
+	<font size="3"><b>Grace Niyo</b></font><br>
+
+			<font size="3">Ph.D. in Biomedical Engineering</font><br>  <!--I don't believe this is written right ->
+			<a href="mailto:niyo@usc.edu" target="_top">niyo@usc.edu</a><br>
+			<b>Placeholder Bio</b>.<br>
+</li>
+<!--Fix->
+-->
+
 </ul>
 
 <!-- # Current Visiting Scientists -->
@@ -121,11 +175,22 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
+<b>Andrew Iwamoto</b> - M.S. Student in Aerospace and Mechanical Engineering  
+<!--
+<b>Daniel Wang</b> - M.S. Student in  <b>Placeholder</b>  
+-->
+<b>Jan Lao</b> - M.S. Student in Biomedical Engineering  
+<b>Jeahyung Choi</b> - M.S. Student in Computer Science  
+<b>Lama Almofeez</b> - M.S. Student in Biomedical Engineering  
+<b>Nathan Matharu</b> - B.S. Student in Biomedical Engineering  
 <b>Neil Koby Reid</b> - M.S. Student in Biomedical Engineering  
-<b>Hanyu She</b> - M.S. Student in Mechanical Engineering  
-<b>Tailun Liu</b> - M.S. Student in Mechanical Engineering  
-<b>Xuchen Ning </b> - M.S. Student in Mechanical Engineering  
-<b>Jiaoran Wang</b> - M.S. Student in Mechanical Engineering  
+<!--
+<b>Nick Sun</b> - B.S. Student in <b>Placeholder</b>  
+-->
+<b>Pranav Bairagi</b> - M.S. Student in Aerospace and Mechanical Engineering  
+<b>Taylor White</b> - B.S. Student in Biomedical Engineering  
+<b>Timothy Fanelle</b> - Ph.D Student in Biomedical Engineering  
+
 
 
 
@@ -154,32 +219,42 @@ Nathan Wilson—
 Jaewoon Yi—
 Marta Mora-Aguilar—
 Robert Riener—
-Maria Makarov
+Maria Makarov—
+Akira Nagamori—  <!--Below Here are Doctoral alumni post-2020-->
+Brian Cohn—
+Dan Hagen—
+Jasmine Berry
 
 # Postdoctoral Alumni
 <b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a>—Jun Yong Shin—Srideep Musuvathy—
 Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 
 # Past Masters Students
-<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a> - BME  
-<b>Maral Kasiri</b> - BME Masters Student
+<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a> - Biomedical Engineering  
+<b>Maral Kasiri</b> - Biomedical Engineering
 
 # Internship Alumni
+<b>Jiaoran Wang</b> - M.S. Student in Mechanical Engineering  
+<b>Genyu Zhang</b> - M.S. Student in Electrical and Computer Engineering  <!--Graduated in 2021 or later^^^-->  
+<b>Ashwin Sivakumar</b> - M.S. Student in Electrical and Computer Engineering  
+<b>Hanyu She</b> - M.S. Student in Mechanical Engineering   
+<b>Tailun Liu</b> - M.S. Student in Mechanical Engineering  
+<b>Xuchen Ning</b> - M.S. Student in Mechanical Engineering  <!--Do not know Graduation date for the above-->  
 <b>Sithara Kamalakkannan</b> - M.S. Student in Biomedical Engineering      
 <b>Yasmine Kahsai</b> - Roski Design Undergraduate  
-<b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering 
-<b>Mayumi Ishikawa</b> -  BME undergrad  
-<b>Brandon Miura</b> - BME undergrad  
-<b>Taylor Stroobosscher</b> - EE undergrad  
+<b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering  
+<b>Mayumi Ishikawa</b> -  BME undergraduate  
+<b>Brandon Miura</b> - BME undergraduate  
+<b>Taylor Stroobosscher</b> - EE undergraduate  
 <b>Théo Denisart</b> -  Visiting Masters Student from EPFL  
-<b>Keegan Bate</b> - BME Masters Student  
-<b>Giridhar Akila Dhakshinamoorthy</b> - CS Masters Student  
+<b>Keegan Bate</b> - M.S. Student in Biomedical Engineering  
+<b>Giridhar Akila Dhakshinamoorthy</b> - M.S. Student in Computer Science  
 <b>Taegyum Kim</b> - CS Undergraduate  
 <b>Melisa Osborne</b> - BME Undergraduate  
 <b>Priyanka Vachhani</b> - INF MS Student  
 <b>Séb Arnold</b> - CS Ph.D. in Rotation   
 <b>Rose Chiang</b> - BME  Ph.D. in Rotation  
-<b>Babak Taherian</b> - BME Masters Student  
+<b>Babak Taherian</b> - M.S. Student in Biomedical Engineering  
 <b>Catherine Leigh Raquel</b> - Stanford Human Biology Undergraduate  
 <b>Catherine Parsekian</b> - Claremont McKenna Neuroscience Undergraduate  
 <b>Jiayang Miao</b> - CS Undergraduate  
@@ -190,10 +265,10 @@ Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 <b>Cyrus Jia</b> - CS Undergraduate  
 <b>Noel Trivedi</b> - CS Undergraduate  
 <b>Elizabeth Chu</b> - CS Undergraduate   
-<b>Shaohui Quian</b> - EE Masters Student  
+<b>Shaohui Quian</b> - M.S. Student in Electrical Engineering  
 <b>Huan Zhao</b> - M.S. Student in Biomedical Engineering         
-<b>Vishweshwar Shastri</b> - BME Masters student    
+<b>Vishweshwar Shastri</b> - M.S. Student in Biomedical Engineering    
 <b>Young Jin Kim</b> - CS Undergraduate    
-<b>Chintalapudi Sarath</b> - EE Masters student  
+<b>Chintalapudi Sarath</b> - M.S. Student in Electrical Engineering  
 <b>Paris Hajili</b> - BME Undergraduate    
-<b>Niharika Singh</b> - BME Masters Student 
+<b>Niharika Singh</b> - M.S. Student in Biomedical Engineering
