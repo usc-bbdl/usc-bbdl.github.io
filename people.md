@@ -75,7 +75,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<font size="3"><a href="https://valerolab.org/marjani/"><b>Ali Marjaninejad Ph.D.</b></a></font><br>
 	<font size="3">Postdoctoral Research Associate</font><br>
 	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
+	Researching AI, Robotics, biomedical signal processing, neuroscience, and brain machine interfaces.
 	</li>
 
 
