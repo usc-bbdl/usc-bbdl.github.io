@@ -72,8 +72,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 	<a name="alimarjaninejad"></a>
 	<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.JPG" class = "profilepicture"/><br>
-	<font size="3"><a href="https://valerolab.org/marjani/"><b>Ali Marjaninejad</b></a></font><br>
-	<font size="3">BME PhD candidate</font><br>
+	<font size="3"><a href="https://valerolab.org/marjani/"><b>Ali Marjaninejad Ph.D.</b></a></font><br>
+	<font size="3">Postdoctoral Research Associate</font><br>
 	<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
 	Researching biomedical signal processing, neuroscience, and brain machine interfaces.
 	</li>
@@ -195,6 +195,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 
 # Doctoral Alumni
+Daniel Hagen
+Jasmine Berry
+Brian Cohn
+Akira Nagamori
 <a href="https://www.veritone.com">Kornelius Rácz</a>—
 Joshua Inouye—
 Marta—
