@@ -7,12 +7,6 @@ menu: main
 # Collaborative Research in Computational Neuroscience
 <img src="../img/crcns/logos_v3.png"  width="100%" /><br>
 
-# Project description:
-Machines rely primarily on prescribed algorithms for centralized closed-loop control. Animals, by contrast, rely on neural circuits distributed throughout the brain, brainstem and spinal cord. You will have a leadership position in our team to create versatile neuro-robots (robots with a nervous system) controlled by neuromorphic circuits that mimic the neuroanatomy and neural dynamics recorded in the MI/SI cortices, brainstem, and cervical spine of behaving animals.
-
--------------------------------------------
-<br>
-
 ## Principal Investigators
 
 <ul class="flex-container">
@@ -35,21 +29,27 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 
 -------------------------------------------
 <br>
-	
+
+# Project description:
+Machines rely primarily on prescribed algorithms for centralized closed-loop control. Animals, by contrast, rely on neural circuits distributed throughout the brain, brainstem and spinal cord. You will have a leadership position in our team to create versatile neuro-robots (robots with a nervous system) controlled by neuromorphic circuits that mimic the neuroanatomy and neural dynamics recorded in the MI/SI cortices, brainstem, and cervical spine of behaving animals.
+
+-------------------------------------------
+<br>
+
 ## Open post-doctoral positions
 
 <ul class="flex-container">
 	<li class="flex-item">
 	<a name="LA"></a>
-	<img src="../img/crcns/LA.jpeg" class = "profilepicture" width = 400/><br>
+	<img src="../img/crcns/LA.jpeg" class = "profilepicture"/><br>
 	<font size="3"><b>Los Angeles (USC)</b></font><br>
 	<a href="https://valerolab.org/flyers/2021_Valerolab_postdoc_flyer.pdf" target="_top">Link to the flyer</a><br>
 	</li>
 	
 	<li class="flex-item">
 	<a name="Tokyo"></a>
-	<img src="../img/crcns/Tokyo.jpg" class = "profilepicture" width = 800/><br>
-	<font size="3"><b>Tokyo. (NCNP)</b></font><br>
+	<img src="../img/crcns/Tokyo.jpg" class = "profilepicture"/><br>
+	<font size="3"><b>Tokyo (NCNP)</b></font><br>
 	<a href="https://valerolab.org/flyers/2021_Valerolab_postdoc_flyer.pdf" target="_top">Link to the flyer</a><br>
 	</li>
 </ul>
