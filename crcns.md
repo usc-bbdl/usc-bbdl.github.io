@@ -13,22 +13,6 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 -------------------------------------------
 <br>
 
-<!-- ## PostDocs
-<ul class="flex-container">
-
-	<li class="flex-item">
-		<a name="chrislaine"></a>
-		<img src="../Photos/photoshoot_spring_2018/chrislaine.JPG" class = "profilepicture"/><br>
-		<font size="3"><b>Christopher Laine</b></font><br>
-		<font size="3">Research Assistant Professor</font><br>
-		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
-		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.
-	</li>
-
-
-	</ul>
- -->
-
 ## Principal Investigators
 
 <ul class="flex-container">
@@ -49,8 +33,11 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 	</li>
 
 	
-<br>	
-# Open post-doctoral positions
+-------------------------------------------
+<br>
+	
+## Open post-doctoral positions
+
 <ul class="flex-container">
 	<li class="flex-item">
 	<a name="LA"></a>
