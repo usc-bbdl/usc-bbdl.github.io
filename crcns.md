@@ -48,8 +48,8 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 	
 	<li class="flex-item">
 	<a name="Tokyo"></a>
-	<img src="../img/crcns/Tokyo.jpg" class = "profilepicture" width = 400/><br>
-	<font size="3"><b>Tokyo (NCNP)</b></font><br>
+	<img src="../img/crcns/Tokyo.jpg" class = "profilepicture" width = 800/><br>
+	<font size="3"><b>Tokyo. (NCNP)</b></font><br>
 	<a href="https://valerolab.org/flyers/2021_Valerolab_postdoc_flyer.pdf" target="_top">Link to the flyer</a><br>
 	</li>
 </ul>
