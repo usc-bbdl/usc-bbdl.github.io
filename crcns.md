@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CRCNS U.S.-Japan
+title: CRCNS    U.S. - Japan
 permalink: /crcns/
 menu: main
 ---
