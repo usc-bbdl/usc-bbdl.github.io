@@ -10,7 +10,7 @@ menu: main
 -------------------------------------------
 <br>
 
-## Principal Investigators
+## Principal Investigators:
 
 <ul class="flex-container">
 	<li class="flex-item">
