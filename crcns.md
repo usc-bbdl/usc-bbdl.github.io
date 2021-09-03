@@ -7,6 +7,9 @@ menu: main
 # Collaborative Research in Computational Neuroscience
 <img src="../img/crcns/logos_v3.png"  width="100%" /><br>
 
+-------------------------------------------
+<br>
+
 ## Principal Investigators
 
 <ul class="flex-container">
