@@ -7,7 +7,8 @@ menu: main
 # Collaborative Research in Computational Neuroscience
 <img src="../img/crcns/logos_v2.png"  width="100%" /><br>
 <a href="https://valerolab.org/CRCNS.pdf" target="_top">Link to the flyer</a><br>
-*Description*  
+
+# Description  
 Machines rely primarily on prescribed algorithms for centralized closed-loop control. Animals, by contrast, rely on neural circuits distributed throughout the brain, brainstem and spinal cord. You will have a leadership position in our team to create versatile neuro-robots (robots with a nervous system) controlled by neuromorphic circuits that mimic the neuroanatomy and neural dynamics recorded in the MI/SI cortices, brainstem, and cervical spine of behaving animals.
 
 -------------------------------------------
