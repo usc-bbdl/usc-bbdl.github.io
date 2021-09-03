@@ -4,7 +4,7 @@ title: CRCNS
 permalink: /crcns/
 menu: main
 ---
-# Collaborative Research in Computational Neuroscience (CRCNS)
+# Collaborative Research in Computational Neuroscience ()
 <img src="../img/crcns/logos.png"  width="100%" /><br>
 <a href="https://valerolab.org/CRCNS.pdf" target="_top">Link to the flyer</a><br>
 *Description*  
@@ -29,22 +29,24 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 	</ul>
  -->
 
-## Lab Members
+## Principal Investigators
 
 <ul class="flex-container">
-
-
-<!--
 	<li class="flex-item">
-	<a name="jasmineberry"></a>
-	<img src="../Photos/photoshoot_spring_2018/jasmineberry.JPG" class = "profilepicture"/><br>
-	<font size="3"><b>Jasmine Berry</b></font><br>
-	<font size="3">CS PhD student</font><br>
-	<a href="mailto:jasminab@usc.edu" target="_top">jasminab@usc.edu</a><br>
-	Examining opportunities at the intersection of biomechanics and computational modeling.
+	<a name="FVC"></a>
+	<img src=".../img/crcns/FVC_P.jpg" class = "profilepicture"/><br>
+	<font size="3"><b>Francisco Valero-Cuevas</b></font><br>
+	<font size="3">CS Ph.D.</font><br>
+	<a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
 	</li>
--->
-
+	
+	<li class="flex-item">
+	<a name="Kazu"></a>
+	<img src=".../img/crcns/KAZU_P.jpg" class = "profilepicture"/><br>
+	<font size="3"><b>Kazuhiko Seki</b></font><br>
+	<font size="3">CS Ph.D.</font><br>
+	<a href="mailto:seki@ncnp.go.jp" target="_top">seki@ncnp.go.jp</a><br>
+	</li>
 <!--
 	<li class="flex-item">
 	<a name="briancohn"></a>
@@ -66,7 +68,7 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 			Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neuromuscular modeling.
 		</li>
 -->
-
+<!--
 	<li class="flex-item">
 	<a name="alimarjaninejad"></a>
 	<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.JPG" class = "profilepicture"/><br>
@@ -86,7 +88,7 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.
 	</li>
 
-
+-->
 <!--
 	<li class="flex-item">
 		<a name="danielhagen"></a>
@@ -97,7 +99,7 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints.
 	</li>
 -->
-
+<!--
 	<li class="flex-item">
 		<a name="dariourbina"></a>
 		<img src="../Photos/photoshoot_spring_2018/dariourbina.JPG" class = "profilepicture" /><br>
@@ -117,7 +119,7 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 				<a href="mailto:rmir@usc.edu" target="_top">rmir@usc.edu</a><br>
 				Studying the role of sensory information in autonomous robotic manipulation.<br>
 	</li>
-
+-->
 <!--New Lab Members. Ask for emails and bios-->
 <!--
 	<li class="flex-item">
