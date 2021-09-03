@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CRCNS
+title: CRCNS U.S.-Japan
 permalink: /crcns/
 menu: main
 ---
@@ -11,7 +11,6 @@ menu: main
 <br>
 
 ## Principal Investigators:
-
 <ul class="flex-container">
 	<li class="flex-item">
 	<a name="FVC"></a>
@@ -39,8 +38,7 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 -------------------------------------------
 <br>
 
-## Open post-doctoral positions
-
+## Open post-doctoral positions:
 <ul class="flex-container">
 	<li class="flex-item">
 	<a name="LA"></a>
