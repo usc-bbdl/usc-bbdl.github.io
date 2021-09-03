@@ -53,3 +53,23 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 	<a href="https://valerolab.org/flyers/2021_Valerolab_postdoc_flyer.pdf" target="_top">Link to the flyer</a><br>
 	</li>
 </ul>
+
+-------------------------------------------
+<br>
+
+## Open post-doctoral positions
+
+<div class="row">
+  <div class="column">
+    <a name="LA"></a>
+    <img src="../img/crcns/LA.jpeg" style="width:100%"/><br>
+    <font size="3"><b>Los Angeles (USC)</b></font><br>
+    <a href="https://valerolab.org/flyers/2021_Valerolab_postdoc_flyer.pdf" target="_top">Link to the flyer</a><br>
+  </div>
+  <div class="column">
+    <a name="Tokyo"></a>
+    <img src="../img/crcns/Tokyo.jpg" style="width:100%"/><br>
+    <font size="3"><b>Tokyo (NCNP)</b></font><br>
+    <a href="https://valerolab.org/flyers/2021_Valerolab_postdoc_flyer.pdf" target="_top">Link to the flyer</a><br>
+  </div>
+</div>
