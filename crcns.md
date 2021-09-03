@@ -56,7 +56,6 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 	<a name="LA"></a>
 	<img src="../img/crcns/LA.jpeg" class = "profilepicture"/><br>
 	<font size="3"><b>Los Angeles (USC)</b></font><br>
-	<font size="3">CS Ph.D.</font><br>
 	<a href="https://valerolab.org/flyers/2021_Valerolab_postdoc_flyer.pdf" target="_top">Link to the flyer</a><br>
 	</li>
 	
@@ -64,6 +63,5 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 	<a name="Tokyo"></a>
 	<img src="../img/crcns/Tokyo.jpg" class = "profilepicture"/><br>
 	<font size="3"><b>Tokyo (NCNP)</b></font><br>
-	<font size="3">CS Ph.D.</font><br>
 	<a href="https://valerolab.org/flyers/2021_Valerolab_postdoc_flyer.pdf" target="_top">Link to the flyer</a><br>
 	</li>
