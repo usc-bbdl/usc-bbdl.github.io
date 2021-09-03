@@ -1,7 +1,7 @@
 ---
 layout: page
-title: People
-permalink: /people/
+title: CRCNS
+permalink: /crcns/
 menu: main
 ---
 # PI: Francisco Valero-Cuevas Ph.D.
