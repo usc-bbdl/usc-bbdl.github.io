@@ -4,13 +4,11 @@ title: CRCNS
 permalink: /crcns/
 menu: main
 ---
-# PI: Francisco Valero-Cuevas Ph.D.
-<img src="../img/francisco.jpg"  width="100%" /><br>
-<a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
-*Francisco's Bio*  
-I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Masters Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.  <br>
-In 1991, I joined the doctoral program in the Design Division of the Mechanical Engineering Department at Stanford University. I worked with Dr. Felix Zajac developing a realistic biomechanical model of the human digits. This research, done at the Rehabilitation R & D Center in Palo Alto, focused on predicting optimal coordination patterns of finger musculature during static force production.    <br>
-After completing my doctoral degree in 1997, I joined the core faculty of the Biomechanical Engineering Division at Stanford University as a Research Associate and Lecturer. In 1999, I joined the faculty of the Sibley School of Mechanical and Aerospace Engineering at Cornell University as Assistant Professor, and was tenured in 2005. In 2007, I joined the faculty at the Department of Biomedical Engineering, and the Division of Biokinesiology & Physical Therapy at the University of Southern California as Associate Professor; where I was promoted to Full Professor in 2011. In 2013 I was elected Senior Member of the IEEE, and in 2014 to the College of Fellows of the American Institute for Medical and Biological Engineers.  
+# Collaborative Research in Computational Neuroscience (CRCNS)
+<img src="../img/crcns/logos.png"  width="100%" /><br>
+<a href="https://valerolab.org/CRCNS.pdf" target="_top">Link to the flyer</a><br>
+*Description*  
+Machines rely primarily on prescribed algorithms for centralized closed-loop control. Animals, by contrast, rely on neural circuits distributed throughout the brain, brainstem and spinal cord. You will have a leadership position in our team to create versatile neuro-robots (robots with a nervous system) controlled by neuromorphic circuits that mimic the neuroanatomy and neural dynamics recorded in the MI/SI cortices, brainstem, and cervical spine of behaving animals.
 
 -------------------------------------------
 <br>
