@@ -4,7 +4,7 @@ title: CRCNS
 permalink: /crcns/
 menu: main
 ---
-# Collaborative Research in Computational Neuroscience ()
+# Collaborative Research in Computational Neuroscience
 <img src="../img/crcns/logos.png"  width="100%" /><br>
 <a href="https://valerolab.org/CRCNS.pdf" target="_top">Link to the flyer</a><br>
 *Description*  
@@ -34,7 +34,7 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 <ul class="flex-container">
 	<li class="flex-item">
 	<a name="FVC"></a>
-	<img src=".../img/crcns/FVC_P.jpg" class = "profilepicture"/><br>
+	<img src="../img/crcns/FVC_P.jpg" class = "profilepicture"/><br>
 	<font size="3"><b>Francisco Valero-Cuevas</b></font><br>
 	<font size="3">CS Ph.D.</font><br>
 	<a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
@@ -42,7 +42,7 @@ Machines rely primarily on prescribed algorithms for centralized closed-loop con
 	
 	<li class="flex-item">
 	<a name="Kazu"></a>
-	<img src=".../img/crcns/KAZU_P.jpg" class = "profilepicture"/><br>
+	<img src="../img/crcns/KAZU_P.jpg" class = "profilepicture"/><br>
 	<font size="3"><b>Kazuhiko Seki</b></font><br>
 	<font size="3">CS Ph.D.</font><br>
 	<a href="mailto:seki@ncnp.go.jp" target="_top">seki@ncnp.go.jp</a><br>
