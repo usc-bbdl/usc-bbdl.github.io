@@ -16,7 +16,7 @@ menu: main
 	<a name="FVC"></a>
 	<img src="../img/crcns/FVC_P.jpg" class = "profilepicture"/><br>
 	<font size="3"><b>Francisco Valero-Cuevas</b></font><br>
-	<font size="3">CS Ph.D.</font><br>
+	<font size="3">Ph.D.</font><br>
 	<a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br>
 	</li>
 	
@@ -24,7 +24,7 @@ menu: main
 	<a name="Kazu"></a>
 	<img src="../img/crcns/KAZU_P.jpg" class = "profilepicture"/><br>
 	<font size="3"><b>Kazuhiko Seki</b></font><br>
-	<font size="3">CS Ph.D.</font><br>
+	<font size="3">Ph.D.</font><br>
 	<a href="mailto:seki@ncnp.go.jp" target="_top">seki@ncnp.go.jp</a><br>
 	</li>
 </ul>
