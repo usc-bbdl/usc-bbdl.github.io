@@ -112,7 +112,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="graceniyo"></a>
-		<br>
+		<img src="../Photos/placeholder.JPG" class = "profilepicture" /><br>
 		<font size="3"><b>Grace Niyo</b></font><br>
 
 				<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
@@ -121,7 +121,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="angelobartsch"></a>
-		<br>
+		<img src="../Photos/placeholder.JPG" class = "profilepicture" /><br>
 		<font size="3"><b>Angelo Bartsch Jimenez</b></font><br>
 
 				<font size="3">Ph.D. Student in Biokinesiology</font><br>
