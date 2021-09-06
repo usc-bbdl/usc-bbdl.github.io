@@ -224,8 +224,11 @@ Jasmine Berry
 Ali Marjaninejad
 
 # Postdoctoral Alumni
-<b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a>—Jun Yong Shin—Srideep Musuvathy—
-Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
+<b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a>
+Jun Yong Shin
+Srideep Musuvathy
+Chandana Paul
+<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 
 # Past Masters Students
 <a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a> - Biomedical Engineering  
