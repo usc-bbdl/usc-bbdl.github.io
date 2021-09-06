@@ -180,53 +180,48 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Daniel Wang</b> - M.S. Student in  <b>Placeholder</b>  
 -->
 <b>Jan Lao</b> - M.S. Student in Biomedical Engineering  
-<b>Jeahyung Choi</b> - M.S. Student in Computer Science  
+<b>Jaehyung Choi</b> - M.S. Student in Computer Science  
 <b>Lama Almofeez</b> - M.S. Student in Biomedical Engineering  
 <b>Nathan Matharu</b> - B.S. Student in Biomedical Engineering  
-<b>Neil Koby Reid</b> - M.S. Student in Biomedical Engineering  
-<!--
-<b>Nick Sun</b> - B.S. Student in <b>Placeholder</b>  
--->
+<b>Nick Sun</b> - B.S. Student in Electrical Engineering  
 <b>Taylor White</b> - B.S. Student in Biomedical Engineering  
-<b>Timothy Fanelle</b> - Ph.D Student in Biomedical Engineering  
+<b>Timothy Fanelle</b> - Ph.D Student in Biomedical Engineering 
+<b>Yifan Xue</b> - M.S. Student in Product Development Engineering
 
 
 
 
 # Doctoral Alumni
-Daniel Hagen
-Jasmine Berry
+<a href="https://www.veritone.com">Kornelius Rácz</a>
+Joshua Inouye
+Marta
+Melissa Sajnani
+Sudarshan Dayanidhi
+Emily Lawrence
+Alexander Reyes
+Na-hyeon (Hannah) Ko
+Evangelos Theodorou
+Jason Kutch
+Madhusudhan Venkadesan
+Veronica Santos
+Brendan Holt
+Kevin Keenan
+Rob Clewley
+Jonathan Pearlman
+Laurel Kuxhaus
+Manish Kurse
+Sudarshan Dayanidhi
+Vic Anand
+Nathan Wilson
+Jaewoon Yi
+Marta Mora-Aguilar
+Robert Riener
+Maria Makarov
+Akira Nagamori  <!--Below Here are Doctoral alumni post-2020-->
 Brian Cohn
-Akira Nagamori
-<a href="https://www.veritone.com">Kornelius Rácz</a>—
-Joshua Inouye—
-Marta—
-Melissa Sajnani—
-Sudarshan Dayanidhi—
-Emily Lawrence—
-Alexander Reyes—
-Na-hyeon (Hannah) Ko—
-Evangelos Theodorou—
-Jason Kutch—
-Madhusudhan Venkadesan—
-Veronica Santos—
-Brendan Holt—
-Kevin Keenan—
-Rob Clewley—
-Jonathan Pearlman—
-Laurel Kuxhaus—
-Manish Kurse—
-Sudarshan Dayanidhi—
-Vic Anand—
-Nathan Wilson—
-Jaewoon Yi—
-Marta Mora-Aguilar—
-Robert Riener—
-Maria Makarov—
-Akira Nagamori—  <!--Below Here are Doctoral alumni post-2020-->
-Brian Cohn—
-Dan Hagen—
+Dan Hagen
 Jasmine Berry
+Ali Marjaninejad
 
 # Postdoctoral Alumni
 <b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a>—Jun Yong Shin—Srideep Musuvathy—
@@ -237,6 +232,7 @@ Chandana Paul—<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
 <b>Maral Kasiri</b> - Biomedical Engineering
 
 # Internship Alumni
+<b>Neil Koby Reid</b> - M.S. Student in Biomedical Engineering  
 <b>Jiaoran Wang</b> - M.S. Student in Mechanical Engineering  
 <b>Genyu Zhang</b> - M.S. Student in Electrical and Computer Engineering  <!--Graduated in 2021 or later^^^-->  
 <b>Ashwin Sivakumar</b> - M.S. Student in Electrical and Computer Engineering  
