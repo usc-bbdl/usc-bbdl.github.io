@@ -185,7 +185,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Nathan Matharu</b> - B.S. Student in Biomedical Engineering  
 <b>Nick Sun</b> - B.S. Student in Electrical Engineering  
 <b>Taylor White</b> - B.S. Student in Biomedical Engineering  
-<b>Timothy Fanelle</b> - Ph.D. Student in Biomedical Engineering<br/>
+<b>Timothy Fanelle</b> - Ph.D. Student in Biomedical Engineering<br/>  
 <b>Yifan Xue</b> - M.S. Student in Product Development Engineering
 
 
@@ -193,42 +193,42 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 # Doctoral Alumni
 <a href="https://www.veritone.com">Kornelius Rácz</a>
-Joshua Inouye
-Marta
-Melissa Sajnani
-Sudarshan Dayanidhi
-Emily Lawrence
-Alexander Reyes
-Na-hyeon (Hannah) Ko
-Evangelos Theodorou
-Jason Kutch
-Madhusudhan Venkadesan
-Veronica Santos
-Brendan Holt
-Kevin Keenan
-Rob Clewley
-Jonathan Pearlman
-Laurel Kuxhaus
-Manish Kurse
-Sudarshan Dayanidhi
-Vic Anand
-Nathan Wilson
-Jaewoon Yi
-Marta Mora-Aguilar
-Robert Riener
-Maria Makarov
-Akira Nagamori  <!--Below Here are Doctoral alumni post-2020-->
-Brian Cohn
-Dan Hagen
-Jasmine Berry
+Joshua Inouye   
+Marta   
+Melissa Sajnani   
+Sudarshan Dayanidhi   
+Emily Lawrence   
+Alexander Reyes   
+Na-hyeon (Hannah) Ko   
+Evangelos Theodorou   
+Jason Kutch   
+Madhusudhan Venkadesan   
+Veronica Santos   
+Brendan Holt   
+Kevin Keenan   
+Rob Clewley   
+Jonathan Pearlman   
+Laurel Kuxhaus  
+Manish Kurse  
+Sudarshan Dayanidhi  
+Vic Anand  
+Nathan Wilson  
+Jaewoon Yi  
+Marta Mora-Aguilar  
+Robert Riener  
+Maria Makarov  
+Akira Nagamori  <!--Below Here are Doctoral alumni post-2020-->  
+Brian Cohn  
+Dan Hagen  
+Jasmine Berry  
 Ali Marjaninejad
 
 # Postdoctoral Alumni
-<b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a>
-Jun Yong Shin
-Srideep Musuvathy
-Chandana Paul
-<a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>
+<b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a></b>  
+<b>Jun Yong Shin</b>  
+<b>Srideep Musuvathy</b>  
+<b>Chandana Paul</b>  
+<b><a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>  
 
 # Past Masters Students
 <a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a> - Biomedical Engineering  
