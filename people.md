@@ -185,7 +185,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Nathan Matharu</b> - B.S. Student in Biomedical Engineering  
 <b>Nick Sun</b> - B.S. Student in Electrical Engineering  
 <b>Taylor White</b> - B.S. Student in Biomedical Engineering  
-<b>Timothy Fanelle</b> - Ph.D Student in Biomedical Engineering 
+<b>Timothy Fanelle</b> - Ph.D. Student in Biomedical Engineering 
 <b>Yifan Xue</b> - M.S. Student in Product Development Engineering
 
 
