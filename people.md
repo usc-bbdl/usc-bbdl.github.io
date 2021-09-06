@@ -109,6 +109,24 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 				<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
 				Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
 	</li>
+	
+	<li class="flex-item">
+		<a name="graceniyo"></a>
+		<br>
+		<font size="3"><b>Grace Niyo</b></font><br>
+
+				<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
+				<a href="mailto:niyo@usc.edu" target="_top">niyo@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="angelobartsch"></a>
+		<br>
+		<font size="3"><b>Angelo Bartsch Jimenez</b></font><br>
+
+				<font size="3">Ph.D. Student in Biokinesiology</font><br>
+				<a href="mailto:angeloba@usc.edu" target="_top">angeloba@usc.edu</a><br>
+	</li>
 
 	<li class="flex-item">
 		<a name="rominamir"></a>
@@ -192,7 +210,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 
 # Doctoral Alumni
-<a href="https://www.veritone.com">Kornelius Rácz</a></b>  
+<b><a href="https://www.veritone.com">Kornelius Rácz</a></b>  
 <b>Joshua Inouye</b>   
 <b>Marta</b>   
 <b>Melissa Sajnani</b>   
