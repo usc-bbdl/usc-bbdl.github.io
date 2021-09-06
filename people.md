@@ -185,43 +185,43 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Nathan Matharu</b> - B.S. Student in Biomedical Engineering  
 <b>Nick Sun</b> - B.S. Student in Electrical Engineering  
 <b>Taylor White</b> - B.S. Student in Biomedical Engineering  
-<b>Timothy Fanelle</b> - Ph.D. Student in Biomedical Engineering<br/>  
+<b>Timothy Fanelle</b> - Ph.D. Student in Biomedical Engineering  
 <b>Yifan Xue</b> - M.S. Student in Product Development Engineering
 
 
 
 
 # Doctoral Alumni
-<a href="https://www.veritone.com">Kornelius Rácz</a>
-Joshua Inouye   
-Marta   
-Melissa Sajnani   
-Sudarshan Dayanidhi   
-Emily Lawrence   
-Alexander Reyes   
-Na-hyeon (Hannah) Ko   
-Evangelos Theodorou   
-Jason Kutch   
-Madhusudhan Venkadesan   
-Veronica Santos   
-Brendan Holt   
-Kevin Keenan   
-Rob Clewley   
-Jonathan Pearlman   
-Laurel Kuxhaus  
-Manish Kurse  
-Sudarshan Dayanidhi  
-Vic Anand  
-Nathan Wilson  
-Jaewoon Yi  
-Marta Mora-Aguilar  
-Robert Riener  
-Maria Makarov  
-Akira Nagamori  <!--Below Here are Doctoral alumni post-2020-->  
-Brian Cohn  
-Dan Hagen  
-Jasmine Berry  
-Ali Marjaninejad
+<a href="https://www.veritone.com">Kornelius Rácz</a></b>  
+<b>Joshua Inouye</b>   
+<b>Marta</b>   
+<b>Melissa Sajnani</b>   
+<b>Sudarshan Dayanidhi</b>   
+<b>Emily Lawrence</b>   
+<b>Alexander Reyes</b>   
+<b>Na-hyeon (Hannah) Ko</b>   
+<b>Evangelos Theodorou</b>   
+<b>Jason Kutch</b>   
+<b>Madhusudhan Venkadesan</b>   
+<b>Veronica Santos</b>   
+<b>Brendan Holt</b>   
+<b>Kevin Keenan</b>   
+<b>Rob Clewley</b>   
+<b>Jonathan Pearlman</b>   
+<b>Laurel Kuxhaus</b>  
+<b>Manish Kurse</b>  
+<b>Sudarshan Dayanidhi</b>  
+<b>Vic Anand</b>  
+<b>Nathan Wilson</b>  
+<b>Jaewoon Yi</b>  
+<b>Marta Mora-Aguilar</b>  
+<b>Robert Riener</b>  
+<b>Maria Makarov</b>  
+<b>Akira Nagamori</b>  <!--Below Here are Doctoral alumni post-2020-->  
+<b>Brian Cohn</b>  
+<b>Dan Hagen</b>  
+<b>Jasmine Berry</b>  
+<b>Ali Marjaninejad</b>
 
 # Postdoctoral Alumni
 <b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a></b>  
