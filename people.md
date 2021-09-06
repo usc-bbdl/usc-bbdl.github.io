@@ -187,7 +187,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <!--
 <b>Nick Sun</b> - B.S. Student in <b>Placeholder</b>  
 -->
-<b>Pranav Bairagi</b> - M.S. Student in Aerospace and Mechanical Engineering  
 <b>Taylor White</b> - B.S. Student in Biomedical Engineering  
 <b>Timothy Fanelle</b> - Ph.D Student in Biomedical Engineering  
 
