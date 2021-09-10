@@ -124,8 +124,9 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<img src="../Photos/grayplaceholder.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Angelo Bartsch Jimenez</b></font><br>
 
-				<font size="3">Ph.D. Student in Biokinesiology</font><br>
+				<font size="3">M.S. in Statistics, Ph.D Student in Biokinesiology</font><br>
 				<a href="mailto:angeloba@usc.edu" target="_top">angeloba@usc.edu</a><br>
+				Interested in how the brain uses somatosensory information to control the human movement.<br>
 	</li>
 
 	<li class="flex-item">
@@ -193,15 +194,18 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 # Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
+<b>Amber Helton</b> - M.S. Student in Biomedical Engineering  
 <b>Andrew Iwamoto</b> - M.S. Student in Aerospace and Mechanical Engineering  
-<!--
-<b>Daniel Wang</b> - M.S. Student in  <b>Placeholder</b>  
--->
+<b>Andrew Yock</b> - M.S. Student in Medical Device and Diagnostic Engineering  
+<b>Charles Xuefei Li</b> - M.S. Student in Biomedical Engineering  
+<b>Daniel Wang</b> - B.S. Student in Mechanical Engineering, B.S. Student in Applied and Computational Mathematics  
 <b>Jan Lao</b> - M.S. Student in Biomedical Engineering  
 <b>Jaehyung Choi</b> - M.S. Student in Computer Science  
+<b>Justin Chen</b> - M.S. Student in Computer Science (Intelligent Robotics)  
 <b>Lama Almofeez</b> - M.S. Student in Biomedical Engineering  
 <b>Nathan Matharu</b> - B.S. Student in Biomedical Engineering  
-<b>Nick Sun</b> - B.S. Student in Electrical Engineering  
+<b>Nick Mengyu Sun</b> - B.S. Student in Electrical Engineering  
+<b>Paritosh Singh</b> - M.S. Student in Computer Science (Artificial Intelligence)  
 <b>Taylor White</b> - B.S. Student in Biomedical Engineering  
 <b>Timothy Fanelle</b> - Ph.D. Student in Biomedical Engineering  
 <b>Yifan Xue</b> - M.S. Student in Product Development Engineering
@@ -246,10 +250,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jun Yong Shin</b>  
 <b>Srideep Musuvathy</b>  
 <b>Chandana Paul</b>  
-<b><a href="https://www.jalaleddini.com/">Kian Jalaleddini</a></b>  
+<b>Kian Jalaleddini</b>  
 
 # Past Masters Students
-<a href="https://sites.google.com/a/usc.edu/victor/f">Victor Esparza</a> - Biomedical Engineering  
+<a href="https://sites.google.com/a/usc.edu/victor">Victor Esparza</a> - Biomedical Engineering  
 <b>Maral Kasiri</b> - Biomedical Engineering
 
 # Internship Alumni
