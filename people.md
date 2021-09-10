@@ -150,59 +150,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:rmir@usc.edu" target="_top">rmir@usc.edu</a><br>
 		Studying the role of sensory information in autonomous robotic manipulation.<br>
 	</li>
-
-<!--New Lab Members. Ask for emails and bios-->
-<!--
-	<li class="flex-item">
-		<a name="angelobartsch"></a>
-		<img src="../Photos/AngeloBartsch.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Angelo Barstch</b></font><br>
-
-				<font size="3">Ph.D. Student in Biomedical Engineering</font><br> 				 <!--Student?->
-				<a href="mailto:angeloba@usc.edu" target="_top">angeloba@usc.edu</a><br>
-				<b>Placeholder Bio</b>.<br>
-	</li>
-<!--Fix->
-
-	<li class="flex-item">
-		<a name="parmitaojaghi"></a>
-		<img src="../Photos/ParmitaOjaghi.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Parmita Ojaghi</b></font><br>
-
-				<font size="3">Ph.D. Student in Computer Science</font><br>  
-				<a href="mailto:pojaghi@ucsc.edu" target="_top">pojaghi@ucsc.edu</a><br>
-				<b>Placeholder Bio</b>.<br>
-	</li>
-<!--Fix->
-
-	<li class="flex-item">
-		<a name="andrewerwin"></a>
-		<img src="../Photos/AndrewErwin.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Andrew Erwin</b></font><br>
-
-				<font size="3">Postdoctorate in Biomedical Engineering</font><br>  <!--I don't believe this is written right ->
-				<a href="mailto:placeholder@email" target="_top">placeholder@email</a><br>
-				<b>Placeholder Bio</b>.<br>
-	</li>
-<!--Fix->
-
-<li class="flex-item">
-	<a name="graceniyo"></a>
-	<img src="../Photos/GraceNiyo.jpg" class = "profilepicture" /><br>
-	<font size="3"><b>Grace Niyo</b></font><br>
-
-			<font size="3">Ph.D. in Biomedical Engineering</font><br>  <!--I don't believe this is written right ->
-			<a href="mailto:niyo@usc.edu" target="_top">niyo@usc.edu</a><br>
-			<b>Placeholder Bio</b>.<br>
-</li>
-<!--Fix->
--->
-
+	
 </ul>
-<!-- # Current Visiting Scientists -->
-<!-- <b>Anton Dogadov</b> - Grenoble INP-France PhD Student -->
-
-<br>
 <br>
 
 ## Current Interns
