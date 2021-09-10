@@ -121,10 +121,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="angelobartsch"></a>
-		<img src="../Photos/grayplaceholder.jpg" class = "profilepicture" /><br>
+		<img src="../Photos/AngeloBartschJimenez.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Angelo Bartsch Jimenez</b></font><br>
 
-				<font size="3">M.S. in Statistics, Ph.D Student in Biokinesiology</font><br>
+				<font size="3">M.Sc. in Statistics, Ph.D Student in Biokinesiology</font><br>
 				<a href="mailto:angeloba@usc.edu" target="_top">angeloba@usc.edu</a><br>
 				Interested in how the brain uses somatosensory information to control the human movement.<br>
 	</li>
