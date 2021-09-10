@@ -53,9 +53,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 
 </ul>
-  
-    
-    
 
 ## Lab Members
 
@@ -175,7 +172,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 
 
-# Doctoral Alumni
+## Doctoral Alumni
 <b><a href="https://www.veritone.com">Kornelius Rácz</a></b>  
 <b>Joshua Inouye</b>   
 <b>Marta</b>   
@@ -207,18 +204,18 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jasmine Berry</b>  
 <b>Ali Marjaninejad</b>
 
-# Postdoctoral Alumni
+## Postdoctoral Alumni
 <b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a></b>  
 <b>Jun Yong Shin</b>  
 <b>Srideep Musuvathy</b>  
 <b>Chandana Paul</b>  
 <b>Kian Jalaleddini</b>  
 
-# Past Masters Students
+## Past Masters Students
 <a href="https://sites.google.com/a/usc.edu/victor">Victor Esparza</a> - Biomedical Engineering  
 <b>Maral Kasiri</b> - Biomedical Engineering
 
-# Internship Alumni
+## Internship Alumni
 <b>Neil Koby Reid</b> - M.S. Student in Biomedical Engineering  
 <b>Jiaoran Wang</b> - M.S. Student in Mechanical Engineering  
 <b>Genyu Zhang</b> - M.S. Student in Electrical and Computer Engineering  <!--Graduated in 2021 or later^^^-->  
