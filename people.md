@@ -199,12 +199,13 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 -->
 
 </ul>
-
 <!-- # Current Visiting Scientists -->
 <!-- <b>Anton Dogadov</b> - Grenoble INP-France PhD Student -->
 
+<br>
+<br>
 
-# Current Interns
+## Current Interns
 <a href="../work/"> Information for Prospective Interns</a>  
 <b>Amber Helton</b> - M.S. Student in Biomedical Engineering  
 <b>Andrew Iwamoto</b> - M.S. Student in Aerospace and Mechanical Engineering  
