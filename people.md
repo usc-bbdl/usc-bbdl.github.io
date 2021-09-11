@@ -135,7 +135,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="angelobartsch"></a>
 		<img src="../Photos/AngeloBartschJimenez.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Angelo Bartsch Jimenez</b></font><br>
-		<font size="3">M.Sc. in Statistics, Ph.D Student in Biokinesiology</font><br>
+		<font size="3">Ph.D. Student in Biokinesiology</font><br>
+		<font size="3">M.Sc. in Statistics</font><br>
 		<a href="mailto:angeloba@usc.edu" target="_top">angeloba@usc.edu</a><br>
 		Interested in how the brain uses somatosensory information to control the human movement.<br>
 	</li>
@@ -153,7 +154,32 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Current Interns
-<a href="../work/"> Information for Prospective Interns</a>  
+<a href="../work/"> Information for Prospective Interns</a>
+
+<ul class="flex-container">
+	
+	<li class="flex-item">
+		<a name="jaehyungchoi"></a>
+		<img src="../Photos/jaehyungchoi.jpeg" class = "profilepicture"/><br>
+		<font size="3"><b>Jaehyung Choi</b></a></font><br>
+		<font size="3">B.S. Student in Quantitative Biology</font><br>
+		<font size="3">M.S. Student in Computer Science</font><br>
+		<a href="mailto:jaehyunc@usc.edu" target="_top">jaehyunc@usc.edu</a><br>
+		Building a messaging pathway between robotic systems and machine learning algorithms.<br>
+	</li>
+
+	<li class="flex-item">
+		<a name="taylorwhite"></a>
+		<img src="../Photos/taylorwhite.jpeg" class = "profilepicture"/><br>
+		<font size="3"><b>Taylor White</b></a></font><br>
+		<font size="3">B.S. Student in Biomedical Engineering</font><br>
+		<font size="3">M.S. Student in Medical Device Diagnostics and Engineering</font><br>
+		<a href="mailto:taylorwh@usc.edu" target="_top">taylorwh@usc.edu</a><br>
+		Interested in enhanced ACL recovery and rehabilitation practices.<br>
+	</li>
+
+</ul>
+
 <b>Amber Helton</b> - M.S. Student in Biomedical Engineering  
 <b>Andrew Iwamoto</b> - M.S. Student in Aerospace and Mechanical Engineering  
 <b>Andrew Yock</b> - M.S. Student in Medical Device and Diagnostic Engineering  
