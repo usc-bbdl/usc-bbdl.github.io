@@ -35,11 +35,11 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="andrewerwin"></a>
-		<img src="../Photos/grayplaceholder.jpg" class = "profilepicture"/><br>
+		<img src="../Photos/andrewerwin.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Andrew Erwin Ph.D.</b></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:erwina@usc.edu" target="_top">erwina@usc.edu</a><br>
-		
+		Investigating the contributions of corticospinal and reticulospinal tracts to motor impairment and recovery after stroke.<br>
 	</li>
 	
 	<li class="flex-item">
@@ -48,7 +48,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><a href="https://valerolab.org/marjani/"><b>Ali Marjaninejad Ph.D.</b></a></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-		Researching AI, Robotics, biomedical signal processing, neuroscience, and brain machine interfaces.
+		Researching AI, Robotics, biomedical signal processing, neuroscience, and brain machine interfaces.<br>
 	</li>
 
 
@@ -124,7 +124,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="graceniyo"></a>
-		<img src="../Photos/grayplaceholder.jpg" class = "profilepicture" /><br>
+		<img src="../Photos/defaultphoto.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Grace Niyo</b></font><br>
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<a href="mailto:niyo@usc.edu" target="_top">niyo@usc.edu</a><br>
