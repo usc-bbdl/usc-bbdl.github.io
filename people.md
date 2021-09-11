@@ -188,23 +188,95 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 </ul>
 
-<b>Amber Helton</b> - M.S. Student in Biomedical Engineering  
-<b>Andrew Iwamoto</b> - M.S. Student in Aerospace and Mechanical Engineering  
-<b>Andrew Yock</b> - M.S. Student in Medical Device and Diagnostic Engineering  
-<b>Charles Xuefei Li</b> - M.S. Student in Biomedical Engineering  
-<b>Daniel Wang</b> - B.S. Student in Mechanical Engineering, B.S. Student in Applied and Computational Mathematics  
-<b>Jan Lao</b> - M.S. Student in Biomedical Engineering  
-<b>Jaehyung Choi</b> - M.S. Student in Computer Science  
-<b>Justin Chen</b> - M.S. Student in Computer Science (Intelligent Robotics)  
-<b>Lama Almofeez</b> - M.S. Student in Biomedical Engineering  
-<b>Nathan Matharu</b> - B.S. Student in Biomedical Engineering  
-<b>Nick Mengyu Sun</b> - B.S. Student in Electrical Engineering  
-<b>Paritosh Singh</b> - M.S. Student in Computer Science (Artificial Intelligence)  
-<b>Taylor White</b> - B.S. Student in Biomedical Engineering  
-<b>Yifan Xue</b> - M.S. Student in Product Development Engineering
+<ul class="flex-container">
+	
+	<li class="flex-item">
+		<a name="amberhelton"></a>
+		<font size="3"><b>Amber Helton</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:ahelton@usc.edu" target="_top">ahelton@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="andrewiwamoto"></a>
+		<font size="3"><b>Andrew Iwamoto</b></font><br>
+		<font size="3">M.S. Student in Aerospace and Mechanical Engineering</font><br>
+		<a href="mailto:aiwamoto@usc.edu" target="_top">aiwamoto@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="andrewyock"></a>
+		<font size="3"><b>Andrew Yock</b></font><br>
+		<font size="3">M.S. Student in Medical Device and Diagnostic Engineering</font><br>
+		<a href="mailto:yock@usc.edu" target="_top">yock@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="charlexli"></a>
+		<font size="3"><b>Charles Xuefei Li</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:xuefeil@usc.edu" target="_top">xuefeil@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="danielwang"></a>
+		<font size="3"><b>Daniel Wang</b></font><br>
+		<font size="3">B.S. Student in Mechanical Engineering</font><br>
+		<font size="3">B.S. Student in Applied and Computational Mathematics</font><br>
+		<a href="mailto:danielzw@usc.edu" target="_top">danielzw@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="janlao"></a>
+		<font size="3"><b>Jan Lao</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:jelao@usc.edu" target="_top">jelao@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="justinchen"></a>
+		<font size="3"><b>Justin Chen</b></font><br>
+		<font size="3">M.S. Student in Computer Science (Intelligent Robotics)</font><br>
+		<a href="mailto:jrchen@usc.edu" target="_top">jrchen@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="lamaalmofeez"></a>
+		<font size="3"><b>Lama Almofeez</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:lalmofee@usc.edu" target="_top">lalmofee@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="nathanmatharu"></a>
+		<font size="3"><b>Nathan Matharu</b></font><br>
+		<font size="3">B.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:nmatharu@usc.edu" target="_top">nmatharu@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="nicksun"></a>
+		<font size="3"><b>Nick Mengyu Sun</b></font><br>
+		<font size="3">B.S. Student in Electrical Engineering</font><br>
+		<a href="mailto:mengyusu@usc.edu" target="_top">mengyusu@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="paritoshsingh"></a>
+		<font size="3"><b>Paritosh Singh</b></font><br>
+		<font size="3">M.S. Student in Computer Science (Artificial Intelligence)</font><br>
+		<a href="mailto:paritosh@usc.edu" target="_top">paritosh@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="yifanxue"></a>
+		<font size="3"><b>Yifan Xue</b></font><br>
+		<font size="3">M.S. Student in Product Development Engineering</font><br>
+		<a href="mailto:yifanxue@usc.edu" target="_top">yifanxue@usc.edu</a><br>
+	</li>
 
-
-
+</ul>
+<br>
 
 ## Doctoral Alumni
 <b><a href="https://www.veritone.com">Kornelius Rácz</a></b>  
