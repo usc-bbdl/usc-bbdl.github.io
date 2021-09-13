@@ -15,21 +15,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 -------------------------------------------
 <br>
 
-<!-- ## PostDocs
-<ul class="flex-container">
-
-	<li class="flex-item">
-		<a name="chrislaine"></a>
-		<img src="../Photos/photoshoot_spring_2018/chrislaine.JPG" class = "profilepicture"/><br>
-		<font size="3"><b>Christopher Laine</b></font><br>
-		<font size="3">Research Assistant Professor</font><br>
-		<a href="mailto:claine@usc.edu" target="_top">claine@usc.edu</a><br>
-		Understanding the neurophysiology of human movement by measuring and characterizing neuromuscular control signals and coordination strategies in health and disease.
-	</li>
-
-
-	</ul>
- -->
 ## PostDocs
 <ul class="flex-container">
 
@@ -59,40 +44,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 <ul class="flex-container">
 
-
-<!--
-	<li class="flex-item">
-	<a name="jasmineberry"></a>
-	<img src="../Photos/photoshoot_spring_2018/jasmineberry.JPG" class = "profilepicture"/><br>
-	<font size="3"><b>Jasmine Berry</b></font><br>
-	<font size="3">CS PhD student</font><br>
-	<a href="mailto:jasminab@usc.edu" target="_top">jasminab@usc.edu</a><br>
-	Examining opportunities at the intersection of biomechanics and computational modeling.
-	</li>
--->
-
-<!--
-	<li class="flex-item">
-	<a name="briancohn"></a>
-	<img src="../Photos/photoshoot_spring_2018/briancohn.JPG" class = "profilepicture"/><br>
-	<font size="3"><b><a href="https://briancohn.com/">Brian Cohn</a></b></font><br>
-	<font size="3">CS PhD Student</font><br>
-	<a href="mailto:brian.cohn@usc.edu" target="_top">brian.cohn@usc.edu</a><br>
-	Using virtual reality, high dimensional analysis, and artificial intelligence to reverse engineer the hand.
-	</li>
--->
-
-<!--
-		<li class="flex-item">
-			<a name="akiranagamori"></a>
-			<img src="../Photos/akira.JPG" class = "profilepicture"/><br>
-			<font size="3"><b>Akira Nagamori</b></font><br>
-			<font size="3">BKN PhD Candidate</font><br>
-			<a href="mailto:nagamori@usc.edu" target="_top">nagamori@usc.edu</a><br>
-			Understanding voluntary feedback control of goal-directed actions through sensorimotor integration using analysis of motor performance, reflex testing and neuromuscular modeling.
-		</li>
--->
-
 	<li class="flex-item">
 		<a name="surajchakravarthi"></a>
 		<img src="../Photos/photoshoot_spring_2018/surajchakravarthi.JPG" class = "profilepicture" ><br>
@@ -101,18 +52,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
 		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.
 	</li>
-
-
-<!--
-	<li class="flex-item">
-		<a name="danielhagen"></a>
-		<img src="../Photos/photoshoot_spring_2018/danielhagen.JPG" class = "profilepicture" ><br>
-		<font size="3"><b>Daniel Hagen</b></font><br>
-		<font size="3">BME PhD student</font><br>
-		<a href="mailto:dhagen@usc.edu" target="_top">dhagen@usc.edu</a><br>
-		Understanding the limb mechanics of routine motions and how the nervous system accomplishes these tasks under spatial and temporal constraints.
-	</li>
--->
 
 	<li class="flex-item">
 		<a name="dariourbina"></a>
@@ -174,6 +113,15 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Computer Science</font><br>
 		<a href="mailto:jaehyunc@usc.edu" target="_top">jaehyunc@usc.edu</a><br>
 		Building a messaging pathway between robotic systems and machine learning algorithms.<br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="nicksun"></a>
+		<img src="../Photos/NickSun.jpg" class = "profilepicture"/><br>
+		<font size="3"><b>Nick Mengyu Sun</b></font><br>
+		<font size="3">B.S. Student in Electrical Engineering</font><br>
+		<a href="mailto:mengyusu@usc.edu" target="_top">mengyusu@usc.edu</a><br>
+		Interested in mixed-signal integrated circuits and VLSI design.<br>
 	</li>
 
 	<li class="flex-item">
@@ -252,13 +200,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Nathan Matharu</b></font><br>
 		<font size="3">B.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:nmatharu@usc.edu" target="_top">nmatharu@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="nicksun"></a>
-		<font size="3"><b>Nick Mengyu Sun</b></font><br>
-		<font size="3">B.S. Student in Electrical Engineering</font><br>
-		<a href="mailto:mengyusu@usc.edu" target="_top">mengyusu@usc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
