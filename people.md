@@ -39,7 +39,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 </ul>
 <br>
 
-## Lab Members
+## Ph.D. Students
 
 <ul class="flex-container">
 
@@ -87,6 +87,14 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:fanelle@usc.edu" target="_top">fanelle@usc.edu</a><br>
 	</li>
 
+</ul>
+<br>
+
+## Lab Members
+<a href="../work/"> Information for Prospective Interns</a>
+
+<ul class="flex-container">
+	
 	<li class="flex-item">
 		<a name="rominamir"></a>
 		<img src="../Photos/RominaMir2.jpg" class = "profilepicture" /><br>
@@ -95,14 +103,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:rmir@usc.edu" target="_top">rmir@usc.edu</a><br>
 		Studying the role of sensory information in autonomous robotic manipulation.<br>
 	</li>
-	
-</ul>
-<br>
-
-## Current Interns
-<a href="../work/"> Information for Prospective Interns</a>
-
-<ul class="flex-container">
 	
 	<li class="flex-item">
 		<a name="danielwang"></a>
@@ -152,6 +152,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 
 </ul>
+
+<br>
 
 <ul class="flex-container">
 	
