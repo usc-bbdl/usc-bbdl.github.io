@@ -108,7 +108,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="danielwang"></a>
 		<img src="../Photos/danielwang.png" class = "profilepicture"/><br>
 		<font size="3"><b>Daniel Wang</b></font><br>
-		<font size="3">B.S Student in Mechanical Engineering and Applied & Computational Mathematics</font><br>
+		<font size="3">B.S. Student in Mechanical Engineering and Applied & Computational Mathematics</font><br>
 		<a href="mailto:danielzw@usc.edu" target="_top">danielzw@usc.edu</a><br>
 		Developing complex mechanical systems.<br>
 	</li>
