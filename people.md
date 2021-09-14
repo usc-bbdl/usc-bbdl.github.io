@@ -17,15 +17,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 ## PostDocs
 <ul class="flex-container">
-
-	<li class="flex-item">
-		<a name="andrewerwin"></a>
-		<img src="../Photos/andrewerwin.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Andrew Erwin Ph.D.</b></font><br>
-		<font size="3">Postdoctoral Research Associate</font><br>
-		<a href="mailto:erwina@usc.edu" target="_top">erwina@usc.edu</a><br>
-		Investigating the contributions of corticospinal and reticulospinal tracts to motor impairment and recovery after stroke.<br>
-	</li>
 	
 	<li class="flex-item">
 		<a name="alimarjaninejad"></a>
@@ -36,6 +27,14 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Researching AI, Robotics, biomedical signal processing, neuroscience, and brain machine interfaces.<br>
 	</li>
 
+	<li class="flex-item">
+		<a name="andrewerwin"></a>
+		<img src="../Photos/andrewerwin.jpg" class = "profilepicture"/><br>
+		<font size="3"><b>Andrew Erwin Ph.D.</b></font><br>
+		<font size="3">Postdoctoral Research Associate</font><br>
+		<a href="mailto:erwina@usc.edu" target="_top">erwina@usc.edu</a><br>
+		Investigating the contributions of corticospinal and reticulospinal tracts to motor impairment and recovery after stroke.<br>
+	</li>
 
 </ul>
 <br>
@@ -106,6 +105,25 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <ul class="flex-container">
 	
 	<li class="flex-item">
+		<a name="danielwang"></a>
+		<img src="../Photos/danielwang.png" class = "profilepicture"/><br>
+		<font size="3"><b>Daniel Wang</b></font><br>
+		<font size="3">B.S Student in Mechanical Engineering and Applied & Computational Mathematics</font><br>
+		<a href="mailto:danielzw@usc.edu" target="_top">danielzw@usc.edu</a><br>
+		Developing complex mechanical systems.<br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="taylorwhite"></a>
+		<img src="../Photos/taylorwhite.jpeg" class = "profilepicture"/><br>
+		<font size="3"><b>Taylor White</b></font><br>
+		<font size="3">B.S. Student in Biomedical Engineering</font><br>
+		<font size="3">M.S. Student in Medical Device Diagnostics and Engineering</font><br>
+		<a href="mailto:taylorwh@usc.edu" target="_top">taylorwh@usc.edu</a><br>
+		Interested in enhanced ACL recovery and rehabilitation practices.<br>
+	</li>
+	
+	<li class="flex-item">
 		<a name="jaehyungchoi"></a>
 		<img src="../Photos/jaehyungchoi.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>Jaehyung Choi</b></font><br>
@@ -123,15 +141,14 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:mengyusu@usc.edu" target="_top">mengyusu@usc.edu</a><br>
 		Interested in mixed-signal integrated circuits and VLSI design.<br>
 	</li>
-
+	
 	<li class="flex-item">
-		<a name="taylorwhite"></a>
-		<img src="../Photos/taylorwhite.jpeg" class = "profilepicture"/><br>
-		<font size="3"><b>Taylor White</b></font><br>
-		<font size="3">B.S. Student in Biomedical Engineering</font><br>
-		<font size="3">M.S. Student in Medical Device Diagnostics and Engineering</font><br>
-		<a href="mailto:taylorwh@usc.edu" target="_top">taylorwh@usc.edu</a><br>
-		Interested in enhanced ACL recovery and rehabilitation practices.<br>
+		<a name="paritoshsingh"></a>
+		<img src="../Photos/paritoshsingh.jpeg" class = "profilepicture"/><br>
+		<font size="3"><b>Paritosh Singh</b></font><br>
+		<font size="3">M.S. Student in Computer Science (Artificial Intelligence)</font><br>
+		<a href="mailto:paritosh@usc.edu" target="_top">paritosh@usc.edu</a><br>
+		Interested in leveraging Artificial Intelligence for social good.<br>
 	</li>
 
 </ul>
@@ -139,39 +156,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <ul class="flex-container">
 	
 	<li class="flex-item">
-		<a name="amberhelton"></a>
-		<font size="3"><b>Amber Helton</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:ahelton@usc.edu" target="_top">ahelton@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="andrewiwamoto"></a>
-		<font size="3"><b>Andrew Iwamoto</b></font><br>
-		<font size="3">M.S. Student in Aerospace and Mechanical Engineering</font><br>
-		<a href="mailto:aiwamoto@usc.edu" target="_top">aiwamoto@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="andrewyock"></a>
-		<font size="3"><b>Andrew Yock</b></font><br>
-		<font size="3">M.S. Student in Medical Device and Diagnostic Engineering</font><br>
-		<a href="mailto:yock@usc.edu" target="_top">yock@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="charlexli"></a>
-		<font size="3"><b>Charles Xuefei Li</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:xuefeil@usc.edu" target="_top">xuefeil@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="danielwang"></a>
-		<font size="3"><b>Daniel Wang</b></font><br>
-		<font size="3">B.S. Student in Mechanical Engineering</font><br>
-		<font size="3">B.S. Student in Applied and Computational Mathematics</font><br>
-		<a href="mailto:danielzw@usc.edu" target="_top">danielzw@usc.edu</a><br>
+		<a name="nathanmatharu"></a>
+		<font size="3"><b>Nathan Matharu</b></font><br>
+		<font size="3">B.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:nmatharu@usc.edu" target="_top">nmatharu@usc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
@@ -182,10 +170,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
-		<a name="justinchen"></a>
-		<font size="3"><b>Justin Chen</b></font><br>
-		<font size="3">M.S. Student in Computer Science (Intelligent Robotics)</font><br>
-		<a href="mailto:jrchen@usc.edu" target="_top">jrchen@usc.edu</a><br>
+		<a name="andrewiwamoto"></a>
+		<font size="3"><b>Andrew Iwamoto</b></font><br>
+		<font size="3">M.S. Student in Aerospace and Mechanical Engineering</font><br>
+		<a href="mailto:aiwamoto@usc.edu" target="_top">aiwamoto@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="yifanxue"></a>
+		<font size="3"><b>Yifan Xue</b></font><br>
+		<font size="3">M.S. Student in Product Development Engineering</font><br>
+		<a href="mailto:yifanxue@usc.edu" target="_top">yifanxue@usc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
@@ -196,24 +191,31 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
-		<a name="nathanmatharu"></a>
-		<font size="3"><b>Nathan Matharu</b></font><br>
-		<font size="3">B.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:nmatharu@usc.edu" target="_top">nmatharu@usc.edu</a><br>
+		<a name="andrewyock"></a>
+		<font size="3"><b>Andrew Yock</b></font><br>
+		<font size="3">M.S. Student in Medical Device and Diagnostic Engineering</font><br>
+		<a href="mailto:yock@usc.edu" target="_top">yock@usc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
-		<a name="paritoshsingh"></a>
-		<font size="3"><b>Paritosh Singh</b></font><br>
-		<font size="3">M.S. Student in Computer Science (Artificial Intelligence)</font><br>
-		<a href="mailto:paritosh@usc.edu" target="_top">paritosh@usc.edu</a><br>
+		<a name="justinchen"></a>
+		<font size="3"><b>Justin Chen</b></font><br>
+		<font size="3">M.S. Student in Computer Science (Intelligent Robotics)</font><br>
+		<a href="mailto:jrchen@usc.edu" target="_top">jrchen@usc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
-		<a name="yifanxue"></a>
-		<font size="3"><b>Yifan Xue</b></font><br>
-		<font size="3">M.S. Student in Product Development Engineering</font><br>
-		<a href="mailto:yifanxue@usc.edu" target="_top">yifanxue@usc.edu</a><br>
+		<a name="amberhelton"></a>
+		<font size="3"><b>Amber Helton</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:ahelton@usc.edu" target="_top">ahelton@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="charlexli"></a>
+		<font size="3"><b>Charles Xuefei Li</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:xuefeil@usc.edu" target="_top">xuefeil@usc.edu</a><br>
 	</li>
 
 </ul>
