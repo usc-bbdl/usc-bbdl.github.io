@@ -234,14 +234,12 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Doctoral Alumni
-<b><a href="https://www.veritone.com">Kornelius Rácz</a></b>  
+<b>Kornelius Rácz</a></b>  
 <b>Joshua Inouye</b>   
-<b>Marta</b>   
 <b>Melissa Sajnani</b>   
 <b>Sudarshan Dayanidhi</b>   
 <b>Emily Lawrence</b>   
 <b>Alexander Reyes</b>   
-<b>Na-hyeon (Hannah) Ko</b>   
 <b>Evangelos Theodorou</b>   
 <b>Jason Kutch</b>   
 <b>Madhusudhan Venkadesan</b>   
@@ -258,12 +256,13 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jaewoon Yi</b>  
 <b>Marta Mora-Aguilar</b>  
 <b>Robert Riener</b>  
-<b>Maria Makarov</b>  
-<b>Akira Nagamori</b>  <!--Below Here are Doctoral alumni post-2020-->  
-<b>Brian Cohn</b>  
-<b>Dan Hagen</b>  
-<b>Jasmine Berry, 2020: <a href="jasmineberry.com">Website</a> | <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a></b><br>
-<b>Ali Marjaninejad, 2021: <a href="https://valerolab.org/marjani/">Website</a> | <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a></b><br>
+<b>Maria Makarov</b><br>
+<b>Na-hyeon (Hannah) Ko: Ph.D. Biokinesiology 2016: <a href="https://chhs.fresnostate.edu/physical-therapy/faculty-staff/faculty/ko.html">Website</a> | <a href="https://www.linkedin.com/in/na-hyeon-hannah-ko-045712b2/">LinkedIn</a></b><br>
+<b>Akira Nagamori, Ph.D. Biokinesiology 2020: <a href="https://azim.salk.edu/people/">Website</a> | <a href="https://www.linkedin.com/in/akira-nagamori-39920b89/">LinkedIn</a></b><br>
+<b>Brian Cohn, Ph.D. Computer Science 2020: <a href="https://briancohn.com/">Website</a> | <a href="https://www.linkedin.com/in/brianalexandercohn/">LinkedIn</a></b><br>
+<b>Dan Hagen, Ph.D. Biomedical Engineering 2020: <a href="https://daniel8hagen.com/">Website</a> | <a href="https://www.linkedin.com/in/daniel-a-hagen/">LinkedIn</a></b><br>
+<b>Jasmine Berry, Ph.D. Computer Science 2020: <a href="jasmineberry.com">Website</a> | <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a></b><br>
+<b>Ali Marjaninejad, Ph.D. Biomedical Engineering 2021: <a href="https://valerolab.org/marjani/">Website</a> | <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a></b><br>
 
 ## Postdoctoral Alumni
 <b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a></b>  
