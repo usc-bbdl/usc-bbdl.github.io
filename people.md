@@ -263,7 +263,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Brian Cohn</b>  
 <b>Dan Hagen</b>  
 <b>Jasmine Berry</b>  
-<b>Ali Marjaninejad, 2021: <a href="https://valerolab.org/marjani/">Website</a></b>
+<b>Ali Marjaninejad, 2021: <a href="https://valerolab.org/marjani/">Website</a> | <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a></b>
 
 ## Postdoctoral Alumni
 <b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a></b>  
