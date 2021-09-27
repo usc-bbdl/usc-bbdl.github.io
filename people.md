@@ -116,7 +116,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 		<a name="danielwang"></a>
 		<img src="../Photos/danielwang.png" class = "profilepicture"/><br>
-		<font size="3"><b>Daniel Wang</b></font><br>
+		<font size="3"><a href="https://danielzw.com/"><b>Daniel Wang</b></a></font><br>
 		<font size="3">B.S. Student in Mechanical Engineering and Applied & Computational Mathematics</font><br>
 		<a href="mailto:danielzw@usc.edu" target="_top">danielzw@usc.edu</a><br>
 		Developing complex mechanical systems.<br>
@@ -145,7 +145,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 		<a name="nicksun"></a>
 		<img src="../Photos/NickSun.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Mengyu Sun</b></font><br>
+		<font size="3"><b>Nick Mengyu Sun</b></font><br>
 		<font size="3">B.S. Student in Electrical Engineering</font><br>
 		<a href="mailto:mengyusu@usc.edu" target="_top">mengyusu@usc.edu</a><br>
 		Interested in mixed-signal integrated circuits and VLSI design.<br>
@@ -158,6 +158,15 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Computer Science (Artificial Intelligence)</font><br>
 		<a href="mailto:paritosh@usc.edu" target="_top">paritosh@usc.edu</a><br>
 		Interested in leveraging Artificial Intelligence for social good.<br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="charlexli"></a>
+		<img src="../Photos/CharlesLi.JPG" class = "profilepicture"/><br>
+		<font size="3"><b>Charles Xuefei Li</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:xuefeil@usc.edu" target="_top">xuefeil@usc.edu</a><br>
+		Interested in Neuromuscular Biomechanics and Motor Learning and Control.<br>
 	</li>
 
 </ul>
@@ -221,14 +230,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:ahelton@usc.edu" target="_top">ahelton@usc.edu</a><br>
 	</li>
-	
-	<li class="flex-item">
-		<a name="charlexli"></a>
-		<font size="3"><b>Charles Xuefei Li</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:xuefeil@usc.edu" target="_top">xuefeil@usc.edu</a><br>
-	</li>
-
 </ul>
 <br>
 
@@ -262,7 +263,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Brian Cohn</b>  
 <b>Dan Hagen</b>  
 <b>Jasmine Berry</b>  
-<b>Ali Marjaninejad</b>
+<b>Ali Marjaninejad, 2021: <a href="https://valerolab.org/marjani/">Website</a></b>
 
 ## Postdoctoral Alumni
 <b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a></b>  
