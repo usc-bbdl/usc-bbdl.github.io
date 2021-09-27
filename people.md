@@ -29,7 +29,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="andrewerwin"></a>
-		<img src="../Photos/andrewerwin.jpg" class = "profilepicture"/><br>
+		<img src="../Photos/AndrewErwin2.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>Andrew Erwin Ph.D.</b></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:erwina@usc.edu" target="_top">erwina@usc.edu</a><br>
