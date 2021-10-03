@@ -4,13 +4,13 @@ title: People
 permalink: /people/
 menu: main
 ---
-# PI: Francisco Valero-Cuevas Ph.D.
+# PI: Francisco Valero-Cuevas, Ph.D.
 <img src="../Photos/FVC2.jpg"  width="50%" /><br><br>
 <a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br><br>
 *Francisco's Bio*  
-I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Masters Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.  <br>
-In 1991, I joined the doctoral program in the Design Division of the Mechanical Engineering Department at Stanford University. I worked with Dr. Felix Zajac developing a realistic biomechanical model of the human digits. This research, done at the Rehabilitation R & D Center in Palo Alto, focused on predicting optimal coordination patterns of finger musculature during static force production.    <br>
-After completing my doctoral degree in 1997, I joined the core faculty of the Biomechanical Engineering Division at Stanford University as a Research Associate and Lecturer. In 1999, I joined the faculty of the Sibley School of Mechanical and Aerospace Engineering at Cornell University as Assistant Professor, and was tenured in 2005. In 2007, I joined the faculty at the Department of Biomedical Engineering, and the Division of Biokinesiology & Physical Therapy at the University of Southern California as Associate Professor; where I was promoted to Full Professor in 2011. In 2013 I was elected Senior Member of the IEEE, and in 2014 to the College of Fellows of the American Institute for Medical and Biological Engineers.  
+I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Master's Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.<br>
+In 1991, I joined the doctoral program in the Design Division of the Mechanical Engineering Department at Stanford University. I worked with Dr. Felix Zajac developing a realistic biomechanical model of the human digits. This research, done at the Rehabilitation R & D Center in Palo Alto, focused on predicting optimal coordination patterns of finger musculature during static force production.<br>
+After completing my doctoral degree in 1997, I joined the core faculty of the Biomechanical Engineering Division at Stanford University as a Research Associate and Lecturer. In 1999, I joined the faculty of the Sibley School of Mechanical and Aerospace Engineering at Cornell University as Assistant Professor, and was tenured in 2005. In 2007, I joined the faculty at the Department of Biomedical Engineering, and the Division of Biokinesiology & Physical Therapy at the University of Southern California as Associate Professor; where I was promoted to Full Professor in 2011. In 2013 I was elected Senior Member of the IEEE, and in 2014 to the College of Fellows of the American Institute for Medical and Biological Engineers. In 2018, I was awarded an Honorary Doctorate in Biology from Swarthmore College.<br>
 
 -------------------------------------------
 <br>
@@ -21,7 +21,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 		<a name="alimarjaninejad"></a>
 		<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.JPG" class = "profilepicture"/><br>
-		<font size="3"><a href="https://valerolab.org/marjani/"><b>Ali Marjaninejad Ph.D.</b></a></font><br>
+		<font size="3"><a href="https://valerolab.org/marjani/"><b>Ali Marjaninejad, Ph.D.</b></a></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
 		Researching AI, Robotics, biomedical signal processing, neuroscience, and brain machine interfaces.<br>
@@ -30,7 +30,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 		<a name="andrewerwin"></a>
 		<img src="../Photos/AndrewErwin2.jpeg" class = "profilepicture"/><br>
-		<font size="3"><b>Andrew Erwin Ph.D.</b></font><br>
+		<font size="3"><b>Andrew Erwin, Ph.D.</b></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:erwina@usc.edu" target="_top">erwina@usc.edu</a><br>
 		Investigating the contributions of corticospinal and reticulospinal tracts to motor impairment and recovery after stroke.<br>
