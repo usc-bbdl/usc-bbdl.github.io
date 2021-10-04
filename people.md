@@ -233,30 +233,19 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 </ul>
 <br>
 
-## Doctoral Alumni
-<b>Kornelius Rácz</b>  
-<b>Joshua Inouye</b>   
-<b>Melissa Sajnani</b>   
-<b>Sudarshan Dayanidhi</b>   
-<b>Emily Lawrence</b>   
-<b>Alexander Reyes</b>   
-<b>Evangelos Theodorou</b>   
-<b>Jason Kutch</b>   
-<b>Madhusudhan Venkadesan</b>   
-<b>Veronica Santos</b>   
-<b>Brendan Holt</b>   
-<b>Kevin Keenan</b>   
-<b>Rob Clewley</b>   
-<b>Jonathan Pearlman</b>   
-<b>Laurel Kuxhaus</b>  
-<b>Manish Kurse</b>  
-<b>Sudarshan Dayanidhi</b>  
-<b>Vic Anand</b>  
-<b>Nathan Wilson</b>  
-<b>Jaewoon Yi</b>  
-<b>Marta Mora-Aguilar</b>  
-<b>Robert Riener</b>  
-<b>Maria Makarov</b><br>
+## Doctoral Alumni  
+<b>Madhusudhan Venkadesan</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://seas.yale.edu/faculty-research/faculty-directory/madhusudhan-venkadesan">Website</a> | <a href="https://www.linkedin.com/in/mvenkadesan/">LinkedIn</a><br>
+<b>Veronica Santos</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://uclabiomechatronics.wordpress.com/">Website</a> | <a href="https://www.linkedin.com/in/veronica-j-santos-4a4ab7/">LinkedIn</a><br>
+<b>Daniel Brown</b> - Ph.D. Mechanical Engineering, 2007<br>
+<b>Evangelos Theodorou</b> - Ph.D. Computer Science, 2011<br>
+<b>Manish Kurse</b> - Ph.D. Biomedical Engineering, 2012: <a href="https://www.linkedin.com/in/manishkurse/">LinkedIn</a><br>
+<b>Kornelius Rácz</b> - Ph.D. Neuroscience, 2012<br>
+<b>Joshua Inouye</b> - Ph.D. Biomedical Engineering, 2012<br>
+<b>Sudarshan Dayanidhi</b> - Ph.D. Biokinesiology, 2012: <a href="https://www.sralab.org/researchers/sudarshan-dayanidhi-pt-phd">Website</a> | <a href="https://www.linkedin.com/in/sudarshan-dayanidhi-3577187/">LinkedIn</a><br>
+<b>Sarine Babikian</b> - Ph.D. Biomedical Engineering, 2015<br>
+<b>Victor Barradas</b> - Ph.D. Biomedical Engineering, 2015<br>
+<b>Alexander Reyes</b> - Ph.D. Biomedical Engineering, 2015: <a href="https://www.linkedin.com/in/alexanderreyes30/">LinkedIn</a><br>
+<b>Emily Lawrence</b> - Ph.D. Biomedical Engineering, 2016: <a href="https://www.linkedin.com/in/emily-lawrence-phd-a3586917/">LinkedIn</a><br>
 <b>Na-hyeon (Hannah) Ko</b> - Ph.D. Biokinesiology, 2016: <a href="https://chhs.fresnostate.edu/physical-therapy/faculty-staff/faculty/ko.html">Website</a> | <a href="https://www.linkedin.com/in/na-hyeon-hannah-ko-045712b2/">LinkedIn</a><br>
 <b>Akira Nagamori</b> - Ph.D. Biokinesiology, 2020: <a href="https://azim.salk.edu/people/">Website</a> | <a href="https://www.linkedin.com/in/akira-nagamori-39920b89/">LinkedIn</a><br>
 <b>Brian Cohn</b> - Ph.D. Computer Science, 2020: <a href="https://briancohn.com/">Website</a> | <a href="https://www.linkedin.com/in/brianalexandercohn/">LinkedIn</a><br>
