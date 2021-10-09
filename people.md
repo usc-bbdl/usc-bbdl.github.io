@@ -152,6 +152,15 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
+		<a name="lamaalmofeez"></a>
+		<img src="../Photos/defaultphoto.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Lama Almofeez</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:lalmofee@usc.edu" target="_top">lalmofee@usc.edu</a><br>
+		Brain-Computer Interfaces.<br>
+	</li>
+	
+	<li class="flex-item">
 		<a name="paritoshsingh"></a>
 		<img src="../Photos/paritoshsingh.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>Paritosh Singh</b></font><br>
@@ -201,13 +210,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Yifan Xue</b></font><br>
 		<font size="3">M.S. Student in Product Development Engineering</font><br>
 		<a href="mailto:yifanxue@usc.edu" target="_top">yifanxue@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="lamaalmofeez"></a>
-		<font size="3"><b>Lama Almofeez</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:lalmofee@usc.edu" target="_top">lalmofee@usc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
