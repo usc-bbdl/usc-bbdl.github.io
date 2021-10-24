@@ -27,23 +27,23 @@ I revisit this problem from the emerging perspective of neuromechanics that emph
 
 # Companion Website
 
-1. [Chapter 1](book_chapters/ch1.html)
-2. [Chapter 2](book_chapters/ch2.html)
-3. [Chapter 3](book_chapters/ch3.html)
-4. [Chapter 4](book_chapters/ch4.html)
-5. [Chapter 5](book_chapters/ch5.html)
-6. [Chapter 6](book_chapters/ch6.html)
-7. [Chapter 7](book_chapters/ch7.html)
-8. [Chapter 8](book_chapters/ch8.html)
-9. [Chapter 9](book_chapters/ch9.html)
-10. [Chapter 10](book_chapters/ch10.html)
+1. [Chapter 1](../book_chapters/ch1.html)
+2. [Chapter 2](../book_chapters/ch2.html)
+3. [Chapter 3](../book_chapters/ch3.html)
+4. [Chapter 4](../book_chapters/ch4.html)
+5. [Chapter 5](../book_chapters/ch5.html)
+6. [Chapter 6](../book_chapters/ch6.html)
+7. [Chapter 7](../book_chapters/ch7.html)
+8. [Chapter 8](../book_chapters/ch8.html)
+9. [Chapter 9](../book_chapters/ch9.html)
+10. [Chapter 10](../book_chapters/ch10.html)
 
 
 ## Companion video lectures from USC Biokinesiology 504
 ![image](img/recorded_lectures_banner.jpg)
 - [2016 Lectures](https://drive.google.com/drive/folders/0BzHB5nqViKrfR2ZCdmdaWEhLbzA?usp=sharing)  
-- [2015 Lectures](https://drive.google.com/drive/folders/0BzHB5nqViKrfTUl2Z3JNcFJCYmc?usp=sharing)  
-- [2013 Lectures](https://drive.google.com/drive/folders/0BzHB5nqViKrfZ3VnU1RKRmpaNVE?usp=sharing)  
+- [2015 Lectures](https://drive.google.com/drive/folders/1PW2yRQ-04TbCG_4GdZHywW8o4WT0aBsL?usp=sharing)  
+- [2013 Lectures](https://drive.google.com/drive/folders/1T1rY-ylBrSXsyCUVr-18hoJ1KcPHo5Di?usp=sharing)  
 
 ## Extended Resources
 - [Book Exercises by Chapter(.pdf)](https://github.com/usc-bbdl/usc-bbdl.github.io/files/72510/Exercises_V1_0.pdf)  
