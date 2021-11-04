@@ -27,7 +27,7 @@ menu: main
 			<li>Hard Hand</li>
 			<li>Quadruped</li>
 			<li>Biped</li>
-			<li>Neuromoprhic</li>
+			<li>Neuromorphic</li>
 			<li>DAQ Projects
 				<ul>
 					<li>PCB</li>
