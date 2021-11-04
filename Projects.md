@@ -16,6 +16,32 @@ menu: main
 
 </style>
 
+# Current Projects
+
+<ul class="flex-container">
+	<li class="flex-item-project">
+		<br> 
+		<b>DARPA, CRCNS Projects</b><br>
+		<ul>
+			<li>Manipulation</li>
+			<li>Hard Hand</li>
+			<li>Quadruped</li>
+			<li>Biped</li>
+			<li>Neuromoprhic</li>
+			<li>DAQ Projects
+				<ul>
+					<li>PCB</li>
+					<li>NI-DAQ</li>
+					<li>DUE</li>
+					<li>Raspberry</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+# Past Projects
+
 <ul class="flex-container">
 	<li class="flex-item-project">
 
