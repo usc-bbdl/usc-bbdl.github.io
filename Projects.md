@@ -66,6 +66,8 @@ menu: main
 	
 </ul>
 
+<br>
+
 ## Past Projects
 
 <ul class="flex-container">
