@@ -286,7 +286,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 ## Internship Alumni
 <a href="https://sites.google.com/a/usc.edu/victor">Victor Esparza</a> - Biomedical Engineering  
 <b>Maral Kasiri</b> - Biomedical Engineering<br>
-<b>Genyu Zhang</b> - M.S. Student in Electrical and Computer Engineering 
+<b>Genyu Zhang</b> - M.S. Student in Electrical and Computer Engineering<br>
 <b>Ashwin Sivakumar</b> - M.S. Student in Electrical and Computer Engineering  
 <b>Hanyu She</b> - M.S. Student in Mechanical Engineering   
 <b>Tailun Liu</b> - M.S. Student in Mechanical Engineering  
