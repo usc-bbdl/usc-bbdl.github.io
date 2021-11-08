@@ -257,25 +257,29 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jasmine Berry</b> - Ph.D. Computer Science, 2020: <a href="jasmineberry.com">Website</a> | <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a><br>
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://valerolab.org/marjani/">Website</a> | <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a><br>
 
-## Postdoctoral Alumni
-<b><a href="https://chan.usc.edu/npnl/people">Christopher Laine</a></b>  
-<b>Jun Yong Shin</b>  
-<b>Srideep Musuvathy</b>  
-<b>Chandana Paul</b>  
-<b>Kian Jalaleddini</b>  
+## Sabbatical and Visiting Faculty
+<b>Jae Woong Yi</b> - Agency of Defense Development, South Korea, 2005<br>
+<b>Anupam Saxena</b> - IIT Kangpur, 2007<br>
+<b>Marta Covadonga Mora Aguilar</b> - Universitat Jaume I, Spain, 2010<br>
+<b>Robert Riener</b> - Institute of Robotics and Intelligent Systems, ETF Zurich, 2013<br>
+<b>Maria Makarov</b> - SUPELEC, Paris, France, 2014<br>
 
-## Past Masters Students
-<a href="https://sites.google.com/a/usc.edu/victor">Victor Esparza</a> - Biomedical Engineering  
-<b>Maral Kasiri</b> - Biomedical Engineering
+## Postdoctoral Alumni
+<b>Jason Kutch, Ph.D.</b> - 2010: <a href="https://sites.usc.edu/ampl/">Website</a><br>
+<b>Srideep Musuvathy, Ph.D.</b> - 2013: <a href="https://www.linkedin.com/in/srideep-musuvathy-274881/">LinkedIn</a><br>
+<b>Isabella Fassola, M.D.</b> - 2014<br>
+<b>Christopher Laine, Ph.D.</b> - 2016: <a href="https://www.linkedin.com/in/chris-laine-8a11124/">LinkedIn</a><br>
+<b>Jun Yong Shin, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/junyongshin/">LinkedIn</a><br>
+<b>Kian Jalaleddini, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/kian-jalaleddini/">LinkedIn</a><br>
 
 ## Internship Alumni
-<b>Neil Koby Reid</b> - M.S. Student in Biomedical Engineering  
-<b>Jiaoran Wang</b> - M.S. Student in Mechanical Engineering  
-<b>Genyu Zhang</b> - M.S. Student in Electrical and Computer Engineering  <!--Graduated in 2021 or later^^^-->  
+<a href="https://sites.google.com/a/usc.edu/victor">Victor Esparza</a> - Biomedical Engineering  
+<b>Maral Kasiri</b> - Biomedical Engineering
+<b>Genyu Zhang</b> - M.S. Student in Electrical and Computer Engineering 
 <b>Ashwin Sivakumar</b> - M.S. Student in Electrical and Computer Engineering  
 <b>Hanyu She</b> - M.S. Student in Mechanical Engineering   
 <b>Tailun Liu</b> - M.S. Student in Mechanical Engineering  
-<b>Xuchen Ning</b> - M.S. Student in Mechanical Engineering  <!--Do not know Graduation date for the above-->  
+<b>Xuchen Ning</b> - M.S. Student in Mechanical Engineering  
 <b>Sithara Kamalakkannan</b> - M.S. Student in Biomedical Engineering      
 <b>Yasmine Kahsai</b> - Roski Design Undergraduate  
 <b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering  
@@ -308,3 +312,5 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Chintalapudi Sarath</b> - M.S. Student in Electrical Engineering  
 <b>Paris Hajili</b> - BME Undergraduate    
 <b>Niharika Singh</b> - M.S. Student in Biomedical Engineering
+<b>Jiaoran Wang</b> - M.S. Student in Mechanical Engineering, 2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
+<b>Neil Koby Reid</b> - M.S. Student in Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
