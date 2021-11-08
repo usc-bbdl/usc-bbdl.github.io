@@ -41,7 +41,7 @@ I revisit this problem from the emerging perspective of neuromechanics that emph
 
 ## Companion video lectures from USC Biokinesiology 504
 ![image](img/recorded_lectures_banner.jpg)
-- [2016 Lectures](https://drive.google.com/drive/folders/0BzHB5nqViKrfR2ZCdmdaWEhLbzA?resourcekey=0-K7o1EPs1zFHNm21-Z9_X8g&usp=sharing)  
+- [2016 Lectures](https://drive.google.com/drive/folders/1x3TWLDn7Yz3bLHQc-FohxfRXaPI9DLHp?usp=sharing)  
 - [2015 Lectures](https://drive.google.com/drive/folders/1PW2yRQ-04TbCG_4GdZHywW8o4WT0aBsL?usp=sharing)  
 - [2013 Lectures](https://drive.google.com/drive/folders/1T1rY-ylBrSXsyCUVr-18hoJ1KcPHo5Di?usp=sharing)  
 
