@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 menu: main
 ---
-# PI: Francisco Valero-Cuevas, Ph.D.
+## PI: Francisco Valero-Cuevas, Ph.D.
 <img src="../Photos/FVC2.jpg"  width="50%" /><br><br>
 <a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br><br>
 *Francisco's Bio*  
