@@ -39,7 +39,7 @@ I revisit this problem from the emerging perspective of neuromechanics that emph
 10. [Chapter 10](../book_chapters/ch10.html)
 
 
-## Companion video lectures from USC Biokinesiology 504
+## Companion video lectures from USC BME 504
 ![image](img/recorded_lectures_banner.jpg)
 - [2016 Lectures](https://drive.google.com/drive/folders/1x3TWLDn7Yz3bLHQc-FohxfRXaPI9DLHp?usp=sharing)  
 - [2015 Lectures](https://drive.google.com/drive/folders/1PW2yRQ-04TbCG_4GdZHywW8o4WT0aBsL?usp=sharing)  
