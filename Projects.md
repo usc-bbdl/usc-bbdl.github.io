@@ -18,27 +18,7 @@ menu: main
 
 # Current Projects
 
-<ul class="flex-container">
-	<li class="flex-item-project">
-		<br> 
-		<b>DARPA, CRCNS Projects</b><br>
-		<ul>
-			<li>Manipulation</li>
-			<li>Hard Hand</li>
-			<li>Quadruped</li>
-			<li>Biped</li>
-			<li>Neuromorphic</li>
-			<li>DAQ Projects
-				<ul>
-					<li>PCB</li>
-					<li>NI-DAQ</li>
-					<li>DUE</li>
-					<li>Raspberry</li>
-				</ul>
-			</li>
-		</ul>
-	</li>
-</ul>
+Will be updated soon!
 
 # Past Projects
 
