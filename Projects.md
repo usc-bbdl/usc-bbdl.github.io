@@ -16,11 +16,58 @@ menu: main
 
 </style>
 
-# Current Projects
+## Current Projects
 
-Will be updated soon!
+Will be updated soon!<br>
 
-# Past Projects
+<ul class="flex-container">
+	<li class="flex-item-project">
+		<b>DARPA, CRCNS Projects</b><br>
+		Using machine learning to teach bipeds and quadrupeds how to walk.<br>
+		Subprojects include:<br>
+		<ul>
+			<li>Manipulation Project</li>
+			<li>Robotic Hard Hand</li>
+			<li>Quadruped Robot</li>
+			<li>Biped Robot</li>
+			<li>Neuromorphic Computer Chips</li>
+			<li>DAQ Projects
+				<ul>
+					<li>PCB</li>
+					<li>NI-DAQ</li>
+					<li>Manipulation</li>
+					<li>DUE</li>
+					<li>Raspberry</li>
+				</ul>
+			</li>
+	</li>
+		
+	<li class="flex-item-project">
+	  	<b>R21 Stroke Arm Crank</b><br>
+		Andrew Erwin, Ph.D., Angelo Bartsch Jimenez<br>
+		We are testing stroke patients with an arm crank and sensors, and studying the EMG data.<br>
+	</li>
+	
+	<li class="flex-item-project">
+	  	<b>CDMRP Hybrid Hand</b><br>
+		Suraj Chakravarthi Raja, Jan Lao, Neil Koby Reid<br>
+	</li>
+	
+	<li class="flex-item-project">
+	  	<b>Soft Hand</b><br>
+		Darío Urbina, Nathan Matharu, Andrew Iwamoto, Taylor White<br>
+	</li>
+	
+	<li class="flex-item-project">
+	  	<b>Valero Leg Dexterity Test</b><br>
+		Taylor White<br>
+		Collecting data on leg dexterity to aid in recovery after ACL surgery.<br>
+		<a class="small_reference" href="https://valerodexterity.com/">Valero Dexterity Website</a>
+	</li>
+	
+</ul>
+
+## Past Projects
 
 <ul class="flex-container">
 	<li class="flex-item-project">
