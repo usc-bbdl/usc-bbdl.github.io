@@ -18,8 +18,6 @@ menu: main
 
 ## Current Projects
 
-Will be updated soon!<br>
-
 <ul class="flex-container">
 	<li class="flex-item-project">
 		<b>DARPA, CRCNS Projects</b><br>
@@ -40,6 +38,7 @@ Will be updated soon!<br>
 					<li>Raspberry</li>
 				</ul>
 			</li>
+		</ul>
 	</li>
 		
 	<li class="flex-item-project">
