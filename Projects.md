@@ -62,7 +62,7 @@ Will be updated soon!<br>
 	  	<b>Valero Leg Dexterity Test</b><br>
 		Taylor White<br>
 		Collecting data on leg dexterity to aid in recovery after ACL surgery.<br>
-		<a class="small_reference" href="https://valerodexterity.com/">Valero Dexterity Website</a>
+		<a href=https://valerodexterity.com/>Valero Dexterity Website</a><br>
 	</li>
 	
 </ul>
