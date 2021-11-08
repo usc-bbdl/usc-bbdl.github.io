@@ -257,14 +257,16 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jasmine Berry</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a> | <a href="jasmineberry.com">Website</a><br>
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
 
-## Sabbatical and Visiting Faculty
-<b>Jae Woong Yi</b> - Agency of Defense Development, South Korea, 2005<br>
-<b>Anupam Saxena</b> - IIT Kangpur, 2007<br>
-<b>Marta Covadonga Mora Aguilar</b> - Universitat Jaume I, Spain, 2010<br>
-<b>Robert Riener</b> - Institute of Robotics and Intelligent Systems, ETF Zurich, 2013<br>
-<b>Maria Makarov</b> - SUPELEC, Paris, France, 2014<br>
-
 ## Postdoctoral Alumni
+<b>Natalia Castillo, M.D.</b> - 2001<br>
+<b>Chandana Paul, Ph.D.</b> - 2005<br>
+<b>Stephanie Roach, M.D.</b> - 2007<br>
+<b>Robert Clewley, Ph.D.</b> - 2007<br>
+<b>John Rieffel, Ph.D.</b> - 2007<br>
+<b>Sanjay Kumar, Ph.D.</b> - 2007<br>
+<b>Madhusudhan Venkadesan, Ph.D.</b> - 2007: <a href="https://www.linkedin.com/in/mvenkadesan/">LinkedIn</a> | <a href="https://seas.yale.edu/faculty-research/faculty-directory/madhusudhan-venkadesan">Website</a><br>
+<b>Robert Clewley, Ph.D.</b> - 2007: <a href="https://pydstool.github.io/index.html">Website</a><br>
+<b>Kevin Keenan, Ph.D.</b> - 2007: <a href="https://www.linkedin.com/in/kevin-keenan-a9a5111b6/">LinkedIn</a> | <a href="https://uwm.edu/healthsciences/directory/keenan-kevin/">Website</a><br>
 <b>Weiwei Li, Ph.D.</b> - 2008<br>
 <b>Heiko Hoffmann, Ph.D.</b> - 2009<br>
 <b>Jason Kutch, Ph.D.</b> - 2010: <a href="https://sites.usc.edu/ampl/">Website</a><br>
@@ -274,9 +276,16 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jun Yong Shin, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/junyongshin/">LinkedIn</a><br>
 <b>Kian Jalaleddini, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/kian-jalaleddini/">LinkedIn</a><br>
 
+## Sabbatical and Visiting Faculty
+<b>Jae Woong Yi</b> - Agency of Defense Development, South Korea, 2005<br>
+<b>Anupam Saxena</b> - IIT Kangpur, 2007<br>
+<b>Marta Covadonga Mora Aguilar</b> - Universitat Jaume I, Spain, 2010<br>
+<b>Robert Riener</b> - Institute of Robotics and Intelligent Systems, ETF Zurich, 2013<br>
+<b>Maria Makarov</b> - SUPELEC, Paris, France, 2014<br>
+
 ## Internship Alumni
 <a href="https://sites.google.com/a/usc.edu/victor">Victor Esparza</a> - Biomedical Engineering  
-<b>Maral Kasiri</b> - Biomedical Engineering
+<b>Maral Kasiri</b> - Biomedical Engineering<br>
 <b>Genyu Zhang</b> - M.S. Student in Electrical and Computer Engineering 
 <b>Ashwin Sivakumar</b> - M.S. Student in Electrical and Computer Engineering  
 <b>Hanyu She</b> - M.S. Student in Mechanical Engineering   
@@ -313,6 +322,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Young Jin Kim</b> - CS Undergraduate    
 <b>Chintalapudi Sarath</b> - M.S. Student in Electrical Engineering  
 <b>Paris Hajili</b> - BME Undergraduate    
-<b>Niharika Singh</b> - M.S. Student in Biomedical Engineering
+<b>Niharika Singh</b> - M.S. Student in Biomedical Engineering<br>
 <b>Jiaoran Wang</b> - M.S. Student in Mechanical Engineering, 2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
 <b>Neil Koby Reid</b> - M.S. Student in Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
