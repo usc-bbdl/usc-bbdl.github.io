@@ -43,7 +43,7 @@ menu: main
 	<li class="flex-item-project">
 	  	<b>R21 Stroke Arm Crank</b><br>
 		Andrew Erwin, Ph.D., Angelo Bartsch Jimenez<br>
-		We are testing stroke patients with an arm crank and sensors, and studying the EMG data.<br>
+		Testing stroke patients with an arm crank and sensors, and studying the EMG data.<br>
 	</li>
 	
 	<li class="flex-item-project">
