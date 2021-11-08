@@ -238,24 +238,24 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Doctoral Alumni  
-<b>Madhusudhan Venkadesan</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://seas.yale.edu/faculty-research/faculty-directory/madhusudhan-venkadesan">Website</a> | <a href="https://www.linkedin.com/in/mvenkadesan/">LinkedIn</a><br>
-<b>Veronica Santos</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://uclabiomechatronics.wordpress.com/">Website</a> | <a href="https://www.linkedin.com/in/veronica-j-santos-4a4ab7/">LinkedIn</a><br>
+<b>Madhusudhan Venkadesan</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://www.linkedin.com/in/mvenkadesan/">LinkedIn</a> | <a href="https://seas.yale.edu/faculty-research/faculty-directory/madhusudhan-venkadesan">Website</a><br>
+<b>Veronica Santos</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://www.linkedin.com/in/veronica-j-santos-4a4ab7/">LinkedIn</a> | <a href="https://uclabiomechatronics.wordpress.com/">Website</a><br>
 <b>Daniel Brown</b> - Ph.D. Mechanical Engineering, 2007<br>
 <b>Evangelos Theodorou</b> - Ph.D. Computer Science, 2011<br>
 <b>Manish Kurse</b> - Ph.D. Biomedical Engineering, 2012: <a href="https://www.linkedin.com/in/manishkurse/">LinkedIn</a><br>
 <b>Kornelius Rácz</b> - Ph.D. Neuroscience, 2012<br>
 <b>Joshua Inouye</b> - Ph.D. Biomedical Engineering, 2012<br>
-<b>Sudarshan Dayanidhi</b> - Ph.D. Biokinesiology, 2012: <a href="https://www.sralab.org/researchers/sudarshan-dayanidhi-pt-phd">Website</a> | <a href="https://www.linkedin.com/in/sudarshan-dayanidhi-3577187/">LinkedIn</a><br>
+<b>Sudarshan Dayanidhi</b> - Ph.D. Biokinesiology, 2012: <a href="https://www.linkedin.com/in/sudarshan-dayanidhi-3577187/">LinkedIn</a> | <a href="https://www.sralab.org/researchers/sudarshan-dayanidhi-pt-phd">Website</a><br>
 <b>Sarine Babikian</b> - Ph.D. Biomedical Engineering, 2015<br>
 <b>Victor Barradas</b> - Ph.D. Biomedical Engineering, 2015<br>
 <b>Alexander Reyes</b> - Ph.D. Biomedical Engineering, 2015: <a href="https://www.linkedin.com/in/alexanderreyes30/">LinkedIn</a><br>
 <b>Emily Lawrence</b> - Ph.D. Biomedical Engineering, 2016: <a href="https://www.linkedin.com/in/emily-lawrence-phd-a3586917/">LinkedIn</a><br>
-<b>Na-hyeon (Hannah) Ko</b> - Ph.D. Biokinesiology, 2016: <a href="https://chhs.fresnostate.edu/physical-therapy/faculty-staff/faculty/ko.html">Website</a> | <a href="https://www.linkedin.com/in/na-hyeon-hannah-ko-045712b2/">LinkedIn</a><br>
-<b>Akira Nagamori</b> - Ph.D. Biokinesiology, 2020: <a href="https://azim.salk.edu/people/">Website</a> | <a href="https://www.linkedin.com/in/akira-nagamori-39920b89/">LinkedIn</a><br>
-<b>Brian Cohn</b> - Ph.D. Computer Science, 2020: <a href="https://briancohn.com/">Website</a> | <a href="https://www.linkedin.com/in/brianalexandercohn/">LinkedIn</a><br>
-<b>Dan Hagen</b> - Ph.D. Biomedical Engineering, 2020: <a href="https://daniel8hagen.com/">Website</a> | <a href="https://www.linkedin.com/in/daniel-a-hagen/">LinkedIn</a><br>
-<b>Jasmine Berry</b> - Ph.D. Computer Science, 2020: <a href="jasmineberry.com">Website</a> | <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a><br>
-<b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://valerolab.org/marjani/">Website</a> | <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a><br>
+<b>Na-hyeon (Hannah) Ko</b> - Ph.D. Biokinesiology, 2016: <a href="https://www.linkedin.com/in/na-hyeon-hannah-ko-045712b2/">LinkedIn</a> | <a href="https://chhs.fresnostate.edu/physical-therapy/faculty-staff/faculty/ko.html">Website</a><br>
+<b>Akira Nagamori</b> - Ph.D. Biokinesiology, 2020: <a href="https://www.linkedin.com/in/akira-nagamori-39920b89/">LinkedIn</a> | <a href="https://azim.salk.edu/people/">Website</a><br>
+<b>Brian Cohn</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/brianalexandercohn/">LinkedIn</a> | <a href="https://briancohn.com/">Website</a><br>
+<b>Dan Hagen</b> - Ph.D. Biomedical Engineering, 2020: <a href="https://www.linkedin.com/in/daniel-a-hagen/">LinkedIn</a> | <a href="https://daniel8hagen.com/">Website</a><br>
+<b>Jasmine Berry</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a> | <a href="jasmineberry.com">Website</a><br>
+<b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
 
 ## Sabbatical and Visiting Faculty
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea, 2005<br>
@@ -265,6 +265,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Maria Makarov</b> - SUPELEC, Paris, France, 2014<br>
 
 ## Postdoctoral Alumni
+<b>Weiwei Li, Ph.D.</b> - 2008<br>
+<b>Heiko Hoffmann, Ph.D.</b> - 2009<br>
 <b>Jason Kutch, Ph.D.</b> - 2010: <a href="https://sites.usc.edu/ampl/">Website</a><br>
 <b>Srideep Musuvathy, Ph.D.</b> - 2013: <a href="https://www.linkedin.com/in/srideep-musuvathy-274881/">LinkedIn</a><br>
 <b>Isabella Fassola, M.D.</b> - 2014<br>
