@@ -21,7 +21,7 @@ menu: main
 <ul class="flex-container">
 	<li class="flex-item-project">
 		<b>DARPA, CRCNS Projects</b><br>
-		Using machine learning to teach biped and quadruped robotic systems how to walk.<br>
+		<!--Using machine learning to teach biped and quadruped robotic systems how to walk.<br>-->
 		Subprojects include:<br>
 		<ul>
 			<li>Manipulation Project: Ali Marjaninejad, Ph.D., Pegah Ojaghi, Romina Mir</li>
@@ -43,7 +43,7 @@ menu: main
 	<li class="flex-item-project">
 	  	<b>R21 Stroke Arm Crank</b><br>
 		Andrew Erwin, Ph.D., Angelo Bartsch Jimenez<br>
-		Testing stroke patients with an arm crank and sensors, and studying the EMG data.<br>
+		<!--Testing stroke patients with an arm crank and sensors, and studying the EMG data.<br>-->
 	</li>
 	
 	<li class="flex-item-project">
@@ -59,7 +59,7 @@ menu: main
 	<li class="flex-item-project">
 	  	<b>Valero Leg Dexterity Test</b><br>
 		Taylor White<br>
-		Collecting data on leg dexterity to aid in recovery after ACL surgery.<br>
+		<!--Collecting data on leg dexterity to aid in recovery after ACL surgery.<br>-->
 		<a href="https://valerodexterity.com/">Valero Dexterity Website</a><br>
 	</li>
 	
