@@ -41,7 +41,7 @@ menu: main
 	</li>
 		
 	<li class="flex-item-project">
-	  	<b>R21 Stroke Arm Crank</b><br>
+	  	<b>R21 Recovery of Upper Extremity Mobility</b><br>
 		Andrew Erwin, Ph.D., Angelo Bartsch Jimenez<br>
 		<!--Testing stroke patients with an arm crank and sensors, and studying the EMG data.<br>-->
 	</li>
