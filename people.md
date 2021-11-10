@@ -163,6 +163,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Interested in leveraging Artificial Intelligence for social good.<br>
 	</li>
 	
+	<!--
 	<li class="flex-item">
 		<a name="charlexli"></a>
 		<img src="../Photos/CharlesLi.JPG" class = "profilepicture"/><br>
@@ -171,6 +172,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:xuefeil@usc.edu" target="_top">xuefeil@usc.edu</a><br>
 		Interested in Neuromuscular Biomechanics and Motor Learning and Control.<br>
 	</li>
+	-->
 
 </ul>
 
