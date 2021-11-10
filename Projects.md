@@ -18,54 +18,7 @@ menu: main
 
 ## Current Projects
 
-<ul class="flex-container">
-	<li class="flex-item-project">
-		<b>DARPA, CRCNS Projects</b><br>
-		<!--Using machine learning to teach biped and quadruped robotic systems how to walk.<br>-->
-		Subprojects include:<br>
-		<ul>
-			<li>Manipulation Project: Ali Marjaninejad, Ph.D., Pegah Ojaghi, Romina Mir</li>
-			<li>Robotic Hard Hand: Suraj Chakravarthi Raja, Jan Lao</li>
-			<li>Quadruped Robot: Ali Marjaninejad, Ph.D., Suraj Chakravarthi Raja, Darío Urbina, Daniel Wang, Yifan Xue, Jan Lao, Nick Sun</li>
-			<li>Biped Robot: Darío Urbina, Daniel Wang, Yifan Xue</li>
-			<li>Neuromorphic Computer Chips: Suraj Chakravarthi Raja</li>
-			<li>DAQ Projects
-				<ul>
-					<li>PCB: Suraj Chakravarthi Raja, Nick Sun</li>
-					<li>NI-DAQ: Suraj Chakravarthi Raja, Timothy Fanelle, Jaehyung Choi</li>
-					<li>DUE: Darío Urbina, Daniel Wang, Yifan Xue</li>
-					<li>Raspberry: Ali Marjaninejad, Justin Chen, Paritosh Singh</li>
-				</ul>
-			</li>
-		</ul>
-	</li>
-		
-	<li class="flex-item-project">
-	  	<b>R21 Recovery of Upper Extremity Mobility</b><br>
-		Andrew Erwin, Ph.D., Angelo Bartsch Jimenez<br>
-		<!--Testing stroke patients with an arm crank and sensors, and studying the EMG data.<br>-->
-	</li>
-	
-	<li class="flex-item-project">
-	  	<b>CDMRP Hybrid Hand</b><br>
-		Suraj Chakravarthi Raja, Jan Lao, Neil Koby Reid<br>
-	</li>
-	
-	<li class="flex-item-project">
-	  	<b>Soft Hand</b><br>
-		Darío Urbina, Nathan Matharu, Andrew Iwamoto, Taylor White<br>
-	</li>
-	
-	<li class="flex-item-project">
-	  	<b>Valero Leg Dexterity Test</b><br>
-		Taylor White<br>
-		<!--Collecting data on leg dexterity to aid in recovery after ACL surgery.<br>-->
-		<a href="https://valerodexterity.com/">Valero Dexterity Website</a><br>
-	</li>
-	
-</ul>
-
-<br>
+To be updated!<br>
 
 ## Past Projects
 
