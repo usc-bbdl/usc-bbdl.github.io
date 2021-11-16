@@ -236,6 +236,13 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:ahelton@usc.edu" target="_top">ahelton@usc.edu</a><br>
 	</li>
+	
+	<li class="flex-item">
+		<a name="scottsusanto"></a>
+		<font size="3"><b>Scott Susanto</b></font><br>
+		<font size="3">B.S. Student in Computer Science</font><br>
+		<a href="mailto:scottsus@usc.edu" target="_top">scottsus@usc.edu</a><br>
+	</li>
 </ul>
 <br>
 
