@@ -87,14 +87,16 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 		<a name="parmitaojaghi"></a>
 		<font size="3"><b>Pegah Ojaghi</b></font><br>
-		<font size="3">Ph.D. Student in Computer Engineering (Visiting from UC Santa Cruz)</font><br>
+		<font size="3">Ph.D. Student in Computer Engineering</font><br>
+		<font size="3">(Visiting from UC Santa Cruz)</font><br>
 		<a href="mailto:pojaghi@ucsc.edu" target="_top">pojaghi@ucsc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
 		<a name="timothyfanelle"></a>
 		<font size="3"><b>Timothy Fanelle</b></font><br>
-		<font size="3">Ph.D. Student in Biomedical Engineering (Rotation)</font><br>
+		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
+		<font size="3">(Rotation)</font><br>
 		<a href="mailto:fanelle@usc.edu" target="_top">fanelle@usc.edu</a><br>
 	</li>
 
@@ -332,5 +334,5 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Chintalapudi Sarath</b> - M.S. Student in Electrical Engineering  
 <b>Paris Hajili</b> - BME Undergraduate    
 <b>Niharika Singh</b> - M.S. Student in Biomedical Engineering<br>
-<b>Jiaoran Wang</b> - M.S. Student in Mechanical Engineering, 2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
-<b>Neil Koby Reid</b> - M.S. Student in Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
+<b>Jiaoran Wang</b> - M.S. Mechanical Engineering, 2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
+<b>Neil Koby Reid</b> - M.S. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
