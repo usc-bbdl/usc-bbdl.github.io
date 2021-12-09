@@ -20,7 +20,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="alimarjaninejad"></a>
-		<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.JPG" width="100%" /><br>
+		<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.JPG" class = "profilepicture" /><br>
 		<font size="3"><a href="https://valerolab.org/marjani/"><b>Ali Marjaninejad, Ph.D.</b></a></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
