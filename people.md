@@ -245,6 +245,20 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">B.S. Student in Computer Science</font><br>
 		<a href="mailto:scottsus@usc.edu" target="_top">scottsus@usc.edu</a><br>
 	</li>
+	
+	<li class="flex-item">
+		<a name="abhilashkulkarni"></a>
+		<font size="3"><b>Abhilash Kulkarni</b></font><br>
+		<font size="3">M.S. Student in Computer Science</font><br>
+		<a href="mailto:ak41739@usc.edu" target="_top">ak41739@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="hesamazadjou"></a>
+		<font size="3"><b>Hesam Azadjou</b></font><br>
+		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
+		<a href="mailto:azadjou@usc.edu" target="_top">azadjou@usc.edu</a><br>
+	</li>
 </ul>
 <br>
 
