@@ -249,52 +249,54 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Doctoral Alumni  
-<b>Madhusudhan Venkadesan</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://www.linkedin.com/in/mvenkadesan/">LinkedIn</a> | <a href="https://seas.yale.edu/faculty-research/faculty-directory/madhusudhan-venkadesan">Website</a><br>
-<b>Veronica Santos</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://www.linkedin.com/in/veronica-j-santos-4a4ab7/">LinkedIn</a> | <a href="https://uclabiomechatronics.wordpress.com/">Website</a><br>
-<b>Daniel Brown</b> - Ph.D. Mechanical Engineering, 2007<br>
-<b>Evangelos Theodorou</b> - Ph.D. Computer Science, 2011<br>
-<b>Manish Kurse</b> - Ph.D. Biomedical Engineering, 2012: <a href="https://www.linkedin.com/in/manishkurse/">LinkedIn</a><br>
-<b>Kornelius Rácz</b> - Ph.D. Neuroscience, 2012<br>
-<b>Joshua Inouye</b> - Ph.D. Biomedical Engineering, 2012<br>
-<b>Sudarshan Dayanidhi</b> - Ph.D. Biokinesiology, 2012: <a href="https://www.linkedin.com/in/sudarshan-dayanidhi-3577187/">LinkedIn</a> | <a href="https://www.sralab.org/researchers/sudarshan-dayanidhi-pt-phd">Website</a><br>
-<b>Sarine Babikian</b> - Ph.D. Biomedical Engineering, 2015<br>
-<b>Victor Barradas</b> - Ph.D. Biomedical Engineering, 2015<br>
-<b>Alexander Reyes</b> - Ph.D. Biomedical Engineering, 2015: <a href="https://www.linkedin.com/in/alexanderreyes30/">LinkedIn</a><br>
-<b>Emily Lawrence</b> - Ph.D. Biomedical Engineering, 2016: <a href="https://www.linkedin.com/in/emily-lawrence-phd-a3586917/">LinkedIn</a><br>
-<b>Na-hyeon (Hannah) Ko</b> - Ph.D. Biokinesiology, 2016: <a href="https://www.linkedin.com/in/na-hyeon-hannah-ko-045712b2/">LinkedIn</a> | <a href="https://chhs.fresnostate.edu/physical-therapy/faculty-staff/faculty/ko.html">Website</a><br>
-<b>Akira Nagamori</b> - Ph.D. Biokinesiology, 2020: <a href="https://www.linkedin.com/in/akira-nagamori-39920b89/">LinkedIn</a> | <a href="https://azim.salk.edu/people/">Website</a><br>
-<b>Brian Cohn</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/brianalexandercohn/">LinkedIn</a> | <a href="https://briancohn.com/">Website</a><br>
-<b>Dan Hagen</b> - Ph.D. Biomedical Engineering, 2020: <a href="https://www.linkedin.com/in/daniel-a-hagen/">LinkedIn</a> | <a href="https://daniel8hagen.com/">Website</a><br>
-<b>Jasmine Berry</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a> | <a href="jasmineberry.com">Website</a><br>
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
+<b>Jasmine Berry</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a> | <a href="jasmineberry.com">Website</a><br>
+<b>Dan Hagen</b> - Ph.D. Biomedical Engineering, 2020: <a href="https://www.linkedin.com/in/daniel-a-hagen/">LinkedIn</a> | <a href="https://daniel8hagen.com/">Website</a><br>
+<b>Brian Cohn</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/brianalexandercohn/">LinkedIn</a> | <a href="https://briancohn.com/">Website</a><br>
+<b>Akira Nagamori</b> - Ph.D. Biokinesiology, 2020: <a href="https://www.linkedin.com/in/akira-nagamori-39920b89/">LinkedIn</a> | <a href="https://azim.salk.edu/people/">Website</a><br>
+<b>Na-hyeon (Hannah) Ko</b> - Ph.D. Biokinesiology, 2016: <a href="https://www.linkedin.com/in/na-hyeon-hannah-ko-045712b2/">LinkedIn</a> | <a href="https://chhs.fresnostate.edu/physical-therapy/faculty-staff/faculty/ko.html">Website</a><br>
+<b>Emily Lawrence</b> - Ph.D. Biomedical Engineering, 2016: <a href="https://www.linkedin.com/in/emily-lawrence-phd-a3586917/">LinkedIn</a><br>
+<b>Alexander Reyes</b> - Ph.D. Biomedical Engineering, 2015: <a href="https://www.linkedin.com/in/alexanderreyes30/">LinkedIn</a><br>
+<b>Victor Barradas</b> - Ph.D. Biomedical Engineering, 2015<br>
+<b>Sarine Babikian</b> - Ph.D. Biomedical Engineering, 2015<br>
+<b>Sudarshan Dayanidhi</b> - Ph.D. Biokinesiology, 2012: <a href="https://www.linkedin.com/in/sudarshan-dayanidhi-3577187/">LinkedIn</a> | <a href="https://www.sralab.org/researchers/sudarshan-dayanidhi-pt-phd">Website</a><br>
+<b>Joshua Inouye</b> - Ph.D. Biomedical Engineering, 2012<br>
+<b>Kornelius Rácz</b> - Ph.D. Neuroscience, 2012<br>
+<b>Manish Kurse</b> - Ph.D. Biomedical Engineering, 2012: <a href="https://www.linkedin.com/in/manishkurse/">LinkedIn</a><br>
+<b>Evangelos Theodorou</b> - Ph.D. Computer Science, 2011<br>
+<b>Daniel Brown</b> - Ph.D. Mechanical Engineering, 2007<br>
+<b>Veronica Santos</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://www.linkedin.com/in/veronica-j-santos-4a4ab7/">LinkedIn</a> | <a href="https://uclabiomechatronics.wordpress.com/">Website</a><br>
+<b>Madhusudhan Venkadesan</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://www.linkedin.com/in/mvenkadesan/">LinkedIn</a> | <a href="https://seas.yale.edu/faculty-research/faculty-directory/madhusudhan-venkadesan">Website</a><br>
 
 ## Postdoctoral Alumni
-<b>Natalia Castillo, M.D.</b> - 2001<br>
-<b>Chandana Paul, Ph.D.</b> - 2005<br>
-<b>Stephanie Roach, M.D.</b> - 2007<br>
-<b>Robert Clewley, Ph.D.</b> - 2007<br>
-<b>John Rieffel, Ph.D.</b> - 2007<br>
-<b>Sanjay Kumar, Ph.D.</b> - 2007<br>
-<b>Madhusudhan Venkadesan, Ph.D.</b> - 2007: <a href="https://www.linkedin.com/in/mvenkadesan/">LinkedIn</a> | <a href="https://seas.yale.edu/faculty-research/faculty-directory/madhusudhan-venkadesan">Website</a><br>
-<b>Robert Clewley, Ph.D.</b> - 2007: <a href="https://pydstool.github.io/index.html">Website</a><br>
-<b>Kevin Keenan, Ph.D.</b> - 2007: <a href="https://www.linkedin.com/in/kevin-keenan-a9a5111b6/">LinkedIn</a> | <a href="https://uwm.edu/healthsciences/directory/keenan-kevin/">Website</a><br>
-<b>Weiwei Li, Ph.D.</b> - 2008<br>
-<b>Heiko Hoffmann, Ph.D.</b> - 2009<br>
-<b>Jason Kutch, Ph.D.</b> - 2010: <a href="https://sites.usc.edu/ampl/">Website</a><br>
-<b>Srideep Musuvathy, Ph.D.</b> - 2013: <a href="https://www.linkedin.com/in/srideep-musuvathy-274881/">LinkedIn</a><br>
-<b>Isabella Fassola, M.D.</b> - 2014<br>
-<b>Christopher Laine, Ph.D.</b> - 2016: <a href="https://www.linkedin.com/in/chris-laine-8a11124/">LinkedIn</a><br>
-<b>Jun Yong Shin, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/junyongshin/">LinkedIn</a><br>
 <b>Kian Jalaleddini, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/kian-jalaleddini/">LinkedIn</a><br>
+<b>Jun Yong Shin, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/junyongshin/">LinkedIn</a><br>
+<b>Christopher Laine, Ph.D.</b> - 2016: <a href="https://www.linkedin.com/in/chris-laine-8a11124/">LinkedIn</a><br>
+<b>Isabella Fassola, M.D.</b> - 2014<br>
+<b>Srideep Musuvathy, Ph.D.</b> - 2013: <a href="https://www.linkedin.com/in/srideep-musuvathy-274881/">LinkedIn</a><br>
+<b>Jason Kutch, Ph.D.</b> - 2010: <a href="https://sites.usc.edu/ampl/">Website</a><br>
+<b>Heiko Hoffmann, Ph.D.</b> - 2009<br>
+<b>Weiwei Li, Ph.D.</b> - 2008<br>
+<b>Kevin Keenan, Ph.D.</b> - 2007: <a href="https://www.linkedin.com/in/kevin-keenan-a9a5111b6/">LinkedIn</a> | <a href="https://uwm.edu/healthsciences/directory/keenan-kevin/">Website</a><br>
+<b>Robert Clewley, Ph.D.</b> - 2007: <a href="https://pydstool.github.io/index.html">Website</a><br>
+<b>Madhusudhan Venkadesan, Ph.D.</b> - 2007: <a href="https://www.linkedin.com/in/mvenkadesan/">LinkedIn</a> | <a href="https://seas.yale.edu/faculty-research/faculty-directory/madhusudhan-venkadesan">Website</a><br>
+<b>Sanjay Kumar, Ph.D.</b> - 2007<br>
+<b>John Rieffel, Ph.D.</b> - 2007<br>
+<b>Robert Clewley, Ph.D.</b> - 2007<br>
+<b>Stephanie Roach, M.D.</b> - 2007<br>
+<b>Chandana Paul, Ph.D.</b> - 2005<br>
+<b>Natalia Castillo, M.D.</b> - 2001<br>
 
 ## Sabbatical and Visiting Faculty
-<b>Jae Woong Yi</b> - Agency of Defense Development, South Korea, 2005<br>
-<b>Anupam Saxena</b> - IIT Kangpur, 2007<br>
-<b>Marta Covadonga Mora Aguilar</b> - Universitat Jaume I, Spain, 2010<br>
-<b>Robert Riener</b> - Institute of Robotics and Intelligent Systems, ETF Zurich, 2013<br>
 <b>Maria Makarov</b> - SUPELEC, Paris, France, 2014<br>
+<b>Robert Riener</b> - Institute of Robotics and Intelligent Systems, ETF Zurich, 2013<br>
+<b>Marta Covadonga Mora Aguilar</b> - Universitat Jaume I, Spain, 2010<br>
+<b>Anupam Saxena</b> - IIT Kangpur, 2007<br>
+<b>Jae Woong Yi</b> - Agency of Defense Development, South Korea, 2005<br>
 
 ## Internship Alumni
+<b>Neil Koby Reid</b> - M.S. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
+<b>Jiaoran Wang</b> - M.S. Mechanical Engineering, 2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
 <a href="https://sites.google.com/a/usc.edu/victor">Victor Esparza</a> - Biomedical Engineering  
 <b>Maral Kasiri</b> - Biomedical Engineering<br>
 <b>Genyu Zhang</b> - M.S. Student in Electrical and Computer Engineering<br>
@@ -334,5 +336,3 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Chintalapudi Sarath</b> - M.S. Student in Electrical Engineering  
 <b>Paris Hajili</b> - BME Undergraduate    
 <b>Niharika Singh</b> - M.S. Student in Biomedical Engineering<br>
-<b>Jiaoran Wang</b> - M.S. Mechanical Engineering, 2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
-<b>Neil Koby Reid</b> - M.S. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
