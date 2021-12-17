@@ -309,7 +309,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea, 2005<br>
 
 ## Internship Alumni
-<!--                 <a href="">LinkedIn</a><br>               -->
 <b>Neil Koby Reid</b> - M.S. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
 <b>Jiaoran Wang</b> - M.S. Mechanical Engineering, 2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
 <b>Genyu Zhang</b> - M.S. Electrical and Computer Engineering, 2021:<br><a href="https://www.linkedin.com/in/gengyu-bobby-zhang/">LinkedIn</a><br>
@@ -321,15 +320,20 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Yasmine Kahsai</b> - B.A. Design, 2018: <a href="https://www.linkedin.com/in/yasmine-kahsai/">LinkedIn</a><br>
 <b>Chintalapudi Sarath</b> - M.S. Electrical Engineering, 2018: <a href="https://www.linkedin.com/in/chintalapudisarath/">LinkedIn</a><br>
 <b>Mayumi Ishikawa</b> - B.S. Biomedical Engineering, 2018: <a href="https://www.linkedin.com/in/mayumi-ishikawa-72806a155/">LinkedIn</a><br>
+<b>Gabe Glasser</b> - M.S. Biomedical Engineering, 2018: <a href="https://www.linkedin.com/in/gabriel-glasser-biotech/">LinkedIn</a><br>
+<b>Théo Denisart</b> -  Visiting Masters Student from EPFL, 2018: <a href="https://www.linkedin.com/in/th%C3%A9o-tim-denisart-947b4532/?originalSubdomain=ch">LinkedIn</a> | <a href="https://helvitek.com/en/about-us/">Website</a><br>
+<b>Maral Kasiri</b> - M.S. Biomedical Engineering, 2018: <a href="https://www.linkedin.com/in/maralkasiri/">LinkedIn</a><br>
+<b>Niharika Singh</b> - M.S. Biomedical Engineering, 2017: <a href="https://www.linkedin.com/in/niharika-singh/">LinkedIn</a><br>
+<b>Young Jin Kim</b> - B.S. Computer Science, 2017: <a href="https://kimyou1994.github.io/">Website</a><br>
+<b>Vishweshwar Shastri</b> - M.S. Biomedical Engineering, 2017: <a href="https://www.linkedin.com/in/vishweshwershastri/">LinkedIn</a><br>
+<b>Noel Trivedi</b> - B.S. Computer Science, 2017: <a href="https://www.linkedin.com/in/noeltrivedi/">LinkedIn</a><br>
+<b>Feihong Qian</b> - B.S. Computer Science, 2017: <a href="https://www.linkedin.com/in/feihong-qian-0a106a57/">LinkedIn</a><br>
 
-
+<!--                 <a href="">LinkedIn</a><br>               -->
 <a href="https://sites.google.com/a/usc.edu/victor">Victor Esparza</a> - Biomedical Engineering  
-<b>Maral Kasiri</b> - Biomedical Engineering<br>
 <b>Hanyu She</b> - M.S. Student in Mechanical Engineering   
-<b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering  
 <b>Brandon Miura</b> - BME undergraduate  
 <b>Taylor Stroobosscher</b> - EE undergraduate  
-<b>Théo Denisart</b> -  Visiting Masters Student from EPFL  
 <b>Keegan Bate</b> - M.S. Student in Biomedical Engineering  
 <b>Giridhar Akila Dhakshinamoorthy</b> - M.S. Student in Computer Science  
 <b>Taegyum Kim</b> - CS Undergraduate  
@@ -341,15 +345,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Catherine Leigh Raquel</b> - Stanford Human Biology Undergraduate  
 <b>Catherine Parsekian</b> - Claremont McKenna Neuroscience Undergraduate  
 <b>Jiayang Miao</b> - CS Undergraduate  
-<b>Feihong Qian</b> - CS Undergraduate  
 <b>Xingchen Liao</b> - CS Undergraduate  
 <b>Sloan Swieso</b> - CS Undergraduate  
 <b>John Pugliesi</b> - CS Undergraduate   
 <b>Cyrus Jia</b> - CS Undergraduate  
-<b>Noel Trivedi</b> - CS Undergraduate  
 <b>Elizabeth Chu</b> - CS Undergraduate   
-<b>Shaohui Quian</b> - M.S. Student in Electrical Engineering  
-<b>Vishweshwar Shastri</b> - M.S. Student in Biomedical Engineering    
-<b>Young Jin Kim</b> - CS Undergraduate    
+<b>Shaohui Quian</b> - M.S. Student in Electrical Engineering     
 <b>Paris Hajili</b> - BME Undergraduate    
-<b>Niharika Singh</b> - M.S. Student in Biomedical Engineering<br>
