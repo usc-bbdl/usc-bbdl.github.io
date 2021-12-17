@@ -309,19 +309,24 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea, 2005<br>
 
 ## Internship Alumni
+<!--                 <a href="">LinkedIn</a><br>               -->
 <b>Neil Koby Reid</b> - M.S. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
 <b>Jiaoran Wang</b> - M.S. Mechanical Engineering, 2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
+<b>Genyu Zhang</b> - M.S. Electrical and Computer Engineering, 2021:<br><a href="https://www.linkedin.com/in/gengyu-bobby-zhang/">LinkedIn</a><br>
+<b>Xuchen Ning</b> - M.S. Mechanical Engineering, 2020<br>
+<b>Tailun Liu</b> - M.S. Mechanical Engineering, 2020: <a href="https://www.linkedin.com/in/tailun-liu-124406170/?originalSubdomain=cn">LinkedIn</a><br>
+<b>Sithara Kamalakkannan</b> - M.S. Computer Science, 2019: <a href="https://www.linkedin.com/in/sitharak/">LinkedIn</a><br>
+<b>Ashwin Sivakumar</b> - M.S. Electrical and Computer Engineering, 2019: <a href="https://www.linkedin.com/in/ashshiv/">LinkedIn</a><br>
+<b>Huan Zhao</b> - M.S. Biomedical Engineering, 2019: <a href="https://www.linkedin.com/in/huan-zhao-b281641a3/">LinkedIn</a><br>
+<b>Yasmine Kahsai</b> - B.A. Design, 2018: <a href="https://www.linkedin.com/in/yasmine-kahsai/">LinkedIn</a><br>
+<b>Chintalapudi Sarath</b> - M.S. Electrical Engineering, 2018: <a href="https://www.linkedin.com/in/chintalapudisarath/">LinkedIn</a><br>
+<b>Mayumi Ishikawa</b> - B.S. Biomedical Engineering, 2018: <a href="https://www.linkedin.com/in/mayumi-ishikawa-72806a155/">LinkedIn</a><br>
+
+
 <a href="https://sites.google.com/a/usc.edu/victor">Victor Esparza</a> - Biomedical Engineering  
 <b>Maral Kasiri</b> - Biomedical Engineering<br>
-<b>Genyu Zhang</b> - M.S. Student in Electrical and Computer Engineering<br>
-<b>Ashwin Sivakumar</b> - M.S. Student in Electrical and Computer Engineering  
 <b>Hanyu She</b> - M.S. Student in Mechanical Engineering   
-<b>Tailun Liu</b> - M.S. Student in Mechanical Engineering  
-<b>Xuchen Ning</b> - M.S. Student in Mechanical Engineering  
-<b>Sithara Kamalakkannan</b> - M.S. Student in Biomedical Engineering      
-<b>Yasmine Kahsai</b> - Roski Design Undergraduate  
 <b>Gabe Glasser</b> - M.S. Student in Biomedical Engineering  
-<b>Mayumi Ishikawa</b> -  BME undergraduate  
 <b>Brandon Miura</b> - BME undergraduate  
 <b>Taylor Stroobosscher</b> - EE undergraduate  
 <b>Théo Denisart</b> -  Visiting Masters Student from EPFL  
@@ -344,9 +349,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Noel Trivedi</b> - CS Undergraduate  
 <b>Elizabeth Chu</b> - CS Undergraduate   
 <b>Shaohui Quian</b> - M.S. Student in Electrical Engineering  
-<b>Huan Zhao</b> - M.S. Student in Biomedical Engineering         
 <b>Vishweshwar Shastri</b> - M.S. Student in Biomedical Engineering    
 <b>Young Jin Kim</b> - CS Undergraduate    
-<b>Chintalapudi Sarath</b> - M.S. Student in Electrical Engineering  
 <b>Paris Hajili</b> - BME Undergraduate    
 <b>Niharika Singh</b> - M.S. Student in Biomedical Engineering<br>
