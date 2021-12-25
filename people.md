@@ -141,8 +141,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="jaehyungchoi"></a>
 		<img src="../Photos/jaehyungchoi.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>Jaehyung Choi</b></font><br>
-		<font size="3">B.S. Student in Quantitative Biology</font><br>
 		<font size="3">M.S. Student in Computer Science</font><br>
+		<font size="3">B.S. Quantitative Biology, 2021</font><br>
 		<a href="mailto:jaehyunc@usc.edu" target="_top">jaehyunc@usc.edu</a><br>
 		Building a messaging pathway between robotic systems and machine learning algorithms.<br>
 	</li>
