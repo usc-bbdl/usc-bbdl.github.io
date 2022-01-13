@@ -225,12 +225,14 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:yock@usc.edu" target="_top">yock@usc.edu</a><br>
 	</li>
 	
+	<!--
 	<li class="flex-item">
 		<a name="justinchen"></a>
 		<font size="3"><b>Justin Chen</b></font><br>
 		<font size="3">M.S. Student in Computer Science (Intelligent Robotics)</font><br>
 		<a href="mailto:jrchen@usc.edu" target="_top">jrchen@usc.edu</a><br>
 	</li>
+	-->
 	
 	<li class="flex-item">
 		<a name="amberhelton"></a>
