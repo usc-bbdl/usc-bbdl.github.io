@@ -21,18 +21,20 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 		<a name="alimarjaninejad"></a>
 		<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.JPG" class = "profilepicture" /><br>
-		<font size="3"><a href="https://valerolab.org/marjani/"><b>Ali Marjaninejad, Ph.D.</b></a></font><br>
+		<font size="3"><b>Ali Marjaninejad, Ph.D.</b></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+		<font size="3"><a href="https://valerolab.org/marjani/"><b>Website</b></a></font><br>
 		Researching AI, Robotics, biomedical signal processing, neuroscience, and brain machine interfaces.<br>
 	</li>
 
 	<li class="flex-item">
 		<a name="andrewerwin"></a>
 		<img src="../Photos/AndrewErwin2.jpeg" class = "profilepicture"/><br>
-		<font size="3"><a href="https://andrewcerwin.com/"><b>Andrew Erwin, Ph.D.</b></a></font><br>
+		<font size="3"><b>Andrew Erwin, Ph.D.</b></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:erwina@usc.edu" target="_top">erwina@usc.edu</a><br>
+		<font size="3"><a href="https://andrewcerwin.com/"><b>Website</b></a></font><br>
 		Investigating the contributions of corticospinal and reticulospinal tracts to motor impairment and recovery after stroke.<br>
 	</li>
 
@@ -113,7 +115,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="rominamir"></a>
 		<img src="../Photos/RominaMir2.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Romina Mir</b></font><br>
-		<font size="3">M.Sc. Student in Biomedical Engineering</font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:rmir@usc.edu" target="_top">rmir@usc.edu</a><br>
 		Studying the role of sensory information in autonomous robotic manipulation.<br>
 	</li>
@@ -121,9 +123,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 		<a name="danielwang"></a>
 		<img src="../Photos/danielwang.png" class = "profilepicture"/><br>
-		<font size="3"><a href="https://danielzw.com/"><b>Daniel Wang</b></a></font><br>
+		<font size="3"><b>Daniel Wang</b></font><br>
 		<font size="3">B.S. Student in Mechanical Engineering and Applied & Computational Mathematics</font><br>
 		<a href="mailto:danielzw@usc.edu" target="_top">danielzw@usc.edu</a><br>
+		<font size="3"><a href="https://danielzw.com/"><b>Website</b></a></font><br>
 		Developing complex mechanical systems.<br>
 	</li>
 	
