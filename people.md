@@ -178,7 +178,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="abhilashkulkarni"></a>
-		<img src="../Photos/AbhilashKulkarni.jpg" class = "profilepicture"/><br>
+		<img src="../Photos/AbhilashKulkarni2.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Abhilash Kulkarni</b></font><br>
 		<font size="3">M.S. Student in Computer Science</font><br>
 		<a href="mailto:ak41739@usc.edu" target="_top">ak41739@usc.edu</a><br>
