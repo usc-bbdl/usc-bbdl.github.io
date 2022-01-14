@@ -128,6 +128,14 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
+		<a name="janlao"></a>
+		<img src="../Photos/JanLao.jpg" class = "profilepicture"/><br>
+		<font size="3"><b>Jan Lao</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:jelao@usc.edu" target="_top">jelao@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
 		<a name="taylorwhite"></a>
 		<img src="../Photos/taylorwhite.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>Taylor White</b></font><br>
@@ -165,16 +173,14 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Interested in leveraging Artificial Intelligence for social good.<br>
 	</li>
 	
-	<!--
 	<li class="flex-item">
-		<a name="charlexli"></a>
-		<img src="../Photos/CharlesLi.JPG" class = "profilepicture"/><br>
-		<font size="3"><b>Charles Xuefei Li</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:xuefeil@usc.edu" target="_top">xuefeil@usc.edu</a><br>
-		Interested in Neuromuscular Biomechanics and Motor Learning and Control.<br>
+		<a name="abhilashkulkarnih"></a>
+		<img src="../Photos/AbhilashKulkarnih.jpg" class = "profilepicture"/><br>
+		<font size="3"><b>Abhilash Kulkarni</b></font><br>
+		<font size="3">M.S. Student in Computer Science</font><br>
+		<a href="mailto:ak41739@usc.edu" target="_top">ak41739@usc.edu</a><br>
+		Building Encoder Data Visualization tool for robots.<br>
 	</li>
-	-->
 
 </ul>
 
@@ -187,13 +193,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Nathan Matharu</b></font><br>
 		<font size="3">B.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:nmatharu@usc.edu" target="_top">nmatharu@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="janlao"></a>
-		<font size="3"><b>Jan Lao</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:jelao@usc.edu" target="_top">jelao@usc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
@@ -224,15 +223,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Medical Device and Diagnostic Engineering</font><br>
 		<a href="mailto:yock@usc.edu" target="_top">yock@usc.edu</a><br>
 	</li>
-	
-	<!--
-	<li class="flex-item">
-		<a name="justinchen"></a>
-		<font size="3"><b>Justin Chen</b></font><br>
-		<font size="3">M.S. Student in Computer Science (Intelligent Robotics)</font><br>
-		<a href="mailto:jrchen@usc.edu" target="_top">jrchen@usc.edu</a><br>
-	</li>
-	-->
 	
 	<li class="flex-item">
 		<a name="amberhelton"></a>
@@ -363,3 +353,23 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Catherine Leigh Raquel</b> - Stanford Human Biology Bachelor's<br>
 <b>Rose Chiang</b> - Ph.D. Biomedical Engineering (Rotation): <a href="https://www.linkedin.com/in/rose-chiang-103b76a1/">LinkedIn</a><br>
 <b>Taylor Stroobosscher</b> - B.S. Electrical Engineering<br>
+
+<!-- Old Profiles
+
+	<li class="flex-item">
+		<a name="charlexli"></a>
+		<img src="../Photos/CharlesLi.JPG" class = "profilepicture"/><br>
+		<font size="3"><b>Charles Xuefei Li</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:xuefeil@usc.edu" target="_top">xuefeil@usc.edu</a><br>
+		Interested in Neuromuscular Biomechanics and Motor Learning and Control.<br>
+	</li>
+
+	<li class="flex-item">
+		<a name="justinchen"></a>
+		<font size="3"><b>Justin Chen</b></font><br>
+		<font size="3">M.S. Student in Computer Science (Intelligent Robotics)</font><br>
+		<a href="mailto:jrchen@usc.edu" target="_top">jrchen@usc.edu</a><br>
+	</li>
+
+-->
