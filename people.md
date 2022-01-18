@@ -184,6 +184,15 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:ak41739@usc.edu" target="_top">ak41739@usc.edu</a><br>
 		Building Encoder Data Visualization tool for robots.<br>
 	</li>
+	
+	<li class="flex-item">
+		<a name="Mmhammadhesamazadjou"></a>
+		<img src="../Photos/MohammadHesamAzadjou.jpeg" class = "profilepicture"/><br>
+		<font size="3"><b>MohammadHesam Azadjou</b></font><br>
+		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
+		<a href="mailto:azadjou@usc.edu" target="_top">azadjou@usc.edu</a><br>
+		Research in Biomedical Signal Processing, Computational Neuroscience and Machine Learning.<br>
+	</li>
 
 </ul>
 
@@ -241,12 +250,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:scottsus@usc.edu" target="_top">scottsus@usc.edu</a><br>
 	</li>
 	
-	<li class="flex-item">
-		<a name="hesamazadjou"></a>
-		<font size="3"><b>Hesam Azadjou</b></font><br>
-		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
-		<a href="mailto:azadjou@usc.edu" target="_top">azadjou@usc.edu</a><br>
-	</li>
 </ul>
 <br>
 
@@ -297,6 +300,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea, 2005<br>
 
 ## Internship Alumni
+<b>Justin Chen</b> - M.S. Computer Science (Intelligent Robotics), 2021<br>
 <b>Neil Koby Reid</b> - M.S. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
 <b>Jiaoran Wang</b> - M.S. Mechanical Engineering, 2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
 <b>Genyu Zhang</b> - M.S. Electrical and Computer Engineering, 2021:<a href="https://www.linkedin.com/in/gengyu-bobby-zhang/">LinkedIn</a><br>
