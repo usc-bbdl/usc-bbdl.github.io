@@ -73,15 +73,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Interested in how the brain uses somatosensory information to control the human movement.<br>
 	</li>
 	
-	<li class="flex-item">
-		<a name="mohammadhesamazadjou"></a>
-		<img src="../Photos/MohammadHesamAzadjou.jpeg" class = "profilepicture"/><br>
-		<font size="3"><b>MohammadHesam Azadjou</b></font><br>
-		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
-		<font size="3">(Rotation)</font><br>
-		<a href="mailto:azadjou@usc.edu" target="_top">azadjou@usc.edu</a><br>
-		Research in Biomedical Signal Processing, Computational Neuroscience and Machine Learning.<br>
-	</li>
 </ul>
 
 <br>
@@ -110,6 +101,16 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<font size="3">(Rotation)</font><br>
 		<a href="mailto:fanelle@usc.edu" target="_top">fanelle@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="mohammadhesamazadjou"></a>
+		<img src="../Photos/MohammadHesamAzadjou.jpeg" class = "profilepicture"/><br>
+		<font size="3"><b>MohammadHesam Azadjou</b></font><br>
+		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
+		<font size="3">(Rotation)</font><br>
+		<a href="mailto:azadjou@usc.edu" target="_top">azadjou@usc.edu</a><br>
+		Research in Biomedical Signal Processing, Computational Neuroscience and Machine Learning.<br>
 	</li>
 
 </ul>
