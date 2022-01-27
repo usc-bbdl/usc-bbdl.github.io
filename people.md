@@ -135,7 +135,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="danielwang"></a>
 		<img src="../Photos/danielwang.png" class = "profilepicture"/><br>
 		<font size="3"><b>Daniel Wang</b></font><br>
-		<font size="3">B.S. Student in Mechanical Engineering and Applied & Computational Mathematics</font><br>
+		<font size="3">B.S. Student in Mechanical Engineering</font><br>
+		<font size="3">B.S. Student in Applied & Computational Mathematics</font><br>
 		<a href="mailto:danielzw@usc.edu" target="_top">danielzw@usc.edu</a><br>
 		<font size="3"><a href="https://danielzw.com/"><b>Website</b></a></font><br>
 		Developing complex mechanical systems.<br>
@@ -182,6 +183,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="yifanxue"></a>
 		<img src="../Photos/YifanXue.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Yifan Xue</b></font><br>
+		<font size="3">B.S. Student in Mechanical Engineering</font><br>
 		<font size="3">M.S. Student in Product Development Engineering</font><br>
 		<a href="mailto:yifanxue@usc.edu" target="_top">yifanxue@usc.edu</a><br>
 	</li>
@@ -235,6 +237,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 		<a name="andrewyock"></a>
 		<font size="3"><b>Andrew Yock</b></font><br>
+		<font size="3">B.S. Student in Biomedical Engineering</font><br>
 		<font size="3">M.S. Student in Medical Device and Diagnostic Engineering</font><br>
 		<a href="mailto:yock@usc.edu" target="_top">yock@usc.edu</a><br>
 	</li>
@@ -244,13 +247,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Amber Helton</b></font><br>
 		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:ahelton@usc.edu" target="_top">ahelton@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="scottsusanto"></a>
-		<font size="3"><b>Scott Susanto</b></font><br>
-		<font size="3">B.S. Student in Computer Science</font><br>
-		<a href="mailto:scottsus@usc.edu" target="_top">scottsus@usc.edu</a><br>
 	</li>
 	
 </ul>
@@ -296,58 +292,59 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Natalia Castillo, M.D.</b> - 2001<br>
 
 ## Sabbatical and Visiting Faculty
-<b>Maria Makarov</b> - SUPELEC, Paris, France, 2014<br>
-<b>Robert Riener</b> - Institute of Robotics and Intelligent Systems, ETF Zurich, 2013<br>
-<b>Marta Covadonga Mora Aguilar</b> - Universitat Jaume I, Spain, 2010<br>
-<b>Anupam Saxena</b> - IIT Kangpur, 2007<br>
-<b>Jae Woong Yi</b> - Agency of Defense Development, South Korea, 2005<br>
+<b>Maria Makarov</b> - SUPELEC, Paris, France - 2014<br>
+<b>Robert Riener</b> - Institute of Robotics and Intelligent Systems, ETF Zurich - 2013<br>
+<b>Marta Covadonga Mora Aguilar</b> - Universitat Jaume I, Spain - 2010<br>
+<b>Anupam Saxena</b> - IIT Kangpur - 2007<br>
+<b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
-<b>Justin Chen</b> - M.S. Computer Science (Intelligent Robotics), 2021<br>
-<b>Neil Koby Reid</b> - M.S. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
-<b>Jiaoran Wang</b> - M.S. Mechanical Engineering, 2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
-<b>Genyu Zhang</b> - M.S. Electrical and Computer Engineering, 2021: <a href="https://www.linkedin.com/in/gengyu-bobby-zhang/">LinkedIn</a><br>
-<b>Xuchen Ning</b> - M.S. Mechanical Engineering, 2020<br>
-<b>Tailun Liu</b> - M.S. Mechanical Engineering, 2020: <a href="https://www.linkedin.com/in/tailun-liu-124406170/?originalSubdomain=cn">LinkedIn</a><br>
-<b>Sithara Kamalakkannan</b> - M.S. Computer Science, 2019: <a href="https://www.linkedin.com/in/sitharak/">LinkedIn</a><br>
-<b>Ashwin Sivakumar</b> - M.S. Electrical and Computer Engineering, 2019: <a href="https://www.linkedin.com/in/ashshiv/">LinkedIn</a><br>
-<b>Huan Zhao</b> - M.S. Biomedical Engineering, 2019: <a href="https://www.linkedin.com/in/huan-zhao-b281641a3/">LinkedIn</a><br>
-<b>Paris Hajili</b> - B.S. Biomedical Engineering, 2019: <a href="https://www.linkedin.com/in/paris-hajali-601857a7/">LinkedIn</a><br>
-<b>Yasmine Kahsai</b> - B.A. Design, 2018: <a href="https://www.linkedin.com/in/yasmine-kahsai/">LinkedIn</a><br>
-<b>Chintalapudi Sarath</b> - M.S. Electrical Engineering, 2018: <a href="https://www.linkedin.com/in/chintalapudisarath/">LinkedIn</a><br>
-<b>Mayumi Ishikawa</b> - B.S. Biomedical Engineering, 2018: <a href="https://www.linkedin.com/in/mayumi-ishikawa-72806a155/">LinkedIn</a><br>
-<b>Gabe Glasser</b> - M.S. Biomedical Engineering, 2018: <a href="https://www.linkedin.com/in/gabriel-glasser-biotech/">LinkedIn</a><br>
-<b>Théo Denisart</b> -  Visiting Masters Student from EPFL, 2018: <a href="https://www.linkedin.com/in/th%C3%A9o-tim-denisart-947b4532/?originalSubdomain=ch">LinkedIn</a> | <a href="https://helvitek.com/en/about-us/">Website</a><br>
-<b>Maral Kasiri</b> - M.S. Biomedical Engineering, 2018: <a href="https://www.linkedin.com/in/maralkasiri/">LinkedIn</a><br>
-<b>Niharika Singh</b> - M.S. Biomedical Engineering, 2017: <a href="https://www.linkedin.com/in/niharika-singh/">LinkedIn</a><br>
-<b>Young Jin Kim</b> - B.S. Computer Science, 2017: <a href="https://kimyou1994.github.io/">Website</a><br>
-<b>Vishweshwar Shastri</b> - M.S. Biomedical Engineering, 2017: <a href="https://www.linkedin.com/in/vishweshwershastri/">LinkedIn</a><br>
-<b>Noel Trivedi</b> - B.S. Computer Science, 2017: <a href="https://www.linkedin.com/in/noeltrivedi/">LinkedIn</a><br>
-<b>Feihong Qian</b> - B.S. Computer Science, 2017: <a href="https://www.linkedin.com/in/feihong-qian-0a106a57/">LinkedIn</a><br>
-<b>Babak Taherian</b> - M.S. Biomedical Engineering, 2017: <a href="https://www.linkedin.com/in/babak-taherian-75a26260/">LinkedIn</a><br>
-<b>Sébastien Arnold</b> - B.S. Computer Science, B.A. Mathematics, 2017: <a href="sebarnold.net">Website</a><br>
-<b>Priyanka Vachhani</b> - M.S. Global Medicine, 2017: <a href="https://www.linkedin.com/in/priyankavachhani/">LinkedIn</a><br>
-<b>Melisa Osborne</b> - B.S. Biomedical Engineering, 2017: <a href="https://www.linkedin.com/in/melisa-osborne-biomed/">LinkedIn</a><br>
-<b>Taegyum Kim</b> - B.S. Computer Science, 2017: <a href="https://www.linkedin.com/in/ktaegyum/">LinkedIn</a><br>
-<b>Giridhar Akila Dhakshinamoorthy</b> - M.S. Computer Science, 2017: <a href="https://www.linkedin.com/in/giridhar-a-d/">LinkedIn</a><br>
-<b>Keegan Bate</b> - M.S. Biomedical Engineering, 2017: <a href="https://www.linkedin.com/in/keegan-bate-103b87a3/">LinkedIn</a><br>
-<b>Brandon Miura</b> - M.S. Biomedical Engineering, 2017: <a href="https://www.linkedin.com/in/brandon-miura-996b1882/">LinkedIn</a><br>
-<b>Victor Esparza</b> - M.S. Electrical Engineering (Control Systems), 2017: <a href="https://www.linkedin.com/in/victoresparza/">LinkedIn</a> | <a href="https://sites.google.com/a/usc.edu/victor/">Website</a><br>
-<b>Sloan Swieso</b> - B.S. Computer Science, 2016: <a href="https://www.linkedin.com/in/sloanswieso/">LinkedIn</a><br>
-<b>Xingchen Liao</b> - B.S. Computer Science, 2016: <a href="https://www.linkedin.com/in/xingchenliao/">LinkedIn</a><br>
-<b>Jiayang Miao</b> - B.S. Computer Science, 2016: <a href="https://www.linkedin.com/in/jiayang-miao-00244463/">LinkedIn</a><br>
-<b>Catherine Parsekian</b> - Claremont McKenna Neuroscience Bachelor's, 2016: <a href="https://www.linkedin.com/in/catherine-parsekian/">LinkedIn</a><br>
-<b>Akira Nagamori</b> - M.S. Biomedical Engineering, 2014: <a href="https://www.linkedin.com/in/akira-nagamori-39920b89/">LinkedIn</a> | <a href="https://www.researchgate.net/profile/Akira-Nagamori">Website</a><br>
-<b>Juan Miguel Ramirez Rocamora</b> - M.S. Biomedical Engineering, 2014<br>
-<b>Kang Woo Lee</b> - M.S. Biomedical Engineering, 2014<br>
-<b>Brendan Holt</b> - M.S. Biomedical Engineering, 2012<br>
-<b>Wenhsin (Alice) Hu</b> - M.S. Biomedical Engineering, 2012<br>
-<b>Nora Nelson</b> - M.S. Biomedical Engineering, 2010<br>
-<b>Jonathan Weisz</b> - M.S. Biomedical Engineering, 2009<br>
-<b>Vic Anand</b> - Ph.D. Accounting, M.S. Accounting (Cornell), 2005: <a href="https://www.linkedin.com/in/vic-anand/">LinkedIn</a> | <a href="https://vanand74.github.io/">Website</a><br>
-<b>Laurel Kuxhaus</b> - M.S. Mechanical Engineering (Cornell), 2003: <a href="https://www.linkedin.com/in/laurel-kuxhaus-48142613a/">LinkedIn</a> | <a href="https://www.clarkson.edu/people/laurel-kuxhaus">Website</a><br>
-<b>Jonathan Pearlman</b> - M.S. Mechanical Engineering (Cornell), 2002: <a href="https://www.shrs.pitt.edu/people/jonathan-pearlman">Website</a><br>
-<b>Nathan Wilson</b> - M.Eng. Artificial Intelligence (Cornell), 2000: <a href="https://www.linkedin.com/in/nathan2005/">LinkedIn</a> | <a href="http://www.nathanwilson.com/">Website</a><br>
+<b>Scott Susanto</b> - B.S. Computer Engineering and Computer Science - 2022<br>
+<b>Justin Chen</b> - M.S. Computer Science (Intelligent Robotics) - 2021<br>
+<b>Neil Koby Reid</b> - M.S. Biomedical Engineering - 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
+<b>Jiaoran Wang</b> - M.S. Mechanical Engineering -  2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
+<b>Genyu Zhang</b> - M.S. Electrical and Computer Engineering - 2021: <a href="https://www.linkedin.com/in/gengyu-bobby-zhang/">LinkedIn</a><br>
+<b>Xuchen Ning</b> - M.S. Mechanical Engineering - 2020<br>
+<b>Tailun Liu</b> - M.S. Mechanical Engineering - 2020: <a href="https://www.linkedin.com/in/tailun-liu-124406170/?originalSubdomain=cn">LinkedIn</a><br>
+<b>Sithara Kamalakkannan</b> - M.S. Computer Science - 2019: <a href="https://www.linkedin.com/in/sitharak/">LinkedIn</a><br>
+<b>Ashwin Sivakumar</b> - M.S. Electrical and Computer Engineering - 2019: <a href="https://www.linkedin.com/in/ashshiv/">LinkedIn</a><br>
+<b>Huan Zhao</b> - M.S. Biomedical Engineering - 2019: <a href="https://www.linkedin.com/in/huan-zhao-b281641a3/">LinkedIn</a><br>
+<b>Paris Hajili</b> - B.S. Biomedical Engineering - 2019: <a href="https://www.linkedin.com/in/paris-hajali-601857a7/">LinkedIn</a><br>
+<b>Yasmine Kahsai</b> - B.A. Design - 2018: <a href="https://www.linkedin.com/in/yasmine-kahsai/">LinkedIn</a><br>
+<b>Chintalapudi Sarath</b> - M.S. Electrical Engineering - 2018: <a href="https://www.linkedin.com/in/chintalapudisarath/">LinkedIn</a><br>
+<b>Mayumi Ishikawa</b> - B.S. Biomedical Engineering - 2018: <a href="https://www.linkedin.com/in/mayumi-ishikawa-72806a155/">LinkedIn</a><br>
+<b>Gabe Glasser</b> - M.S. Biomedical Engineering - 2018: <a href="https://www.linkedin.com/in/gabriel-glasser-biotech/">LinkedIn</a><br>
+<b>Théo Denisart</b> -  Visiting Masters Student from EPFL - 2018: <a href="https://www.linkedin.com/in/th%C3%A9o-tim-denisart-947b4532/?originalSubdomain=ch">LinkedIn</a> | <a href="https://helvitek.com/en/about-us/">Website</a><br>
+<b>Maral Kasiri</b> - M.S. Biomedical Engineering - 2018: <a href="https://www.linkedin.com/in/maralkasiri/">LinkedIn</a><br>
+<b>Niharika Singh</b> - M.S. Biomedical Engineering - 2017: <a href="https://www.linkedin.com/in/niharika-singh/">LinkedIn</a><br>
+<b>Young Jin Kim</b> - B.S. Computer Science - 2017: <a href="https://kimyou1994.github.io/">Website</a><br>
+<b>Vishweshwar Shastri</b> - M.S. Biomedical Engineering - 2017: <a href="https://www.linkedin.com/in/vishweshwershastri/">LinkedIn</a><br>
+<b>Noel Trivedi</b> - B.S. Computer Science - 2017: <a href="https://www.linkedin.com/in/noeltrivedi/">LinkedIn</a><br>
+<b>Feihong Qian</b> - B.S. Computer Science - 2017: <a href="https://www.linkedin.com/in/feihong-qian-0a106a57/">LinkedIn</a><br>
+<b>Babak Taherian</b> - M.S. Biomedical Engineering - 2017: <a href="https://www.linkedin.com/in/babak-taherian-75a26260/">LinkedIn</a><br>
+<b>Sébastien Arnold</b> - B.S. Computer Science, B.A. Mathematics - 2017: <a href="sebarnold.net">Website</a><br>
+<b>Priyanka Vachhani</b> - M.S. Global Medicine - 2017: <a href="https://www.linkedin.com/in/priyankavachhani/">LinkedIn</a><br>
+<b>Melisa Osborne</b> - B.S. Biomedical Engineering - 2017: <a href="https://www.linkedin.com/in/melisa-osborne-biomed/">LinkedIn</a><br>
+<b>Taegyum Kim</b> - B.S. Computer Science - 2017: <a href="https://www.linkedin.com/in/ktaegyum/">LinkedIn</a><br>
+<b>Giridhar Akila Dhakshinamoorthy</b> - M.S. Computer Science - 2017: <a href="https://www.linkedin.com/in/giridhar-a-d/">LinkedIn</a><br>
+<b>Keegan Bate</b> - M.S. Biomedical Engineering - 2017: <a href="https://www.linkedin.com/in/keegan-bate-103b87a3/">LinkedIn</a><br>
+<b>Brandon Miura</b> - M.S. Biomedical Engineering - 2017: <a href="https://www.linkedin.com/in/brandon-miura-996b1882/">LinkedIn</a><br>
+<b>Victor Esparza</b> - M.S. Electrical Engineering (Control Systems) - 2017: <a href="https://www.linkedin.com/in/victoresparza/">LinkedIn</a> | <a href="https://sites.google.com/a/usc.edu/victor/">Website</a><br>
+<b>Sloan Swieso</b> - B.S. Computer Science - 2016: <a href="https://www.linkedin.com/in/sloanswieso/">LinkedIn</a><br>
+<b>Xingchen Liao</b> - B.S. Computer Science - 2016: <a href="https://www.linkedin.com/in/xingchenliao/">LinkedIn</a><br>
+<b>Jiayang Miao</b> - B.S. Computer Science - 2016: <a href="https://www.linkedin.com/in/jiayang-miao-00244463/">LinkedIn</a><br>
+<b>Catherine Parsekian</b> - Claremont McKenna Neuroscience Bachelor's - 2016: <a href="https://www.linkedin.com/in/catherine-parsekian/">LinkedIn</a><br>
+<b>Akira Nagamori</b> - M.S. Biomedical Engineering - 2014: <a href="https://www.linkedin.com/in/akira-nagamori-39920b89/">LinkedIn</a> | <a href="https://www.researchgate.net/profile/Akira-Nagamori">Website</a><br>
+<b>Juan Miguel Ramirez Rocamora</b> - M.S. Biomedical Engineering - 2014<br>
+<b>Kang Woo Lee</b> - M.S. Biomedical Engineering - 2014<br>
+<b>Brendan Holt</b> - M.S. Biomedical Engineering - 2012<br>
+<b>Wenhsin (Alice) Hu</b> - M.S. Biomedical Engineering - 2012<br>
+<b>Nora Nelson</b> - M.S. Biomedical Engineering - 2010<br>
+<b>Jonathan Weisz</b> - M.S. Biomedical Engineering - 2009<br>
+<b>Vic Anand</b> - Ph.D. Accounting, M.S. Accounting (Cornell) - 2005: <a href="https://www.linkedin.com/in/vic-anand/">LinkedIn</a> | <a href="https://vanand74.github.io/">Website</a><br>
+<b>Laurel Kuxhaus</b> - M.S. Mechanical Engineering (Cornell) - 2003: <a href="https://www.linkedin.com/in/laurel-kuxhaus-48142613a/">LinkedIn</a> | <a href="https://www.clarkson.edu/people/laurel-kuxhaus">Website</a><br>
+<b>Jonathan Pearlman</b> - M.S. Mechanical Engineering (Cornell) - 2002: <a href="https://www.shrs.pitt.edu/people/jonathan-pearlman">Website</a><br>
+<b>Nathan Wilson</b> - M.Eng. Artificial Intelligence (Cornell) - 2000: <a href="https://www.linkedin.com/in/nathan2005/">LinkedIn</a> | <a href="http://www.nathanwilson.com/">Website</a><br>
 <b>Hanyu She</b> - M.S. Mechanical Engineering<br>
 <b>Shaohui Quian</b> - M.S. Electrical Engineering<br>
 <b>Elizabeth Chu</b> - B.S. Computer Science<br>
@@ -373,6 +370,13 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Justin Chen</b></font><br>
 		<font size="3">M.S. Student in Computer Science (Intelligent Robotics)</font><br>
 		<a href="mailto:jrchen@usc.edu" target="_top">jrchen@usc.edu</a><br>
+	</li>
+
+	<li class="flex-item">
+		<a name="scottsusanto"></a>
+		<font size="3"><b>Scott Susanto</b></font><br>
+		<font size="3">B.S. Student in Computer Engineering and Computer Science</font><br>
+		<a href="mailto:scottsus@usc.edu" target="_top">scottsus@usc.edu</a><br>
 	</li>
 
 -->
