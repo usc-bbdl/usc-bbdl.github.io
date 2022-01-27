@@ -179,6 +179,14 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
+		<a name="yifanxue"></a>
+		<img src="../Photos/YifanXue.jpg" class = "profilepicture"/><br>
+		<font size="3"><b>Yifan Xue</b></font><br>
+		<font size="3">M.S. Student in Product Development Engineering</font><br>
+		<a href="mailto:yifanxue@usc.edu" target="_top">yifanxue@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
 		<a name="paritoshsingh"></a>
 		<img src="../Photos/paritoshsingh.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>Paritosh Singh</b></font><br>
@@ -214,13 +222,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Andrew Iwamoto</b></font><br>
 		<font size="3">M.S. Student in Aerospace and Mechanical Engineering</font><br>
 		<a href="mailto:aiwamoto@usc.edu" target="_top">aiwamoto@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="yifanxue"></a>
-		<font size="3"><b>Yifan Xue</b></font><br>
-		<font size="3">M.S. Student in Product Development Engineering</font><br>
-		<a href="mailto:yifanxue@usc.edu" target="_top">yifanxue@usc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
