@@ -299,7 +299,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
-<b>Scott Susanto</b> - B.S. Computer Engineering and Computer Science - 2022<br>
+<b>Scott Susanto</b> - B.S. Computer Engineering and Computer Science - 2022: <a href="https://www.linkedin.com/in/scottsusanto/">LinkedIn</a><br>
 <b>Justin Chen</b> - M.S. Computer Science (Intelligent Robotics) - 2021<br>
 <b>Neil Koby Reid</b> - M.S. Biomedical Engineering - 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
 <b>Jiaoran Wang</b> - M.S. Mechanical Engineering -  2021: <a href="https://www.linkedin.com/in/jiaoranw/">LinkedIn</a><br>
