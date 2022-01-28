@@ -23,6 +23,13 @@ menu: main
 <br><br>
 ------------------------------------------
 <br>
+# June 17, 2021
+# USC Divison of Biokinesiology and Physical Therapy:
+# Dr. Valero-Cuevas Research Presentation 6/17/21
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9sO-kFhReGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+------------------------------------------
+<br>
 # April 21, 2021
 # Human Movement Sciences at Vrije Universiteit Amsterdam:
 # Colloquium by Dr. Francisco Valero-Cuevas
