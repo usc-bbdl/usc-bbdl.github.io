@@ -51,7 +51,7 @@ Year:
 Attached CV/Resume and Unofficial Transcript:
 Explain why you are interested in our research, and refer to specific papers that you were intrigued by. (paragraph)  
 Specific Skills to gain as a part of this project:
-If you are a woman or member of an underrepresented minority in science, technology, engineering or mathematics, please make sure you mention that.
+If you are a woman or member of an underrepresented minority in science, technology, engineering or mathematics, you are encouraged to apply!
 
 # External Collaboration Proposals
 We typically host 1-2 students or visiting scientists to participate in the lab on an interdisciplinary project. These projects typically culminate in a conference abstract and/or publication of the research findings. To submit a proposal, include the following information in an email to valero@usc.edu.
