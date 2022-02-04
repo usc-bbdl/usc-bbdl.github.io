@@ -28,7 +28,7 @@ Submit all of the following to valero@usc.edu in a single PDF document.
 • Which of those categories do you serve to improve upon the most? and why? (paragraph)  
 • Describe two technical skills that you aim to master as a result of pursuing a PhD in the lab. (paragraph)  
 • Describe two interpersonal skills that you aim to master as a result of pursuing a PhD in the lab. (paragraph)  
-• Women or members of underrepresented minorites in science, technology, engineering, or mathematics are encouraged to apply!
+• Women or members of underrepresented minorities in science, technology, engineering, or mathematics are encouraged to apply!
 
 ### What projects are available?  
 As Ph.D. students are training to be independent thinkers, they are responsible for instigating new directions for their research. If our previous research literature excites you, we'll work together on crafting a new project for you.
@@ -51,7 +51,7 @@ Year:
 Attached CV/Resume and Unofficial Transcript:
 Explain why you are interested in our research, and refer to specific papers that you were intrigued by. (paragraph)  
 Specific Skills to gain as a part of this project:
-Women or members of underrepresented minorites in science, technology, engineering, or mathematics are encouraged to apply!
+Women or members of underrepresented minorities in science, technology, engineering, or mathematics are encouraged to apply!
 
 # External Collaboration Proposals
 We typically host 1-2 students or visiting scientists to participate in the lab on an interdisciplinary project. These projects typically culminate in a conference abstract and/or publication of the research findings. To submit a proposal, include the following information in an email to valero@usc.edu.
@@ -62,4 +62,4 @@ Attached CV/Resume:
 Project Aim:  
 Methods:  
 People within ValeroLab to involve:  
-Women or members of underrepresented minorites in science, technology, engineering, or mathematics are encouraged to apply!
+Women or members of underrepresented minorities in science, technology, engineering, or mathematics are encouraged to apply!
