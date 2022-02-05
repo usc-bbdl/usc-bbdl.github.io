@@ -12,8 +12,7 @@ menu: main
 <br>
 # February 4, 2022
 # USC Viterbi News:
-# Francisco Valero-Cuevas Selected As One of 12 U.S. Scientists To Advise on Issues of Medical Rehab and Disabilities
-[https://viterbischool.usc.edu/news/2022/02/francisco-valero-cuevas-selected-as-one-of-12-u-s-scientists-to-advise-on-issues-of-medical-rehab-and-disabilities/](https://viterbischool.usc.edu/news/2022/02/francisco-valero-cuevas-selected-as-one-of-12-u-s-scientists-to-advise-on-issues-of-medical-rehab-and-disabilities/)
+# [Francisco Valero-Cuevas Selected As One of 12 U.S. Scientists To Advise on Issues of Medical Rehab and Disabilities](https://viterbischool.usc.edu/news/2022/02/francisco-valero-cuevas-selected-as-one-of-12-u-s-scientists-to-advise-on-issues-of-medical-rehab-and-disabilities/)
 <br><br>
 -------------------------------------------
 <br>
