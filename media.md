@@ -26,7 +26,7 @@ menu: main
 # USC Divison of Biokinesiology and Physical Therapy:
 # Research Update with Dr. Francisco Valero Cuevas
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WKZKKBaBFoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
+<br>
 ------------------------------------------
 <br>
 # June 17, 2021
