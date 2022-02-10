@@ -5,7 +5,7 @@ permalink: /people/
 menu: main
 ---
 ## PI: Francisco Valero-Cuevas, Ph.D.
-<img src="../Photos/FVC3.jpg"  width="50%" /><br><br>
+<img src="../Photos/FVC3.jpg"  width="75%" /><br><br>
 <a href="mailto:valero@usc.edu" target="_top">valero@usc.edu</a><br><br>
 *Francisco's Bio*  
 I attended Swarthmore College from 1984-88 where I obtained a BS degree in Engineering. After spending a year in the Indian subcontinent as a Thomas J Watson Fellow, I joined Queen's University in Ontario and worked with Dr. Carolyn Small. The research for my Master's Degree in Mechanical Engineering at Queen's focused on developing non-invasive methods to estimate the kinematic integrity of the wrist joint.<br>
@@ -20,7 +20,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="alimarjaninejad"></a>
-		<img src="../Photos/photoshoot_spring_2018/alimarjaninejad.JPG" class = "profilepicture" /><br>
+		<img src="../Photos/alimarjaninejad_sq.JPG" class = "profilepicture" /><br>
 		<font size="3"><b>Ali Marjaninejad, Ph.D.</b></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
@@ -30,7 +30,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="andrewerwin"></a>
-		<img src="../Photos/AndrewErwin2.jpeg" class = "profilepicture"/><br>
+		<img src="../Photos/AndrewErwin2_sq.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>Andrew Erwin, Ph.D.</b></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:erwina@usc.edu" target="_top">erwina@usc.edu</a><br>
@@ -47,7 +47,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="surajchakravarthi"></a>
-		<img src="../Photos/photoshoot_spring_2018/surajchakravarthi.JPG" class = "profilepicture" ><br>
+		<img src="../Photos/surajchakravarthi_sq.JPG" class = "profilepicture" ><br>
 		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
 		<font size="3">Ph.D. Student in Electrical Engineering</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
@@ -56,7 +56,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="dariourbina"></a>
-		<img src="../Photos/photoshoot_spring_2018/dariourbina.JPG" class = "profilepicture" /><br>
+		<img src="../Photos/dariourbina_sq.JPG" class = "profilepicture" /><br>
 		<font size="3"><b>Darío Urbina</b></font><br>
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
@@ -65,7 +65,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="angelobartsch"></a>
-		<img src="../Photos/AngeloBartschJimenez.jpg" class = "profilepicture" /><br>
+		<img src="../Photos/AngeloBartschJimenez_sq.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Angelo Bartsch Jimenez</b></font><br>
 		<font size="3">Ph.D. Student in Biokinesiology</font><br>
 		<font size="3">M.Sc. in Statistics</font><br>
@@ -105,7 +105,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="mohammadhesamazadjou"></a>
-		<img src="../Photos/MohammadHesamAzadjou.jpeg" class = "profilepicture"/><br>
+		<img src="../Photos/MohammadHesamAzadjou_sq.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>MohammadHesam Azadjou</b></font><br>
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<font size="3">(Rotation)</font><br>
@@ -124,7 +124,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="rominamir"></a>
-		<img src="../Photos/RominaMir2.jpg" class = "profilepicture" /><br>
+		<img src="../Photos/RominaMir2_sq.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Romina Mir</b></font><br>
 		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:rmir@usc.edu" target="_top">rmir@usc.edu</a><br>
@@ -133,7 +133,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="danielwang"></a>
-		<img src="../Photos/danielwang.png" class = "profilepicture"/><br>
+		<img src="../Photos/danielwang_sq.png" class = "profilepicture"/><br>
 		<font size="3"><b>Daniel Wang</b></font><br>
 		<font size="3">B.S. Student in Mechanical Engineering</font><br>
 		<font size="3">B.S. Student in Applied & Computational Mathematics</font><br>
@@ -144,7 +144,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="janlao"></a>
-		<img src="../Photos/JanLao.jpg" class = "profilepicture"/><br>
+		<img src="../Photos/JanLao_sq.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Jan Lao</b></font><br>
 		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:jelao@usc.edu" target="_top">jelao@usc.edu</a><br>
@@ -152,7 +152,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="taylorwhite"></a>
-		<img src="../Photos/taylorwhite.jpeg" class = "profilepicture"/><br>
+		<img src="../Photos/taylorwhite_sq.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>Taylor White</b></font><br>
 		<font size="3">B.S. Student in Biomedical Engineering</font><br>
 		<font size="3">M.S. Student in Medical Device Diagnostics and Engineering</font><br>
@@ -162,7 +162,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="jaehyungchoi"></a>
-		<img src="../Photos/jaehyungchoi.jpeg" class = "profilepicture"/><br>
+		<img src="../Photos/jaehyungchoi_sq.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>Jaehyung Choi</b></font><br>
 		<font size="3">M.S. Student in Computer Science</font><br>
 		<font size="3">B.S. Quantitative Biology, 2021</font><br>
@@ -172,7 +172,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="nicksun"></a>
-		<img src="../Photos/NickSun.jpg" class = "profilepicture"/><br>
+		<img src="../Photos/NickSun_sq.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Nick Mengyu Sun</b></font><br>
 		<font size="3">B.S. Student in Electrical Engineering</font><br>
 		<a href="mailto:mengyusu@usc.edu" target="_top">mengyusu@usc.edu</a><br>
@@ -181,7 +181,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="yifanxue"></a>
-		<img src="../Photos/YifanXue.jpg" class = "profilepicture"/><br>
+		<img src="../Photos/YifanXue_sq.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Yifan Xue</b></font><br>
 		<font size="3">B.S. Student in Mechanical Engineering</font><br>
 		<font size="3">M.S. Student in Product Development Engineering</font><br>
@@ -190,7 +190,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="andrewiwamoto"></a>
-		<img src="../Photos/AndrewIwamoto.jpg" class = "profilepicture"/><br>
+		<img src="../Photos/AndrewIwamoto_sq.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Andrew Iwamoto</b></font><br>
 		<font size="3">M.S. Student in Aerospace and Mechanical Engineering</font><br>
 		<a href="mailto:aiwamoto@usc.edu" target="_top">aiwamoto@usc.edu</a><br>
@@ -199,7 +199,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="paritoshsingh"></a>
-		<img src="../Photos/paritoshsingh.jpeg" class = "profilepicture"/><br>
+		<img src="../Photos/paritoshsingh_sq.jpeg" class = "profilepicture"/><br>
 		<font size="3"><b>Paritosh Singh</b></font><br>
 		<font size="3">M.S. Student in Computer Science (Artificial Intelligence)</font><br>
 		<a href="mailto:paritosh@usc.edu" target="_top">paritosh@usc.edu</a><br>
@@ -208,7 +208,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="abhilashkulkarni"></a>
-		<img src="../Photos/AbhilashKulkarni2.jpg" class = "profilepicture"/><br>
+		<img src="../Photos/AbhilashKulkarni2_sq.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Abhilash Kulkarni</b></font><br>
 		<font size="3">M.S. Student in Computer Science</font><br>
 		<a href="mailto:ak41739@usc.edu" target="_top">ak41739@usc.edu</a><br>
