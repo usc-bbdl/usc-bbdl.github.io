@@ -222,7 +222,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Communication Data Science</font><br>
 		<font size="3">B.A. Public Relations</font><br>
 		<a href="mailto:fungn@usc.edu" target="_top">fungn@usc.edu</a><br>
-		Interested in finding out what types of assistive technology the disability community is interested in and whether or not that aligns with the work of the scientific community.
+		Interested in finding out what types of assistive technology the disability community is interested in and whether or not that aligns with the work of the scientific community.<br>
 	</li>
 
 </ul>
