@@ -138,7 +138,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">B.S. Student in Mechanical Engineering</font><br>
 		<font size="3">B.S. Student in Applied & Computational Mathematics</font><br>
 		<a href="mailto:danielzw@usc.edu" target="_top">danielzw@usc.edu</a><br>
-		<font size="3"><a href="https://danielzw.com/"><b>Website</b></a></font><br>
+		<font size="3"><a href="https://danielzw.com/">Website</a></font><br>
 		Developing complex mechanical systems.<br>
 	</li>
 	
