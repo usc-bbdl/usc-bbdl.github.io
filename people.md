@@ -17,16 +17,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 ## PostDocs
 <ul class="flex-container">
-	
-	<li class="flex-item">
-		<a name="alimarjaninejad"></a>
-		<img src="../Photos/alimarjaninejad_sq.JPG" class = "profilepicture" /><br>
-		<font size="3"><b>Ali Marjaninejad, Ph.D.</b></font><br>
-		<font size="3">Postdoctoral Research Associate</font><br>
-		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
-		<font size="3"><a href="https://valerolab.org/marjani/">Website</a></font><br>
-		Researching AI, Robotics, biomedical signal processing, neuroscience, and brain machine interfaces.<br>
-	</li>
 
 	<li class="flex-item">
 		<a name="andrewerwin"></a>
@@ -285,6 +275,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Madhusudhan Venkadesan</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://www.linkedin.com/in/mvenkadesan/">LinkedIn</a> | <a href="https://seas.yale.edu/faculty-research/faculty-directory/madhusudhan-venkadesan">Website</a><br>
 
 ## Postdoctoral Alumni
+<b>Ali Marjaninejad, Ph.D.</b> - 2022: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
 <b>Kian Jalaleddini, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/kian-jalaleddini/">LinkedIn</a><br>
 <b>Jun Yong Shin, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/junyongshin/">LinkedIn</a><br>
 <b>Christopher Laine, Ph.D.</b> - 2016: <a href="https://www.linkedin.com/in/chris-laine-8a11124/">LinkedIn</a><br>
@@ -389,6 +380,16 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Scott Susanto</b></font><br>
 		<font size="3">B.S. Student in Computer Engineering and Computer Science</font><br>
 		<a href="mailto:scottsus@usc.edu" target="_top">scottsus@usc.edu</a><br>
+	</li>
+
+	<li class="flex-item">
+		<a name="alimarjaninejad"></a>
+		<img src="../Photos/alimarjaninejad_sq.JPG" class = "profilepicture" /><br>
+		<font size="3"><b>Ali Marjaninejad, Ph.D.</b></font><br>
+		<font size="3">Postdoctoral Research Associate</font><br>
+		<a href="mailto:marjanin@usc.edu" target="_top">marjanin@usc.edu</a><br>
+		<font size="3"><a href="https://valerolab.org/marjani/">Website</a></font><br>
+		Researching AI, Robotics, biomedical signal processing, neuroscience, and brain machine interfaces.<br>
 	</li>
 
 -->
