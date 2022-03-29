@@ -10,6 +10,12 @@ menu: main
 <br>
 -------------------------------------------
 <br>
+# March 24, 2022
+# USC Viterbi News:
+# [Towards Acing the Turing Test: A Blueprint for Future AI and Robots that Learn Like Living Things](https://viterbischool.usc.edu/news/2022/03/towards-acing-the-turing-test-a-blueprint-for-future-ai-and-robots-that-learn-like-living-things/)
+<br>
+------------------------------------------- 
+<br>
 # February 4, 2022
 # USC Viterbi News:
 # [Francisco Valero-Cuevas Selected As One of 12 U.S. Scientists To Advise on Issues of Medical Rehab and Disabilities](https://viterbischool.usc.edu/news/2022/02/francisco-valero-cuevas-selected-as-one-of-12-u-s-scientists-to-advise-on-issues-of-medical-rehab-and-disabilities/)
