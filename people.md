@@ -3,6 +3,7 @@ layout: page
 title: People
 permalink: /people/
 menu: main
+navigation_weight: 1
 ---
 ## PI: Francisco Valero-Cuevas, Ph.D.
 <img src="../Photos/FVC3.jpg"  width="75%" /><br><br>
