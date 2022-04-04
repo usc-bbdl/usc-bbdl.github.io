@@ -253,6 +253,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 </ul>
 <br>
+-------------------------------------------
+<br>
 
 ## Doctoral Alumni  
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
