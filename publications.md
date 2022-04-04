@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 menu: main
+navigation_weight: 3
 ---
 <a>
 <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location.href=this.options[this.selectedIndex].value;this.options[0].selected;" style="width:300px;font-size:16px;border:none;-webkit-appearance:none; color: 'blue'" >

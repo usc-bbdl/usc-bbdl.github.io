@@ -3,6 +3,7 @@ layout: page
 title: CRCNS    U.S. - Japan
 permalink: /crcns/
 menu: main
+navigation_weight: 4
 ---
 # Collaborative Research in Computational Neuroscience
 <img src="../img/crcns/logos_v4.png"  width="100%" /><br>

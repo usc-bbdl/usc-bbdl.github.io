@@ -3,6 +3,7 @@ layout: page
 title: Work with us
 permalink: /work/
 menu: main
+navigation_weight: 5
 ---
 
 <b> PostDoc Position Available </b>   

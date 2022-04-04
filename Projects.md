@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 menu: main
+navigation_weight: 1
 ---
 
 <style>
