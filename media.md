@@ -3,6 +3,7 @@ layout: page
 title: Media
 permalink: /media/
 menu: main
+navigation_weight: 6
 ---
 <br>
 # Twitter: [@ValeroLab](https://twitter.com/valerolab)

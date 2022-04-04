@@ -3,6 +3,7 @@ layout: page
 title: Book
 permalink: /fundamentals/
 menu: main
+navigation_weight: 7
 ---
 
 # Fundamentals of Neuromechanics
