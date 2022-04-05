@@ -24,7 +24,7 @@ navigation_weight: 3
 <link rel="stylesheet" type="text/css" media="screen" href="../css/styles.css" />
 <div>
 <div class="yearbuttons">
-{% for year_of_interest in (1997..2021) reversed %}
+{% for year_of_interest in (1997..2022) reversed %}
   <a class="year_button_container" href="#{{year_of_interest}}">
     <button class="year_button">{{year_of_interest}}</button>
   </a>
