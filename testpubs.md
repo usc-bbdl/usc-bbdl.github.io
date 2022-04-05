@@ -14,9 +14,10 @@ menu: main2
 <button onclick="window.location.href='../invitedsymposia/';">Invited Symposia</button>
 <button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
 </div>
+<br>
 
 <script src="../publication_tags.js"></script>
-
+<h3>Years</h3>
 <link rel="stylesheet" type="text/css" media="screen" href="../css/styles.css" />
 <div>
 <div class="yearbuttons">
@@ -26,7 +27,7 @@ menu: main2
   </a>
   {% endfor %}
 </div>
-  <br>
+<br>
 <h3>Topics</h3>
 
 <button onclick="showAll()">Show All</button>
