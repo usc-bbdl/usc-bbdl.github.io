@@ -14,7 +14,6 @@ menu: main2
 <button onclick="window.location.href='../invitedsymposia/';">Invited Symposia</button>
 <button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
 </div>
-<br>
 
 <script src="../publication_tags.js"></script>
 <h3>Years</h3>
@@ -37,9 +36,9 @@ menu: main2
 <button onclick="showOnly('.clinical_research')">Clinical Research</button>
 <button onclick="showOnly('.biomechanics')">Biomechanics</button>
 <button onclick="showOnly('.manipulation')">Manipulation</button>
-<br>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>
+<br>
 <!-- make sure the max date is the current year! -->
 {% for year_of_interest in (1997..2022) reversed %}
 
