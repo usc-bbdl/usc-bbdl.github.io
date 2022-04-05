@@ -16,7 +16,7 @@ menu: main2
 </div>
 
 <script src="../publication_tags.js"></script>
-<br>
+
 <h3>Years</h3>
 <link rel="stylesheet" type="text/css" media="screen" href="../css/styles.css" />
 <div>
