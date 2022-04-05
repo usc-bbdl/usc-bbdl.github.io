@@ -1067,6 +1067,6 @@ Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Contr
   </div>
 
   <div data-role="footer">
-    <h1>USC BBDL</h1>
+    <h1>USC ValeroLab</h1>
   </div>
 </div>
