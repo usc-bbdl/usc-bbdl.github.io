@@ -14,7 +14,7 @@ menu: main2
 <button onclick="window.location.href='../invitedsymposia/';">Invited Symposia</button>
 <button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
 </div>
-<br>
+
 
 <script src="../publication_tags.js"></script>
 <h3>Years</h3>
