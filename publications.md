@@ -44,7 +44,7 @@ navigation_weight: 3
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>
 <!-- make sure the max date is the current year! -->
-{% for year_of_interest in (1997..2021) reversed %}
+{% for year_of_interest in (1997..2022) reversed %}
 
   {% comment %} casting an integer to a string {% endcomment %}
   {% assign yearAsString = year_of_interest | append:"" %}
