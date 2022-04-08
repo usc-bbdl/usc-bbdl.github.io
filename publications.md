@@ -5,7 +5,7 @@ permalink: /publications/
 menu: main
 navigation_weight: 3
 ---
-<a>
+<!-- <a>
 <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.location.href=this.options[this.selectedIndex].value;this.options[0].selected;" style="width:300px;font-size:16px;border:none;-webkit-appearance:none; color: 'blue'" >
 <option value="">Click here for Extended Publications</option>
 <option value="../fulllengthpeerreviewedabstracts/">Full-Length Peer-Reviewed Abstracts</option>
@@ -15,22 +15,33 @@ navigation_weight: 3
 <option value="../invitedsymposia/">Invited Symposia</option>
 <option value="../dissertation_theses/">Dissertations & Theses</option>
 </select>
-</a>
+</a> -->
+
+<div>
+<button onclick="window.location.href='../publications/';">Publications</button>
+<button onclick="window.location.href='../fulllengthpeerreviewedabstracts/';">Full-Length Peer-Reviewed Abstracts</button>
+<button onclick="window.location.href='../peerreviewedabstracts/';">Peer-Reviewed Abstracts</button>
+<button onclick="window.location.href='../abstracts/';">Abstracts</button>
+<button onclick="window.location.href='../bookchpt/';">Book Chapters</button>
+<button onclick="window.location.href='../invitedsymposia/';">Invited Symposia</button>
+<button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
+</div>
 
 <!-- Clipboard copier -->
-<script async src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
+<!-- <script async src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script> -->
 <script src="../publication_tags.js"></script>
 
+<h3>Years</h3>
 <link rel="stylesheet" type="text/css" media="screen" href="../css/styles.css" />
 <div>
 <div class="yearbuttons">
-{% for year_of_interest in (1997..2021) reversed %}
+{% for year_of_interest in (1997..2022) reversed %}
   <a class="year_button_container" href="#{{year_of_interest}}">
     <button class="year_button">{{year_of_interest}}</button>
   </a>
   {% endfor %}
 </div>
-  <br>
+<br>
 <h3>Topics</h3>
 
 <button onclick="showAll()">Show All</button>
@@ -44,7 +55,7 @@ navigation_weight: 3
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>
 <!-- make sure the max date is the current year! -->
-{% for year_of_interest in (1997..2021) reversed %}
+{% for year_of_interest in (1997..2022) reversed %}
 
   {% comment %} casting an integer to a string {% endcomment %}
   {% assign yearAsString = year_of_interest | append:"" %}
@@ -60,13 +71,13 @@ navigation_weight: 3
                {{paper.Author}} <a class="article_title" href="../../{{paper.Link}}"
                target="_blank"
                title="{{paper.Abstract}}">{{paper.Title}}</a> <i>{{paper.Journal}}</i>, {{paper.Year}} <br>
-                 <button class="btn" data-clipboard-text="{{paper.BibTex}}">Copy BibTex</button>
+                 <!-- <button class="btn" data-clipboard-text="{{paper.BibTex}}">Copy BibTex</button> -->
              </div>
              </div>
      {% endfor %}
  {% endfor %}
 
- <script>
+ <!-- <script>
  window.onload = function(){
    var clipboard = new Clipboard('.btn');
    clipboard.on('success', function(e) {
@@ -77,7 +88,7 @@ navigation_weight: 3
        console.log(e);
    });
  }
- </script>
+ </script> -->
 
  <!-- end Clipboard copier -->
  <!-- scroll to top button -->
