@@ -15,30 +15,6 @@ menu: main2
 <button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
 </div>
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-
-<!-- scroll to top button -->
-
- <script>
- // When the user scrolls down 20px from the top of the document, show the button
- window.onscroll = function() {scrollFunction()};
-
- function scrollFunction() {
-     if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 20) {
-         document.getElementById("myBtn").style.display = "block";
-     } else {
-         document.getElementById("myBtn").style.display = "none";
-     }
- }
-
- // When the user clicks on the button, scroll to the top of the document
- function topFunction() {
-     document.body.scrollTop = 0; // For Chrome, Safari and Opera
-     document.documentElement.scrollTop = 0; // For IE and Firefox
- }
- </script>
- <!-- scroll to top button -->
-
 <head>
   <style>
     th
@@ -53,6 +29,7 @@ menu: main2
 </head>
 
 <body>
+
 <table>
     <tr>
         <th>Citation</th>
@@ -308,4 +285,27 @@ menu: main2
 
 
 </table>
+ 
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<!-- scroll to top button -->
+<script>
+ // When the user scrolls down 20px from the top of the document, show the button
+ window.onscroll = function() {scrollFunction()};
+
+ function scrollFunction() {
+     if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 20) {
+         document.getElementById("myBtn").style.display = "block";
+     } else {
+         document.getElementById("myBtn").style.display = "none";
+     }
+ }
+
+ // When the user clicks on the button, scroll to the top of the document
+ function topFunction() {
+     document.body.scrollTop = 0; // For Chrome, Safari and Opera
+     document.documentElement.scrollTop = 0; // For IE and Firefox
+ }
+</script>
+<!-- scroll to top button -->
+ 
 </body>
