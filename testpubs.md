@@ -15,28 +15,6 @@ menu: main2
 <button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
 </div>
 
- <!-- scroll to top button -->
-
- <script>
- // When the user scrolls down 20px from the top of the document, show the button
- window.onscroll = function() {scrollFunction()};
-
- function scrollFunction() {
-     if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 20) {
-         document.getElementById("myBtn").style.display = "block";
-     } else {
-         document.getElementById("myBtn").style.display = "none";
-     }
- }
-
- // When the user clicks on the button, scroll to the top of the document
- function topFunction() {
-     document.body.scrollTop = 0; // For Chrome, Safari and Opera
-     document.documentElement.scrollTop = 0; // For IE and Firefox
- }
- </script>
- <!-- scroll to top button -->
-
 
 <head>
   <style>
@@ -68,8 +46,7 @@ menu: main2
         <tr>
           <th>Citation</th>
           <th data-priority="1">PDF</th>
-          <th data-priority="2">Supplemental Materials</th>
-          <th data-priority="3">Year</th>
+          <th data-priority="2">Year</th>
         </tr>
       </thead>
 
@@ -81,7 +58,6 @@ menu: main2
             <b>"Evaluating the learnability-dimensionality relationship in a tendon-driven finger"</b> <br>
             Proceedings of the 48th Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2018</td>
         <td><a href="../Abstracts/cohn_sfn_2018.pdf">Link</a></td>
-        <td></td>
         <td>2018</td>
       </tr>
 
@@ -91,7 +67,6 @@ menu: main2
             <b>"Small errors in movement paths can induce dramatic changes in musculotendon velocities"</b> <br>
             Proceedings of the 48th Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2018</td>
         <td><a href="../Abstracts/hagen_sfn_2018.pdf">Link</a></td>
-        <td></td>
         <td>2018</td>
       </tr>
 
@@ -100,7 +75,6 @@ menu: main2
             <b>"Can Motor Noise Account for Force Variability?"</b> <br>
             Proceedings of the 48th Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2018</td>
         <td><a href="../Abstracts/Akira_Nagamori_SfN_2018_Abstract.pdf">Link</a></td>
-        <td></td>
         <td>2018</td>
       </tr>
 
@@ -110,7 +84,6 @@ menu: main2
             <b>"An integrative neuromorphic approach to modeling of voluntary motor function."</b> <br>
             Proceedings of the 48th Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2018</td>
         <td><a href="../Abstracts/2018_SCRaja_SfNAbstract.pdf">Link</a></td>
-        <td></td>
         <td>2018</td>
       </tr>
 
@@ -120,7 +93,6 @@ menu: main2
             <b>"A computational model of afferented muscles reproduces cardinal features of force variability"</b> <br>
             Proceedings of the 28th Annual Meeting of the Society for the Neural Control of Movement, Santa Fe, New Mexico, USA, May 2018</td>
         <td><a href="../Abstracts/AN_NCM_Abstract_2018.pdf">Link</a></td>
-        <td></td>
         <td>2018</td>
       </tr>
 
@@ -130,7 +102,6 @@ menu: main2
             <b>"Neuromechanical implications of postural changes to motor learning and performance"</b> <br>
             Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
         <td><a href="../Papers/cohn_jalaleddini_valerocuevas_asb_2017.pdf">Link</a></td>
-        <td></td>
         <td>2017</td>
       </tr>
 
@@ -140,7 +111,6 @@ menu: main2
             <b>"Evidence That Tuning of Muscle Spindles Can Be Decoupled from Muscle Activation"</b> <br>
             Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
         <td><a href="../Papers/ASB2017_Poster_Kian.pdf">Link</a></td>
-        <td></td>
         <td>2017</td>
       </tr>
 
@@ -150,7 +120,6 @@ menu: main2
             <b>"Simple and Two-Element Hill-Type Muscle Models Cannot Replicate Realistic Muscle Stiffness"</b> <br>
             Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
         <td><a href="../Papers/Ko2016Dynamic.pdf">Link</a></td>
-        <td></td>
         <td>2017</td>
       </tr>
 
@@ -159,7 +128,6 @@ menu: main2
             <b>"Interactions between Tendon Stiffness and Spindle Afferent Feedback Determine the Magnitude of Involuntary Force Variability"</b> <br>
             Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
         <td><a href="../Papers/ASB_2017_nagamori.pdf">Link</a></td>
-        <td></td>
         <td>2017</td>
       </tr>
 
@@ -168,7 +136,6 @@ menu: main2
             <b>"Specific Manual Tasks Transform EMG into a Probe for Neural Dysfunction in Parkinson’s Disease"</b> <br>
             Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.</td>
         <td><a href="../Papers/CML_FJVC_ASB_2017.pdf">Link</a></td>
-        <td></td>
         <td>2017</td>
       </tr>
 
@@ -177,7 +144,6 @@ menu: main2
               <b>"Dynamic fingertip force variability in individuals with Parkinsons disease."</b> <br>
               Hand Rehabilitation Section, American Physical Therapy Association Combined Sections Meeting, Anaheim, CA, Feb 17-20, 2016.</td>
           <td><a href="../Papers/Ko2016Dynamic.pdf">Link</a></td>
-          <td></td>
           <td>2016</td>
         </tr>
 
@@ -185,7 +151,6 @@ menu: main2
           <td>Lawrence EL, Nagamori A, Valero-Cuevas FJ, Finley JM.<br>
               <b>"Prolonged immobilization and unloading leads to profound and long-lasting changes in spinal excitability."</b> <br>
               Proceedings of the 44th Annual Meeting of the Society for Neuroscience, Washington DC, November 15-19, 2014.</td>
-          <td></td>
           <td></td>
           <td>2014</td>
         </tr>
@@ -195,7 +160,6 @@ menu: main2
               <b>"Participation in elite sports improves neuromuscular control as detected by the Lower Extremity Strength-Dexterity Test."</b> <br>
               Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013.</td>
           <td></td>
-          <td></td>
           <td>2013</td>
         </tr>
 
@@ -203,7 +167,6 @@ menu: main2
           <td>Ko N*, Lawrence EL*, Dayanidhi S*, Hu W, DiConti A, Lerner J, Winstein CW, Requejo P, Fisher B, Valero-Cuevas FJ. <br>
               <b>"The Strength-Dexterity test can detect differences in dynamic control of fingertip forces between individuals with Parkinson's disease and non-disabled older adults."</b> <br>
               Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013. *denotes equal contribution</td>
-          <td></td>
           <td></td>
           <td>2013</td>
         </tr>
@@ -213,7 +176,6 @@ menu: main2
               <b>"Physiologically-based control of a robotic tendon-driven system."</b> <br>
               Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013.</td>
           <td></td>
-          <td></td>
           <td>2013</td>
         </tr>
 
@@ -221,7 +183,6 @@ menu: main2
           <td>Babikian S, Kanso E, Valero-Cuevas FJ. <br>
               <b>"Pre-tensioning of musculotendons is necessary to achieve finger postures and slow finger motions."</b> <br>
               Proceedings of the 43rd annual meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013.</td>
-          <td></td>
           <td></td>
           <td>2013</td>
         </tr>
@@ -231,7 +192,6 @@ menu: main2
               <b>"Spectral activity of cortical activity during manipulation of unstable objects revels task-dependent spatiotemporal features."</b> <br>
               Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013.</td>
           <td></td>
-          <td></td>
           <td>2013</td>
         </tr>
 
@@ -240,7 +200,6 @@ menu: main2
               <b>Extracting mathematical models defining index finger kinematics using symbolic regression.</b> <br>
               Proceedings of the 14th Annual Fred S. Grodins Graduate Research Symposium, Los Angeles, CA, April 10th, 2010. </td>
           <td><a href="https://usc-bbdl.github.io/Papers/Kurse2010mathematical.pdf">Link</a></td>
-          <td></td>
           <td>2010</td>
         </tr>
 
@@ -248,7 +207,6 @@ menu: main2
           <td>Kurse MU, Valero-Cuevas FJ., Lipson H. <br>
               <b>Estimating the Topology of the Extensor Mechanism of the Human Finger.</b> <br>
               Proceedings of the 12th Annual Fred S. Grodins Graduate Research Symposium, Los Angeles, CA, April 5th, 2010. </td>
-          <td></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -258,7 +216,6 @@ menu: main2
               <b>"Motion and force are not controlled independently in multi-finger manipulation tasks."</b> <br>
               40th Annual Meeting of the Society for Neuroscience, San Diego, CA, 2010.</td>
           <td></td>
-          <td></td>
           <td>2010</td>
         </tr>
 
@@ -267,7 +224,6 @@ menu: main2
               <b>"Muscle redundancy does not imply robustness to muscle dysfunction"</b> <br>
               40th Annual Meeting of the Society for Neuroscience, San Diego CA, November 2010.</td>
           <td><a href="https://usc-bbdl.github.io/Papers/Kutch2010Muscle.pdf">Link</a></td>
-          <td></td>
           <td>2010</td>
         </tr>
 
@@ -275,7 +231,6 @@ menu: main2
           <td>Kutch JJ, Valero-Cuevas FJ <br>
               <b>"Obtaining complete solution sets for neuromuscular models"</b> <br>
               ASME 2010 Summer Bioengineering Conference, Naples, FL, June 2010.</td>
-          <td></td>
           <td></td>
           <td>2010</td>
         </tr>
@@ -285,7 +240,6 @@ menu: main2
               <b>"Muscle synergies may be artifacts of biomechanics rather than neural constraints, and are not necessary to simplify control"</b> <br>
               39th Annual Meeting of the Society for Neuroscience, Chicago IL, October 2009.</td>
           <td></td>
-          <td></td>
           <td>2009</td>
         </tr>
 
@@ -294,7 +248,6 @@ menu: main2
               <b>"The spatio-temporal structure of force variability in static grasp suggests a continually active neural controller."</b> <br>
               Summer Bioengineering Conference of the American Society of Mechanical Engineers, Naples, FL, 2010.</td>
           <td><a href="https://usc-bbdl.github.io/Papers/Kornelius2010spatio.pdf">Link</a></td>
-          <td></td>
           <td>2010</td>
         </tr>
 
@@ -302,7 +255,6 @@ menu: main2
           <td>Kuxhaus LC, Valero-Cuevas FJ, and Roach SS. <br>
               <b>Effect of simulated low ulnar nerve palsy on the 3D force production capabilities of the thumb.</b> <br>
               Upstate Medical University Alumni Day, Syracuse University, Syracuse, NY, 2003.</td>
-          <td></td>
           <td></td>
           <td>2003</td>
         </tr>
@@ -312,7 +264,6 @@ menu: main2
               <b>Stochastic analysis of anatomical data suggests three characteristic types of thumb kinematics. </b> <br>
               Proceedings of the American Society of Mechanical Engineers Summer Bioengineering Conference, Key Biscayne, FL. 2003.</td>
           <td><a href="https://usc-bbdl.github.io/Papers/Santos2003Stochastic.PDF">Link</a></td>
-          <td></td>
           <td>2003</td>
         </tr>
 
@@ -321,7 +272,6 @@ menu: main2
               <b>The dynamic sensorimotor regulation of fingertip force vectors is independent of hand strength.</b> <br>
               33th Annual Meeting of the Society for Neuroscience. New Orleans, LA, 2003.</td>
           <td><a href="https://usc-bbdl.github.io/Papers/Venkadesan2003dynamic.pdf">Link</a></td>
-          <td></td>
           <td>2003</td>
         </tr>
 
@@ -329,7 +279,6 @@ menu: main2
           <td>Valero-Cuevas FJ, Venkadesan, M, Talati, A Hirsch J. <br>
               <b>How networks of cortical activity adapt in response to changes in the type and quality of sensory input during dynamic precision pinch.</b> <br>
               32th Annual Meeting of the Society for Neuroscience. Orlando, FL, 2002.</td>
-          <td></td>
           <td></td>
           <td>2002</td>
         </tr>
@@ -339,7 +288,6 @@ menu: main2
               <b>Scaling of muscle activation patterns during generation of isometric fingertip forces. </b> <br>
               28th Annual Meeting of the Society for Neuroscience. Los Angeles, CA, 1998.</td>
           <td></td>
-          <td></td>
           <td>1998</td>
         </tr>
 
@@ -347,7 +295,6 @@ menu: main2
           <td>Valero-Cuevas FJ, Burgar C, Zajac FE, Hentz VR, McGill KC, An KN. <br>
               <b>Muscle coordination during maximal index-finger ad-abduction forces. </b> <br>
               Abstracts V. I, 26th Annual Meeting of the Society for Neuroscience, Washington, DC., 1996.</td>
-          <td></td>
           <td></td>
           <td>1996</td>
         </tr>
@@ -359,3 +306,25 @@ menu: main2
   <div data-role="footer">
   </div>
 </div>
+
+ <!-- scroll to top button -->
+
+ <script>
+ // When the user scrolls down 20px from the top of the document, show the button
+ window.onscroll = function() {scrollFunction()};
+
+ function scrollFunction() {
+     if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 20) {
+         document.getElementById("myBtn").style.display = "block";
+     } else {
+         document.getElementById("myBtn").style.display = "none";
+     }
+ }
+
+ // When the user clicks on the button, scroll to the top of the document
+ function topFunction() {
+     document.body.scrollTop = 0; // For Chrome, Safari and Opera
+     document.documentElement.scrollTop = 0; // For IE and Firefox
+ }
+ </script>
+ <!-- scroll to top button -->
