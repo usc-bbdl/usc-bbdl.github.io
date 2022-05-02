@@ -13,6 +13,7 @@ menu: main2
 <button onclick="window.location.href='../bookchpt/';">Book Chapters</button>
 <button onclick="window.location.href='../invitedsymposia/';">Invited Symposia</button>
 <button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>
 
 
@@ -32,14 +33,8 @@ menu: main2
 <body>
 
 <div data-role="page" id="pageone">
-  <div data-role="header">
-    <h1>Abstracts</h1>
-  </div>
 
   <div data-role="main" class="ui-content">
-   <!--  <form>
-      <input id="filterTable-input" data-type="search" placeholder="Search For Publications...">
-    </form> -->
 
     <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input">
       <thead>
