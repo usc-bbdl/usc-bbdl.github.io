@@ -18,17 +18,17 @@ menu: main2
 <h1 style="font-size:40px;">Years</h1>
 
 <div>
-<button onclick="window.location.href='#2018';">Publications</button>
-<button onclick="window.location.href='#2017';">Publications</button>
-<button onclick="window.location.href='#2016';">Publications</button>
-<button onclick="window.location.href='#2014';">Publications</button>
-<button onclick="window.location.href='#2013';">Publications</button>
-<button onclick="window.location.href='#2010';">Publications</button>
-<button onclick="window.location.href='#2009';">Publications</button>
-<button onclick="window.location.href='#2003';">Publications</button>
-<button onclick="window.location.href='#2002';">Publications</button>
-<button onclick="window.location.href='#1998';">Publications</button>
-<button onclick="window.location.href='#1996';">Publications</button>
+<button onclick="window.location.href='#2018';">2018</button>
+<button onclick="window.location.href='#2017';">2017</button>
+<button onclick="window.location.href='#2016';">2016</button>
+<button onclick="window.location.href='#2014';">2014</button>
+<button onclick="window.location.href='#2013';">2013</button>
+<button onclick="window.location.href='#2010';">2010</button>
+<button onclick="window.location.href='#2009';">2009</button>
+<button onclick="window.location.href='#2003';">2003</button>
+<button onclick="window.location.href='#2002';">2002</button>
+<button onclick="window.location.href='#1998';">1998</button>
+<button onclick="window.location.href='#1996';">1996</button>
 </div>
 
 <head>
