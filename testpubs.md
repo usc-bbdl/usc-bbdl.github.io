@@ -135,8 +135,7 @@ Proceedings of the 44th Annual Meeting of the Society for Neuroscience, Washingt
 <h1 style="font-size:40px;">2013</h1>
 
 Lawrence EL, Lyle MA, Werner I, Krenn O, Lorenzi D, Kernbeiss S, Gondolatsch B, Frontull V, Zarfl M, Posch M, Valero-Cuevas FJ<br>
-<b><a href="" title="">
-"Participation in elite sports improves neuromuscular control as detected by the Lower Extremity Strength-Dexterity Test"</a></b><br>
+<b>"Participation in elite sports improves neuromuscular control as detected by the Lower Extremity Strength-Dexterity Test"</b><br>
 Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013<br>
   
 <br> 
@@ -241,15 +240,13 @@ Valero-Cuevas FJ, Venkadesan, M, Talati, A Hirsch J<br>
 <h1 style="font-size:40px;">1998</h1>
 
 Valero-Cuevas FJ, Burgar CG, Johanson ME, Zajac FE<br>
-<b><a href="" title="">
-"Scaling of muscle activation patterns during generation of isometric fingertip forces"</a></b><br>
+<b>"Scaling of muscle activation patterns during generation of isometric fingertip forces"</b><br>
 28th Annual Meeting of the Society for Neuroscience. Los Angeles, CA, 1998<br>
   
 <h1 style="font-size:40px;">1996</h1>
 
 Valero-Cuevas FJ, Burgar C, Zajac FE, Hentz VR, McGill KC, An KN<br>
-<b><a href="" title="">
-"Muscle coordination during maximal index-finger ad-abduction forces"</a></b><br>
+<b>"Muscle coordination during maximal index-finger ad-abduction forces"</b><br>
 Abstracts V. I, 26th Annual Meeting of the Society for Neuroscience, Washington, DC., 1996<br>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
