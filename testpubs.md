@@ -83,7 +83,8 @@ Nagamori A, Laine CM, Valero-Cuevas FJ<br>
 <b><a href="../Abstracts/AN_NCM_Abstract_2018.pdf" title="">
 "A computational model of afferented muscles reproduces cardinal features of force variability"</a></b><br>
 Proceedings of the 28th Annual Meeting of the Society for the Neural Control of Movement, Santa Fe, New Mexico, USA, May 2018<br>
-  
+
+<br>
 <h1 style="font-size:40px;">2017</h1>
 
 Cohn BA, Jalaleddini K, Valero-Cuevas FJ<br>
@@ -118,20 +119,23 @@ Laine CM, Valero-Cuevas FJ<br>
 <b><a href="../Papers/CML_FJVC_ASB_2017.pdf" title="">
 "Specific Manual Tasks Transform EMG into a Probe for Neural Dysfunction in Parkinson’s Disease"</a></b><br>
 Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017<br>
-  
+
+<br>
 <h1 style="font-size:40px;">2016</h1>
 
 Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ<br>
 <b><a href="../Papers/Ko2016Dynamic.pdf" title="">
 "Dynamic fingertip force variability in individuals with Parkinsons disease"</a></b><br>
 Hand Rehabilitation Section, American Physical Therapy Association Combined Sections Meeting, Anaheim, CA, Feb 17-20, 2016<br>
-  
+
+<br>
 <h1 style="font-size:40px;">2014</h1>
 
 Lawrence EL, Nagamori A, Valero-Cuevas FJ, Finley JM<br>
 <b>"Prolonged immobilization and unloading leads to profound and long-lasting changes in spinal excitability."</b><br>
 Proceedings of the 44th Annual Meeting of the Society for Neuroscience, Washington DC, November 15-19, 2014<br>
 
+<br>
 <h1 style="font-size:40px;">2013</h1>
 
 Lawrence EL, Lyle MA, Werner I, Krenn O, Lorenzi D, Kernbeiss S, Gondolatsch B, Frontull V, Zarfl M, Posch M, Valero-Cuevas FJ<br>
@@ -165,7 +169,6 @@ Reyes A, Lawrence EL, Babikian S, Liu CY, Heck CN, Valero-Cuevas FJ<br>
 Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013<br>
   
 <br>   
-      
 <h1 style="font-size:40px;">2010</h1>
 
 Kurse MU, Schmidt M, Lipson H, Valero-Cuevas FJ<br>
@@ -177,7 +180,7 @@ Proceedings of the 14th Annual Fred S. Grodins Graduate Research Symposium, Los 
 
 Kurse MU, Valero-Cuevas FJ, Lipson H<br>
 <b>"Estimating the Topology of the Extensor Mechanism of the Human Finger"</b><br>
-Proceedings of the 12th Annual Fred S. Grodins Graduate Research Symposium, Los Angeles, CA, April 5th, 201<br>
+Proceedings of the 12th Annual Fred S. Grodins Graduate Research Symposium, Los Angeles, CA, April 5th, 2010<br>
   
 <br> 
 
@@ -205,12 +208,14 @@ R&aacute;cz, K, Inouye J, Valero-Cuevas FJ<br>
 "The spatio-temporal structure of force variability in static grasp suggests a continually active neural controller"</a></b><br>
 Summer Bioengineering Conference of the American Society of Mechanical Engineers, Naples, FL, 2010<br>
 
+<br>
 <h1 style="font-size:40px;">2009</h1>
 
 Kutch JJ, Kurse MU, Hoffmann H, Kuo AD, Valero-Cuevas FJ<br>
 <b>"Muscle synergies may be artifacts of biomechanics rather than neural constraints, and are not necessary to simplify control"</b><br>
 39th Annual Meeting of the Society for Neuroscience, Chicago IL, October 2009<br>
 
+<br>
 <h1 style="font-size:40px;">2003</h1>
 
 Kuxhaus LC, Valero-Cuevas FJ, and Roach SS<br>
@@ -230,19 +235,22 @@ Venkadesan M, Valero-Cuevas FJ, Guckenheimer JM<br>
 <b><a href="https://usc-bbdl.github.io/Papers/Venkadesan2003dynamic.pdf" title="">
 "The dynamic sensorimotor regulation of fingertip force vectors is independent of hand strength"</a></b><br>
 33th Annual Meeting of the Society for Neuroscience. New Orleans, LA, 2003<br>
-  
+
+<br>
 <h1 style="font-size:40px;">2002</h1>
 
 Valero-Cuevas FJ, Venkadesan, M, Talati, A Hirsch J<br>
 <b>"How networks of cortical activity adapt in response to changes in the type and quality of sensory input during dynamic precision pinch"</b><br>
 32th Annual Meeting of the Society for Neuroscience. Orlando, FL, 2002<br>
-  
+
+<br>
 <h1 style="font-size:40px;">1998</h1>
 
 Valero-Cuevas FJ, Burgar CG, Johanson ME, Zajac FE<br>
 <b>"Scaling of muscle activation patterns during generation of isometric fingertip forces"</b><br>
 28th Annual Meeting of the Society for Neuroscience. Los Angeles, CA, 1998<br>
-  
+
+<br>
 <h1 style="font-size:40px;">1996</h1>
 
 Valero-Cuevas FJ, Burgar C, Zajac FE, Hentz VR, McGill KC, An KN<br>
