@@ -48,7 +48,7 @@ menu: main2
     
   </style>
 </head>
-
+<body>
 <h1 style = font-size: 50px>2018</h1>
 
 Cohn BA, Marjaninejad A, Valero-Cuevas FJ<br>
@@ -120,6 +120,7 @@ Proceedings of the 48th Annual Meeting of the Society for Neuroscience, San Dieg
      document.documentElement.scrollTop = 0; // For IE and Firefox
  }
 </script>
+</body>
 <!-- scroll to top button -->
 
 <!-- <body>
