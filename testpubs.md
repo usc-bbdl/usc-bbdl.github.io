@@ -80,7 +80,7 @@ Proceedings of the 48th Annual Meeting of the Society for Neuroscience, San Dieg
 <br>
 
 Nagamori A, Laine CM, Valero-Cuevas FJ<br>
-<b><a href="../Abstracts/AN_NCM_Abstract_2018.pdf" title="">
+<b><a href="../Abstracts/AN_NCM_Abstract_2018.pdf" title="Accurate and precise movement executions are confronted with variability associated with generation of muscle force. Such variability arises from various sources including mechanical properties of muscles and limbs, motor unit properties, proprioceptive feedback, and descending neural commands. Previously, contributions of individual sources have been studied in isolation and in a feedforward manner. However, those factors interact during closed-loop control, which describes nearly all experimental paradigms in which muscle force must be voluntarily controlled. Recently, we showed using a closed-loop simulation of an afferented muscle that neuromechanical interactions among neural noise, mechanical properties of musculotendon unit, proprioceptive feedback and error corrective mechanism suffice to explain cardinal features of involuntary force variability previously observed experimentally. Here, we attempt to extend this observation by incorporating new elements in our model. New elements added to our existing model include stochastic motor unit firing patterns, conversion of neural firing into muscle force, and additional spinal feedback pathways within and across muscles (pathway involved with monosynaptic Ia excitatory feedback, Ia inhibitory interneurons, Ib interneurons, Renshaw inhibitory interneurons, propriospinal interneurons,). Our results show that motor unit properties are important, yet are typically insufficient to explain the majority of force variability or its frequency spectrum. Importantly, we demonstrate previously an unrecognized influence of coordinated activities between two muscles on the amplitude and spectral features of force variability. These results highlight potential importance of such neuromechanical interactions in understanding the generation of force variability in precise and accurate motor tasks and explaining physiological mechanisms of altered neuromuscular control in health and diseases.">
 "A computational model of afferented muscles reproduces cardinal features of force variability"</a></b><br>
 Proceedings of the 28th Annual Meeting of the Society for the Neural Control of Movement, Santa Fe, New Mexico, USA, May 2018<br>
 
@@ -88,7 +88,7 @@ Proceedings of the 28th Annual Meeting of the Society for the Neural Control of 
 <h1 style="font-size:40px;">2017</h1>
 
 Cohn BA, Jalaleddini K, Valero-Cuevas FJ<br>
-<b><a href="../Papers/cohn_jalaleddini_valerocuevas_asb_2017.pdf" title="">
+<b><a href="../Papers/cohn_jalaleddini_valerocuevas_asb_2017.pdf" title="There exist analytical formulations for the transmission of muscle force to endpoint force in tendon-driven limbs, and how it changes nonlinearly with posture [1]. However, how this information is encoded by the nervous system to control limbs remains unknown. The neuroscience literature proposes neural control based both on deterministic (e.g., internal models, optimal control, synergies, etc) and probabilistic (e.g., Bayesian) models of limb physics and environment. To evaluate the neuromechanical advantages of probabilistic control, we characterized the statistical structure of the transmission of muscle forces for multiple postures of a tendon-driven mechanical finger.">
 "Neuromechanical implications of postural changes to motor learning and performance"</a></b><br>
 Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017<br>
   
@@ -146,7 +146,8 @@ Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Dieg
 
 Ko N*, Lawrence EL*, Dayanidhi S*, Hu W, DiConti A, Lerner J, Winstein CW, Requejo P, Fisher B, Valero-Cuevas FJ<br>
 <b>"The Strength-Dexterity test can detect differences in dynamic control of fingertip forces between individuals with Parkinson's disease and non-disabled older adults"</b><br>
-Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013 *denotes equal contribution<br>
+Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013<br>
+*denotes equal contribution<br>
   
 <br>             
      
