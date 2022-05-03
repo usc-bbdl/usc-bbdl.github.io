@@ -30,7 +30,7 @@ navigation_weight: 3
 <!-- Clipboard copier -->
 <!-- <script async src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script> -->
 <script src="../publication_tags.js"></script>
-<br style="line-height:10px">
+<br>
 <h3>Years</h3>
 <link rel="stylesheet" type="text/css" media="screen" href="../css/styles.css" />
 <div>
