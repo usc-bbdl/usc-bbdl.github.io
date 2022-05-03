@@ -15,6 +15,22 @@ menu: main2
 <button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
 </div>
 
+<h1 style="font-size:40px;">Years</h1>
+
+<div>
+<button onclick="window.location.href='#2018';">Publications</button>
+<button onclick="window.location.href='#2017';">Publications</button>
+<button onclick="window.location.href='#2016';">Publications</button>
+<button onclick="window.location.href='#2014';">Publications</button>
+<button onclick="window.location.href='#2013';">Publications</button>
+<button onclick="window.location.href='#2010';">Publications</button>
+<button onclick="window.location.href='#2009';">Publications</button>
+<button onclick="window.location.href='#2003';">Publications</button>
+<button onclick="window.location.href='#2002';">Publications</button>
+<button onclick="window.location.href='#1998';">Publications</button>
+<button onclick="window.location.href='#1996';">Publications</button>
+</div>
+
 <head>
   <style>
 #myBtn {
@@ -49,7 +65,7 @@ menu: main2
   
 <br> -->
 
-<h1 style="font-size:40px;">2018</h1>
+<h1 style="font-size:40px;" id="2018">2018</h1>
 
 Cohn BA, Marjaninejad A, Valero-Cuevas FJ<br>
 <b><a href="../Abstracts/cohn_sfn_2018.pdf" title="Vertebrate systems operate limbs with many more muscles than degrees of freedom, which creates redundancies for isometric force production. Optimization is usually proposed as the means by which the nervous system solves such underdetermined problem. However, the learning and execution problem can also be approached from the geometric perspective of heuristic or systematic exploration of high-dimensional spaces, and exploitation of feasible regions found and remembered. We apply such approach to assess the learnability of the input-tension to output fingertip force mapping for the seven tendons of a human cadaver index finger. We applied five thousand different 7-dimensional tension vectors, while simultaneously recording the resulting isometric fingertip force outputs. We analyzed the relationship between the input and output in both the forward and inverse directions using. a linear regression model, an Artificial Neural Network, and a data-driven Nearest-Neighbor lookup table. We find that forward models perform more accurately than inverse models and that the Nearest-Neighbor approach has a notable fit error at the edges of the input space. These results open a new front for a thorough understanding of how the actual physics of an anatomical system (i.e., the plant the brain must contend with) fundamentally affects learning, memory, and performance of motor function in health, disease, and in an evolutionary context. Figure 1: A parallel coordinate plot of 5000 muscle tension patterns implemented on a human cadaver finger highlights how sparsely the edges of the input space are explored with uniform sampling.">
@@ -85,7 +101,7 @@ Nagamori A, Laine CM, Valero-Cuevas FJ<br>
 Proceedings of the 28th Annual Meeting of the Society for the Neural Control of Movement, Santa Fe, New Mexico, USA, May 2018<br>
 
 <br>
-<h1 style="font-size:40px;">2017</h1>
+<h1 style="font-size:40px;" id="2017">2017</h1>
 
 Cohn BA, Jalaleddini K, Valero-Cuevas FJ<br>
 <b><a href="../Papers/cohn_jalaleddini_valerocuevas_asb_2017.pdf" title="There exist analytical formulations for the transmission of muscle force to endpoint force in tendon-driven limbs, and how it changes nonlinearly with posture [1]. However, how this information is encoded by the nervous system to control limbs remains unknown. The neuroscience literature proposes neural control based both on deterministic (e.g., internal models, optimal control, synergies, etc) and probabilistic (e.g., Bayesian) models of limb physics and environment. To evaluate the neuromechanical advantages of probabilistic control, we characterized the statistical structure of the transmission of muscle forces for multiple postures of a tendon-driven mechanical finger.">
@@ -121,7 +137,7 @@ Laine CM, Valero-Cuevas FJ<br>
 Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017<br>
 
 <br>
-<h1 style="font-size:40px;">2016</h1>
+<h1 style="font-size:40px;" id="2016">2016</h1>
 
 Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ<br>
 <b><a href="../Papers/Ko2016Dynamic.pdf" title="">
@@ -129,14 +145,14 @@ Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ<br>
 Hand Rehabilitation Section, American Physical Therapy Association Combined Sections Meeting, Anaheim, CA, Feb 17-20, 2016<br>
 
 <br>
-<h1 style="font-size:40px;">2014</h1>
+<h1 style="font-size:40px;" id="2014">2014</h1>
 
 Lawrence EL, Nagamori A, Valero-Cuevas FJ, Finley JM<br>
 <b>"Prolonged immobilization and unloading leads to profound and long-lasting changes in spinal excitability."</b><br>
 Proceedings of the 44th Annual Meeting of the Society for Neuroscience, Washington DC, November 15-19, 2014<br>
 
 <br>
-<h1 style="font-size:40px;">2013</h1>
+<h1 style="font-size:40px;" id="2013">2013</h1>
 
 Lawrence EL, Lyle MA, Werner I, Krenn O, Lorenzi D, Kernbeiss S, Gondolatsch B, Frontull V, Zarfl M, Posch M, Valero-Cuevas FJ<br>
 <b>"Participation in elite sports improves neuromuscular control as detected by the Lower Extremity Strength-Dexterity Test"</b><br>
@@ -170,7 +186,7 @@ Reyes A, Lawrence EL, Babikian S, Liu CY, Heck CN, Valero-Cuevas FJ<br>
 Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013<br>
   
 <br>   
-<h1 style="font-size:40px;">2010</h1>
+<h1 style="font-size:40px;" id="2010">2010</h1>
 
 Kurse MU, Schmidt M, Lipson H, Valero-Cuevas FJ<br>
 <b><a href="https://usc-bbdl.github.io/Papers/Kurse2010mathematical.pdf" title="">
@@ -210,14 +226,14 @@ R&aacute;cz, K, Inouye J, Valero-Cuevas FJ<br>
 Summer Bioengineering Conference of the American Society of Mechanical Engineers, Naples, FL, 2010<br>
 
 <br>
-<h1 style="font-size:40px;">2009</h1>
+<h1 style="font-size:40px;" id="2009">2009</h1>
 
 Kutch JJ, Kurse MU, Hoffmann H, Kuo AD, Valero-Cuevas FJ<br>
 <b>"Muscle synergies may be artifacts of biomechanics rather than neural constraints, and are not necessary to simplify control"</b><br>
 39th Annual Meeting of the Society for Neuroscience, Chicago IL, October 2009<br>
 
 <br>
-<h1 style="font-size:40px;">2003</h1>
+<h1 style="font-size:40px;" id="2003">2003</h1>
 
 Kuxhaus LC, Valero-Cuevas FJ, and Roach SS<br>
 <b>"Effect of simulated low ulnar nerve palsy on the 3D force production capabilities of the thumb"</b><br>
@@ -238,21 +254,21 @@ Venkadesan M, Valero-Cuevas FJ, Guckenheimer JM<br>
 33th Annual Meeting of the Society for Neuroscience. New Orleans, LA, 2003<br>
 
 <br>
-<h1 style="font-size:40px;">2002</h1>
+<h1 style="font-size:40px;" id="2002">2002</h1>
 
 Valero-Cuevas FJ, Venkadesan, M, Talati, A Hirsch J<br>
 <b>"How networks of cortical activity adapt in response to changes in the type and quality of sensory input during dynamic precision pinch"</b><br>
 32th Annual Meeting of the Society for Neuroscience. Orlando, FL, 2002<br>
 
 <br>
-<h1 style="font-size:40px;">1998</h1>
+<h1 style="font-size:40px;" id="1998">1998</h1>
 
 Valero-Cuevas FJ, Burgar CG, Johanson ME, Zajac FE<br>
 <b>"Scaling of muscle activation patterns during generation of isometric fingertip forces"</b><br>
 28th Annual Meeting of the Society for Neuroscience. Los Angeles, CA, 1998<br>
 
 <br>
-<h1 style="font-size:40px;">1996</h1>
+<h1 style="font-size:40px;" id="1996">1996</h1>
 
 Valero-Cuevas FJ, Burgar C, Zajac FE, Hentz VR, McGill KC, An KN<br>
 <b>"Muscle coordination during maximal index-finger ad-abduction forces"</b><br>
