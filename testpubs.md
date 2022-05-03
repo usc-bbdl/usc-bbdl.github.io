@@ -48,7 +48,7 @@ menu: main2
   </style>
 </head>
 <body>
-<br style="line-height:20px">
+<br>
 <b><h1 style="font-size:30px;">2018</h1></b>
 
 Cohn BA, Marjaninejad A, Valero-Cuevas FJ<br>
