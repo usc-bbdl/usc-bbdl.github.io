@@ -48,8 +48,38 @@ menu: main2
   </style>
 </head>
 
-<body>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<!-- scroll to top button -->
+<script>
+ // When the user scrolls down 20px from the top of the document, show the button
+ window.onscroll = function() {scrollFunction()};
 
+ function scrollFunction() {
+     if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 20) {
+         document.getElementById("myBtn").style.display = "block";
+     } else {
+         document.getElementById("myBtn").style.display = "none";
+     }
+ }
+
+ // When the user clicks on the button, scroll to the top of the document
+ function topFunction() {
+     document.body.scrollTop = 0; // For Chrome, Safari and Opera
+     document.documentElement.scrollTop = 0; // For IE and Firefox
+ }
+</script>
+<!-- scroll to top button -->
+
+# 2018
+
+Cohn BA, Marjaninejad A, Valero-Cuevas FJ<br>
+<a href="../Abstracts/cohn_sfn_2018.pdf" title="Vertebrate systems operate limbs with many more muscles than degrees of freedom, which creates redundancies for isometric force production. Optimization is usually proposed as the means by which the nervous system solves such underdetermined problem. However, the learning and execution problem can also be approached from the geometric perspective of heuristic or systematic exploration of high-dimensional spaces, and exploitation of feasible regions found and remembered. We apply such approach to assess the learnability of the input-tension to output fingertip force mapping for the seven tendons of a human cadaver index finger. We applied five thousand different 7-dimensional tension vectors, while simultaneously recording the resulting isometric fingertip force outputs. We analyzed the relationship between the input and output in both the forward and inverse directions using. a linear regression model, an Artificial Neural Network, and a data-driven Nearest-Neighbor lookup table. We find that forward models perform more accurately than inverse models and that the Nearest-Neighbor approach has a notable fit error at the edges of the input space. These results open a new front for a thorough understanding of how the actual physics of an anatomical system (i.e., the plant the brain must contend with) fundamentally affects learning, memory, and performance of motor function in health, disease, and in an evolutionary context. Figure 1: A parallel coordinate plot of 5000 muscle tension patterns implemented on a human cadaver finger highlights how sparsely the edges of the input space are explored with uniform sampling.">
+"Evaluating the learnability-dimensionality relationship in a tendon-driven finger"</a><br>
+Proceedings of the 48th Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2018<br>
+
+
+<!-- <body>
+  
 <table>
     <tr>
         <th>Citation</th>
@@ -306,26 +336,4 @@ menu: main2
 
 </table>
  
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-<!-- scroll to top button -->
-<script>
- // When the user scrolls down 20px from the top of the document, show the button
- window.onscroll = function() {scrollFunction()};
-
- function scrollFunction() {
-     if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 20) {
-         document.getElementById("myBtn").style.display = "block";
-     } else {
-         document.getElementById("myBtn").style.display = "none";
-     }
- }
-
- // When the user clicks on the button, scroll to the top of the document
- function topFunction() {
-     document.body.scrollTop = 0; // For Chrome, Safari and Opera
-     document.documentElement.scrollTop = 0; // For IE and Firefox
- }
-</script>
-<!-- scroll to top button -->
- 
-</body>
+</body> -->
