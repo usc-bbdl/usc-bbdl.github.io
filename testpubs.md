@@ -49,7 +49,7 @@ menu: main2
 </head>
 <body>
 <br>
-<b><h1 style="font-size:30px;">2018</h1></b>
+<h1 style="font-size:40px;">2018</h1>
 
 Cohn BA, Marjaninejad A, Valero-Cuevas FJ<br>
 <b><a href="../Abstracts/cohn_sfn_2018.pdf" title="Vertebrate systems operate limbs with many more muscles than degrees of freedom, which creates redundancies for isometric force production. Optimization is usually proposed as the means by which the nervous system solves such underdetermined problem. However, the learning and execution problem can also be approached from the geometric perspective of heuristic or systematic exploration of high-dimensional spaces, and exploitation of feasible regions found and remembered. We apply such approach to assess the learnability of the input-tension to output fingertip force mapping for the seven tendons of a human cadaver index finger. We applied five thousand different 7-dimensional tension vectors, while simultaneously recording the resulting isometric fingertip force outputs. We analyzed the relationship between the input and output in both the forward and inverse directions using. a linear regression model, an Artificial Neural Network, and a data-driven Nearest-Neighbor lookup table. We find that forward models perform more accurately than inverse models and that the Nearest-Neighbor approach has a notable fit error at the edges of the input space. These results open a new front for a thorough understanding of how the actual physics of an anatomical system (i.e., the plant the brain must contend with) fundamentally affects learning, memory, and performance of motor function in health, disease, and in an evolutionary context. Figure 1: A parallel coordinate plot of 5000 muscle tension patterns implemented on a human cadaver finger highlights how sparsely the edges of the input space are explored with uniform sampling.">
@@ -64,8 +64,19 @@ Hagen DA, Laine CM, Chakravarthi Raja S, Valero-Cuevas FJ<br>
 Proceedings of the 48th Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2018<br>
 
 <br>
+  
+Nagamori A, Laine CM, Loeb GE, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/Akira_Nagamori_SfN_2018_Abstract.pdf" title="Involuntary force variability is an inherent property of motor behavior. When exacerbated, it is a key contributor to performance errors and a feature of several neurological conditions. Some propose that involuntary force variability arises primarily through the conversion of motoneuron firing patterns into muscle force, i.e. “motor noise.” This mechanism has been tested using a model of recruitment and rate coding developed by Fuglevand et al. (1993). However, this model has several drawbacks that limit its ability to simulate force variability. First, it does not explicitly model the fusion of force twitches with increases in firing rate and concomitant saturation of calcium binding to troponin. Second, the model lacks a series elastic element (i.e., tendon), which damps out the effects of fluctuations of motoneurone firing by changing its length and, thereby, the velocity of the muscle fibers in an externally isometric system. We addressed these limitations by combining some elements of the Fuglevand model with physiological and mechanical features from a model by Song et al. (2008). This new model has improved predictions of force and force variability. Upon close inspection, we show the amplitude and spectral features of force variability are significantly influenced by the viscoelastic properties of musculotendons. This model of motor units produces a lower amplitude of force variability than previous models. Also, spectral features of this new model resemble more closely what has been observed experimentally. These results question current thinking attributing the majority of involuntary force variability to peripheral motor noise, and highlight the importance of closed-loop behavior including afferent feedback and error corrections.">
+"Can Motor Noise Account for Force Variability?"</a></b><br>
+Proceedings of the 48th Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2018<br>
+  
+<br>
 
 
+
+  
+  
+  
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 <!-- scroll to top button -->
