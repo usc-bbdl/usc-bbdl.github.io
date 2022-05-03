@@ -158,7 +158,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Computer Science</font><br>
 		<font size="3">B.S. Quantitative Biology, 2021</font><br>
 		<a href="mailto:jaehyunc@usc.edu" target="_top">jaehyunc@usc.edu</a><br>
-		Building a messaging pathway between robotic systems and machine learning algorithms.<br>
+		Webmaster.<br>
+		Worked on connecting robotic systems with machine learning algorithms.<br>
 	</li>
 	
 	<li class="flex-item">
