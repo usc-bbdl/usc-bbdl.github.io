@@ -15,22 +15,6 @@ menu: main2
 <button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
 </div>
 
-<h1 style="font-size:40px;">Years</h1>
-
-<div>
-<button onclick="window.location.href='#2018';">2018</button>
-<button onclick="window.location.href='#2017';">2017</button>
-<button onclick="window.location.href='#2016';">2016</button>
-<button onclick="window.location.href='#2014';">2014</button>
-<button onclick="window.location.href='#2013';">2013</button>
-<button onclick="window.location.href='#2010';">2010</button>
-<button onclick="window.location.href='#2009';">2009</button>
-<button onclick="window.location.href='#2003';">2003</button>
-<button onclick="window.location.href='#2002';">2002</button>
-<button onclick="window.location.href='#1998';">1998</button>
-<button onclick="window.location.href='#1996';">1996</button>
-</div>
-
 <head>
   <style>
 #myBtn {
@@ -56,6 +40,22 @@ menu: main2
 </head>
 <body>
 <br>
+  
+<h1 style="font-size:40px;">Years</h1>
+
+<div>
+<button onclick="window.location.href='#2018';">2018</button>
+<button onclick="window.location.href='#2017';">2017</button>
+<button onclick="window.location.href='#2016';">2016</button>
+<button onclick="window.location.href='#2014';">2014</button>
+<button onclick="window.location.href='#2013';">2013</button>
+<button onclick="window.location.href='#2010';">2010</button>
+<button onclick="window.location.href='#2009';">2009</button>
+<button onclick="window.location.href='#2003';">2003</button>
+<button onclick="window.location.href='#2002';">2002</button>
+<button onclick="window.location.href='#1998';">1998</button>
+<button onclick="window.location.href='#1996';">1996</button>
+</div>
 
 <!--
 <br>
