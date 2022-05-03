@@ -27,7 +27,7 @@ navigation_weight: 3
 <button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
 </div>
 
-<p><br></p>
+<body><br></body>
 
 <!-- Clipboard copier -->
 <!-- <script async src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script> -->
