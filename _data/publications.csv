@@ -1,14 +1,6 @@
 Title,Link,Abstract,Author,BibTex,Year,Journal,SupplementalLink,Tags,
 
-"Biological underpinnings for lifelong learning machines",
-Papers/2022_Kudithipudi.pdf,
-,
-"Kudithipudi D, Aguilar-Simon M, Babb J, Bazhenov M, Blackiston D, Bongard J, Brna AP, Chakravarthi Raja S, Cheney N, Clune J, Daram A, Fusi S, Helfer P, Kay L, Ketz N, Kira Z, Kolouri S, Krichmar JL, Kriegman S, Levin M, Madireddy S, Manicka S, Marjaninejad A, McNaughton B, Miikkulainen R, Navratilova Z, Pandit T, Parker A, Pilly PK, Risi S, Sejnowski TJ, Soltoggio A, Soures N, Tolias AS, Urbina-Meléndez D, Valero-Cuevas FJ, van de Ven GM, Volgelstein JT, Wang F, Weiss R, Yanguas-Gil A, Zou X, Siegelmann H",
-,
-2022,
-Nature Machine Intelligence,
-,
-neuroscience robotics biomechanics,
+"Biological underpinnings for lifelong learning machines",Papers/2022_Kudithipudi.pdf,,"Kudithipudi D, Aguilar-Simon M, Babb J, Bazhenov M, Blackiston D, Bongard J, Brna AP, Chakravarthi Raja S, Cheney N, Clune J, Daram A, Fusi S, Helfer P, Kay L, Ketz N, Kira Z, Kolouri S, Krichmar JL, Kriegman S, Levin M, Madireddy S, Manicka S, Marjaninejad A, McNaughton B, Miikkulainen R, Navratilova Z, Pandit T, Parker A, Pilly PK, Risi S, Sejnowski TJ, Soltoggio A, Soures N, Tolias AS, Urbina-Meléndez D, Valero-Cuevas FJ, van de Ven GM, Volgelstein JT, Wang F, Weiss R, Yanguas-Gil A, Zou X, Siegelmann H",,2022,Nature Machine Intelligence,,neuroscience robotics biomechanics,
 
 "Estimating Center of Pressure of a Bipedal Mechanism Using a Proprioceptive Artificial Skin around its Ankles",Papers/2021_Estimating_Center_of_Pressure.pdf,,"Urbina-Meléndez D, Wang J, Wang D, Marjaninejad A, Valero-Cuevas FJ",,2021,43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),,robotics biomechanics computation_and_modeling,
 "Data-efficient Causal Decoding of Spiking Neural Activity using Weighted Voting",Papers/2021_Data_Efficient_Causal_Decoding.pdf,,"Marjaninejad A, Klaes C, Valero-Cuevas FJ",,2021,43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),,neuroscience computation_and_modeling,
