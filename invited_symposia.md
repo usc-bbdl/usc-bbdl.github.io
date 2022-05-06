@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Extended Publications
+title: Invited Symposia
 permalink: /invitedsymposia/
 menu: main2
 ---
