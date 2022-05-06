@@ -48,7 +48,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	<li class="flex-item">
 		<a name="dariourbina"></a>
 		<img src="../Photos/dariourbina_sq.JPG" class = "profilepicture" /><br>
-		<font size="3"><b>Darío Urbina</b></font><br>
+		<font size="3"><b>Darío Urbina-Meléndez</b></font><br>
 		<font size="3">Ph.D. Candidate in Biomedical Engineering</font><br>
 		<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
 		Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
