@@ -19,7 +19,7 @@ navigation_weight: 1
 
 ## Current Projects
 
-To be updated!<br>
+# To be updated!<br>
 
 ## Past Projects
 
