@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Extended Publications
+title: Dissertations and Theses
 permalink: /dissertation_theses/
 menu: main2
 ---
