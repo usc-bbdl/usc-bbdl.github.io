@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Extended Publications
+title: Peer-Reviewed Abstracts
 permalink: /peerreviewedabstracts/
 menu: main2
 ---
