@@ -10,6 +10,11 @@ navigation_weight: 6
 <br>
 -------------------------------------------
 <br>
+# May 5, 2022
+## Congrats to Darío Urbina-Meléndez for passing his Qualifying Exam to become a PhD Candidate!
+<img src="../Photos/Dario_Qualifying_Exam.jpg" alt="Dario passes his qualifying exam!"> 
+<br>
+<br>
 # March 24, 2022
 # USC Viterbi News:
 # [Towards Acing the Turing Test: A Blueprint for Future AI and Robots that Learn Like Living Things](https://viterbischool.usc.edu/news/2022/03/towards-acing-the-turing-test-a-blueprint-for-future-ai-and-robots-that-learn-like-living-things/)
