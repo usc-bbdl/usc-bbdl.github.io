@@ -10,8 +10,15 @@ navigation_weight: 6
 <br>
 -------------------------------------------
 <br>
+# May 12, 2022
+# USC Viterbi News:
+# [Congrats to Ali Marjaninejad for winning the William F. Ballhaus, Jr. Prize for Excellence in Graduate Engineering Research!](https://viterbischool.usc.edu/news/2022/05/do-better-than-us-three-years-of-usc-viterbi-ph-d-s-receive-their-hoods/)
+# Congrats to Ali and Jasmine Berry for their PhD hooding!
+<img src="../Photos/2022_PhD_Hooding.jpeg" alt="2022 PhD Hooding!"> 
+<br>
+<br>
 # May 5, 2022
-## Congrats to Darío Urbina-Meléndez for passing his Qualifying Exam to become a PhD Candidate!
+# Congrats to Darío Urbina-Meléndez for passing his Qualifying Exam to become a PhD Candidate!
 <img src="../Photos/Dario_Qualifying_Exam.jpg" alt="Dario passes his qualifying exam!"> 
 <br>
 <br>
