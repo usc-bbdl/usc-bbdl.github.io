@@ -5,6 +5,197 @@ permalink: /fulllengthpeerreviewedabstracts/
 menu: main2
 ---
 
+<div>
+<button onclick="window.location.href='../publications/';">Publications</button>
+<button onclick="window.location.href='../fulllengthpeerreviewedabstracts/';">Full-Length Peer-Reviewed Abstracts</button>
+<button onclick="window.location.href='../peerreviewedabstracts/';">Peer-Reviewed Abstracts</button>
+<button onclick="window.location.href='../abstracts/';">Abstracts</button>
+<button onclick="window.location.href='../bookchpt/';">Book Chapters</button>
+<button onclick="window.location.href='../invitedsymposia/';">Invited Symposia</button>
+<button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
+</div>
+
+<head>
+  <style>
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #9b4343; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+}
+
+#myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
+    
+  </style>
+</head>
+<body>
+<br>
+  
+<h1 style="font-size:40px;">2019</h1>
+
+Nagamori A, Laine CM, Valero-Cuevas FJ<br>
+<b><a href="../Papers/2019_Reticulospinal_drive.pdf">
+"Reticulospinal drive with a flexor bias can be detected as a-band shared neural drive during voluntary tasks in healthy individuals"</a></b><br>
+Proceedings of the 29th Annual Conference of the Society for Neural control of Movement, Toyama, JAPAN, April 24-27, 2019.<br>
+
+<h1 style="font-size:40px;">2015</h1>
+
+Valero-Cuevas FJ, Cohn BA, Szedlák M, Fukuda K, Gärtner B.<br>
+<b>
+"Structure of the set of feasible neural commands for complex motor tasks"</b><br>
+37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Milan, Italy, August 25-29, 2015.<br>
+
+<h1 style="font-size:40px;">2013</h1>
+
+Lawrence EL, Fassola I, Dayanidhi S, Leclercq C, Valero-Cuevas FJ.<br>
+<b>
+"An evaluation of clustering techniques to classify dexterous manipulation of individuals with and without dysfunction"</b><br>
+6th International IEEE EMBS Conference on Neural Engineering, pp. 1274-7, San Diego, CA, November 6-8, 2013.<br>
+
+<br>
+
+Towles J, Hentz V, Valero-Cuevas FJ.<br>
+<b>
+"Capacity of Small Groups of Muscles to Accomplish Precision Grasping Tasks"</b><br>
+35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society pp. 6583-6, Osaka, Japan, July 3-7, 2013.<br>
+<a href="../Abstracts/EMBS%202013%20presentation_draft_towles.pptx">Presentation Slides</a><br>
+
+<br>
+
+Lawrence EL, Fassola I, Dayanidhi S, Leclercq C, Valero-Cuevas FJ.<br>
+<b>
+"An evaluation of clustering techniques to classify dexterous manipulation of individuals with and without dysfunction"</b><br>
+6th International IEEE EMBS Conference on Neural Engineering, pp. 1274-7, San Diego, CA, November 6-8, 2013.<br>
+
+<h1 style="font-size:40px;">2012</h1>
+
+Inouye JM and Valero-Cuevas FJ.<br>
+<b><a href="../Papers/inouye2012asymmetric.pdf">
+"Asymmetric Routings With Fewer Tendons Can Offer Both Flexible Endpoint Stiffness Control and High Force-Production Capabilities in Robotic Fingers"</a></b><br>
+IEEE International Conference on Biomedical Robotics and Biomechatronics, Rome, Italy, June 24-27, 2012.<br>
+
+<h1 style="font-size:40px;">2011</h1>
+
+Theodorou E, Todorov E, and Valero-Cuevas FJ.<br>
+<b><a href="../Papers/EvangelosACC11.pdf">
+"Neuromuscular Stochastic Optimal Control of a Tendon Driven Index Finger Model"</a></b><br>
+American Control Conference, San Francisco, CA, June 29-July 1, 2011.<br>
+
+<h1 style="font-size:40px;">2004</h1>
+
+Santos VJ and Valero-Cuevas FJ.<br>
+<b><a href="../Papers/Web1_EMBS2004_VS.pdf">
+"A Bayesian Approach to Biomechanical Modeling to Optimize Over Large Parameter Spaces While Considering Anatomical Variability"</a></b><br>
+Proceedings of the 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, San Francisco, CA, Sept. 2004.<br>
+
+<br>
+
+Miller A, Allen P, Santos VJ, and Valero-Cuevas FJ.<br>
+<b><a href="../Papers/miller_et_al.pdf">
+"From Robotic Hands to Human Hands: A Visualization and Simulation Engine for Grasping Research"</a></b><br> 
+Proceedings of the International Conference on Intelligent Manipulation and Grasping, Genoa, Italy, 2004.<br>
+
+<br>
+
+Valero-Cuevas FJ and Lipson H.<br>
+<b>
+"Measurement and simulation of neuromuscular biomechanics of the fingers"</b><br>
+Proceedings of the 26th Annual International Conference of the IEEE EMBS, 2004.<br>
+
+<h1 style="font-size:40px;">2003</h1>
+
+Pearlman JL and Valero-Cuevas FJ.<br>
+<b><a href="../Papers/Pearlman2003thumb.pdf">
+"The 3D Thumb-tip Forces Produced By Individual Tendons Do Not Superimpose Linearly"</a></b><br>
+Proceedings of the 25th Annual International Conference of the IEEE EMBS, p.1819-22, 2003.<br>
+
+<br>
+
+Santos VJ and Valero-Cuevas FJ.<br>
+<b><a href="../Papers/2003_Anatomical_variability.pdf">
+"Anatomical Variability Naturally Leads to Multimodal Distributions of Denavit-Hartenberg Parameters for the Human Thumb"</a></b><br>
+Proceedings of the 25th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Cancun, Quintana Roo, Mexico. 2003.<br>
+
+<br>
+
+Pearlman, JL, Weisman M, Roach, SS, Hermanson, JW, Valero-Cuevas, FJ.<br>
+<b>
+"Thumb-tip force vectors produced by individual muscles of the thumb do not superimpose linearly"</b><br>
+Proceedings of the 25th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Cancun, Quintana Roo, Mexico. 2003.<br>
+
+<h1 style="font-size:40px;">2002</h1>
+
+Valero-Cuevas FJ, Venkadesan, M, Talati, A Hirsch J.<br>
+<b>
+"How networks of cortical activity adapt in response to changes in the type and quality of sensory input during dynamic precision pinch"</b><br>
+The Second World Congress of Biomechanics, Calgary, Alberta, 2002.<br>
+
+<br>
+
+Hirsch J, Talati A, Valero-Cuevas FJ.<br>
+<b>
+"A Vision-to-Action Cortical Pathway: An fMRI Study"</b><br>
+Annual Meeting of the Association for Research in Vision and Ophthalmology (ARVO 2002), Fort Lauderdale, FL, 2002.<br>
+
+<br>
+
+Valero-Cuevas FJ, Smaby N, Venkadesan M, Peterson M, Wright T, Hotchkiss R, Sherry Backus, Lily A. Ariola.<br>
+<b><a href="../Papers/Valero2002Strength.pdf">
+"The Strength-Dexterity test as a measure of pinch performance in hands with able and osteoarthritic thumbs"</a></b><br>
+57th Annual Meeting of the American Society for Surgery of the Hand, Baltimore, MD, 2002.<br>
+
+<h1 style="font-size:40px;">2001</h1>
+
+Sancho X, Valero-Cuevas FJ, Pacrez A, Giurintano D, Vergara M, Sanchez F.<br>
+<b>
+"Modelling the MCP joint in a biomechanical model of the index finger"</b><br>
+Fifth International symposium on computer methods in Biomechanics and Biomedical Engineering, Rome, Italy, 2001.<br>
+
+<h1 style="font-size:40px;">2000</h1>
+
+Valero-Cuevas FJ.<br>
+<b><a href="../Papers/Valero-CuevasICRA2000.pdf">
+"Applying principles of robotics to understand the biomechanics, neuromuscular control and clinical rehabilitation of human digits"</a></b><br>
+Proceedings of the 2000 IEEE International Conference on Robotics & Automation, p.255-62, 2000.<br>
+
+  
+  
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<!-- scroll to top button -->
+<script>
+ // When the user scrolls down 20px from the top of the document, show the button
+ window.onscroll = function() {scrollFunction()};
+
+ function scrollFunction() {
+     if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 20) {
+         document.getElementById("myBtn").style.display = "block";
+     } else {
+         document.getElementById("myBtn").style.display = "none";
+     }
+ }
+
+ // When the user clicks on the button, scroll to the top of the document
+ function topFunction() {
+     document.body.scrollTop = 0; // For Chrome, Safari and Opera
+     document.documentElement.scrollTop = 0; // For IE and Firefox
+ }
+</script>
+</body>
+<!-- scroll to top button -->
+
+
+
+<!--
 <head>
 <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -28,9 +219,7 @@ background:#e9e9e9;
   </div>
   
   <div data-role="main" class="ui-content">
-    <!-- <form>
-      <input id="filterTable-input" data-type="search" placeholder="Search For Publications...">
-    </form> -->
+    
     <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input">
       <thead>
         <tr>
@@ -213,3 +402,4 @@ background:#e9e9e9;
   </div>
 </div>
      
+-->
