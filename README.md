@@ -4,6 +4,29 @@ Website for the Brain Body Dynamics Lab
 # if you don't see changes in the repo shown on the website:
 Set cloudflare to development mode (instant updates instead of cached).
 
+# To update People page:
+- Add photo to Photos folder
+- Update people.md
+
+# To update Publications page:
+- Add paper PDF to Papers folder
+- Update publications.md
+
+# To update Media page:
+- Add any relevant photos to Photo folder
+- Update media.md
+
+# To update Project page:
+- Add any relevant media to Photo folder
+- Update projects.md 
+
+# For other types of publications, please see the following listing:
+- Full-Length Peer-Reviewed Abstracts: abstracts_peer_reviewed_full_length.md
+- Peer-Reviewed Abstracts: abstracts_peer_reviewed.md
+- Abstracts: abstracts.md
+- Book Chapters: bookchpt.md
+- Invited Symposia: invited_symposia.md
+- Dissertations and Theses: dissertations_theses.md
 
 Peer reviewed abstracts format example:
 ```html
