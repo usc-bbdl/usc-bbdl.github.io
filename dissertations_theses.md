@@ -5,6 +5,149 @@ permalink: /dissertation_theses/
 menu: main2
 ---
 
+<div>
+<button onclick="window.location.href='../publications/';">Publications</button>
+<button onclick="window.location.href='../fulllengthpeerreviewedabstracts/';">Full-Length Peer-Reviewed Abstracts</button>
+<button onclick="window.location.href='../peerreviewedabstracts/';">Peer-Reviewed Abstracts</button>
+<button onclick="window.location.href='../abstracts/';">Abstracts</button>
+<button onclick="window.location.href='../bookchpt/';">Book Chapters</button>
+<button onclick="window.location.href='../invitedsymposia/';">Invited Symposia</button>
+<button onclick="window.location.href='../dissertation_theses/';">Dissertations & Theses</button>
+</div>
+
+<head>
+  <style>
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #9b4343; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+}
+
+#myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
+    
+  </style>
+</head>
+<body>
+<br>
+  
+<h1 style="font-size:40px;">Dissertations</h1>
+
+Marjaninejad, A.<br>
+<b><a href="../Papers/2021_Ali_Dissertation.pdf">
+Autonomous Learning for Robots in the Context of Brain-Body Interactions</a></b><br>
+University of Southern California, 2021.<br>
+
+<br>
+
+Lawrence EL.<br>
+<b><a href="../Papers/LawrenceDissertation_Final.pdf">
+Demographic and Clinical Covariates of Sensorimotor Processing</a></b><br>
+University of Southern California, 2016.<br>
+
+<br>
+
+Reyes, A.<br>
+<b><a href="../Papers/AlexDissertation.pdf">
+Task Dependent Modulation of Corticomuscular Coherence during Dexterous Manipulation</a></b><br>
+University of Southern California, 2015.<br>
+
+<br>
+
+Rácz, K.<br>
+<b><a href="../Papers/Raths2012Neuromuscular2.pdf">
+Neuromuscular Dynamics in the Context of Motor Redundancy</a></b><br>
+University of Southern California, 2012.<br>
+
+<br>
+
+Kurse, MU. <br>
+<b><a href="../Papers/Kurse2012computational2.pdf">
+Inference of computational models of tendon networks via sparse experimentation</a></b><br>
+University of Southern California, 2012.<br>
+
+<br>
+
+Inouye, JM.<br>
+<b><a href="../Papers/inouye2012dissertation.pdf">
+Bio-Inspired Tendon-Driven Systems: Computational Analysis, Optimization, and Hardware Implementation</a></b><br>
+University of Southern California, 2012.<br>
+
+<br>
+
+Lyle, MA.<br>
+<b><a href="../Papers/LyleThesis.pdf">
+Quantification of Lower Extremity Dynamic Capability: Implications for Anterior Cruciate Ligament Injury and Change of Direction Ability</a></b><br>
+University of Southern California, 2012.<br>
+
+<br>
+
+Dayanidhi, S.<br>
+<b><a href="../Papers/DayanidhiThesis.pdf">
+Behavioral, Muscular and Dynamical Changes in Low Force Dexterous Manipulation during Development and Aging</a></b><br>
+University of Southern California, 2012.<br>
+
+<br>
+
+Theodorou, EA.<br>
+<b><a href="../Papers/TheodorouThesisCorrected.pdf">
+Iterative Path Integral Stochastic Optimal Control: Theory and Applications to Motor Control</a></b><br>
+University of Southern California, 2011.<br>
+
+<br>
+
+Valero-Cuevas, FJ.<br>
+<b>
+Muscle Coordination of the Human Index Finger</b><br>
+Stanford University, 1997.<br>
+
+<br>
+
+<h1 style="font-size:40px;">Theses</h1>
+
+Bumann, R.<br>
+<b><a href="../Papers/masterThesisRichard.pdf">
+Using Load-Cells to Unveil Limitations to the Human Movement System</a></b><br>
+Eidgenössische Technische Hochschule (ETH), Zürich, Switzerland, 2012.<br>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<!-- scroll to top button -->
+<script>
+ // When the user scrolls down 20px from the top of the document, show the button
+ window.onscroll = function() {scrollFunction()};
+
+ function scrollFunction() {
+     if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 20) {
+         document.getElementById("myBtn").style.display = "block";
+     } else {
+         document.getElementById("myBtn").style.display = "none";
+     }
+ }
+
+ // When the user clicks on the button, scroll to the top of the document
+ function topFunction() {
+     document.body.scrollTop = 0; // For Chrome, Safari and Opera
+     document.documentElement.scrollTop = 0; // For IE and Firefox
+ }
+</script>
+</body>
+<!-- scroll to top button -->
+
+
+
+
+
+<!--
 <head>
 <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -29,9 +172,7 @@ background:#e9e9e9;
   </div>
   
   <div data-role="main" class="ui-content">
-    <!-- <form>
-      <input id="filterTable-input" data-type="search" placeholder="Search For Publications...">
-    </form> -->
+    
 
     <table data-role="table" data-mode="columntoggle" class="ui-responsive ui-shadow" id="myTable" data-filter="true" data-input="#filterTable-input">
       <thead>
@@ -155,3 +296,4 @@ background:#e9e9e9;
   </div>
 </div>
      
+-->
