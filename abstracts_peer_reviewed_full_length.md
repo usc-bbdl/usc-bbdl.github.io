@@ -48,13 +48,15 @@ Nagamori A, Laine CM, Valero-Cuevas FJ<br>
 "Reticulospinal drive with a flexor bias can be detected as a-band shared neural drive during voluntary tasks in healthy individuals"</a></b><br>
 Proceedings of the 29th Annual Conference of the Society for Neural control of Movement, Toyama, JAPAN, April 24-27, 2019.<br>
 
+<br>
+  
 <h1 style="font-size:40px;">2015</h1>
 
 Valero-Cuevas FJ, Cohn BA, Szedlák M, Fukuda K, Gärtner B.<br>
 <b>
 "Structure of the set of feasible neural commands for complex motor tasks"</b><br>
 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Milan, Italy, August 25-29, 2015.<br>
-
+<br>
 <h1 style="font-size:40px;">2013</h1>
 
 Lawrence EL, Fassola I, Dayanidhi S, Leclercq C, Valero-Cuevas FJ.<br>
@@ -76,21 +78,21 @@ Lawrence EL, Fassola I, Dayanidhi S, Leclercq C, Valero-Cuevas FJ.<br>
 <b>
 "An evaluation of clustering techniques to classify dexterous manipulation of individuals with and without dysfunction"</b><br>
 6th International IEEE EMBS Conference on Neural Engineering, pp. 1274-7, San Diego, CA, November 6-8, 2013.<br>
-
+<br>
 <h1 style="font-size:40px;">2012</h1>
 
 Inouye JM and Valero-Cuevas FJ.<br>
 <b><a href="../Papers/inouye2012asymmetric.pdf">
 "Asymmetric Routings With Fewer Tendons Can Offer Both Flexible Endpoint Stiffness Control and High Force-Production Capabilities in Robotic Fingers"</a></b><br>
 IEEE International Conference on Biomedical Robotics and Biomechatronics, Rome, Italy, June 24-27, 2012.<br>
-
+<br>
 <h1 style="font-size:40px;">2011</h1>
 
 Theodorou E, Todorov E, and Valero-Cuevas FJ.<br>
 <b><a href="../Papers/EvangelosACC11.pdf">
 "Neuromuscular Stochastic Optimal Control of a Tendon Driven Index Finger Model"</a></b><br>
 American Control Conference, San Francisco, CA, June 29-July 1, 2011.<br>
-
+<br>
 <h1 style="font-size:40px;">2004</h1>
 
 Santos VJ and Valero-Cuevas FJ.<br>
@@ -111,7 +113,7 @@ Valero-Cuevas FJ and Lipson H.<br>
 <b>
 "Measurement and simulation of neuromuscular biomechanics of the fingers"</b><br>
 Proceedings of the 26th Annual International Conference of the IEEE EMBS, 2004.<br>
-
+<br>
 <h1 style="font-size:40px;">2003</h1>
 
 Pearlman JL and Valero-Cuevas FJ.<br>
@@ -132,7 +134,7 @@ Pearlman, JL, Weisman M, Roach, SS, Hermanson, JW, Valero-Cuevas, FJ.<br>
 <b>
 "Thumb-tip force vectors produced by individual muscles of the thumb do not superimpose linearly"</b><br>
 Proceedings of the 25th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Cancun, Quintana Roo, Mexico. 2003.<br>
-
+<br>
 <h1 style="font-size:40px;">2002</h1>
 
 Valero-Cuevas FJ, Venkadesan, M, Talati, A Hirsch J.<br>
@@ -153,14 +155,14 @@ Valero-Cuevas FJ, Smaby N, Venkadesan M, Peterson M, Wright T, Hotchkiss R, Sher
 <b><a href="../Papers/Valero2002Strength.pdf">
 "The Strength-Dexterity test as a measure of pinch performance in hands with able and osteoarthritic thumbs"</a></b><br>
 57th Annual Meeting of the American Society for Surgery of the Hand, Baltimore, MD, 2002.<br>
-
+<br>
 <h1 style="font-size:40px;">2001</h1>
 
 Sancho X, Valero-Cuevas FJ, Pacrez A, Giurintano D, Vergara M, Sanchez F.<br>
 <b>
 "Modelling the MCP joint in a biomechanical model of the index finger"</b><br>
 Fifth International symposium on computer methods in Biomechanics and Biomedical Engineering, Rome, Italy, 2001.<br>
-
+<br>
 <h1 style="font-size:40px;">2000</h1>
 
 Valero-Cuevas FJ.<br>
