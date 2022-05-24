@@ -28,6 +28,9 @@ Set cloudflare to development mode (instant updates instead of cached).
 - Invited Symposia: invited_symposia.md
 - Dissertations and Theses: dissertations_theses.md
 
+
+
+<!--
 Peer reviewed abstracts format example:
 ```html
  <tr>
@@ -39,7 +42,7 @@ Peer reviewed abstracts format example:
           <td>2019</td>
         </tr>
          ```
-         
+ -->
          
          
        
