@@ -190,15 +190,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
-		<a name="paritoshsingh"></a>
-		<img src="../Photos/paritoshsingh_sq.jpeg" class = "profilepicture"/><br>
-		<font size="3"><b>Paritosh Singh</b></font><br>
-		<font size="3">M.S. Student in Computer Science (Artificial Intelligence)</font><br>
-		<a href="mailto:paritosh@usc.edu" target="_top">paritosh@usc.edu</a><br>
-		Interested in leveraging Artificial Intelligence for social good.<br>
-	</li>
-	
-	<li class="flex-item">
 		<a name="abhilashkulkarni"></a>
 		<img src="../Photos/AbhilashKulkarni2_sq.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Abhilash Kulkarni</b></font><br>
@@ -268,8 +259,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Na-hyeon (Hannah) Ko</b> - Ph.D. Biokinesiology, 2016: <a href="https://www.linkedin.com/in/na-hyeon-hannah-ko-045712b2/">LinkedIn</a> | <a href="https://chhs.fresnostate.edu/physical-therapy/faculty-staff/faculty/ko.html">Website</a><br>
 <b>Emily Lawrence</b> - Ph.D. Biomedical Engineering, 2016: <a href="https://www.linkedin.com/in/emily-lawrence-phd-a3586917/">LinkedIn</a><br>
 <b>Alexander Reyes</b> - Ph.D. Biomedical Engineering, 2015: <a href="https://www.linkedin.com/in/alexanderreyes30/">LinkedIn</a><br>
-<b>Victor Barradas</b> - Ph.D. Biomedical Engineering, 2015<br>
-<b>Sarine Babikian</b> - Ph.D. Biomedical Engineering, 2015<br>
+<!--<b>Victor Barradas</b> - Ph.D. Biomedical Engineering, 2015<br>-->
 <b>Sudarshan Dayanidhi</b> - Ph.D. Biokinesiology, 2012: <a href="https://www.linkedin.com/in/sudarshan-dayanidhi-3577187/">LinkedIn</a> | <a href="https://www.sralab.org/researchers/sudarshan-dayanidhi-pt-phd">Website</a><br>
 <b>Joshua Inouye</b> - Ph.D. Biomedical Engineering, 2012<br>
 <b>Kornelius Rácz</b> - Ph.D. Neuroscience, 2012<br>
@@ -307,6 +297,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Paritosh Singh</b> - M.S. Computer Science (Artificial Intelligence) - 2022: <a href="https://www.linkedin.com/in/paritoshsinghrahar/">LinkedIn</a><br>
 <b>Scott Susanto</b> - B.S. Computer Engineering and Computer Science - 2022: <a href="https://www.linkedin.com/in/scottsusanto/">LinkedIn</a><br>
 <b>Justin Chen</b> - M.S. Computer Science (Intelligent Robotics) - 2021<br>
 <b>Neil Koby Reid</b> - M.S. Biomedical Engineering - 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
@@ -363,6 +354,15 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Taylor Stroobosscher</b> - B.S. Electrical Engineering<br>
 
 <!-- Old Profiles
+
+	<li class="flex-item">
+		<a name="paritoshsingh"></a>
+		<img src="../Photos/paritoshsingh_sq.jpeg" class = "profilepicture"/><br>
+		<font size="3"><b>Paritosh Singh</b></font><br>
+		<font size="3">M.S. Student in Computer Science (Artificial Intelligence)</font><br>
+		<a href="mailto:paritosh@usc.edu" target="_top">paritosh@usc.edu</a><br>
+		Interested in leveraging Artificial Intelligence for social good.<br>
+	</li>
 
 	<li class="flex-item">
 		<a name="charlexli"></a>
