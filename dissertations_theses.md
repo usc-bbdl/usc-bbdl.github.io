@@ -50,7 +50,7 @@ University of Southern California, 2021.<br>
 
 <br>
 
-Lawrence EL.<br>
+Lawrence, EL.<br>
 <b><a href="../Papers/LawrenceDissertation_Final.pdf">
 Demographic and Clinical Covariates of Sensorimotor Processing</a></b><br>
 University of Southern California, 2016.<br>
