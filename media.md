@@ -12,6 +12,7 @@ navigation_weight: 6
 <br>
 # May 12, 2022
 # Congrats to Andrew Yock for winning the Academic Excellence and Service (Master’s) Award!
+<img src="../Photos/AndrewYockMastersAward.jpg" alt="Andrew Yock award picture">
 <br>
 <br>
 # May 12, 2022
