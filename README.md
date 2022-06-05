@@ -9,15 +9,23 @@ Set cloudflare to development mode (instant updates instead of cached).
 - [Publications](#publications)
 - [Media](#media)
 - [Projects](#projects)
-- [Other](#other)
 
 # People
 - Add photo to Photos folder
-- Update people.md
+- Go to people.md
+- Add new member to current members list
+- If removing member, remove member from current members list and add them to lab alumni list
 
 # Publications
-- Add paper PDF to Papers folder
-- Update publications.md
+- Add the paper PDF to Papers folder
+- Update the appropriate markdown file. Please see mappings below: 
+- Publications (like conference and journal papers): publications.md
+- Full-Length Peer-Reviewed Abstracts (> 1 page): abstracts_peer_reviewed_full_length.md
+- Peer-Reviewed Abstracts (1 page): abstracts_peer_reviewed.md
+- Abstracts: abstracts.md
+- Book Chapters: bookchpt.md
+- Invited Symposia: invited_symposia.md
+- Dissertations and Theses: dissertations_theses.md
 
 # Media
 - Add any relevant photos to Photo folder
@@ -26,16 +34,6 @@ Set cloudflare to development mode (instant updates instead of cached).
 # Projects
 - Add any relevant media to Photo folder
 - Update projects.md 
-
-# Other
-- Full-Length Peer-Reviewed Abstracts: abstracts_peer_reviewed_full_length.md
-- Peer-Reviewed Abstracts: abstracts_peer_reviewed.md
-- Abstracts: abstracts.md
-- Book Chapters: bookchpt.md
-- Invited Symposia: invited_symposia.md
-- Dissertations and Theses: dissertations_theses.md
-
-
 
 <!--
 Peer reviewed abstracts format example:
