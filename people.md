@@ -207,6 +207,14 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:fungn@usc.edu" target="_top">fungn@usc.edu</a><br>
 		Interested in finding out what types of assistive technology the disability community is interested in and whether or not that aligns with the work of the scientific community.<br>
 	</li>
+	
+	<li class="flex-item">
+		<a name="carolalata"></a>
+		<img src="../Photos/CarolAlata.JPG" class = "profilepicture"/><br>
+		<font size="3"><b>Carol Esperanza Alata</b></font><br>
+		<font size="3">B.S. Student in Computational Neuroscience (BME Emphasis)</font><br>
+		<a href="mailto:alata@usc.edu" target="_top">alata@usc.edu</a><br>
+	</li>
 
 </ul>
 
