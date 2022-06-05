@@ -4,7 +4,10 @@ Website for the Brain Body Dynamics Lab
 # if you don't see changes in the repo shown on the website:
 Set cloudflare to development mode (instant updates instead of cached).
 
-# To update People page:
+# Updating Website Pages:
+<a href="window.location.href='#People';">People</a>
+
+<h1 id="People">People:</h1>
 - Add photo to Photos folder
 - Update people.md
 
