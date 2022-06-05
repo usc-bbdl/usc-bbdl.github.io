@@ -5,9 +5,9 @@ Website for the Brain Body Dynamics Lab
 Set cloudflare to development mode (instant updates instead of cached).
 
 # Updating Website Pages:
-<a href="window.location.href='#People';">People</a>
+- [People](#people)
 
-<h1 id="People">People:</h1>
+# People
 - Add photo to Photos folder
 - Update people.md
 
