@@ -6,24 +6,28 @@ Set cloudflare to development mode (instant updates instead of cached).
 
 # Updating Website Pages:
 - [People](#people)
+- [Publications](#publications)
+- [Media](#media)
+- [Projects](#projects)
+- [Other](#other)
 
 # People
 - Add photo to Photos folder
 - Update people.md
 
-# To update Publications page:
+# Publications
 - Add paper PDF to Papers folder
 - Update publications.md
 
-# To update Media page:
+# Media
 - Add any relevant photos to Photo folder
 - Update media.md
 
-# To update Project page:
+# Projects
 - Add any relevant media to Photo folder
 - Update projects.md 
 
-# For other types of publications, please see the following listing:
+# Other
 - Full-Length Peer-Reviewed Abstracts: abstracts_peer_reviewed_full_length.md
 - Peer-Reviewed Abstracts: abstracts_peer_reviewed.md
 - Abstracts: abstracts.md
