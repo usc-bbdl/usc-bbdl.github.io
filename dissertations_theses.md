@@ -59,7 +59,7 @@ University of Southern California, 2020.<br>
 
 Ko, N.<br>
 <b><a href="../Papers/Ko_Doctoral_Dissertation_2016.pdf">
-BEHAVIORAL AND NEUROPHYSIOLOGICAL STUDIES OF HAND DEXTERITY IN HEALTH AND PARKINSON’S DISEASE</a></b><br>
+Behavioral and Neurophysiological Studies of Hand Dexterity in Health and Parkinson's Disease</a></b><br>
 University of Southern California, 2016.<br>
 
 <br>
