@@ -49,6 +49,20 @@ Autonomous Learning for Robots in the Context of Brain-Body Interactions</a></b>
 University of Southern California, 2021.<br>
 
 <br>
+  
+Hagen, DA.<br>
+<b><a href="../Papers/Hagen_Doctoral_Dissertation_2020.pdf">
+insideOut: Estimating Joint Angles in Tendon-Driven Robots Using Artificial Neural Networks and Non-collocated Sensors</a></b><br>
+University of Southern California, 2020.<br>
+
+<br>
+
+Ko, N.<br>
+<b><a href="../Papers/Ko_Doctoral_Dissertation_2016.pdf">
+BEHAVIORAL AND NEUROPHYSIOLOGICAL STUDIES OF HAND DEXTERITY IN HEALTH AND PARKINSON’S DISEASE</a></b><br>
+University of Southern California, 2016.<br>
+
+<br>
 
 Lawrence, EL.<br>
 <b><a href="../Papers/LawrenceDissertation_Final.pdf">
