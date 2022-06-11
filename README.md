@@ -18,6 +18,7 @@ Set cloudflare to development mode (instant updates instead of cached).
 
 # Publications
 - Add the paper PDF to Papers folder
+- If this paper PDF is over 25 MB, then you won't be able to add it via web browser upload. You will have to add it via command line (using git).
 - Update the appropriate markdown file. Please see mappings below: 
 - Publications (like conference and journal papers): publications.md
 - Full-Length Peer-Reviewed Abstracts (> 1 page): abstracts_peer_reviewed_full_length.md
