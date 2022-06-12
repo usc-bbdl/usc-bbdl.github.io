@@ -269,10 +269,10 @@ Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Dieg
 
 <br>
 
-Ko N*, Lawrence EL\*, Dayanidhi S\*, Hu W, DiConti A, Lerner J, Winstein CW, Requejo P, Fisher B, Valero-Cuevas FJ.<br>
+Ko N*, Lawrence EL*, Dayanidhi S*, Hu W, DiConti A, Lerner J, Winstein CW, Requejo P, Fisher B, Valero-Cuevas FJ.<br>
 <b>
 "The Strength-Dexterity test can detect differences in dynamic control of fingertip forces between individuals with Parkinson's disease and non-disabled older adults."</b><br>
-Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013. \*denotes equal contribution<br>
+Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013. *denotes equal contribution<br>
 
 <br>
 
@@ -304,10 +304,10 @@ Proceedings of Translational and Computational Motor Control, San Diego, CA, Nov
 
 <br>
 
-Niu CM\*, Rocamora J\*, Valero-Cuevas FJ~, Sanger T~.<br>
+Niu CM*, Rocamora J*, Valero-Cuevas FJ~, Sanger T~.<br>
 <b><a href="../Papers/Niu2013Assessing.pdf">
 "Assessing the role of neuromuscular components using a tendon-driven robotic plant controlled by neuromorphic hardware."</a></b><br>
-Proceedings of Translational and Computational Motor Control, San Diego, CA, November 8, 2013. \* denotes equal contribution, ~ denotes equal leadership<br>
+Proceedings of Translational and Computational Motor Control, San Diego, CA, November 8, 2013. * denotes equal contribution, ~ denotes equal leadership<br>
 
 <br>
 
@@ -339,19 +339,19 @@ Proceedings of the 6th International IEEE/EMBS Conference of Neural Engineering,
 
 <br>
 
-Fassola I\*, Lawrence EL\*, Dayanidhi S, Ko N, Leclercq C, Valero-Cuevas FJ.<br>
+Fassola I*, Lawrence EL*, Dayanidhi S, Ko N, Leclercq C, Valero-Cuevas FJ.<br>
 <b>
 "Is osteoarthritis of the thumb a strictly orthopedic condition?"</b><br>
-Proceedings of the 1st International Thumb Osteoarthrits Workshop, Newport, RI, October 25-26, 2013. \*denotes equal contribution<br>
+Proceedings of the 1st International Thumb Osteoarthrits Workshop, Newport, RI, October 25-26, 2013. *denotes equal contribution<br>
 
 <br>
 
 <h1 style="font-size:40px;" id="2012">2012</h1>
 
-Stern V\*, Lawrence EL\*, Hu W, Lyle M, Winstein C, Requejo P, and Valero-Ceuvas FJ.<br>
+Stern V*, Lawrence EL*, Hu W, Lyle M, Winstein C, Requejo P, and Valero-Ceuvas FJ.<br>
 <b>
 "Reduced ability to stabilize ground contact with the leg may explain gait changes in aging"</b><br>
-65th Annual Gerontological Society of America Meeting, symposium presentation, San Diego, CA, November 11-14, 2012. \*equal contribution<br>
+65th Annual Gerontological Society of America Meeting, symposium presentation, San Diego, CA, November 11-14, 2012. *equal contribution<br>
 
 <br>
 
@@ -411,10 +411,10 @@ Dayanidhi S, Hedberg Aring;, Valero-Cuevas FJ, and Forssberg H.<br>
 
 <br>
 
-Lawrence E\*, Stern V\*, Lyle M, Winstein C, Requejo P, Valero-Cuevas FJ.<br>
+Lawrence E*, Stern V*, Lyle M, Winstein C, Requejo P, Valero-Cuevas FJ.<br>
 <b>
 "Lower Extremity Dynamic Control Declines with Aging"</b><br>
-22nd Annual Society for the Neural Control of Movement Conference, Venice, Italy, April 21-28, 2012. \*equal contribution<br>
+22nd Annual Society for the Neural Control of Movement Conference, Venice, Italy, April 21-28, 2012. *equal contribution<br>
 
 <br>
 
@@ -462,10 +462,10 @@ Rácz K, Valero-Cuevas FJ.<br>
 
 <br>
 
-Rácz K\*, Sindhurakar A\*, Bradley NS, Valero-Cuevas FJ.<br>
+Rácz K*, Sindhurakar A*, Bradley NS, Valero-Cuevas FJ.<br>
 <b><a href="../Papers/Racz_ASB2011_ChickAbstract.pdf">
 "Prenatal Motor Development Affects Observed Motor Behavior for Different Incubation Periods in Domestic Chick"</a></b><br>
-35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011. \*equal contribution<br>
+35th Annual American Society for Biomechanics Conference, Long Beach, CA, August 10-13, 2011. *equal contribution<br>
 
 <br>
 
@@ -490,10 +490,10 @@ Proceedings of the 21th Annual Meeting of the Society for the Neural Control of 
 
 <br>
 
-Rácz K\*, Sindhurakar A\*, Bradley NS, Valero-Cuevas FJ. <br>
+Rácz K*, Sindhurakar A*, Bradley NS, Valero-Cuevas FJ. <br>
 <b>
 "Prenatal motor development for different incubation periods affects postural control but not early gait"</b><br>
-Proceedings of the 21th Annual Meeting of the Society for the Neural Control of Movement, San Juan, Puerto Rico, April 26-May 1, 2011. \*equal contribution<br>
+Proceedings of the 21th Annual Meeting of the Society for the Neural Control of Movement, San Juan, Puerto Rico, April 26-May 1, 2011. *equal contribution<br>
 
 <br>
 
@@ -900,6 +900,8 @@ Abstracts, V. II. Second World Congress of Biomechanics, Amsterdam, The Netherla
 </script>
 </body>
 <!-- scroll to top button -->
+
+
 
 
 
