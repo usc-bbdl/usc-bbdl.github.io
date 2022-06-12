@@ -269,7 +269,7 @@ Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Dieg
 
 <br>
 
-Ko N\*, Lawrence EL\*, Dayanidhi S\*, Hu W, DiConti A, Lerner J, Winstein CW, Requejo P, Fisher B, Valero-Cuevas FJ.<br>
+Ko N*, Lawrence EL\*, Dayanidhi S\*, Hu W, DiConti A, Lerner J, Winstein CW, Requejo P, Fisher B, Valero-Cuevas FJ.<br>
 <b>
 "The Strength-Dexterity test can detect differences in dynamic control of fingertip forces between individuals with Parkinson's disease and non-disabled older adults."</b><br>
 Proceedings of the 43rd Annual Meeting of the Society for Neuroscience, San Diego, CA, November 9-13, 2013. \*denotes equal contribution<br>
