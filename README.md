@@ -1,5 +1,5 @@
-# usc-bbdl.github.io
-Website for the Brain Body Dynamics Lab
+# valerolab.org
+Website for the Valero Lab
 
 # if you don't see changes in the repo shown on the website:
 Set cloudflare to development mode (instant updates instead of cached).
