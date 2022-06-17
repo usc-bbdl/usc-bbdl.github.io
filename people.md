@@ -38,7 +38,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="surajchakravarthi"></a>
-		<img src="../Photos/Suraj2022.JPG" class = "profilepicture" ><br>
+		<img src="../Photos/Suraj2022.jpg" class = "profilepicture" ><br>
 		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
 		<font size="3">Ph.D. Candidate in Electrical and Computer Engineering</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
