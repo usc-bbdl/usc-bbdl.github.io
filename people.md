@@ -38,7 +38,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	<li class="flex-item">
 		<a name="surajchakravarthi"></a>
-		<img src="../Photos/surajchakravarthi_sq.JPG" class = "profilepicture" ><br>
+		<img src="../Photos/Suraj2022.JPG" class = "profilepicture" ><br>
 		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
 		<font size="3">Ph.D. Candidate in Electrical and Computer Engineering</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
@@ -149,17 +149,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Medical Device Diagnostics and Engineering</font><br>
 		<a href="mailto:taylorwh@usc.edu" target="_top">taylorwh@usc.edu</a><br>
 		Interested in enhanced ACL recovery and rehabilitation practices.<br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="jaehyungchoi"></a>
-		<img src="../Photos/jaehyungchoi_sq.jpeg" class = "profilepicture"/><br>
-		<font size="3"><b>Jaehyung Choi</b></font><br>
-		<font size="3">M.S. Student in Computer Science</font><br>
-		<font size="3">B.S. Quantitative Biology, 2021</font><br>
-		<a href="mailto:jaehyunc@usc.edu" target="_top">jaehyunc@usc.edu</a><br>
-		Webmaster.<br>
-		Worked on connecting robotic systems with machine learning algorithms.<br>
+
 	</li>
 	
 	<li class="flex-item">
@@ -205,7 +195,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Communication Data Science</font><br>
 		<font size="3">B.A. Public Relations</font><br>
 		<a href="mailto:fungn@usc.edu" target="_top">fungn@usc.edu</a><br>
-		Interested in finding out what types of assistive technology the disability community is interested in and whether or not that aligns with the work of the scientific community.<br>
+		Webmaster.<br>
 	</li>
 	
 	<li class="flex-item">
@@ -305,6 +295,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Jaehyung Choi</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/jaehyungchoi33">LinkedIn</a><br>
 <b>Paritosh Singh</b> - M.S. Computer Science (Artificial Intelligence) - 2022: <a href="https://www.linkedin.com/in/paritoshsinghrahar/">LinkedIn</a><br>
 <b>Scott Susanto</b> - B.S. Computer Engineering and Computer Science - 2022: <a href="https://www.linkedin.com/in/scottsusanto/">LinkedIn</a><br>
 <b>Justin Chen</b> - M.S. Computer Science (Intelligent Robotics) - 2021<br>
