@@ -44,6 +44,7 @@ menu: main2
 <h1 style="font-size:40px;">Years</h1>
 
 <div>
+<button onclick="window.location.href='#2022';">2018</button>
 <button onclick="window.location.href='#2018';">2018</button>
 <button onclick="window.location.href='#2017';">2017</button>
 <button onclick="window.location.href='#2016';">2016</button>
@@ -65,6 +66,43 @@ menu: main2
   
 <br> -->
   
+<br>
+  
+<h1 style="font-size:40px;" id="2022">2022</h1>
+
+Almofeez LI, Niyo G, Woo J, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2022_SFN_Almofeez_Voluntary_movement_in_the_presence_of_muscle_afferentation___Fco_signed_off (1)" title="Multiple computational models of neuromuscular control include cortico-spinal drive as the primary (or only) command signal to a muscle. However, actual α-motoneuron activation results from summation of excitatory and inhibitory descending, propriospinal, sensory and proprioceptive synaptic inputs. Muscle spindles provide homologous and heteronomous proprioceptive inputs encoding muscle fiber length and velocity, while γ-motoneurons can modulate these spindle outputs, the extent to which the spindle feedback inputs alters limb kinematics is unknown. Here we model the functional effects of excitatory spindle afferent signals on limb kinematics to quantify whether and how the open loop descending cortico-spinal drive to α-motoneurons needs to be adjusted to counterbalance spindle afferent signals. Similar to (Hagen and Valero-Cuevas 2017), we used a 31-muscle Macaque arm model in MuJoCo and generated 100 open loop α-motoneuron commands that produced random free arm movements lasting 2 seconds starting from rest. We then systematically added excitatory monosynaptic spindle afferent to each muscle. We compared the baseline motion to the resulting disrupted trajectories and endpoint location after using five incremental feedback gains, proportional to the lengthening and eccentric velocity of each muscle. As expected, movements inducing greater fiber lengthening and eccentric velocities tended to be more disrupted as gain increased. But these trajectory and endpoint disruption were neither linear nor necessarily kinematically significant. Our findings highlight that each arm movement must have a distinct, nonlinear compensatory interaction between α and γ motoneuron drives, which can range from subtle to strong. Moreover, our conceptual approach to computational neuromuscular control and learning should be broadened to encompass dynamic muscle afferentation.">
+"How is voluntary movement disrupted in the presence of muscle afferentation?"</a></b><br>
+Proceedings of the 51st Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2022<br>
+
+<br>
+
+Bartsch-Jimenez A, Erwin A, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2022_SFN_Bartsch_Prediction_of_task_progress_Francisco_signed_off" title="Dimensionality reduction techniques are often applied to electromyographic (EMG) recordings to calculate basis functions that quantify muscle coordination strategies. Usually, muscle synergies are defined using these dimensionality reduction techniques from the basis functions that account for 90% of variance in the original signal. However, the residual activity (remaining 10%) is not entirely random and can inform the execution of motor tasks. To test the importance of residual activity to capture the fine features of upper-arm cyclical motion, we compared the task progress prediction error based on (i) EMG activity and (ii) after its dimensionality reduction.">
+"Muscle synergy residuals are necessary for accurate prediction of task progress"</a></b><br>
+Proceedings of the 51st Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2022<br>
+
+<br>
+  
+Chakravarthi Raja S, Fannelle T, Lao JE, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2022_SFN_Chakravarthi Raja_Abstract_FINAL" title="It is still unknown in detail to what extent and in what way spinally-mediated sensorimotor mechanisms contribute to natural voluntary movement. Specifically, there is a need to disambiguate the functional contribution of descending alpha (α) and gamma (γdynamic, γstatic) cortico-spinal projections from propriospinal, sensory, and proprioceptive projections. As an extension of our neuromorphic computational  approach in Jalaledini et al. (2017), Niu et al. (2017) and Nagamori et al. (2021), we actuated a tendon-driven single-joint robotic finger using motors programmed to act in real-time as an agonist-antagonist pair of Hill-Type muscles. In addition to modeling spiking neurons (Izhikevich, 2003), muscle spindles (Mileusnic et al., 2006) and Golgi tendon organs (Mileusnic and Loeb, 2006), their stretch reflex pathways were also innervated by descending α, γdynamic, and γstatic drives. The α drive (in pulses per second, pps) was set to produce slow sinusoidal or point-to-point movements on the robotic finger's joint. By sweeping across  various values of amplitude and relative phase of the γdynamic and γstatic drives to the two muscles, we were able to quantify the effect of these various α-γ interactions on joint kinematics. 'Realism of movement' was quantified using three metrics: 1. magnitude of voluntary movement, measured in degrees; 2. deviation from minimum jerk to measure smoothness; and 3. two-thirds power law to compare movements with varying parameters. We saw that only a particular, typically phase-advanced family of γ drive profiles enables greater sinusoidal joint movements. Also, careful scheduling of γ drives during the ramp and hold phases is crucial to accurately start and stop point-to-point movement. Our results highlight that only certain families of task-specific amplitudes and phases of γ drives are sufficient (yet not necessary) to produceic motor action. This warrants further study in human neuromorphic models to validate the nuanced role of descending α-γ cortico-spinal commands in enabling spinal circuits to produce natural voluntary movement.">
+"Only certain phase relationships of alpha-gamma coordination facilitate voluntary movement"</a></b><br>
+Proceedings of the 51st Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2022<br>
+
+<br>
+  
+Erwin A, Bartsch-Jimenez A, Azadjou MH, Almofeez LI, Niyo G, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2022_SFN_Erwin_Effect of age on coherence" title="Synchronous activity between electromyography (EMG) signals at high frequencies (>7 Hz), i.e., intermuscular coherence, is thought to reveal shared neural input to muscles.  As such it may be able to quantify ‘synergies of neural origin’.  As an essential step towards clinical utility of intermuscular coherence in neurorehabilitation, we extended Laine et al. (J Physiol, 2021) and contrasted alpha-band neural drive strength between four neurotypical young adults (23–29 years) and four neurotypical older adults (51–58 years—within the age range in the population of stroke survivors). Using their right arm, participants rotated an ergometer while surface EMG was measured from seven muscles including the upper trapezius, triceps (lateral head), biceps (short and long heads), and deltoid (anterior, middle, posterior). EMG data were high-pass filtered using a fourth-order Butterworth filter with a cutoff frequency of 250 Hz and then the signals were rectified. Magnitude squared coherence was estimated across all muscle pairs (21 comparisons), and a mean coherence per participant was estimated as the mean of the maximum coherence in the alpha-band (8-16 Hz) per muscle pair. A corresponding grand mean was estimated for each group (young adults vs. older adults). These preliminary data show that the averagecoherence per participant for young adults vs. older adults was 0.0262 (    0.0068) vs. 0.0363 (    0.0195), which were not statistically different (p = 0.14). Each group mean was significantly above the coherence threshold of 0.006. This preliminary study of the previously unexplored age-dependent nature of coherence during cyclical reaching movements suggests that aging does not affect mean coherence across all muscles and phases of the cycle. These preliminary results encourage further study of this lack of age-dependent coherence up to 58 years of age, and beyond. If this result is further validated, it would provide a rigorous biomarker baseline against which to compare motor impairment in adults after neurological injuries, suchas stroke.">
+"Effects of age on intermuscular coherence in a cyclical upper-extremity motor task"</a></b><br>
+Proceedings of the 51st Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2022<br>
+
+<br>
+  
+Fanelle T, Urbina-Meléndez D, Chakravarthi Raja S, Marjaninejad A, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2022_SFN_Fanelle_QuadrupedLocomotion___Francisco_signed_off" title="The ability to take a known skill and adapt it to a novel task is fundamental to lifelong learning (Kudithipudi et al., 2022). Here we show in hardware that the knowledge a quadruped gains by babbling and refining movement in-air is beneficial to further learning when transitioning from movement in-air to on-ground(Marjaninejad, Urbina-Mel´endez, et al., 2019b; Marjaninejad, 2021). The quadruped creates an implicit model of its own kinematics by undergoing five minutes of motor babbling and training an artificial neural network (ANN) to produce the inverse kinematics through usage of the General-to-Particular (G2P) autonomous learning algorithm (Marjaninejad, Urbina-Mel´endez, et al., 2019a; Sun et al., 2019). By feeding a set of desired kinematics into this ANN we produce a set of motor activations that the model predicts will result in those kinematics; the error between desired and actual kinematics obtained from the activations can then be used to refine the model with a few-shot learning approach.">
+"The Translation of In-Air Movement to On-Ground Locomotion of a Tendon-Driven Quadruped Through Adaptive Learning"</a></b><br>
+Proceedings of the 51st Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2022<br>
+
 <br>
   
 <h1 style="font-size:40px;" id="2018">2018</h1>
