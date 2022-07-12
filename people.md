@@ -229,11 +229,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
-		<a name="andrewyock"></a>
-		<font size="3"><b>Andrew Yock</b></font><br>
-		<font size="3">B.S. Student in Biomedical Engineering</font><br>
-		<font size="3">M.S. Student in Medical Device and Diagnostic Engineering</font><br>
-		<a href="mailto:yock@usc.edu" target="_top">yock@usc.edu</a><br>
+		<a name="brendanflanagan"></a>
+		<font size="3"><b>Brendan Flanagan</b></font><br>
+		<font size="3">B.S. Student in Mechanical Engineering</font><br>
+		<a href="mailto:bmflanag@usc.edu" target="_top">bmflanag@usc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
@@ -298,6 +297,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 ## Internship Alumni
 <b>Jaehyung Choi</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/jaehyungchoi33">LinkedIn</a><br>
 <b>Paritosh Singh</b> - M.S. Computer Science (Artificial Intelligence) - 2022: <a href="https://www.linkedin.com/in/paritoshsinghrahar/">LinkedIn</a><br>
+<b>Andrew Yock</b> - M.S. Medical Device and Diagnostic Engineering - 2022: <a href="https://www.linkedin.com/in/andrew-yock-a41a2b149/">LinkedIn</a><br>
 <b>Scott Susanto</b> - B.S. Computer Engineering and Computer Science - 2022: <a href="https://www.linkedin.com/in/scottsusanto/">LinkedIn</a><br>
 <b>Justin Chen</b> - M.S. Computer Science (Intelligent Robotics) - 2021<br>
 <b>Neil Koby Reid</b> - M.S. Biomedical Engineering - 2021: <a href="https://www.linkedin.com/in/neil-koby-reid-949758ba/">LinkedIn</a><br>
