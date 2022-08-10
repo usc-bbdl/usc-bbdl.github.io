@@ -74,10 +74,66 @@ Proceedings of the 2018 meeting of the International Motoneuron Society, Boulder
 
 <h1 style="font-size:40px;" id="2016">2016</h1>
 
+Peppoloni L, Ruffaldi E, Valero-Cuevas FJ.<br>
+<b>
+"The strength dexterity test quantifies age-related differences in the sensorimotor control dynamics."</b><br>
+International Symposium on the Neuromechanics of Human Movement, Heidelberg, DE, October 4-6, 2016.<br>
+
+<br>
+  
+Peppoloni L, Ruffaldi E, Valero-Cuevas FJ.<br>
+<b>
+"The strength dexterity test quantifies age-related differences in the sensorimotor control dynamics."</b><br>
+International Symposium on the Neuromechanics of Human Movement, Heidelberg, DE, October 4-6, 2016.<br>
+
+<br>
+  
+Peppoloni L, Ruffaldi E, Valero-Cuevas FJ.<br>
+<b>
+"The strength dexterity test quantifies age-related differences in the sensorimotor control dynamics."</b><br>
+International Symposium on the Neuromechanics of Human Movement, Heidelberg, DE, October 4-6, 2016.<br>
+
+<br>
+  
+Peppoloni L, Ruffaldi E, Valero-Cuevas FJ.<br>
+<b>
+"The strength dexterity test quantifies age-related differences in the sensorimotor control dynamics."</b><br>
+International Symposium on the Neuromechanics of Human Movement, Heidelberg, DE, October 4-6, 2016.<br>
+
+<br>
+  
+Arnold S., Pun TK., Denisart TJ, Valero-Cuevas FJ.<br>
+<b><a href="..Papers/2017_Shapechanger_Environments_for_transfer_learning.pdf">
+"Shapechanger: Environments for transfer learning"</b><br>
+SoCal Robotic Symposium, Los Angeles, CA. April 14, 2017.<br>
+
+<br>
+  
+Arnold S, Chu E, Valero-Cuevas FJ.<br>
+<b>
+"A Performance Comparison between TRPO and CEM for Deep Reinforcement Learning."</b><br>
+Southern California Machine Learning Symposium, Pasadena, CA, November 18, 2016.<br>
+
+<br>
+  
+Peppoloni L, Ruffaldi E, Valero-Cuevas FJ.<br>
+<b>
+"The strength dexterity test quantifies age-related differences in the sensorimotor control dynamics."</b><br>
+International Symposium on the Neuromechanics of Human Movement, Heidelberg, DE, October 4-6, 2016.<br>
+
+<br>
+  
+Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ.<br>
+<b><a href="../Papers/2016_Dynamic_fingertip_force_variability_in_individuals_with_Parkinsons.pdf">
+"Dynamic fingertip force variability in individuals with Parkinson's disease."</b><br>
+Hand Rehabilitation Section, American Physical Therapy Association Combined Sections Meeting, Anaheim, CA, Feb 17-20, 2016.<br>
+
+<br>
+  
 Lawrence EL, Peppoloni L, Valero-Cuevas FJ.<br>
 <b>
 "Evidence that lower levels of leg dexterity may be a previously unrecognized risk factor for knee ligament injury in women."</b><br>
-Proceedings of the 40th Annual Meeting of the American Society of Biomechanics, Raleigh NC, August 2-5, 2016<br>
+Proceedings of the 40th Annual Meeting of the American Society of Biomechanics, Raleigh NC, August 2-5, 2016.<br>
 
 <br>
 
@@ -99,6 +155,13 @@ Laine CM and Valero-Cuevas FJ.<br>
 <b>
 "Investigating neural strategies for muscle coordination."</b><br>
 XXI Congress of the International Society for Electrophysiology and Kinesiology, Chicago, IL, July 5-8, 2016.<br>
+
+<br>
+  
+Laine CM, Nagamori A, Shin JY, Valero-Cuevas FJ.<br>
+<b>
+"Task-Dependent Coherence Across Finger Muscles."</b><br>
+Proceedings of the 46th Annual Meeting of the Society for Neuroscience, San Diego, CA, November 12-16, 2016.<br>
 
 <br>
 
