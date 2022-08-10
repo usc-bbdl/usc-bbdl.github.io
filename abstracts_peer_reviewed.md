@@ -74,37 +74,10 @@ Proceedings of the 2018 meeting of the International Motoneuron Society, Boulder
 
 <h1 style="font-size:40px;" id="2016">2016</h1>
 
-Peppoloni L, Ruffaldi E, Valero-Cuevas FJ.<br>
-<b>
-"The strength dexterity test quantifies age-related differences in the sensorimotor control dynamics."</b><br>
-International Symposium on the Neuromechanics of Human Movement, Heidelberg, DE, October 4-6, 2016.<br>
-
-<br>
-  
-Peppoloni L, Ruffaldi E, Valero-Cuevas FJ.<br>
-<b>
-"The strength dexterity test quantifies age-related differences in the sensorimotor control dynamics."</b><br>
-International Symposium on the Neuromechanics of Human Movement, Heidelberg, DE, October 4-6, 2016.<br>
-
-<br>
-  
-Peppoloni L, Ruffaldi E, Valero-Cuevas FJ.<br>
-<b>
-"The strength dexterity test quantifies age-related differences in the sensorimotor control dynamics."</b><br>
-International Symposium on the Neuromechanics of Human Movement, Heidelberg, DE, October 4-6, 2016.<br>
-
-<br>
-  
-Peppoloni L, Ruffaldi E, Valero-Cuevas FJ.<br>
-<b>
-"The strength dexterity test quantifies age-related differences in the sensorimotor control dynamics."</b><br>
-International Symposium on the Neuromechanics of Human Movement, Heidelberg, DE, October 4-6, 2016.<br>
-
-<br>
   
 Arnold S., Pun TK., Denisart TJ, Valero-Cuevas FJ.<br>
 <b><a href="..Papers/2017_Shapechanger_Environments_for_transfer_learning.pdf">
-"Shapechanger: Environments for transfer learning"</b><br>
+  "Shapechanger: Environments for transfer learning"</a></b><br>
 SoCal Robotic Symposium, Los Angeles, CA. April 14, 2017.<br>
 
 <br>
@@ -125,7 +98,7 @@ International Symposium on the Neuromechanics of Human Movement, Heidelberg, DE,
   
 Ko N, Laine CM, Fisher BE, Valero-Cuevas FJ.<br>
 <b><a href="../Papers/2016_Dynamic_fingertip_force_variability_in_individuals_with_Parkinsons.pdf">
-"Dynamic fingertip force variability in individuals with Parkinson's disease."</b><br>
+"Dynamic fingertip force variability in individuals with Parkinson's disease."</a></b><br>
 Hand Rehabilitation Section, American Physical Therapy Association Combined Sections Meeting, Anaheim, CA, Feb 17-20, 2016.<br>
 
 <br>
