@@ -91,10 +91,10 @@ TETRAHAND 2018 Congress in Nottwil, Switzerland. August 29, 2018.<br>
 
 <br>
 
-Chakravarthi Raja S, You WS, Jalaleddini K, Wenzke L, Lightdale-Miric NR, Hentz VR, BalasubramaValero-Cuevas FJ .<br>
-<b><a href="../Papers/2018_Novelpassiveimplanteddifferentialmechanismimprovesgraspfunctionaftertendontransfersurgery.pdf">
-Novel passive implanted differential mechanism improves grasp function after tendon transfer surgery.</a></b><br>
-TETRAHAND 2018 Congress in Nottwil, Switzerland. August 29, 2018.<br>
+Valero-Cuevas FJ .<br>
+<b>
+Putting synergies in perspective. Feasibility Theory: An Integrative Approach to Neuromuscular Control“ at Modularity and Compositionality in Motor Control: Issues And Perspectives.</b><br>
+A Workshop to Acknowledge the Career of Emilio Bizzi. Hilton Buffalo Thunder, Santa Fe, NM. May 5, 2018.<br>
 
 <br>
   
