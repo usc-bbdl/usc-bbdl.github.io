@@ -71,16 +71,55 @@ Nagamori A, Laine CM, Valero-Cuevas FJ.<br>
 Proceedings of the 2018 meeting of the International Motoneuron Society, Boulder, CO, USA, June 2018<br>
 
 <br>
+  
+<h1 style="font-size:40px;" id="2017">2016</h1>
 
-<h1 style="font-size:40px;" id="2016">2016</h1>
+Cohn BA, Jalaleddini K, Valero-Cuevas FJ.<br>
+<b><a href="..Papers/cohn_jalaleddini_valerocuevas_asb_2017.pdf">
+  "Neuromechanical implications of postural changes to motor learning and performance."</a></b><br>
+Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.<br>
 
+<br>
+  
+Jalaleddini K, Nagamori A, Laine CM, Golkar MA, Kearney RE, Valero-Cuevas FJ.<br>
+<b>
+  "Evidence That Tuning of Muscle Spindles Can Be Decoupled from Muscle Activation."</b><br>
+Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.<br>
+
+<br>
+  
+Marjaninejad A, Taherian B, Jalaleddini K, and Valero-Cuevas FJ. .<br>
+<b>
+  "Simple and Two-Element Hill-Type Muscle Models Cannot Replicate Realistic Muscle Stiffness."</b><br>
+Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.<br>
+
+<br>
+  
+Nagamori A, Laine CM, Jalaleddini K, Valero-Cuevas FJ.<br>
+<b><a href="..Papers/ASB_2017_nagamori.pdf">
+  "Interactions between Tendon Stiffness and Spindle Afferent Feedback Determine the Magnitude of Involuntary Force Variability."</a></b><br>
+Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.<br>
+
+<br>
+  
+Laine CM, Valero-Cuevas FJ.<br>
+<b><a href="..Papers/CML_FJVC_ASB_2017.pdf">
+  "Specific Manual Tasks Transform EMG into a Probe for Neural Dysfunction in Parkinson’s Disease."</a></b><br>
+Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.<br>
+
+<br>
   
 Arnold S., Pun TK., Denisart TJ, Valero-Cuevas FJ.<br>
 <b><a href="..Papers/2017_Shapechanger_Environments_for_transfer_learning.pdf">
-  "Shapechanger: Environments for transfer learning"</a></b><br>
+  "Shapechanger: Environments for transfer learning."</a></b><br>
 SoCal Robotic Symposium, Los Angeles, CA. April 14, 2017.<br>
 
 <br>
+  
+  
+
+<h1 style="font-size:40px;" id="2016">2016</h1>
+
   
 Arnold S, Chu E, Valero-Cuevas FJ.<br>
 <b>
