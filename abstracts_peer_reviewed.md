@@ -44,7 +44,10 @@ menu: main2
 <h1 style="font-size:40px;">Years</h1>
 
 <div>
+<button onclick="window.location.href='#2021';">2021</button>
+<button onclick="window.location.href='#2019';">2019</button>
 <button onclick="window.location.href='#2018';">2018</button>
+<button onclick="window.location.href='#2017';">2017</button>
 <button onclick="window.location.href='#2016';">2016</button>
 <button onclick="window.location.href='#2015';">2015</button>
 <button onclick="window.location.href='#2014';">2014</button>
@@ -66,6 +69,20 @@ menu: main2
   
 <h1 style="font-size:40px;" id="2021">2021</h1>
 
+Urbina-Meléndez D, Wang D, and Valero-Cuevas FJ.<br>
+<b>
+"Bio-Inspired Tendon-driven Robotic Limbs."</b><br>
+The 9th International Symposium on Adaptive Motion of Animals and Machines, June 2021.<br>
+
+<br>
+
+Mir, R, Ojaghi P, Marjaninejad A, Wehner M, Valero-Cuevas FJ.<br>
+<b><a href="..Papers/2021_Active_sensing_in_bioinspired_hand.pdf">
+"Active sensing in a bioinspired hand as an enabler of implicit curriculum learning for manipulation."</a></b><br>
+The 9th International Symposium on Adaptive Motion of Animals and Machines, June 2021.<br>
+
+<br>
+  
 Raja SC, You WS, Jalaleddini K, Casebier J, Lightdale-Miric NR, Hentz VR, Balasubramanian R, Valero-Cuevas FJ.<br>
 <b>
 "An Implantable Differential Mechanism to Restore Individuated Finger Flexion following Tendon Transfer Surgery."</b><br>
