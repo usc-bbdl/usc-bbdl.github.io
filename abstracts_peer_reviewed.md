@@ -72,7 +72,7 @@ Proceedings of the 2018 meeting of the International Motoneuron Society, Boulder
 
 <br>
   
-<h1 style="font-size:40px;" id="2017">2016</h1>
+<h1 style="font-size:40px;" id="2017">2017</h1>
 
 Cohn BA, Jalaleddini K, Valero-Cuevas FJ.<br>
 <b><a href="..Papers/cohn_jalaleddini_valerocuevas_asb_2017.pdf">
