@@ -77,7 +77,7 @@ The 9th International Symposium on Adaptive Motion of Animals and Machines, June
 <br>
 
 Mir, R, Ojaghi P, Marjaninejad A, Wehner M, Valero-Cuevas FJ.<br>
-<b><a href="..Papers/2021_Active_sensing_in_bioinspired_hand.pdf">
+<b><a href="../Papers/2021_Active_sensing_in_bioinspired_hand.pdf">
 "Active sensing in a bioinspired hand as an enabler of implicit curriculum learning for manipulation."</a></b><br>
 The 9th International Symposium on Adaptive Motion of Animals and Machines, June 2021.<br>
 
@@ -114,7 +114,7 @@ Proceedings of the 2018 meeting of the International Motoneuron Society, Boulder
 <h1 style="font-size:40px;" id="2017">2017</h1>
 
 Cohn BA, Jalaleddini K, Valero-Cuevas FJ.<br>
-<b><a href="..Papers/cohn_jalaleddini_valerocuevas_asb_2017.pdf">
+<b><a href="../Papers/cohn_jalaleddini_valerocuevas_asb_2017.pdf">
   "Neuromechanical implications of postural changes to motor learning and performance."</a></b><br>
 Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.<br>
 
@@ -135,21 +135,21 @@ Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, 
 <br>
   
 Nagamori A, Laine CM, Jalaleddini K, Valero-Cuevas FJ.<br>
-<b><a href="..Papers/ASB_2017_nagamori.pdf">
+<b><a href="../Papers/ASB_2017_nagamori.pdf">
   "Interactions between Tendon Stiffness and Spindle Afferent Feedback Determine the Magnitude of Involuntary Force Variability."</a></b><br>
 Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.<br>
 
 <br>
   
 Laine CM, Valero-Cuevas FJ.<br>
-<b><a href="..Papers/CML_FJVC_ASB_2017.pdf">
+<b><a href="../Papers/CML_FJVC_ASB_2017.pdf">
   "Specific Manual Tasks Transform EMG into a Probe for Neural Dysfunction in Parkinson’s Disease."</a></b><br>
 Proceedings of the 41st Annual Meeting of the American Society of Biomechanics, Boulder, CO. Aug 8-11, 2017.<br>
 
 <br>
   
 Arnold S., Pun TK., Denisart TJ, Valero-Cuevas FJ.<br>
-<b><a href="..Papers/2017_Shapechanger_Environments_for_transfer_learning.pdf">
+<b><a href="../Papers/2017_Shapechanger_Environments_for_transfer_learning.pdf">
   "Shapechanger: Environments for transfer learning."</a></b><br>
 SoCal Robotic Symposium, Los Angeles, CA. April 14, 2017.<br>
 
