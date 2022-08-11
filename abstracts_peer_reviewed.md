@@ -63,6 +63,17 @@ menu: main2
 </div>
 <br>
   
+  
+<h1 style="font-size:40px;" id="2021">2021</h1>
+
+Raja SC, You WS, Jalaleddini K, Casebier J, Lightdale-Miric NR, Hentz VR, Balasubramanian R, Valero-Cuevas FJ.<br>
+<b>
+"An Implantable Differential Mechanism to Restore Individuated Finger Flexion following Tendon Transfer Surgery."</b><br>
+2021 International Society of Biomechanics/Hand and Wrist Biomechanics Symposium, Stockholm, Sweden, July 2021.<br>
+
+<br>
+  
+  
 <h1 style="font-size:40px;" id="2019">2019</h1>
 
 Chakravarthi Raja S, Valero-Cuevas FJ.<br>
