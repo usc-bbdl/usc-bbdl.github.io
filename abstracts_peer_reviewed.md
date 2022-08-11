@@ -63,14 +63,25 @@ menu: main2
 </div>
 <br>
   
+<h1 style="font-size:40px;" id="2019">2019</h1>
+
+Chakravarthi Raja S, Valero-Cuevas FJ.<br>
+<b>
+"A neuromorphic implementation of afferented muscles demonstrates that only phase- advanced gamma drive of particular amplitudes allows fast voluntary cyclical movements."</b><br>
+29th Meeting of the Society for the Neural Control of Movement, Toyama, Japan, April 24-27, 2019.<br>
+
+<br>
+  
+  
 <h1 style="font-size:40px;" id="2018">2018</h1>
 
 Nagamori A, Laine CM, Valero-Cuevas FJ.<br>
 <b><a href="https://github.com/usc-bbdl/usc-bbdl.github.io/files/2757092/IMS_Abstract_AkiraNagamori.pdf">
 "Closed-loop control of afferented muscles determines the amplitude of force variability and its power spectrum."</a></b><br>
-Proceedings of the 2018 meeting of the International Motoneuron Society, Boulder, CO, USA, June 2018<br>
+Proceedings of the 2018 meeting of the International Motoneuron Society, Boulder, CO, USA, June 2018.<br>
 
 <br>
+  
   
 <h1 style="font-size:40px;" id="2017">2017</h1>
 
