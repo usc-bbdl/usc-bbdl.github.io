@@ -44,12 +44,60 @@ menu: main2
 <h1 style="font-size:40px;">Years</h1>
 
 <div>
+<button onclick="window.location.href='#2022';">2022</button>
+<button onclick="window.location.href='#2020';">2020</button>
+<button onclick="window.location.href='#2018';">2018</button>
 <button onclick="window.location.href='#2010';">2010</button>
 <button onclick="window.location.href='#2009';">2009</button>
 <button onclick="window.location.href='#2003';">2003</button>
 </div>
 
 <br>
+  
+  
+<h1 style="font-size:40px;" id="2022">2022</h1>
+
+Raja SC, You WS, Casebier J, Hentz VR, Balasubramanian R, Valero-Cuevas FJ.<br>
+<b>
+A network of passive implantable mechanisms improves hand grip strength after tendon transfer surgery.</b><br>
+2022 World Congress of Biomechanics/Hand and Wrist Biomechanics Symposium, Teipei, Taiwan, July 2022.<br>
+
+<br>
+  
+  
+<h1 style="font-size:40px;" id="2020">2020</h1>
+
+Valero-Cuevas FJ.<br>
+<b>
+The Sensory-Motor Gestalt.</b><br>
+DARPA L2M Biology Working Group, September 1, 2020.<br>
+
+<br>
+  
+  
+<h1 style="font-size:40px;" id="2018">2018</h1>
+
+Valero-Cuevas FJ.<br>
+<b>
+Neuromorphic systems for robot in-the-loop machine learning.</b><br>
+Human/Robot in-the-loop Machine Learning. IROS 2018 Workshop, Madrid, Spain. October 1, 2018.<br>
+
+<br>
+
+Chakravarthi Raja S, You WS, Jalaleddini K, Wenzke L, Lightdale-Miric NR, Hentz VR, Balasubramaniam R, Valero-Cuevas FJ .<br>
+<b><a href="../Papers/2018_Novelpassiveimplanteddifferentialmechanismimprovesgraspfunctionaftertendontransfersurgery.pdf">
+Novel passive implanted differential mechanism improves grasp function after tendon transfer surgery.</a></b><br>
+TETRAHAND 2018 Congress in Nottwil, Switzerland. August 29, 2018.<br>
+
+<br>
+
+Chakravarthi Raja S, You WS, Jalaleddini K, Wenzke L, Lightdale-Miric NR, Hentz VR, BalasubramaValero-Cuevas FJ .<br>
+<b><a href="../Papers/2018_Novelpassiveimplanteddifferentialmechanismimprovesgraspfunctionaftertendontransfersurgery.pdf">
+Novel passive implanted differential mechanism improves grasp function after tendon transfer surgery.</a></b><br>
+TETRAHAND 2018 Congress in Nottwil, Switzerland. August 29, 2018.<br>
+
+<br>
+  
   
 <h1 style="font-size:40px;" id="2010">2010</h1>
 
