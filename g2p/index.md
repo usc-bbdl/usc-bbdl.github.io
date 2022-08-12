@@ -7,7 +7,7 @@ title: General to Particular (G2P) Algorithm
 
 ## Nature Machine Intelligence - March 2019
 
-# [Article (open-access): Nature.com](https://www.nature.com/articles/s42256-019-0029-0)
+# [Article: Nature.com](https://www.nature.com/articles/s42256-019-0029-0)
 # [Arxiv Preprint](https://arxiv.org/pdf/1810.08615.pdf)
 
 
