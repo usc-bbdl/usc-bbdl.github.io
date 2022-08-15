@@ -47,6 +47,8 @@ menu: main2
 <button onclick="window.location.href='#2022';">2022</button>
 <button onclick="window.location.href='#2020';">2020</button>
 <button onclick="window.location.href='#2018';">2018</button>
+<button onclick="window.location.href='#2016';">2016</button>
+<button onclick="window.location.href='#2015';">2015</button>
 <button onclick="window.location.href='#2010';">2010</button>
 <button onclick="window.location.href='#2009';">2009</button>
 <button onclick="window.location.href='#2003';">2003</button>
@@ -60,7 +62,7 @@ menu: main2
 Raja SC, You WS, Casebier J, Hentz VR, Balasubramanian R, Valero-Cuevas FJ.<br>
 <b>
 A network of passive implantable mechanisms improves hand grip strength after tendon transfer surgery.</b><br>
-2022 World Congress of Biomechanics/Hand and Wrist Biomechanics Symposium, Teipei, Taiwan, July 2022.<br>
+2022 World Congress of Biomechanics/Hand and Wrist Biomechanics Symposium, Taipei, Taiwan, July 2022.<br>
 
 <br>
   
@@ -94,7 +96,27 @@ TETRAHAND 2018 Congress in Nottwil, Switzerland. August 29, 2018.<br>
 Valero-Cuevas FJ .<br>
 <b>
 Putting synergies in perspective. Feasibility Theory: An Integrative Approach to Neuromuscular Control“ at Modularity and Compositionality in Motor Control: Issues And Perspectives.</b><br>
-A Workshop to Acknowledge the Career of Emilio Bizzi. Hilton Buffalo Thunder, Santa Fe, NM. May 5, 2018.<br>
+A Workshop to Acknowledge the Career of Emilio Bizzi, Hilton Buffalo Thunder, Santa Fe, NM. May 5, 2018.<br>
+
+<br>
+  
+  
+<h1 style="font-size:40px;" id="2016">2016</h1>
+
+Valero-Cuevas FJ.<br>
+<b>
+A computational approach to the neuromechanical structure of feasible activations for complex tasks.</b><br>
+Fifth Annual Winter Workshop on Neuromechanics and Dynamics of Locomotion Tulane University, New Orleans, Louisiana, January 21 – 22, 2016.<br>
+
+<br>
+  
+  
+<h1 style="font-size:40px;" id="2015">2015</h1>
+
+Valero-Cuevas FJ.<br>
+<b>
+Neuromorphic meets Neuromechanics.</b><br>
+The 2015 International Conference on Brain Informatics and Health Informatics for Human Brain, Behavior and Health. London, United Kingdom, August 30, 2015.<br>
 
 <br>
   
