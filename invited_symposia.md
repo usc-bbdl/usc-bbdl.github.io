@@ -49,6 +49,7 @@ menu: main2
 <button onclick="window.location.href='#2018';">2018</button>
 <button onclick="window.location.href='#2016';">2016</button>
 <button onclick="window.location.href='#2015';">2015</button>
+<button onclick="window.location.href='#2014';">2014</button>
 <button onclick="window.location.href='#2010';">2010</button>
 <button onclick="window.location.href='#2009';">2009</button>
 <button onclick="window.location.href='#2003';">2003</button>
@@ -117,6 +118,23 @@ Valero-Cuevas FJ.<br>
 <b>
 Neuromorphic meets Neuromechanics.</b><br>
 The 2015 International Conference on Brain Informatics and Health Informatics for Human Brain, Behavior and Health. London, United Kingdom, August 30, 2015.<br>
+
+<br>
+  
+  
+<h1 style="font-size:40px;" id="2014">2014</h1>
+
+Valero-Cuevas FJ.<br>
+<b>
+Neuromechanics: how brain-body coevolution shaped the nervous system.</b><br>
+3rd DEMOVE Symposium on Translational Engineering for Neurorehabilitation, Department of Neurorehabilitation Engineering, Universitätsmedizin Göttingen, Göttingen, Germany, October 24, 2014.<br>
+
+<br>
+
+Valero-Cuevas FJ.<br>
+<b>
+Reversing bio-inspired engineering: Applying engineering principles to understand neuroscience.</b><br>
+2014 Society for Advancement of Hispanics/Chicanos and Native Americans in Science (SACNAS) National Conference “Creativity, Vision, & Drive: Toward Full Representation in STEM,” Los Angeles Convention Center, Los Angeles, CA, October 17, 2014.<br>
 
 <br>
   
