@@ -138,6 +138,37 @@ Reversing bio-inspired engineering: Applying engineering principles to understan
 
 <br>
   
+Valero-Cuevas FJ.<br>
+<b>
+Finger dexterity: Manipulating objects at the edge of instability.</b><br>
+International Symposium on Biomathematics and Ecology: Education and Research (BEER). The Claremont Colleges, Claremont, CA, October 11, 2014.<br>
+
+<br>
+
+Valero-Cuevas FJ.<br>
+<b>
+Is subject-specific modeling necessary? Probabilistic approaches can classify populations of models by functional features.</b><br>
+ASB Symposium on Subject- and patient-specific musculoskeletal modeling, 7th World Congress of Biomechanics, Boston, MA, July 9, 2014.<br>
+
+<br>
+  
+Valero-Cuevas FJ.<br>
+<b>
+If information is everywhere already, Why should people come to class?</b><br>
+Special session on Innovations in Biomechanics Teaching, 7th World Congress of Biomechanics, Boston, MA, July 9, 2014.<br>
+  
+<br>
+  
+  
+<h1 style="font-size:40px;" id="2013">2013</h1>
+
+Fassola I*, Lawrence EL*, Dayanidhi S, Ko N, Leclercq C, Valero-Cuevas FJ.<br>
+<b><a href="../Papers/2013_ITOW.pdf">
+Is osteoarthritis of the thumb a strictly orthopedic condition?</a></b><br>
+Proceedings of the 1st International Thumb Osteoarthrits Workshop, Newport, RI, October 25-26, 2013. *denotes equal contribution<br>
+
+<br>
+  
   
 <h1 style="font-size:40px;" id="2010">2010</h1>
 
