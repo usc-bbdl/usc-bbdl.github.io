@@ -50,6 +50,7 @@ menu: main2
 <button onclick="window.location.href='#2016';">2016</button>
 <button onclick="window.location.href='#2015';">2015</button>
 <button onclick="window.location.href='#2014';">2014</button>
+<button onclick="window.location.href='#2013';">2013</button>
 <button onclick="window.location.href='#2010';">2010</button>
 <button onclick="window.location.href='#2009';">2009</button>
 <button onclick="window.location.href='#2003';">2003</button>
@@ -194,6 +195,49 @@ Simple finger movements require complex coordination of excursions and forces ac
 The Annual Meeting for the American Society of Biomechanics, August 26-29, 2009, State College, Pennsylvania.<br>
 
 <br>
+
+Valero-Cuevas FJ.<br>
+<b>
+Manipulating the edge of stability: The thumb-finger spring compression paradigm.</b><br>
+Workshop on Noise, Time Delay and Balance Control, Banff International Research Station for Mathematical Innovation and Discovery, Banff, Alberta, Canada. November 8-13th, 2009.<br>
+
+<br>
+
+Kurse M, Lipson H, and Valero-Cuevas FJ.<br>
+<b><a href="../Papers/2009_A_fast_simulator_to_model_complex_tendon-bone_interactions.pdf">
+A fast simulator to model complex tendon-bone interactions: Application to the tendinous networks controlling the fingers.</a></b><br>
+Modeling Analyses of Human Movement Session, Thursday, June 18. ASME Summer Bioengineering Conference, Lake Tahoe, CA. June 17-21, 2009.<br>
+
+<br>
+
+Valero-Cuevas FJ.<br>
+<b>
+The neuromuscular system does ordinary manipulation tasks the ‘hard’ way: Lessons for robotic manipulators?</b><br>
+RSS 2009 Workshop on Understanding the Human Hand for Advancing Robotic Manipulation. Robotic Science and Systems Conference, June 28, Seattle, WA. 2009.<br>
+
+<br>
+  
+Valero-Cuevas FJ.<br>
+<b>
+The evolutionary quest for limb versatility lies at the core of many motor control riddles.</b><br>
+In Panel Session 5: The distributed control of movement: interactions between neural and musculoskeletal systems in the control of movement. Proceedings of the Nineteenth Annual Meeting of the Society for the Neural Control of Movement, Waikaloa, HI. April 30th, 2009.<br>
+
+<br>
+
+Valero-Cuevas FJ.<br>
+<b>
+Reverse-engineering the human brain's ability to control the hand.</b><br>
+National Science Foundation Conference on Emerging Frontiers in Research and Innovation (EFRI), Cognitive Optimization and Prediction: From Neural Systems to Neurotechnology (COPN) Program, March 5th, Washington, DC. 2009.<br>
+
+<br>
+
+Vollmer B, Holmström L,  Forsman, L, Krumlinde-Sundholm L,  Valero-Cuevas FJ, Forssberg H, Ullén F.<br>
+<b>
+A new Principle for the Assessment of Dexterity in Children and Adolescents.</b><br>
+Genial, Belgium, February 6th, 2009.<br>
+
+<br>
+  
 
 <h1 style="font-size:40px;" id="2003">2003</h1>
 
