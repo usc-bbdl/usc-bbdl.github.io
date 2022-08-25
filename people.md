@@ -124,19 +124,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 <ul class="flex-container">
 	
-
-	</li>
-	
-	<li class="flex-item">
-		<a name="danielwang"></a>
-		<img src="../Photos/danielwang_sq.png" class = "profilepicture"/><br>
-		<font size="3"><b>Daniel Wang</b></font><br>
-		<font size="3">B.S. Student in Mechanical Engineering</font><br>
-		<font size="3">B.S. Student in Applied & Computational Mathematics</font><br>
-		<a href="mailto:danielzw@usc.edu" target="_top">danielzw@usc.edu</a><br>
-		<font size="3"><a href="https://danielzw.com/">Website</a></font><br>
-		Developing complex mechanical systems.<br>
-	</li>
 	
 	<li class="flex-item">
 		<a name="janlao"></a>
@@ -182,15 +169,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Aerospace and Mechanical Engineering</font><br>
 		<a href="mailto:aiwamoto@usc.edu" target="_top">aiwamoto@usc.edu</a><br>
 		Interested in kinematics of soft robots and combining control theory with machine learning.<br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="abhilashkulkarni"></a>
-		<img src="../Photos/AbhilashKulkarni2_sq.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Abhilash Kulkarni</b></font><br>
-		<font size="3">M.S. Student in Computer Science</font><br>
-		<a href="mailto:ak41739@usc.edu" target="_top">ak41739@usc.edu</a><br>
-		Building Encoder Data Visualization tool for robots.<br>
 	</li>
 	
 	<li class="flex-item">
@@ -244,13 +222,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">B.S. Student in Mechanical Engineering</font><br>
 		<a href="mailto:bmflanag@usc.edu" target="_top">bmflanag@usc.edu</a><br>
 	</li>
-	
-	<li class="flex-item">
-		<a name="amberhelton"></a>
-		<font size="3"><b>Amber Helton</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:ahelton@usc.edu" target="_top">ahelton@usc.edu</a><br>
-	</li>
+
 	
 </ul>
 <br>
@@ -306,6 +278,9 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 ## Internship Alumni
 <b>Jaehyung Choi</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/jaehyungchoi33">LinkedIn</a><br>
+<b>Amber Helton</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/amber-helton/">LinkedIn</a><br>
+<b>Abhilash Kulkarni</b> - M.S. Biomedical Engineering - 2022: <a href="https://www.linkedin.com/in/abhilashkulkarniofficial/">LinkedIn</a><br>
+<b>Daniel Wang</b> - B.S. Mechanical Engineering, Applied & Computational Mathematics - 2022: <a href="https://danielzw.com/">Website</a><br>
 <b>Paritosh Singh</b> - M.S. Computer Science (Artificial Intelligence) - 2022: <a href="https://www.linkedin.com/in/paritoshsinghrahar/">LinkedIn</a><br>
 <b>Andrew Yock</b> - M.S. Medical Device and Diagnostic Engineering - 2022: <a href="https://www.linkedin.com/in/andrew-yock-a41a2b149/">LinkedIn</a><br>
 <b>Scott Susanto</b> - B.S. Computer Engineering and Computer Science - 2022: <a href="https://www.linkedin.com/in/scottsusanto/">LinkedIn</a><br>
