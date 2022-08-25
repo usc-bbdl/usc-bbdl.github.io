@@ -53,6 +53,7 @@ menu: main2
 <button onclick="window.location.href='#2013';">2013</button>
 <button onclick="window.location.href='#2010';">2010</button>
 <button onclick="window.location.href='#2009';">2009</button>
+<button onclick="window.location.href='#2008';">2008</button>
 <button onclick="window.location.href='#2003';">2003</button>
 </div>
 
@@ -192,7 +193,7 @@ The Annual Meeting for the American Society of Biomechanics, August 18-21, 2010,
 Kutch JJ, Kurse MU, Ho?mann H, Hentz VR, Leclercq C, Fassola I, Valero-Cuevas FJ.<br>
 <b><a href="../Papers/Kutch2009Simple.pdf">
 Simple finger movements require complex coordination of excursions and forces across all muscles.</a></b><br>
-The Annual Meeting for the American Society of Biomechanics, August 26-29, 2009, State College, Pennsylvania.<br>
+The Annual Meeting for the American Society of Biomechanics, State College, Pennsylvania. August 26-29, 2009.<br>
 
 <br>
 
@@ -213,7 +214,7 @@ Modeling Analyses of Human Movement Session, Thursday, June 18. ASME Summer Bioe
 Valero-Cuevas FJ.<br>
 <b>
 The neuromuscular system does ordinary manipulation tasks the ‘hard’ way: Lessons for robotic manipulators?</b><br>
-RSS 2009 Workshop on Understanding the Human Hand for Advancing Robotic Manipulation. Robotic Science and Systems Conference, June 28, Seattle, WA. 2009.<br>
+RSS 2009 Workshop on Understanding the Human Hand for Advancing Robotic Manipulation. Robotic Science and Systems Conference, Seattle, WA. June 28, 2009.<br>
 
 <br>
   
@@ -238,6 +239,16 @@ Genial, Belgium, February 6th, 2009.<br>
 
 <br>
   
+  
+<h1 style="font-size:40px;" id="2008">2008</h1>
+
+Valero-Cuevas FJ.<br>
+<b>
+Why Haven’t We Made Better Artificial Hands?</a></b><br>
+5th American Physical Society (APS) Workshop on Opportunities in Biological Physics, New Orleans, Louisiana. March 9th, 2008.<br>
+  
+<br>
+  
 
 <h1 style="font-size:40px;" id="2003">2003</h1>
 
@@ -245,6 +256,7 @@ Venkadesan M, Valero-Cuevas FJ, Guckenheimer JM.<br>
 <b><a href="../Papers/Venkadesan2003.pdf">
 The boundary of instability as a powerful experimental paradigm for understanding complex dynamical sensorimotor behavior: Dexterous manipulation as an example.</a></b><br>
 In Advances in Computational Motor Control II. Symposium at the 33th Annual Meeting of the Society for Neuroscience, New Orleans, LA, 2003.<br>
+  
 
 
 
