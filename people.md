@@ -42,7 +42,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
 		<font size="3">Ph.D. Candidate in Electrical and Computer Engineering</font><br>
 		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
-		Making fully operational, neurally interfaced exo-suits and smart prosthesis an affordable reality.
+		<a href="https://www.linkedin.com/in/surajcr/" target="_top">LinkedIn</a><br>
+		Using FPGA-accelerated neuromorphic computing to enable dexterous manipulation in tendon-driven neuro-robots.
 	</li>
 
 	<li class="flex-item">
@@ -74,6 +75,14 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Research in Biomedical Signal Processing, Computational Neuroscience and Machine Learning.<br>
 		
 	</li>
+	
+		<li class="flex-item">
+		<a name="rominamir"></a>
+		<img src="../Photos/RominaMir2_sq.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Romina Mir</b></font><br>
+		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
+		<a href="mailto:rmir@usc.edu" target="_top">rmir@usc.edu</a><br>
+		Studying the role of sensory information in autonomous robotic manipulation.<br>
 	
 </ul>
 
@@ -115,13 +124,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 <ul class="flex-container">
 	
-	<li class="flex-item">
-		<a name="rominamir"></a>
-		<img src="../Photos/RominaMir2_sq.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Romina Mir</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:rmir@usc.edu" target="_top">rmir@usc.edu</a><br>
-		Studying the role of sensory information in autonomous robotic manipulation.<br>
+
 	</li>
 	
 	<li class="flex-item">
