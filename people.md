@@ -173,9 +173,9 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="nataliefung"></a>
 		<img src="../Photos/NatalieFung.JPG" class = "profilepicture"/><br>
 		<font size="3"><b>Natalie Fung</b></font><br>
-		<font size="3">M.S. Student in Communication Data Science</font><br>
+		<font size="3">M.S. Student in Communications Data Science</font><br>
 		<a href="mailto:fungn@usc.edu" target="_top">fungn@usc.edu</a><br>
-		Webmaster.<br>
+		Interested in disability and rehabilitation engineering. Webmaster.<br>
 	</li>
 	
 	<li class="flex-item">
@@ -201,6 +201,16 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S Student in Electrical Engineering</font><br>
 		<a href="mailto:sinthias@usc.edu" target="_top">sinthias@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/ssinthia" target="_top">LinkedIn</a><br>
+
+	</li>
+	
+	<li class="flex-item">
+		<a name="cristinaacuna"></a>
+		<img src="../Photos/Cristina_Acuna.png" class = "profilepicture"/><br>
+		<font size="3"><b>Cristina Acuna</b></font><br>
+		<font size="3">B.S. Student in Human Biology</font><br>
+		<a href="mailto:caacuna@usc.edu" target="_top">caacuna@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/cristinaaacuna" target="_top">LinkedIn</a><br>
 
 	</li>
 
