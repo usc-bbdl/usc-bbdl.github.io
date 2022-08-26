@@ -25,6 +25,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Andrew Erwin, Ph.D.</b></font><br>
 		<font size="3">Postdoctoral Research Associate</font><br>
 		<a href="mailto:erwina@usc.edu" target="_top">erwina@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/andrew-erwin-phd" target="_top">LinkedIn</a><br>
 		<font size="3"><a href="https://andrewcerwin.com/">Website</a></font><br>
 		Investigating the contributions of corticospinal and reticulospinal tracts to motor impairment and recovery after stroke.<br>
 	</li>
@@ -52,6 +53,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Darío Urbina-Meléndez</b></font><br>
 		<font size="3">Ph.D. Candidate in Biomedical Engineering</font><br>
 		<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
+		<a href="http://www.linkedin.com/in/dario-urbina" target="_top">LinkedIn</a><br>
 		Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
 	</li>
 	
@@ -62,6 +64,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">Ph.D. Student in Biokinesiology</font><br>
 		<font size="3">M.Sc. in Statistics</font><br>
 		<a href="mailto:angeloba@usc.edu" target="_top">angeloba@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/angelo-bartsch-jim%C3%A9nez-49ab8397/" target="_top">LinkedIn</a><br>
 		Interested in how the brain uses somatosensory information to control the human movement.<br>
 	</li>
 	
@@ -124,6 +127,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Jan Lao</b></font><br>
 		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:jelao@usc.edu" target="_top">jelao@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/jan-lao-29328b133/" target="_top">LinkedIn</a><br>
+
 	</li>
 	
 	<li class="flex-item">
@@ -200,6 +205,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<font size="3">(Rotation)</font><br>
 		<a href="mailto:fanelle@usc.edu" target="_top">fanelle@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/tim-fanelle/" target="_top">LinkedIn</a><br>
+
 	</li>
 	
 	<li class="flex-item">
