@@ -54,7 +54,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">Ph.D. Candidate in Biomedical Engineering</font><br>
 		<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
 		<a href="http://www.linkedin.com/in/dario-urbina" target="_top">LinkedIn</a><br>
-		Designing robotic platforms for uncovering control mechanisms of balance in aves and quadrupeds.<br>
+		Building walking robots | CAD, Electronics and Mechanics, C++, Python, Control Theory, Robotics.<br>
 	</li>
 	
 	<li class="flex-item">
@@ -185,12 +185,23 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">B.S. Student in Computational Neuroscience (BME Emphasis)</font><br>
 		<a href="mailto:alata@usc.edu" target="_top">alata@usc.edu</a><br>
 	</li>
-		<li class="flex-item">
+	
+	<li class="flex-item">
 		<a name="prestondankwah"></a>
 		<img src="../Photos/preston_dankwah.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Preston Dankwah</b></font><br>
 		<font size="3">B.S. Student in Biomedical Engineering (Mechanical Emphasis)</font><br>
 		<a href="mailto:pdankwah@usc.edu" target="_top">pdankwah@usc.edu</a><br>
+	</li>
+	
+	<li class="flex-item">
+		<a name="sinthiasivapalan"></a>
+		<img src="../Photos/Sinthia_Sivapalan.jpg" class = "profilepicture"/><br>
+		<font size="3"><b>Sinthia Sivapalan</b></font><br>
+		<font size="3">M.S Student in Electrical Engineering</font><br>
+		<a href="mailto:sinthias@usc.edu" target="_top">sinthias@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/ssinthia" target="_top">LinkedIn</a><br>
+
 	</li>
 
 </ul>
