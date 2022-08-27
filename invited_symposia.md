@@ -244,7 +244,52 @@ Genial, Belgium, February 6th, 2009.<br>
 
 Valero-Cuevas FJ.<br>
 <b>
-Why Haven’t We Made Better Artificial Hands?</a></b><br>
+Why Haven’t We Made Better Artificial Hands?</b><br>
+5th American Physical Society (APS) Workshop on Opportunities in Biological Physics, New Orleans, Louisiana. March 9th, 2008.<br>
+  
+<br>
+  
+Valero-Cuevas FJ.<br>
+<b>
+How tactile information is used to stabilize grasp in humans with and without neurological and biomechanical deficits.</b><br>
+Workshop No. 59: Give Haptics A Hand. 41st Annual Winter Conference on Brain Research. January 26–February 1, 2008.  Snowbird, Utah. Page 75.<br>
+  
+<br>
+  
+Valero-Cuevas FJ.<br>
+<b>
+Neuro-anatomical basis for dexterous manipulation in children.</b><br>
+NICHD Taskforce on childhood motor disorders, National Institutes of Health, Bethesda Maryland. June 7-9, 2008.<br>
+  
+<br>
+  
+Valero-Cuevas FJ.<br>
+<b>
+Neuromechanical foundations of sensorimotor function.</b><br>
+Mathematical Biosciences Institute Workshop 4 on Neuromechanics of Locomotion, The Ohio State University. Cleveland, Ohio. March 31-April 4, 2008.<br>
+  
+<br>
+  
+Valero-Cuevas FJ.<br>
+<b>
+Use of tactile information to stabilize grasp in humans with and without neurological and biomechanical deficits.</b><br>
+In “Give Haptics a Hand” Symposium. 41st Annual Winter Conference on Brain Research, Jan. 30, 2008.<br>
+  
+<br>
+  
+Valero-Cuevas FJ.<br>
+<b>
+Towards understanding dexterous manipulation in humans.</b><br>
+Mathematical Biosciences Institute Workshop 3 Muscle, Limb, Brain Workshop, The Ohio State University. Cleveland, Ohio, Jan. 14-18, 2008.<br>
+  
+<br>
+  
+
+<h1 style="font-size:40px;" id="2005">2005</h1>
+  
+Valero-Cuevas FJ.<br>
+<b>
+Why Haven’t We Made Better Artificial Hands?</b><br>
 5th American Physical Society (APS) Workshop on Opportunities in Biological Physics, New Orleans, Louisiana. March 9th, 2008.<br>
   
 <br>
