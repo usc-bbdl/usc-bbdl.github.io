@@ -54,6 +54,7 @@ menu: main2
 <button onclick="window.location.href='#2010';">2010</button>
 <button onclick="window.location.href='#2009';">2009</button>
 <button onclick="window.location.href='#2008';">2008</button>
+<button onclick="window.location.href='#2005';">2005</button>
 <button onclick="window.location.href='#2003';">2003</button>
 </div>
 
@@ -287,10 +288,24 @@ Mathematical Biosciences Institute Workshop 3 Muscle, Limb, Brain Workshop, The 
 
 <h1 style="font-size:40px;" id="2005">2005</h1>
   
+Backus S, Venkadesan M, Mandl LA, Valero-Cuevas FJ.<br>
+<b>
+Development of a clinically useful measure of dynamic pinch.</b><br>
+NICHD Outcomes Measurement Meeting, National Institutes of Health. Rockville, Maryland. December 9, 2005.<br>
+  
+<br>
+  
+Valero-Cuevas FJ, Lipson H, Santos VJ and Anand V.<br>
+<b>
+Shifting to population-based models and inferring model structure from data are two directions that will enhance the clinical usefulness of modeling.</b><br>
+XXth Congress of the International Society of Biomechanics and 29th Annual Meeting of the American Society of Biomechanics, Cleveland, OH, ISB Technical Group: Simulation Symposium, August 1, 2005.<br>
+  
+<br>
+  
 Valero-Cuevas FJ.<br>
 <b>
-Why Haven’t We Made Better Artificial Hands?</b><br>
-5th American Physical Society (APS) Workshop on Opportunities in Biological Physics, New Orleans, Louisiana. March 9th, 2008.<br>
+Identifying the functional mechanism by which biological hands meet the necessary and sufficient physical requirements for dexterous manipulation.</b><br>
+Workshop on Humanoid Manipulation, in Robotics: Science and Systems Conference 2005. Massachusetts Institute of Technology, Cambridge, MA. June 11, 2005.<br>
   
 <br>
   
