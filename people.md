@@ -188,6 +188,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Natalie Fung</b></font><br>
 		<font size="3">M.S. Student in Communications Data Science</font><br>
 		<a href="mailto:fungn@usc.edu" target="_top">fungn@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/natalie-fung-9ba07348/" target="_top">LinkedIn</a><br>
 		Interested in disability and rehabilitation engineering. Webmaster.<br>
 	</li>
 	
@@ -237,7 +238,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="timothyfanelle"></a>
 		<font size="3"><b>Timothy Fanelle</b></font><br>
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
-		<font size="3">(Rotation)</font><br>
 		<a href="mailto:fanelle@usc.edu" target="_top">fanelle@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/tim-fanelle/" target="_top">LinkedIn</a><br>
 
