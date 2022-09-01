@@ -84,7 +84,19 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Romina Mir</b></font><br>
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<a href="mailto:rmir@usc.edu" target="_top">rmir@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/rmir/" target="_top">LinkedIn</a><br>
 		Studying the role of sensory information in autonomous robotic manipulation.<br>
+			
+	</li>
+	
+		<li class="flex-item">
+		<a name="miguelparra"></a>
+		<img src="../Photos/miguel_parra.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Miguel Parra</b></font><br>
+		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
+		<a href="mailto:parramig@usc.edu" target="_top">parramig@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/parra-miguel" target="_top">LinkedIn</a><br>
+		My interests are in neuromorphic computing and all things brain computer interface..<br>
 			
 	</li>
 	
@@ -99,6 +111,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Grace Niyo</b></font><br>
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<a href="mailto:niyo@usc.edu" target="_top">niyo@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/gniyo/" target="_top">LinkedIn</a><br>
 		Interested in the neural control of movements and interfacing with neural signals to drive external devices.<br>
 	</li>
 	
