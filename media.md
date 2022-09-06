@@ -10,11 +10,18 @@ navigation_weight: 6
 <br>
 -------------------------------------------
 <br>
+# September 1, 2022
+# CNN featured our lab's bioinspired robots alongside Professor Quan Nguyen.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">At the University of Southern California, professors and students are looking to the animal world to design four-legged robots that can learn to overcome obstacles and unexpected terrain <a href="https://t.co/LPd0sZsG0n">https://t.co/LPd0sZsG0n</a> <a href="https://t.co/kd7ABRLw5y">pic.twitter.com/kd7ABRLw5y</a></p>&mdash; CNN (@CNN) <a href="https://twitter.com/CNN/status/1565334911556685824?ref_src=twsrc%5Etfw">September 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<br>
+
 # May 12, 2022
 # Congrats to Andrew Yock for winning the Academic Excellence and Service (Master’s) Award!
 <img src="../Photos/AndrewYockMastersAward.jpg" alt="Andrew Yock award picture">
 <br>
 <br>
+
 # May 12, 2022
 # USC Viterbi News:
 # [Congrats to Ali Marjaninejad for winning the William F. Ballhaus, Jr. Prize for Excellence in Graduate Engineering Research!](https://viterbischool.usc.edu/news/2022/05/do-better-than-us-three-years-of-usc-viterbi-ph-d-s-receive-their-hoods/)
