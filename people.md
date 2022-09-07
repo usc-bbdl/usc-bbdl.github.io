@@ -96,7 +96,18 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<a href="mailto:parramig@usc.edu" target="_top">parramig@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/parra-miguel" target="_top">LinkedIn</a><br>
-		My interests are in neuromorphic computing and all things brain computer interface..<br>
+		My interests are in neuromorphic computing and all things brain computer interface.<br>
+			
+	</li>
+	
+	<li class="flex-item">
+		<a name="majidabbasisisara"></a>
+		<img src="../Photos/majid_abbasi_sisara.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Majid Abbasi Sisara</b></font><br>
+		<font size="3">Ph.D. Student in Biokinesiology</font><br>
+		<a href="mailto:abbasisi@usc.edu" target="_top">abbasisi@usc.edu</a><br>
+		<a href="https://ir.linkedin.com/in/majid-abbasi-sisara-a4a96b51" target="_top">LinkedIn</a><br>
+		Interested in neuroscience and brain mapping.<br>
 			
 	</li>
 	
