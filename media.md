@@ -18,7 +18,7 @@ navigation_weight: 6
 
 # May 12, 2022
 # Congrats to Andrew Yock for winning the Academic Excellence and Service (Master’s) Award!
-<img src="../Photos/AndrewYockMastersAward.jpg" alt="Andrew Yock award picture">
+<img src="../Photos/AndrewYockMastersAward.jpg" alt="Four people smiling at the camera with their arms around each other. Andrew Yock is second from the left.">
 <br>
 <br>
 
@@ -26,12 +26,12 @@ navigation_weight: 6
 # USC Viterbi News:
 # [Congrats to Ali Marjaninejad for winning the William F. Ballhaus, Jr. Prize for Excellence in Graduate Engineering Research!](https://viterbischool.usc.edu/news/2022/05/do-better-than-us-three-years-of-usc-viterbi-ph-d-s-receive-their-hoods/)
 # Congrats to Ali and Jasmine Berry on their PhD hooding!
-<img src="../Photos/2022_PhD_Hooding.jpeg" alt="2022 PhD Hooding!"> 
+<img src="../Photos/2022_PhD_Hooding.jpeg" alt="From left to right: Ali Marjaninejad, Jasmine Berry, and Francisco Valero-Cuevas. Ali and Jasmine are wearing red graduation caps and gowns with red and yellow flower leis around their necks. Francisco is wearing a black graduation cap and gown."> 
 <br>
 <br>
 # May 5, 2022
 # Congrats to Darío Urbina-Meléndez on passing his Qualifying Exam to become a PhD Candidate!
-<img src="../Photos/Dario_Qualifying_Exam.jpg" alt="Dario passes his qualifying exam!"> 
+<img src="../Photos/Dario_Qualifying_Exam.jpg" alt="Darío Urbina-Meléndez (left) and Francisco Valero-Cuevas (right) toast with champagne while smiling at the camera."> 
 <br>
 <br>
 # March 24, 2022
