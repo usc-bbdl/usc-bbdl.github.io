@@ -115,7 +115,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="aryasalgaonkar"></a>
 		<img src="../Photos/Arya-Salgaonkar.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Arya Salgaonkar</b></font><br>
-		<font size="3">Ph.D. student in Biokinesiology and Physical Therapy</font><br>
+		<font size="3">Ph.D. Student in Biokinesiology and Physical Therapy</font><br>
 		<a href="mailto:salgaonk@usc.edu" target="_top">salgaonk@usc.edu</a><br>
 		Interested in understanding the impact of motor learning contingency paradigms on motor control during tummy time in typically developing and preterm infant.<br>
 
