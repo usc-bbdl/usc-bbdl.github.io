@@ -249,21 +249,22 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="https://www.linkedin.com/in/cristinaaacuna" target="_top">LinkedIn</a><br>
 
 	</li>
+	
+	<li class="flex-item">
+		<a name="xinleiyu"></a>
+		<img src="../Photos/xinlei_yu.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Xinlei Yu</b></font><br>
+		<font size="3">M.S. Student in Computer Engineering</font><br>
+		<a href="mailto:xinleiyu@usc.edu" target="_top">xinleiyu@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/xinlei-yu/" target="_top">LinkedIn</a><br>
+			
+	</li>
 
 </ul>
 
 <br>
 
 <ul class="flex-container">
-	
-	<li class="flex-item">
-		<a name="timothyfanelle"></a>
-		<font size="3"><b>Timothy Fanelle</b></font><br>
-		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
-		<a href="mailto:fanelle@usc.edu" target="_top">fanelle@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/tim-fanelle/" target="_top">LinkedIn</a><br>
-
-	</li>
 	
 	<li class="flex-item">
 		<a name="nathanmatharu"></a>
@@ -341,6 +342,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Timothy Fanelle</b> - M.S. Bioengineering and Biomedical Engineering - 2022: <a href="https://www.linkedin.com/in/tim-fanelle/">LinkedIn</a><br>
 <b>Jaehyung Choi</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/jaehyungchoi33">LinkedIn</a><br>
 <b>Amber Helton</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/amber-helton/">LinkedIn</a><br>
 <b>Abhilash Kulkarni</b> - M.S. Biomedical Engineering - 2022: <a href="https://www.linkedin.com/in/abhilashkulkarniofficial/">LinkedIn</a><br>
