@@ -68,6 +68,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Interested in how the brain uses somatosensory information to control the human movement.<br>
 	</li>
 	
+	
+	<li class="flex-item">
+		<a name="graceniyo"></a>
+		<img src="../Photos/GraceNiyo.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Grace Niyo</b></font><br>
+		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
+		<a href="mailto:niyo@usc.edu" target="_top">niyo@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/gniyo/" target="_top">LinkedIn</a><br>
+		I am interested in sensorimotor integration, Brain-Machine Interface, Assistive and Rehabilitation devices.<br>
+	</li>
+	
 	<li class="flex-item">
 		<a name="mohammadhesamazadjou"></a>
 		<img src="../Photos/MohammadHesamAzadjou_sq.jpeg" class = "profilepicture"/><br>
@@ -128,14 +139,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 <ul class="flex-container">
 
-	<li class="flex-item">
-		<a name="graceniyo"></a>
-		<font size="3"><b>Grace Niyo</b></font><br>
-		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
-		<a href="mailto:niyo@usc.edu" target="_top">niyo@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/gniyo/" target="_top">LinkedIn</a><br>
-		I am interested in sensorimotor integration, Brain-Machine Interface, Assistive and Rehabilitation devices.<br>
-	</li>
 	
 	<li class="flex-item">
 		<a name="parmitaojaghi"></a>
