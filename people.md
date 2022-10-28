@@ -76,7 +76,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<a href="mailto:niyo@usc.edu" target="_top">niyo@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/gniyo/" target="_top">LinkedIn</a><br>
-		I am interested in sensorimotor integration, Brain-Machine Interface, Assistive and Rehabilitative devices.<br>
+		I am interested in Sensorimotor Integration, Brain-Machine Interface, Assistive and Rehabilitative devices.<br>
 	</li>
 	
 	<li class="flex-item">
