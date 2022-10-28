@@ -19,7 +19,23 @@ navigation_weight: 1
 
 ## Current Projects
 
-# To be updated!<br>
+<ul class="flex-container">
+	<li class="flex-item-project">
+
+		<div class="crop">
+			<img src="../Photos/R21_Image.png">
+		</div>
+
+		<br> <!-- the picture should be the project image -->
+	  	<b>Rehabilitation Of Upper Extremity Function In Stroke</b><br>
+		Andrew Erwin, Angelo Bartsch Jimenez, Mohammad Hesam Azadjou, Grace Niyo, Lama Almofeez<br>
+		We are investigating the contributions of reticulospinal and corticospinal tracts to motor impairment and recovery after stroke. Our objective is to develop valid neurophysiological assays to characterize mechanisms of motor impairment at the level of the reticulospinal tract-thereby opening up novel assessment and rehabilitation approaches.<br>
+		Related Publication:<br>
+		<a class="small_reference" href="../Papers/Laine_Cohn_Valero-Cuevas_JPhys2021.pdf">Temporal control of muscle synergies is linked with alpha-band neural drive</a><br>
+		<a class="small_reference" href="../Papers/Valero-Cuevas_et_al_JNER_2016_with_supplmental.pdf">Robot-assisted and conventional therapies produce distinct rehabilitative trends in stroke survivors</a>
+	</li>
+	
+</ul>
 
 ## Past Projects
 
