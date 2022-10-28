@@ -252,7 +252,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="xinleiyu"></a>
-		<img src="../Photos/xinlei_yu.jpg" class = "profilepicture" /><br>
+		<img src="../Photos/xinlei_yu.jpeg" class = "profilepicture" /><br>
 		<font size="3"><b>Xinlei Yu</b></font><br>
 		<font size="3">M.S. Student in Computer Engineering</font><br>
 		<a href="mailto:xinleiyu@usc.edu" target="_top">xinleiyu@usc.edu</a><br>
