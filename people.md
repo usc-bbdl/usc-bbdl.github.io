@@ -257,7 +257,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Computer Engineering</font><br>
 		<a href="mailto:xinleiyu@usc.edu" target="_top">xinleiyu@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/xinlei-yu/" target="_top">LinkedIn</a><br>
-			
+		Interested in building cyber-physical systems and full-stack web technologies.<br>
+		
 	</li>
 
 </ul>
