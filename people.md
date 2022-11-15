@@ -263,6 +263,16 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Interested in building cyber-physical systems and full-stack web technologies.<br>
 		
 	</li>
+	
+	<li class="flex-item">
+		<a name="damondeng"></a>
+		<img src="../Photos/damon_deng.png" class = "profilepicture" /><br>
+		<font size="3"><b>Zihao Damon Deng</b></font><br>
+		<font size="3">M.S. Student in Mechanical Engineering</font><br>
+		<a href="mailto:zihaod@usc.edu" target="_top">zihaod@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/zihao-deng-26ab47187/" target="_top">LinkedIn</a><br>
+		
+	</li>
 
 </ul>
 
