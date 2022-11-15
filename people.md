@@ -271,6 +271,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Mechanical Engineering</font><br>
 		<a href="mailto:zihaod@usc.edu" target="_top">zihaod@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/zihao-deng-26ab47187/" target="_top">LinkedIn</a><br>
+		Interested in product development and mechanical design.<br>
 		
 	</li>
 
