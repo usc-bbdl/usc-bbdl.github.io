@@ -227,7 +227,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="prestondankwah"></a>
-		<img src="../Photos/preston_dankwah.jpg" class = "profilepicture"/><br>
+		<img src="../Photos/preston_dankwah_sq.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Preston Dankwah</b></font><br>
 		<font size="3">B.S. Student in Biomedical Engineering (Mechanical Emphasis)</font><br>
 		<a href="mailto:pdankwah@usc.edu" target="_top">pdankwah@usc.edu</a><br>
