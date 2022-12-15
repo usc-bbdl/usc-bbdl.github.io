@@ -357,10 +357,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Abhilash Kulkarni</b> - M.S. Computer Science - 2023: <a href="https://www.linkedin.com/in/abhilashkulkarniofficial/">LinkedIn</a><br>
 <b>Timothy Fanelle</b> - M.S. Bioengineering and Biomedical Engineering - 2022: <a href="https://www.linkedin.com/in/tim-fanelle/">LinkedIn</a><br>
 <b>Jaehyung Choi</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/jaehyungchoi33">LinkedIn</a><br>
 <b>Amber Helton</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/amber-helton/">LinkedIn</a><br>
-<b>Abhilash Kulkarni</b> - M.S. Biomedical Engineering - 2022: <a href="https://www.linkedin.com/in/abhilashkulkarniofficial/">LinkedIn</a><br>
 <b>Daniel Wang</b> - B.S. Mechanical Engineering, Applied & Computational Mathematics - 2022: <a href="https://danielzw.com/">Website</a><br>
 <b>Paritosh Singh</b> - M.S. Computer Science (Artificial Intelligence) - 2022: <a href="https://www.linkedin.com/in/paritoshsinghrahar/">LinkedIn</a><br>
 <b>Andrew Yock</b> - M.S. Medical Device and Diagnostic Engineering - 2022: <a href="https://www.linkedin.com/in/andrew-yock-a41a2b149/">LinkedIn</a><br>
