@@ -13,7 +13,7 @@ navigation_weight: 6
 
 # November 16, 2022
 # USC News:
-# [Meet a recent USC grad using AI for health] (https://news.usc.edu/203505/meet-a-recent-usc-grad-using-ai-for-health/)
+# [Meet a recent USC grad using AI for health](https://news.usc.edu/203505/meet-a-recent-usc-grad-using-ai-for-health/)
 [![USC engineering student took a lab in a new direction by answering, “How do we learn to learn?”](https://res.cloudinary.com/marcomontalbano/image/upload/v1673473154/video_to_markdown/images/vimeo--733335813-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/733335813 "USC engineering student took a lab in a new direction by answering, “How do we learn to learn?”")
 
 
