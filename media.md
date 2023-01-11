@@ -10,6 +10,16 @@ navigation_weight: 6
 <br>
 -------------------------------------------
 <br>
+
+# November 16, 2022
+# USC News:
+# [Meet a recent USC grad using AI for health] (https://news.usc.edu/203505/meet-a-recent-usc-grad-using-ai-for-health/)
+[![USC engineering student took a lab in a new direction by answering, “How do we learn to learn?”](https://res.cloudinary.com/marcomontalbano/image/upload/v1673473154/video_to_markdown/images/vimeo--733335813-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/733335813 "USC engineering student took a lab in a new direction by answering, “How do we learn to learn?”")
+
+
+<br>
+<br>
+
 # September 1, 2022
 # CNN featured our lab's bioinspired robots alongside Professor Quan Nguyen.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">At the University of Southern California, professors and students are looking to the animal world to design four-legged robots that can learn to overcome obstacles and unexpected terrain <a href="https://t.co/LPd0sZsG0n">https://t.co/LPd0sZsG0n</a> <a href="https://t.co/kd7ABRLw5y">pic.twitter.com/kd7ABRLw5y</a></p>&mdash; CNN (@CNN) <a href="https://twitter.com/CNN/status/1565334911556685824?ref_src=twsrc%5Etfw">September 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
