@@ -274,6 +274,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Interested in product development and mechanical design.<br>
 		
 	</li>
+	
+	
+	<li class="flex-item">
+		<a name="abhilashkulkarni"></a>
+		<img src="../Photos/AbhilashKulkarni2_sq.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Abhilash Kulkarni</b></font><br>
+		<font size="3">M.S. Student in Computer Science</font><br>
+		<a href="mailto:ak41739@usc.edu" target="_top">ak41739@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/abhilashkulkarniofficial/" target="_top">LinkedIn</a><br>
+		
+	</li>
 
 </ul>
 
@@ -357,7 +368,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
-<b>Abhilash Kulkarni</b> - M.S. Computer Science - 2023: <a href="https://www.linkedin.com/in/abhilashkulkarniofficial/">LinkedIn</a><br>
 <b>Timothy Fanelle</b> - M.S. Bioengineering and Biomedical Engineering - 2022: <a href="https://www.linkedin.com/in/tim-fanelle/">LinkedIn</a><br>
 <b>Jaehyung Choi</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/jaehyungchoi33">LinkedIn</a><br>
 <b>Amber Helton</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/amber-helton/">LinkedIn</a><br>
