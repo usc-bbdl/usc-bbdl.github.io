@@ -44,6 +44,7 @@ menu: main2
 <h1 style="font-size:40px;">Years</h1>
 
 <div>
+<button onclick="window.location.href='#2023';">2023</button>
 <button onclick="window.location.href='#2022';">2022</button>
 <button onclick="window.location.href='#2018';">2018</button>
 <button onclick="window.location.href='#2017';">2017</button>
@@ -65,6 +66,15 @@ menu: main2
 <br>
   
 <br> -->
+
+<br>
+  
+<h1 style="font-size:40px;" id="2023">2023</h1>
+
+Erwin A, Bartsch-Jiminez A, Azadjou H, Almofeez LI, Niyo G, Valero-Cuevas FJ<br>
+<b><a href="../Papers/2023_Erwin_DARE_Coherence_Intermuscular coherence.pdf" title="Synchronous activity between electromyography (EMG) signals at high frequencies (>7 Hz), i.e., intermuscular coherence, is thought to reveal shared neural input to muscles from multiple descending pathways. As such it may be able to quantify the extent and nature of neuroplasticity across descending pathways during neurorehabilitation, as well as changes in ‘synergies of neural origin’. As an essential step towards clinical utility of intermuscular coherence in neurorehabilitation, we extended Laine et al. (J Physiol, 2021) and contrasted alpha-band neural drive strength between eight young (29 +/- 4.3 years) and eight older adults (59 +/- 7.6 years—within the age range in the population of stroke survivors). Using their right arm, participants rotated an ergometer (a practical analogue to reaching tasks that can be done in the home) while surface EMG was measured from seven muscles including the upper trapezius, triceps (lateral head), biceps (short and long heads), and deltoid (anterior, middle, posterior). EMG data were high-pass filtered using a fourth-order Butterworth filter with a cutoff frequency of 250 Hz and then the signals were rectified. Magnitude squared coherence was estimated across all muscle pairs (21 comparisons), and across the rotation cycle in 10 degree increments (36 bins). While young participants exhibited larger alpha-band intermuscular coherence compared to older adults, differences were generally small as the difference in grand mean for 16/21 comparisons had an alpha-band intermuscular coherence < 0.04. Large differences occurred in comparisons between synchronization involving adelt with mdelt, pdelt, and utrap (alpha-band coherence > 0.06) This preliminary study of the previously unexplored age-dependent nature of coherence during cyclical reaching movements suggests that aging does not significantly affect mean coherence across all muscles and phases of the cycle. If this result is further validated, it would provide a rigorous biomarker baseline against which to compare motor impairment in adults after neurological injuries, such as stroke. In particular, our paradigm for directly investigating neuroplasticity is well-suited for translation to deployment in the home.">
+"Cyclical arm cycling: A novel motor task for evaluating intermuscular coherence"</a></b><br>
+NSF DARE Conference: Transformative Opportunities for Modeling in Neurorehabilitation, Los Angeles, CA, USA, March 2023<br>
 
 <br>
   
