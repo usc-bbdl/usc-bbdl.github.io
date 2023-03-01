@@ -9,8 +9,6 @@ navigation_weight: 6
 <a href="https://twitter.com/valerolab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @valerolab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
-# Named Senior Member of the National Academy of Inventors: [@Link](https://viterbischool.usc.edu/news/2023/02/francisco-valero-cuevas-named-senior-member-of-the-national-academy-of-inventors/)
-<br>
 -------------------------------------------
 <br>
 
