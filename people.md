@@ -314,6 +314,15 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">B.S. Student in Mechanical Engineering</font><br>
 		<a href="mailto:bmflanag@usc.edu" target="_top">bmflanag@usc.edu</a><br>
 	</li>
+	
+	<li class="flex-item">
+		<a name="darrenhuang"></a>
+		<font size="3"><b>Darren Huang</b></font><br>
+		<font size="3">B.S. Student in Computer Engineering and Computer Science</font><br>
+		<a href="mailto:darrenhu@usc.edu" target="_top">darrenhu@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/darrenhuang1/" target="_top">LinkedIn</a><br>
+
+	</li>
 
 	
 </ul>
