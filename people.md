@@ -234,16 +234,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
-		<a name="sinthiasivapalan"></a>
-		<img src="../Photos/Sinthia_Sivapalan_sq.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Sinthia Sivapalan</b></font><br>
-		<font size="3">M.S. Student in Electrical Engineering</font><br>
-		<a href="mailto:sinthias@usc.edu" target="_top">sinthias@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/ssinthia" target="_top">LinkedIn</a><br>
-
-	</li>
-	
-	<li class="flex-item">
 		<a name="cristinaacuna"></a>
 		<img src="../Photos/Cristina_Acuna_sq.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Cristina Acuna</b></font><br>
@@ -283,6 +273,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Computer Science</font><br>
 		<a href="mailto:ak41739@usc.edu" target="_top">ak41739@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/abhilashkulkarniofficial/" target="_top">LinkedIn</a><br>
+		
+	</li>
+	
+	<li class="flex-item">
+		<a name="alanperezcapistran"></a>
+		<img src="../Photos/Alan_Perez_Capistran.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Alan Perez Capistran</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:perezcap@usc.edu" target="_top">perezcap@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/alanpecap/" target="_top">LinkedIn</a><br>
+		Interested in neural interfaces for human movement restoration.<br>
 		
 	</li>
 
@@ -368,6 +369,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Sinthia Sivapalan</b> - M.S. Electrical Engineering - 2022: <a href="https://www.linkedin.com/in/ssinthia">LinkedIn</a><br>
 <b>Timothy Fanelle</b> - M.S. Bioengineering and Biomedical Engineering - 2022: <a href="https://www.linkedin.com/in/tim-fanelle/">LinkedIn</a><br>
 <b>Jaehyung Choi</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/jaehyungchoi33">LinkedIn</a><br>
 <b>Amber Helton</b> - M.S. Computer Science - 2022: <a href="https://www.linkedin.com/in/amber-helton/">LinkedIn</a><br>
