@@ -12,6 +12,12 @@ navigation_weight: 6
 -------------------------------------------
 <br>
 
+# May 1, 2023
+# Dr. Valero-Cuevas received an award for Excellence in Mentoring in the category of Faculty Mentoring Graduate Students. Congratulations, Francisco!
+<img src="../Photos/Francisco_mentoring_award.jpg" alt="Dr. Francisco Valero-Cuevas (right) smiles for the camera with his wife, Erica (left). Francisco is holding the award he received for Excellence in Mentoring in front of him.">
+<br>
+<br>
+
 # November 16, 2022
 # USC News:
 # [Meet a recent USC grad using AI for health](https://news.usc.edu/203505/meet-a-recent-usc-grad-using-ai-for-health/)
