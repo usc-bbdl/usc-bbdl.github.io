@@ -1,4 +1,17 @@
 Title,Link,Abstract,Author,BibTex,Year,Journal,SupplementalLink,Tags,
+"A Novel Passive Implantable Differential Mechanism to Restore Individuated Finger Flexion during Grasping following Tendon Transfer Surgery: A Pilot Study",Papers/2023_Chakravarthi-Raja_A-Novel.pdf,"Tendon transfer surgery is often used to restore hand grasp function following high median- ulnar nerve palsy. This surgery typically reroutes and sutures the tendon of the extensor carpi radialis longus (ECRL) muscle to all four flexor digitorum profundus (FDP) tendons of the hand, coupling them together. This makes it difficult to grasp irregularly shaped objects. We propose inserting a novel implantable passive device between the FDP tendons to surgically construct a differential mechanism, enabling the fingers to individually adapt to the irregular contours during grasping. These passive implants with no moving parts are fabricated from biocompatible materials. We tested the implants’ ability to create differential flexion between the index and middle fingers when actuated by a single muscle in two human cadaver hands using a computerized closed-loop control paradigm. In these cadaveric models, the implants enabled significantly more differential flexion between the index and middle fingers for a wide range of donor tendon tensions. The implants also redistributed fingertip forces between fingers. When grasping uneven objects, the difference in contact forces between fingers reduced by nearly 23% compared to the current suture-based surgery. These results suggest that self-adaptive grasp is possible in tendon transfers that drive multiple distal flexor tendons.","Suraj Chakravarthi Raja, Won Suk You, Kian Jalaleddini, Justin C. Casebier, Nina R. Lightdale-Miric, Vincent R. Hentz, Francisco J. Valero-Cuevas
+and Ravi Balasubramanian","@Article{scraja2023_applSci,
+AUTHOR = {Chakravarthi Raja, Suraj and You, Won Suk and Jalaleddini, Kian and Casebier, Justin C. and Lightdale-Miric, Nina R. and Hentz, Vincent R. and Valero-Cuevas, Francisco J. and Balasubramanian, Ravi},
+TITLE = {A Novel Passive Implantable Differential Mechanism to Restore Individuated Finger Flexion during Grasping following Tendon Transfer Surgery: A Pilot Study},
+JOURNAL = {Applied Sciences},
+VOLUME = {13},
+YEAR = {2023},
+NUMBER = {9},
+ARTICLE-NUMBER = {5804},
+URL = {https://www.mdpi.com/2076-3417/13/9/5804},
+ISSN = {2076-3417},
+DOI = {10.3390/app13095804}
+}",2023,Applied Sciences,,Manipulation,
 
 "‘Fine synergies’ describe motor adaptation in people with drop foot in a way that supplements traditional ‘coarse synergies’",Papers/2023_Bartsch_Coarse-Fine_Synergies.pdf,"Synergy analysis is a standard approach in biomechanics to capture the dominant features of movement which can be called 'coarse synergies'. We demonstrate that the less dominant features of these signals, which we called ‘fine synergies', reveal subtle, yet functionally important, adaptations. We conclude that the multiple differences found in the structure of the fine synergies extracted from EMG in people with drop-foot vs. unimpaired controls—not visible in the coarse synergies—likely reflect fine compensatory motor strategies. Coarse synergies, in contrast, seem to mostly reflect the gross features of EMG in bipedal gait that must be met by all participants.","Bartsch-Jiménez A, Blazkiewicz M, Azadjou H, Novotny R, Valero-Cuevas FJ","@article{bartsch5fine,
   title={‘Fine synergies’ describe motor adaptation in people with drop foot in a way that supplements traditional ‘coarse synergies’.},
