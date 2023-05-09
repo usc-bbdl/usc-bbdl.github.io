@@ -12,6 +12,12 @@ navigation_weight: 6
 -------------------------------------------
 <br>
 
+# May 5, 2023
+# Univision:
+# [La Universidad del Sur de California lanza una iniciativa para impulsar el desarrollo de nuevas tecnologías](https://www.univision.com/local/los-angeles-kmex/la-universidad-del-sur-de-california-lanza-una-iniciativa-para-impulsar-el-desarrollo-de-nuevas-tecnologias-video)
+<br>
+<br>
+
 # May 1, 2023
 # Dr. Valero-Cuevas received an award for Excellence in Mentoring in the category of Faculty Mentoring Graduate Students. Congratulations, Francisco!
 <img src="../Photos/Francisco_mentoring_award.jpg" alt="Dr. Francisco Valero-Cuevas (right) smiles for the camera with his wife, Erica (left). Francisco is holding the award he received for Excellence in Mentoring in front of him.">
