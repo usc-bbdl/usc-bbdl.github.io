@@ -12,6 +12,12 @@ navigation_weight: 6
 -------------------------------------------
 <br>
 
+# May 7, 2023
+# La Opinión:
+# [Tecnología de todos y para todos en una de las universidades de más prestigio en el sur de California](https://laopinion.com/2023/05/07/tecnologia-de-todos-y-para-todos-en-una-de-las-universidades-de-mas-prestigio-en-el-sur-de-california/)
+<br>
+<br>
+
 # May 5, 2023
 # Univision:
 # [La Universidad del Sur de California lanza una iniciativa para impulsar el desarrollo de nuevas tecnologías](https://www.univision.com/local/los-angeles-kmex/la-universidad-del-sur-de-california-lanza-una-iniciativa-para-impulsar-el-desarrollo-de-nuevas-tecnologias-video)
