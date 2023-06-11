@@ -30,6 +30,12 @@ navigation_weight: 6
 <br>
 <br>
 
+# May 1, 2023
+# Dario Urbina-Melendez received the 2023 Viterbi Research Leadership and Mentor Award. Dario received this award in recognition of the impact he had as a leader and mentor during his PhD studies, including: being the lead author of three scientific publications, leading the creation of multiple robots central to five journal publications, coordinating the work of more than 10 interns at Valero Lab, organizing the 2020 Grodins Research Symposium, motivating highly productive cross-functional team dynamics at his research group, and promoting a healthy team spirit: human centered, work-life balance, accountability and dependability. Congratulations, Dario!
+<img src="../Photos/dario_viterbi_award_2023.jpg" alt="Dario smiles for the camera while holding the 2023 Viterbi Research Leadership and Mentor Award plaque. He is wearing a black suit with a white dress shirt and is standing in front of a red step-and-repeat with the USC Viterbi logo.">
+<br>
+<br>
+
 # November 16, 2022
 # USC News:
 # [Meet a recent USC grad using AI for health](https://news.usc.edu/203505/meet-a-recent-usc-grad-using-ai-for-health/)
