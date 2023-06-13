@@ -141,11 +141,11 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 	
 	<li class="flex-item">
-		<a name="parmitaojaghi"></a>
-		<font size="3"><b>Pegah Ojaghi</b></font><br>
-		<font size="3">Ph.D. Student in Computer Engineering</font><br>
-		<font size="3">(Visiting from UC Santa Cruz)</font><br>
-		<a href="mailto:pojaghi@ucsc.edu" target="_top">pojaghi@ucsc.edu</a><br>
+		<a name="lamaalmofeez"></a>
+		<font size="3"><b>Lama Almofeez</b></font><br>
+		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
+		<a href="mailto:lalmofee@usc.edu" target="_top">lalmofee@usc.edu</a><br>
+		Brain-Computer Interfaces.<br>
 	</li>
 	
 
@@ -160,54 +160,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	
 	<li class="flex-item">
-		<a name="janlao"></a>
-		<img src="../Photos/JanLao_sq.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Jan Lao</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:jelao@usc.edu" target="_top">jelao@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/jan-lao-29328b133/" target="_top">LinkedIn</a><br>
-
-	</li>
-	
-	<li class="flex-item">
-		<a name="taylorwhite"></a>
-		<img src="../Photos/taylorwhite_sq.jpeg" class = "profilepicture"/><br>
-		<font size="3"><b>Taylor White</b></font><br>
-		<font size="3">B.S. Student in Biomedical Engineering</font><br>
-		<font size="3">M.S. Student in Medical Device Diagnostics and Engineering</font><br>
-		<a href="mailto:taylorwh@usc.edu" target="_top">taylorwh@usc.edu</a><br>
-		Interested in enhanced ACL recovery and rehabilitation practices.<br>
-
-	</li>
-	
-	<li class="flex-item">
-		<a name="nicksun"></a>
-		<img src="../Photos/NickSun_sq.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Nick Mengyu Sun</b></font><br>
-		<font size="3">B.S. Student in Electrical Engineering</font><br>
-		<a href="mailto:mengyusu@usc.edu" target="_top">mengyusu@usc.edu</a><br>
-		Interested in mixed-signal integrated circuits and VLSI design.<br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="yifanxue"></a>
-		<img src="../Photos/YifanXue_sq.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Yifan Xue</b></font><br>
-		<font size="3">B.S. Student in Mechanical Engineering</font><br>
-		<font size="3">M.S. Student in Product Development Engineering</font><br>
-		<a href="mailto:yifanxue@usc.edu" target="_top">yifanxue@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="andrewiwamoto"></a>
-		<img src="../Photos/AndrewIwamoto_sq.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Andrew Iwamoto</b></font><br>
-		<font size="3">M.S. Student in Aerospace and Mechanical Engineering</font><br>
-		<a href="mailto:aiwamoto@usc.edu" target="_top">aiwamoto@usc.edu</a><br>
-		Interested in kinematics of soft robots and combining control theory with machine learning.<br>
-	</li>
-	
-	<li class="flex-item">
 		<a name="nataliefung"></a>
 		<img src="../Photos/NatalieFung.JPG" class = "profilepicture"/><br>
 		<font size="3"><b>Natalie Fung</b></font><br>
@@ -215,14 +167,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:fungn@usc.edu" target="_top">fungn@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/natalie-fung-9ba07348/" target="_top">LinkedIn</a><br>
 		Interested in disability and rehabilitation engineering. Webmaster.<br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="carolalata"></a>
-		<img src="../Photos/CarolAlata.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Carol Esperanza Alata</b></font><br>
-		<font size="3">B.S. Student in Computational Neuroscience (BME Emphasis)</font><br>
-		<a href="mailto:alata@usc.edu" target="_top">alata@usc.edu</a><br>
 	</li>
 	
 	<li class="flex-item">
@@ -301,14 +245,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
-		<a name="lamaalmofeez"></a>
-		<font size="3"><b>Lama Almofeez</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:lalmofee@usc.edu" target="_top">lalmofee@usc.edu</a><br>
-		Brain-Computer Interfaces.<br>
-	</li>
-	
-	<li class="flex-item">
 		<a name="brendanflanagan"></a>
 		<font size="3"><b>Brendan Flanagan</b></font><br>
 		<font size="3">B.S. Student in Mechanical Engineering</font><br>
@@ -332,6 +268,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Doctoral Alumni  
+<b>Pegah Ojaghi</b> - Ph.D. Computer Engineering, 2023
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
 <b>Jasmine Berry</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a> | <a href="jasmineberry.com">Website</a><br>
 <b>Dan Hagen</b> - Ph.D. Biomedical Engineering, 2020: <a href="https://www.linkedin.com/in/daniel-a-hagen/">LinkedIn</a> | <a href="https://daniel8hagen.com/">Website</a><br>
@@ -378,6 +315,12 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Carol Esperanza Alata</b> - B.S. Computational Neuroscience - 2023
+<b>Andrew Iwamoto</b> - M.S. Aerospace and Mechanical Engineering - 2023
+<b>Yifan Xue</b> - B.S. Mechanical Engineering - 2023
+<b>Nick Mengyu Sun</b> - B.S. Electrical Engineering - 2023
+<b>Taylor White</b> - M.S. Medical Device Diagnostics and Engineering - 2023
+<b>Jan Lao</b> - M.S. Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/jan-lao-29328b133/">LinkedIn</a><br>
 <b>Alex Prieger</b> - B.S. Computer Engineering and Computer Science - 2023: <a href="https://www.linkedin.com/in/alex-prieger-851296264">LinkedIn</a><br>
 <b>Sinthia Sivapalan</b> - M.S. Electrical Engineering - 2022: <a href="https://www.linkedin.com/in/ssinthia">LinkedIn</a><br>
 <b>Timothy Fanelle</b> - M.S. Bioengineering and Biomedical Engineering - 2022: <a href="https://www.linkedin.com/in/tim-fanelle/">LinkedIn</a><br>
