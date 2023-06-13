@@ -46,16 +46,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="https://www.linkedin.com/in/surajcr/" target="_top">LinkedIn</a><br>
 		Using FPGA-accelerated neuromorphic computing to enable dexterous manipulation in tendon-driven neuro-robots.
 	</li>
-
-	<li class="flex-item">
-		<a name="dariourbina"></a>
-		<img src="../Photos/dariourbina_sq.JPG" class = "profilepicture" /><br>
-		<font size="3"><b>Darío Urbina-Meléndez</b></font><br>
-		<font size="3">Ph.D. Candidate in Biomedical Engineering</font><br>
-		<a href="mailto:urbiname@usc.edu" target="_top">urbiname@usc.edu</a><br>
-		<a href="http://www.linkedin.com/in/dario-urbina" target="_top">LinkedIn</a><br>
-		Building walking robots | CAD, Electronics and Mechanics, C++, Python, Control Theory, Robotics.<br>
-	</li>
 	
 	<li class="flex-item">
 		<a name="angelobartsch"></a>
@@ -170,14 +160,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
-		<a name="prestondankwah"></a>
-		<img src="../Photos/preston_dankwah_sq.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Preston Dankwah</b></font><br>
-		<font size="3">B.S. Student in Biomedical Engineering (Mechanical Emphasis)</font><br>
-		<a href="mailto:pdankwah@usc.edu" target="_top">pdankwah@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
 		<a name="cristinaacuna"></a>
 		<img src="../Photos/Cristina_Acuna_sq.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Cristina Acuna</b></font><br>
@@ -195,28 +177,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:xinleiyu@usc.edu" target="_top">xinleiyu@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/xinlei-yu/" target="_top">LinkedIn</a><br>
 		Interested in building cyber-physical systems and full-stack web technologies.<br>
-		
-	</li>
-	
-	<li class="flex-item">
-		<a name="damondeng"></a>
-		<img src="../Photos/damon_deng.png" class = "profilepicture" /><br>
-		<font size="3"><b>Zihao Damon Deng</b></font><br>
-		<font size="3">M.S. Student in Mechanical Engineering</font><br>
-		<a href="mailto:zihaod@usc.edu" target="_top">zihaod@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/zihao-deng-26ab47187/" target="_top">LinkedIn</a><br>
-		Interested in product development and mechanical design.<br>
-		
-	</li>
-	
-	
-	<li class="flex-item">
-		<a name="abhilashkulkarni"></a>
-		<img src="../Photos/AbhilashKulkarni2_sq.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Abhilash Kulkarni</b></font><br>
-		<font size="3">M.S. Student in Computer Science</font><br>
-		<a href="mailto:ak41739@usc.edu" target="_top">ak41739@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/abhilashkulkarniofficial/" target="_top">LinkedIn</a><br>
 		
 	</li>
 	
@@ -243,22 +203,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">B.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:nmatharu@usc.edu" target="_top">nmatharu@usc.edu</a><br>
 	</li>
-	
-	<li class="flex-item">
-		<a name="brendanflanagan"></a>
-		<font size="3"><b>Brendan Flanagan</b></font><br>
-		<font size="3">B.S. Student in Mechanical Engineering</font><br>
-		<a href="mailto:bmflanag@usc.edu" target="_top">bmflanag@usc.edu</a><br>
-	</li>
-	
-	<li class="flex-item">
-		<a name="darrenhuang"></a>
-		<font size="3"><b>Darren Huang</b></font><br>
-		<font size="3">B.S. Student in Computer Engineering and Computer Science</font><br>
-		<a href="mailto:darrenhu@usc.edu" target="_top">darrenhu@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/darrenhuang1/" target="_top">LinkedIn</a><br>
-
-	</li>
 
 	
 </ul>
@@ -268,6 +212,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Doctoral Alumni  
+<b>Darío Urbina-Meléndez</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/dario-urbina/">LinkedIn</a>
 <b>Pegah Ojaghi</b> - Ph.D. Computer Engineering, 2023
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
 <b>Jasmine Berry</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a> | <a href="jasmineberry.com">Website</a><br>
@@ -315,6 +260,11 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Darren Huang</b> - M.S. Computer Engineering and Computer Science - 2023: <a href="https://www.linkedin.com/in/darrenhuang1/">LinkedIn</a><br>
+<b>Brendan Flanagan</b> - B.S. Mechanical Engineering - 2023
+<b>Abhilash Kulkarni</b> - M.S. Computer Science - 2023: <a href="https://www.linkedin.com/in/abhilashkulkarniofficial/">LinkedIn</a><br>
+<b>Zihao Damon Deng</b> - M.S. Mechanical Engineering - 2023: <a href="https://www.linkedin.com/in/zihao-deng-26ab47187/">LinkedIn</a><br>
+<b>Preston Dankwah</b> - B.S. Biomedical Engineering - 2023
 <b>Carol Esperanza Alata</b> - B.S. Computational Neuroscience - 2023
 <b>Andrew Iwamoto</b> - M.S. Aerospace and Mechanical Engineering - 2023
 <b>Yifan Xue</b> - B.S. Mechanical Engineering - 2023
