@@ -190,6 +190,27 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		Interested in neural interfaces for human movement restoration.<br>
 		
 	</li>
+	
+	<li class="flex-item">
+		<a name="shubhamkailasawhad"></a>
+		<img src="../Photos/Shubham_Kailas_Awhad.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Shubham Kailas Awhad</b></font><br>
+		<font size="3">M.S. Student in Mechanical Engineering</font><br>
+		<a href="mailto:awhad@usc.edu" target="_top">awhad@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/shubham-awhad-8a042814a/" target="_top">LinkedIn</a><br>
+		Mechanical design, design optimization, advanced manufacturing, kinematics and mechanics.<br>
+		
+	</li>
+	
+	<li class="flex-item">
+		<a name="martinoporcu"></a>
+		<img src="../Photos/Martino_Porcu.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Martino Porcu</b></font><br>
+		<font size="3">B.S. Student in Biomedical Engineering (Mol-Cell emphasis)</font><br>
+		<a href="mailto:mporcu@usc.edu" target="_top">mporcu@usc.edu</a><br>
+		<a href="www.linkedin.com/in/martino-porcu-84bb9627a" target="_top">LinkedIn</a><br>
+		
+	</li>
 
 </ul>
 
