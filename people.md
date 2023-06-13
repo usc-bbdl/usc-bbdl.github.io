@@ -233,8 +233,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Doctoral Alumni  
-<b>Darío Urbina-Meléndez</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/dario-urbina/">LinkedIn</a>
-<b>Pegah Ojaghi</b> - Ph.D. Computer Engineering, 2023
+<b>Darío Urbina-Meléndez</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/dario-urbina/">LinkedIn</a><br>
+<b>Pegah Ojaghi</b> - Ph.D. Computer Engineering, 2023<br>
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
 <b>Jasmine Berry</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/jasmineberry/">LinkedIn</a> | <a href="jasmineberry.com">Website</a><br>
 <b>Dan Hagen</b> - Ph.D. Biomedical Engineering, 2020: <a href="https://www.linkedin.com/in/daniel-a-hagen/">LinkedIn</a> | <a href="https://daniel8hagen.com/">Website</a><br>
@@ -282,15 +282,15 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 ## Internship Alumni
 <b>Darren Huang</b> - M.S. Computer Engineering and Computer Science - 2023: <a href="https://www.linkedin.com/in/darrenhuang1/">LinkedIn</a><br>
-<b>Brendan Flanagan</b> - B.S. Mechanical Engineering - 2023
+<b>Brendan Flanagan</b> - B.S. Mechanical Engineering - 2023<br>
 <b>Abhilash Kulkarni</b> - M.S. Computer Science - 2023: <a href="https://www.linkedin.com/in/abhilashkulkarniofficial/">LinkedIn</a><br>
 <b>Zihao Damon Deng</b> - M.S. Mechanical Engineering - 2023: <a href="https://www.linkedin.com/in/zihao-deng-26ab47187/">LinkedIn</a><br>
-<b>Preston Dankwah</b> - B.S. Biomedical Engineering - 2023
-<b>Carol Esperanza Alata</b> - B.S. Computational Neuroscience - 2023
-<b>Andrew Iwamoto</b> - M.S. Aerospace and Mechanical Engineering - 2023
-<b>Yifan Xue</b> - B.S. Mechanical Engineering - 2023
-<b>Nick Mengyu Sun</b> - B.S. Electrical Engineering - 2023
-<b>Taylor White</b> - M.S. Medical Device Diagnostics and Engineering - 2023
+<b>Preston Dankwah</b> - B.S. Biomedical Engineering - 2023<br>
+<b>Carol Esperanza Alata</b> - B.S. Computational Neuroscience - 2023<br>
+<b>Andrew Iwamoto</b> - M.S. Aerospace and Mechanical Engineering - 2023<br>
+<b>Yifan Xue</b> - B.S. Mechanical Engineering - 2023<br>
+<b>Nick Mengyu Sun</b> - B.S. Electrical Engineering - 2023<br>
+<b>Taylor White</b> - M.S. Medical Device Diagnostics and Engineering - 2023<br>
 <b>Jan Lao</b> - M.S. Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/jan-lao-29328b133/">LinkedIn</a><br>
 <b>Alex Prieger</b> - B.S. Computer Engineering and Computer Science - 2023: <a href="https://www.linkedin.com/in/alex-prieger-851296264">LinkedIn</a><br>
 <b>Sinthia Sivapalan</b> - M.S. Electrical Engineering - 2022: <a href="https://www.linkedin.com/in/ssinthia">LinkedIn</a><br>
