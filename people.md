@@ -211,6 +211,16 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="www.linkedin.com/in/martino-porcu-84bb9627a" target="_top">LinkedIn</a><br>
 		
 	</li>
+	
+	<li class="flex-item">
+		<a name="hesamsetayesh"></a>
+		<img src="../Photos/Hesam_Setayesh.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Hesam Setayesh</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:hsetayes@usc.edu" target="_top">hsetayes@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/hesam-setayesh-2608b4aa/" target="_top">LinkedIn</a><br>
+		
+	</li>
 
 </ul>
 
