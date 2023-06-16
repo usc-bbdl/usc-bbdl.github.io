@@ -219,6 +219,18 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:hsetayes@usc.edu" target="_top">hsetayes@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/hesam-setayesh-2608b4aa/" target="_top">LinkedIn</a><br>
+		Biomedical data analysis, mechanical designing, machine learning.<br>
+		
+	</li>
+	
+	<li class="flex-item">
+		<a name="zeyuclaudeyao"></a>
+		<img src="../Photos/Zeyu_Claude_Yao.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Zeyu (Claude) Yao</b></font><br>
+		<font size="3">M.S. Student in Mechanical Engineering</font><br>
+		<a href="mailto:zeyuyao@usc.edu" target="_top">zeyuyao@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/zeyu-yao-1379a9227/" target="_top">LinkedIn</a><br>
+		Interested in mechanical design & manufacture of robots and dynamics & control.<br>
 		
 	</li>
 
