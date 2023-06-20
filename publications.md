@@ -44,6 +44,8 @@ navigation_weight: 3
   {% endfor %}
 </div>
 <br>
+
+<!--
 <h3>Topics</h3>
 
 <button onclick="showAll()">Show All</button>
@@ -56,6 +58,10 @@ navigation_weight: 3
 <br>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </div>
+
+-->
+
+
 <!-- make sure the max date is the current year! -->
 {% for year_of_interest in (1997..2023) reversed %}
 
