@@ -71,11 +71,13 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="mohammadhesamazadjou"></a>
-		<img src="../Photos/MohammadHesamAzadjou_sq.jpeg" class = "profilepicture"/><br>
+		<img src="../Photos/Hesam_Azadjou.jpg" class = "profilepicture"/><br>
 		<font size="3"><b>Mohammad Hesam Azadjou</b></font><br>
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<a href="mailto:azadjou@usc.edu" target="_top">azadjou@usc.edu</a><br>
-		Research in Biomedical Signal Processing, Bio-inspired Robotics and Machine Learning.<br>
+  		<a href="http://www.linkedin.com/in/hesamazj" target="_top">LinkedIn</a><br>
+		<a href="https://hesamazj.github.io/" target="_top">Website</a><br>
+		Research in Data Analysis, Bio-inspired Robotics, and Machine Learning.<br>
 		
 	</li>
 	
