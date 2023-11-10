@@ -44,11 +44,32 @@ menu: main2
 <h1 style="font-size:40px;">Years</h1>
 
 <div>
+<button onclick="window.location.href='#2022';">2022</button>
+<button onclick="window.location.href='#2018';">2018</button>
 <button onclick="window.location.href='#2014';">2014</button>
 <button onclick="window.location.href='#2013';">2013</button>
 <button onclick="window.location.href='#2009';">2009</button>
 <button onclick="window.location.href='#2006';">2006</button>
 </div>
+
+
+<br>
+
+<h1 style="font-size:40px;" id="2022">2022</h1>
+
+Chang J, Legrand A, Valero-Cuevas FJ, Hentz VR, and Chase RA.<br>
+<b>
+"Chapter 1 Anatomy and biomechanics of the hand."</b><br>
+Plastic Surgery 5th edition: Volume 6 -Hand and Upper Limb. Editors: Chang J, Neligan PC. 2022.<br>
+
+<br>
+
+<h1 style="font-size:40px;" id="2018">2018</h1>
+
+Marjaninejad, A and Valero-Cuevas FJ.<br>
+<b>
+"Should anthropomorphic systems be “redundant”?"</b><br>
+Biomechanics of Anthropomorphic Systems, Springer Tracts in Advanced Robotics (STAR) series, Eds G Venture, J-P Laumond & B Watier, Springer, Heidelberg. 2018.<br>
 
 <br>
   
@@ -57,7 +78,7 @@ menu: main2
 Inouye JM, Kutch JJ, and Valero-Cuevas FJ.<br>
 <b><a href="../Papers/InouyeRSS.pdf">
 "Optimizing the Topology of Tendon-Driven Fingers: Rationale, Predictions and Implementation."</a></b><br>
-in The Human Hand: A Source of Inspiration for Robotic Hands, Springer Tracts in Advanced Robotics (STAR) series, Balasubramanian, R. and Santos, V.J., Eds., Springer, Heidelberg, 95: p.247-266, 2014.<br>
+The Human Hand: A Source of Inspiration for Robotic Hands, Springer Tracts in Advanced Robotics (STAR) series, Balasubramanian, R. and Santos, V.J., Eds., Springer, Heidelberg, 95: p.247-266, 2014.<br>
 
 
 <br>
@@ -67,7 +88,7 @@ in The Human Hand: A Source of Inspiration for Robotic Hands, Springer Tracts in
 Valero-Cuevas FJ.<br>
 <b>
 "The Human Hand as an Inspiration for Robot Hand Development."</b><br>
-in The Human Hand: A Source of Inspiration for Robotic Hands, Springer Tracts in Advanced Robotics (STAR) series, Balasubramanian, R. and Santos, V.J., Eds., Springer, Heidelberg, 2013.<br>
+The Human Hand: A Source of Inspiration for Robotic Hands, Springer Tracts in Advanced Robotics (STAR) series, Balasubramanian, R. and Santos, V.J., Eds., Springer, Heidelberg, 2013.<br>
 
 <br>
 
