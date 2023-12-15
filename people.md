@@ -16,23 +16,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 -------------------------------------------
 <br>
 
-## PostDocs
-<ul class="flex-container">
-
-	<li class="flex-item">
-		<a name="andrewerwin"></a>
-		<img src="../Photos/AndrewErwin2_sq.jpeg" class = "profilepicture" alt="Picture of Andrew"><br>
-		<font size="3"><b>Andrew Erwin, Ph.D.</b></font><br>
-		<font size="3">Postdoctoral Research Associate</font><br>
-		<a href="mailto:erwina@usc.edu" target="_top">erwina@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/andrew-erwin-phd" target="_top">LinkedIn</a><br>
-		<font size="3"><a href="https://andrewcerwin.com/">Website</a></font><br>
-		Investigating the contributions of corticospinal and reticulospinal tracts to motor impairment and recovery after stroke.<br>
-	</li>
-
-</ul>
-<br>
-
 ## Ph.D. Students
 
 <ul class="flex-container">
@@ -278,6 +261,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Madhusudhan Venkadesan</b> - Ph.D. Mechanical Engineering, 2007: <a href="https://www.linkedin.com/in/mvenkadesan/">LinkedIn</a> | <a href="https://seas.yale.edu/faculty-research/faculty-directory/madhusudhan-venkadesan">Website</a><br>
 
 ## Postdoctoral Alumni
+<b>Andrew Erwin, Ph.D.</b> - 2023: <a href="https://linkedin.com/in/andrew-erwin-phd/">LinkedIn</a><br>
 <b>Ali Marjaninejad, Ph.D.</b> - 2022: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
 <b>Kian Jalaleddini, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/kian-jalaleddini/">LinkedIn</a><br>
 <b>Jun Yong Shin, Ph.D.</b> - 2017: <a href="https://www.linkedin.com/in/junyongshin/">LinkedIn</a><br>
