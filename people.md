@@ -140,7 +140,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Natalie Fung</b></font><br>
 		<font size="3">M.S. Student in Communications Data Science</font><br>
 		<a href="mailto:fungn@usc.edu" target="_top">fungn@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/natalie-fung-9ba07348/" target="_top">LinkedIn</a><br>
+		<a href="https://www.linkedin.com/in/nataliefung1/" target="_top">LinkedIn</a><br>
 		Interested in disability and rehabilitation engineering. Webmaster.<br>
 	</li>
 	
@@ -216,6 +216,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:zeyuyao@usc.edu" target="_top">zeyuyao@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/zeyu-yao-1379a9227/" target="_top">LinkedIn</a><br>
 		Interested in mechanical design & manufacture of robots and dynamics & control.<br>
+		
+	</li>
+
+ 	<li class="flex-item">
+		<a name="gregrosenkranz"></a>
+		<img src="../Photos/greg_rosenkranz.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Greg Rosenkranz</b></font><br>
+		<font size="3">B.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:grosenkr@usc.edu" target="_top">grosenkr@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/gregrosenkranz/" target="_top">LinkedIn</a><br>
+		Interested in neuromuscular control and rehabilitation for improved mobility.<br>
 		
 	</li>
 
