@@ -75,17 +75,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 			
 	</li>
 	
-		<li class="flex-item">
-		<a name="miguelparra"></a>
-		<img src="../Photos/miguel_parra.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Miguel Parra</b></font><br>
-		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
-		<a href="mailto:parramig@usc.edu" target="_top">parramig@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/parra-miguel" target="_top">LinkedIn</a><br>
-		My interests are in neuromorphic computing and all things brain computer interface.<br>
-			
-	</li>
-	
 	<li class="flex-item">
 		<a name="majidabbasisisara"></a>
 		<img src="../Photos/majid_abbasi_sisara_sq.jpg" class = "profilepicture" /><br>
@@ -260,6 +249,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Doctoral Alumni  
+<b>Miguel Parra</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/parra-miguel/">LinkedIn</a><br>
 <b>Darío Urbina-Meléndez</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/dario-urbina/">LinkedIn</a><br>
 <b>Pegah Ojaghi</b> - Ph.D. Computer Engineering, 2023<br>
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
