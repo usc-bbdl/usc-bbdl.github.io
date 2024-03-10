@@ -21,16 +21,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <ul class="flex-container">
 
 	<li class="flex-item">
-		<a name="surajchakravarthi"></a>
-		<img src="../Photos/Suraj2022.jpg" class = "profilepicture" ><br>
-		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
-		<font size="3">Ph.D. Candidate in Electrical and Computer Engineering</font><br>
-		<a href="mailto:surajcha@usc.edu" target="_top">surajcha@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/surajcr/" target="_top">LinkedIn</a><br>
-		Using FPGA-accelerated neuromorphic computing to enable dexterous manipulation in tendon-driven neuro-robots.
-	</li>
-	
-	<li class="flex-item">
 		<a name="angelobartsch"></a>
 		<img src="../Photos/AngeloBartschJimenez_sq.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Angelo Bartsch Jimenez</b></font><br>
@@ -166,34 +156,12 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
-		<a name="shubhamkailasawhad"></a>
-		<img src="../Photos/Shubham_Kailas_Awhad.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Shubham Kailas Awhad</b></font><br>
-		<font size="3">M.S. Student in Mechanical Engineering</font><br>
-		<a href="mailto:awhad@usc.edu" target="_top">awhad@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/shubham-awhad-8a042814a/" target="_top">LinkedIn</a><br>
-		Mechanical design, design optimization, advanced manufacturing, kinematics and mechanics.<br>
-		
-	</li>
-	
-	<li class="flex-item">
 		<a name="martinoporcu"></a>
 		<img src="../Photos/Martino_Porcu.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Martino Porcu</b></font><br>
 		<font size="3">B.S. Student in Biomedical Engineering (Mol-Cell emphasis)</font><br>
 		<a href="mailto:mporcu@usc.edu" target="_top">mporcu@usc.edu</a><br>
 		<a href="www.linkedin.com/in/martino-porcu-84bb9627a" target="_top">LinkedIn</a><br>
-		
-	</li>
-	
-	<li class="flex-item">
-		<a name="hesamsetayesh"></a>
-		<img src="../Photos/Hesam_Setayesh.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Hesam Setayesh</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:hsetayes@usc.edu" target="_top">hsetayes@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/hesam-setayesh-2608b4aa/" target="_top">LinkedIn</a><br>
-		Biomedical data analysis, mechanical designing, machine learning.<br>
 		
 	</li>
 	
@@ -232,23 +200,11 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 <br>
 
-<ul class="flex-container">
-	
-	<li class="flex-item">
-		<a name="nathanmatharu"></a>
-		<font size="3"><b>Nathan Matharu</b></font><br>
-		<font size="3">B.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:nmatharu@usc.edu" target="_top">nmatharu@usc.edu</a><br>
-	</li>
-
-	
-</ul>
-<br>
-
 -------------------------------------------
 <br>
 
 ## Doctoral Alumni  
+<b>Suraj Chakravarthi Raja</b> - Ph.D. Electrical and Computer Engineering, 2023: <a href="https://www.linkedin.com/in/surajcr/">LinkedIn</a><br>
 <b>Miguel Parra</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/parra-miguel/">LinkedIn</a><br>
 <b>Darío Urbina-Meléndez</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/dario-urbina/">LinkedIn</a><br>
 <b>Pegah Ojaghi</b> - Ph.D. Computer Engineering, 2023<br>
@@ -299,6 +255,9 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Hesam Setayesh</b> - M.S. Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/hesam-setayesh-2608b4aa/">LinkedIn</a><br>
+<b>Shubham Kailas Awhad</b> - M.S. Mechanical Engineering - 2023: <a href="https://www.linkedin.com/in/shubham-awhad-8a042814a/">LinkedIn</a><br>
+<b>Nathan Matharu</b> - M.S. Biomedical Engineering - 2023<br>
 <b>Darren Huang</b> - M.S. Computer Engineering and Computer Science - 2023: <a href="https://www.linkedin.com/in/darrenhuang1/">LinkedIn</a><br>
 <b>Brendan Flanagan</b> - B.S. Mechanical Engineering - 2023<br>
 <b>Abhilash Kulkarni</b> - M.S. Computer Science - 2023: <a href="https://www.linkedin.com/in/abhilashkulkarniofficial/">LinkedIn</a><br>
