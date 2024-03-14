@@ -34,7 +34,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	<li class="flex-item">
 		<a name="graceniyo"></a>
-		<img src="../Photos/GraceNiyo.jpg" class = "profilepicture" /><br>
+		<img src="../Photos/GraceNiyo_v2.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Grace Niyo</b></font><br>
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<a href="mailto:niyo@usc.edu" target="_top">niyo@usc.edu</a><br>
