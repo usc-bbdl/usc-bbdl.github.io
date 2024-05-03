@@ -44,6 +44,7 @@ menu: main2
 <h1 style="font-size:40px;">Years</h1>
 
 <div>
+<button onclick="window.location.href='#2024';">2024</button>
 <button onclick="window.location.href='#2023';">2023</button>
 <button onclick="window.location.href='#2022';">2022</button>
 <button onclick="window.location.href='#2018';">2018</button>
@@ -68,8 +69,22 @@ menu: main2
 <br> -->
 
 <br>
+
+
+  
+<h1 style="font-size:40px;" id="2024">2024</h1>
+
+Bartsch-Jimenez, A and Valero-Cuevas FJ 
+
+<br>
   
 <h1 style="font-size:40px;" id="2023">2023</h1>
+
+<b><a href="../Papers/2024_NCM_Angelo_Bartsch.pdf" title="Background: Intermuscular coherence (IMC) quantifies the degree of synchronization between two electromyography (EMG) signals to reveal their shared neural drive. As such, it is gaining popularity as a means to pinpoint the origin of neural drive causing upper extremity pathological synergies in stroke—as multiple pathways could be responsible. Purpose: While the imbalance of cortico- and reticulo-spinal tracts is thought to contribute to pathological synergies, this study aims to exclude the vestibulo-spinal tract as a potential contributor to arm muscle neural drive—as measured by IMC. Methods: As a first step, we recorded IMC during three conditions: No stimulation, Galvanic Vestibular Stimulation (GVS), and Sham. We tested 16 unimpaired young adults (mean age: 19.2, range: 18-27 years old) under three tasks: rest, isometric contraction, and voluntary reaching movement with their right arm. EMG signals were recorded from upper extremity muscles: Biceps (Bic) and Triceps Brachii (Tri), Anterior (ADelt), Middle (MDelt) and Posterior (PDelt) Heads of Deltoid, and Upper Trapezius (UTrap); and one neck muscle: Sternocleidomastoid (SCM), as a control for GVS. Magnitude-squared coherence from EMG was estimated across muscle pairs in the 8- 50Hz frequency range. Statistical Parametric Mapping (SPM) determined the specific frequencies at which there were differences across tasks and muscle pairs. Robust Statistical Methods were used to test for IMC changes after GVS and Sham under each Task (Rest, Isometric, and Reaching) for all muscle pairs. Results and Conclusion: As expected, GVS increased IMC in the SCM-UTrap muscle pair from 11 to 50Hz (spanning alpha-, beta-, and gamma-frequency bands), during the resting condition. In contrast, upper extremity IMC during isometric contraction and reaching movements did not increase under GVS— excluding the vestibulo-spinal tract as a contributor to neural drive to arm muscles during voluntary movement. This allows us to more confidently interpret the source of movement disorders in stroke survivors.">
+"Vestibulo-spinal pathway contributes to alpha-band Intermuscular Coherence during rest, but not during voluntary reaching movements"</a></b><br>
+Neural Control of Movement, Dubrovnik, Croatia, April 2024<br>
+
+<br>
 
 Niyo G, Almofeez L, Erwin A, Valero-Cuevas FJ<br>
 <b><a href="../Papers/2023_niyo_pre-sfn_motor_symposium.pdf" title="The primary motor cortex does not uniquely or directly produce the alpha drive (α-drive) activations to arm muscles during voluntary movement. Rather, α-drive activations emerge from the synthesis of signals from multiple descending tracts, fusimotor gains, sensory inputs, and spinal interneurons. This includes the inhibition of velocity-dependent stretch reflexes provided by the primary (Ia) muscle spindle sensory signals in eccentrically contracting muscles, which otherwise would disrupt voluntary movement [1,2]. I.e., “Inhibition is as important as excitation.” Spinal circuits for such homonymous (from the same muscle) and reciprocal (from other muscles) inhibition of stretch reflexes have been proposed mostly for the special (and experimentally tractable) case of single joints with clear agonist and antagonist muscles [3,4], but require careful real-time balance of fusimotor (gamma static (γ-static) and gamma dynamic (γ-dynamic) motoneurons) gains [5,6] in ways that are not entirely understood and are likely difficult to conclusively establish experimentally. Importantly, these circuits for the mono-articular case [3,4] are not guaranteed to generalize to the natural condition of numerous muscles crossing multiple joints during the production of large and fast 3-dimensional limb movements in the presence of gravity.">
