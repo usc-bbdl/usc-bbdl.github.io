@@ -196,6 +196,26 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
+  	<li class="flex-item">
+		<a name="seancheng"></a>
+		<img src="../Photos/sean_cheng.JPG" class = "profilepicture" /><br>
+		<font size="3"><b>Sean Shinpeng Cheng</b></font><br>
+		<font size="3">B.S. Student in Quantitative Biology</font><br>
+		<a href="mailto:seansche@usc.edu" target="_top">seansche@usc.edu</a><br>
+		Interested in somatosensory information for motor function rehabilitation.<br>
+		
+	</li>
+
+  	<li class="flex-item">
+		<a name="horacezhang"></a>
+		<img src="../Photos/horace_zhang.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Xiaosi (Horace) Zhang</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:xiaosiz@usc.edu" target="_top">xiaosiz@usc.edu</a><br>
+  		Interested in biomimetic robotics design, control, and optimization.<br>
+		
+	</li>
+
 </ul>
 
 <br>
@@ -205,7 +225,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 ## Doctoral Alumni  
 <b>Suraj Chakravarthi Raja</b> - Ph.D. Electrical and Computer Engineering, 2023: <a href="https://www.linkedin.com/in/surajcr/">LinkedIn</a><br>
-<b>Miguel Parra</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/parra-miguel/">LinkedIn</a><br>
 <b>Darío Urbina-Meléndez</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/dario-urbina/">LinkedIn</a><br>
 <b>Pegah Ojaghi</b> - Ph.D. Computer Engineering, 2023<br>
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/">LinkedIn</a> | <a href="https://valerolab.org/marjani/">Website</a><br>
@@ -255,6 +274,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Miguel Parra</b> - Ph.D. Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/parra-miguel/">LinkedIn</a><br>
 <b>Hesam Setayesh</b> - M.S. Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/hesam-setayesh-2608b4aa/">LinkedIn</a><br>
 <b>Shubham Kailas Awhad</b> - M.S. Mechanical Engineering - 2023: <a href="https://www.linkedin.com/in/shubham-awhad-8a042814a/">LinkedIn</a><br>
 <b>Nathan Matharu</b> - M.S. Biomedical Engineering - 2023<br>
