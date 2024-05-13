@@ -16,6 +16,22 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 -------------------------------------------
 <br>
 
+## Postdocs
+
+<ul class="flex-container">
+
+	<li class="flex-item">
+		<a name="surajchakravarthiraja"></a>
+		<img src="../Photos/Suraj2022.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
+		<font size="3">Ph.D. in Electrical and Computer Engineering</font><br>
+		<a href="https://www.linkedin.com/in/surajcr/" target="_top">LinkedIn</a><br>
+	</li>
+
+ </ul>
+ 
+ <br>
+
 ## Ph.D. Students
 
 <ul class="flex-container">
