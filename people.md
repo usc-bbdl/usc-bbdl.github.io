@@ -107,21 +107,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 
 <br>
 
-<ul class="flex-container">
-
-	
-	<li class="flex-item">
-		<a name="lamaalmofeez"></a>
-		<font size="3"><b>Lama Almofeez</b></font><br>
-		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
-		<a href="mailto:lalmofee@usc.edu" target="_top">lalmofee@usc.edu</a><br>
-		Brain-Computer Interfaces.<br>
-	</li>
-	
-
-</ul>
-
-<br>
 
 ## Lab Members
 <a href="../work/"> Information for Prospective Interns</a>
@@ -140,16 +125,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
-		<a name="cristinaacuna"></a>
-		<img src="../Photos/Cristina_Acuna_sq.jpg" class = "profilepicture"/><br>
-		<font size="3"><b>Cristina Acuna</b></font><br>
-		<font size="3">B.S. Student in Human Biology</font><br>
-		<a href="mailto:caacuna@usc.edu" target="_top">caacuna@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/cristinaaacuna" target="_top">LinkedIn</a><br>
-
-	</li>
-	
-	<li class="flex-item">
 		<a name="xinleiyu"></a>
 		<img src="../Photos/xinlei_yu.jpeg" class = "profilepicture" /><br>
 		<font size="3"><b>Xinlei Yu</b></font><br>
@@ -157,17 +132,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:xinleiyu@usc.edu" target="_top">xinleiyu@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/xinlei-yu/" target="_top">LinkedIn</a><br>
 		Interested in building cyber-physical systems and full-stack web technologies.<br>
-		
-	</li>
-	
-	<li class="flex-item">
-		<a name="alanperezcapistran"></a>
-		<img src="../Photos/Alan_Perez_Capistran.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Alan Perez Capistran</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:perezcap@usc.edu" target="_top">perezcap@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/alanpecap/" target="_top">LinkedIn</a><br>
-		Interested in neural interfaces for human movement restoration.<br>
 		
 	</li>
 	
@@ -241,6 +205,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Doctoral Alumni  
+<b>Lama Almofeez</b> - Ph.D. Biomedical Engineering, 2024<br>
 <b>Suraj Chakravarthi Raja</b> - Ph.D. Electrical and Computer Engineering, 2023: <a href="https://www.linkedin.com/in/surajcr/">LinkedIn</a><br>
 <b>Darío Urbina-Meléndez</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/dario-urbina/">LinkedIn</a><br>
 <b>Pegah Ojaghi</b> - Ph.D. Computer Engineering, 2023<br>
@@ -291,6 +256,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Alan Perez Capistran</b> - M.S. Biomedical Engineering - 2024: <a href="https://www.linkedin.com/in/alanpecap/">LinkedIn</a><br>
+<b>Cristina Acuna</b> - B.S. Human Biology - 2024: <a href="https://www.linkedin.com/in/cristinaaacuna">LinkedIn</a><br>
 <b>Miguel Parra</b> - Ph.D. Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/parra-miguel/">LinkedIn</a><br>
 <b>Hesam Setayesh</b> - M.S. Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/hesam-setayesh-2608b4aa/">LinkedIn</a><br>
 <b>Shubham Kailas Awhad</b> - M.S. Mechanical Engineering - 2023: <a href="https://www.linkedin.com/in/shubham-awhad-8a042814a/">LinkedIn</a><br>
