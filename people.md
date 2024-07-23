@@ -118,7 +118,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="nataliefung"></a>
 		<img src="../Photos/NatalieFung.JPG" class = "profilepicture"/><br>
 		<font size="3"><b>Natalie Fung</b></font><br>
-		<font size="3">M.S. Student in Communications Data Science</font><br>
+		<font size="3">M.S. in Communications Data Science</font><br>
 		<a href="mailto:fungn@usc.edu" target="_top">fungn@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/nataliefung1/" target="_top">LinkedIn</a><br>
 		Interested in disability and rehabilitation engineering. Webmaster.<br>
@@ -205,7 +205,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Doctoral Alumni  
-<b>Lama Almofeez</b> - Ph.D. Biomedical Engineering, 2024<br>
 <b>Suraj Chakravarthi Raja</b> - Ph.D. Electrical and Computer Engineering, 2023: <a href="https://www.linkedin.com/in/surajcr/">LinkedIn</a><br>
 <b>Darío Urbina-Meléndez</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/dario-urbina/">LinkedIn</a><br>
 <b>Pegah Ojaghi</b> - Ph.D. Computer Engineering, 2023<br>
@@ -256,9 +255,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Lama Almofeez</b> - Ph.D. Student in Biomedical Engineering - 2024<br>
 <b>Alan Perez Capistran</b> - M.S. Biomedical Engineering - 2024: <a href="https://www.linkedin.com/in/alanpecap/">LinkedIn</a><br>
 <b>Cristina Acuna</b> - B.S. Human Biology - 2024: <a href="https://www.linkedin.com/in/cristinaaacuna">LinkedIn</a><br>
-<b>Miguel Parra</b> - Ph.D. Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/parra-miguel/">LinkedIn</a><br>
+<b>Miguel Parra</b> - Ph.D. Student in Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/parra-miguel/">LinkedIn</a><br>
 <b>Hesam Setayesh</b> - M.S. Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/hesam-setayesh-2608b4aa/">LinkedIn</a><br>
 <b>Shubham Kailas Awhad</b> - M.S. Mechanical Engineering - 2023: <a href="https://www.linkedin.com/in/shubham-awhad-8a042814a/">LinkedIn</a><br>
 <b>Nathan Matharu</b> - M.S. Biomedical Engineering - 2023<br>
