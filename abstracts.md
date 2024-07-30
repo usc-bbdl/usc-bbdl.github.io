@@ -74,13 +74,13 @@ menu: main2
   
 <h1 style="font-size:40px;" id="2024">2024</h1>
 
-<b> Bartsch-Jimenez, A; Cheng, S; Alvi, Y; and Valero-Cuevas FJ</b> 
+<b> Bartsch-Jimenez A, Cheng S, Alvi Y, and Valero-Cuevas FJ</b> 
 <br>
 <b><a href="../Abstracts/2024_SfN_Vestibular_output_is_gated.pdf" title="Background: The vestibular system is among the oldest and most fundamental contributors to motor behavior as it is critical to maintaining posture and balance. However, such low-level signals could interfere with cortically-mediated voluntary behavior that naturally affects posture and balance. Consequently, it has been proposed that vestibular output is ‘gated’ (dubbed vestibular suppression) to avoid undesirable self-perturbations during voluntary head movements and locomotion. Here we demonstrate such gating also occurs for voluntary arm function. We tested sixteen unimpaired young adults (mean age: 19.2, range: 18-27 years old) under three seated tasks: rest, isometric contraction, and voluntary reaching movement with their right arm. EMG signals were recorded from upper extremity and neck muscles: Biceps (Bic) and Triceps Brachii(Tri), Anterior (ADelt), Middle (MDelt) and Posterior (PDelt) Heads of Deltoid, Upper Trapezius (UTrap), and Sternocleidomastoid (SCM). The strength of our evidence comes from comparing coherence at baseline (No Stimulation) and after either Sham or Galvanic Vestibular Stimulation (GVS). Our results show clear patterns of reduced pair-wise Intermuscular Coherence between specific neck muscles during visual tracking at rest and during voluntary arm isometric contractions and reaching movements. Specifically, the coherence between neck muscles (SCM- UTrap) seen at rest increased when GVS was applied, but it was suppressed when their gaze was fixed on a screen. Moreover, this increased coherence in neck muscles was also suppressed during voluntary isometric contractions and reaching movements even when GVS was applied. Thus, these findings extend vestibular suppression to voluntary arm function. On the other hand, no changes were found in pairwise intermuscular coherence during Sham (compared with No stimulation) or in arm muscles at either rest or during voluntary movement during GVS in neurotypical adults. Consequently, this confirms the common (yet unproven to our knowledge) notion that arm muscles do not receive vestibular neural drive. In addition to shedding light on the mechanisms that mediate competing descending outputs for voluntary function, this work also serves as a baseline against which to compare potential task-dependent dysregulation of vestibular-mediated output to the neck and arms in stroke and neurological conditions..">
 "Vestibular output is also gated by voluntary action of the arm"</a></b><br>
-Society for Neuroscience, Chigaco, USA, October 2024<be>
-<br>
+Society for Neuroscience, Chigaco, USA, October 2024<br>
 
+<br>
 
 <b> Bartsch-Jimenez, A and Valero-Cuevas FJ </b> 
 <br>
