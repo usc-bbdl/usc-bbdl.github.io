@@ -121,7 +121,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. in Communications Data Science</font><br>
 		<a href="mailto:fungn@usc.edu" target="_top">fungn@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/nataliefung1/" target="_top">LinkedIn</a><br>
-		Interested in disability and rehabilitation engineering. Webmaster.<br>
+		Interested in disability and rehabilitation engineering. Lab Manager and Webmaster.<br>
 	</li>
 	
 	<li class="flex-item">
@@ -194,6 +194,16 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:xiaosiz@usc.edu" target="_top">xiaosiz@usc.edu</a><br>
   		Interested in biomimetic robotics design, control, and optimization.<br>
+		
+	</li>
+
+  	<li class="flex-item">
+		<a name="jiajinzhang"></a>
+		<img src="../Photos/jiajin_zhang.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Jiajin Zhang</b></font><br>
+		<font size="3">M.S. Student in Computer Engineering</font><br>
+		<a href="mailto:jiajinzh@usc.edu" target="_top">jiajinzh@usc.edu</a><br>
+  		Interested in reinforcement learning algorithms and communication system.<br>
 		
 	</li>
 
