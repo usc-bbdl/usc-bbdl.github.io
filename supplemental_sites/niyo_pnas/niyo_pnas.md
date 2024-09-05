@@ -4,7 +4,7 @@ title: A computational study of how an α-to γ-motoneurone collateral can mitig
 ---
 # Companion Website
 
-## Proceedings of the National Academy of Sciences - July 2024
+## Proceedings of the National Academy of Sciences - August 2024
 
 # [Article: PNAS.org](https://www.pnas.org/doi/abs/10.1073/pnas.2321659121)
 # [PDF version](../Papers/2024_niyo_pnas_computational.pdf)
@@ -29,4 +29,4 @@ Arm movements are disrupted by unmodulated stretch reflexes. We quantified disru
 This work is supported in part by the NIH (R01 AR-050520, R01 AR-052345, and R21-NS113613), DOD CDMRP Grant MR150091, DARPA-L2M program Award W911NF1820264, NSF CRCNS Japan-US 2113096 to F.J.V.-C. and fellowships from the USC Viterbi School of Engineering to G.N. and L.I.A. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH, NSF, DoD, or DARPA.
 
 ### [Open-Source Code Link](https://doi.org/10.5281/zenodo.10373302)
-We'd be happy to help you apply these methods to your work. Send us a message: [niyo@usc.edu](mailto:niyo@usc.edu) [valero@usc.edu](mailto:valero@usc.edu)
+For questions and more information, please send us an email: [niyo@usc.edu](mailto:niyo@usc.edu) [valero@usc.edu](mailto:valero@usc.edu)
