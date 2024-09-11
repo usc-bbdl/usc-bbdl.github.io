@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## A computational study of how an α-to γ-motoneurone collateral can mitigate velocity-dependent stretch reflexes during voluntary movement
+# A computational study of how an α-to γ-motoneurone collateral can mitigate velocity-dependent stretch reflexes during voluntary movement
 
 Companion Website
 
-### Proceedings of the National Academy of Sciences - August 2024
+## Proceedings of the National Academy of Sciences - August 2024
 
 <a href="../Papers/2024_niyo_pnas_computational.pdf" target="_blank">Link to PDF version from Valero Lab</a>
 <br>
