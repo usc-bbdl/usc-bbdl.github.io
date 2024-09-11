@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>A computational study of how an α-to γ-motoneurone collateral can mitigate velocity-dependent stretch reflexes during voluntary movement</h2>
+<h1>A computational study of how an α-to γ-motoneurone collateral can mitigate velocity-dependent stretch reflexes during voluntary movement</h1>
 
 Companion Website
 
