@@ -207,21 +207,18 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
- </ul>
-
- <ul class="flex-container">
-
    	<li class="flex-item">
-		<a name="timchang"></a>
-		<font size="3"><b>Jen-Ting (Tim) Chang</b></font><br>
-		<font size="3">M.S. Student in Computer Engineering</font><br>
-		<a href="mailto:jentingc@usc.edu" target="_top">jentingc@usc.edu</a><br>
-  		<a href="https://www.linkedin.com/in/jenting-chang/" target="_top">LinkedIn</a><br>
-  		Interested in software development, cloud computing, and robotics software development.<br>
+		<a name="nathanmatharu"></a>
+		<img src="../Photos/nathan_matharu.png" class = "profilepicture" /><br>
+		<font size="3"><b>Nathan Matharu</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:nmatharu@usc.edu" target="_top">nmatharu@usc.edu</a><br>
+      		<a href="https://www.linkedin.com/in/Nathan-Matharu/" target="_top">LinkedIn</a><br>
+  		Interested in bio-inspired design and the role of soft deformations in hand manipulation tasks.<br>
 		
 	</li>
 
-</ul>
+ </ul>
 
 <br>
 
@@ -285,7 +282,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Miguel Parra</b> - Ph.D. Student in Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/parra-miguel/">LinkedIn</a><br>
 <b>Hesam Setayesh</b> - M.S. Biomedical Engineering - 2023: <a href="https://www.linkedin.com/in/hesam-setayesh-2608b4aa/">LinkedIn</a><br>
 <b>Shubham Kailas Awhad</b> - M.S. Mechanical Engineering - 2023: <a href="https://www.linkedin.com/in/shubham-awhad-8a042814a/">LinkedIn</a><br>
-<b>Nathan Matharu</b> - M.S. Biomedical Engineering - 2023<br>
 <b>Darren Huang</b> - M.S. Computer Engineering and Computer Science - 2023: <a href="https://www.linkedin.com/in/darrenhuang1/">LinkedIn</a><br>
 <b>Brendan Flanagan</b> - B.S. Mechanical Engineering - 2023<br>
 <b>Abhilash Kulkarni</b> - M.S. Computer Science - 2023: <a href="https://www.linkedin.com/in/abhilashkulkarniofficial/">LinkedIn</a><br>
