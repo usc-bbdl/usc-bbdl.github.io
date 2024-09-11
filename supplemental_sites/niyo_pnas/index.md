@@ -2,13 +2,17 @@
 layout: page
 ---
 
-# A computational study of how an α-to γ-motoneurone collateral can mitigate velocity-dependent stretch reflexes during voluntary movement
+## A computational study of how an α-to γ-motoneurone collateral can mitigate velocity-dependent stretch reflexes during voluntary movement
 
 Companion Website
 
-## Proceedings of the National Academy of Sciences - August 2024
+### Proceedings of the National Academy of Sciences - August 2024
 
-[Link to PDF version from Valero Lab](../Papers/2024_niyo_pnas_computational.pdf)
+<a href="../Papers/2024_niyo_pnas_computational.pdf" target="_blank">Link to PDF version from Valero Lab</a>
+<br>
+<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2321659121" target="_blank">Link to PNAS Article</a>
+
+[Link to PDF version from Valero Lab]()
 
 [Link to PNAS Article](https://www.pnas.org/doi/abs/10.1073/pnas.2321659121)
 
@@ -24,11 +28,8 @@ Muscle velocity and length signals from the spindle are useful for localizing ou
 > Niyo, G., Almofeez, L. I., Erwin, A., & Valero-Cuevas, F. J. (2024). A computational study of how an α-to γ-motoneurone collateral can mitigate velocity-dependent stretch reflexes during voluntary movement. Proceedings of the National Academy of Sciences, 121(34), e2321659121.
 
 
-[Citation (.ris)](https://www.nature.com/articles/s42256-019-0029-0.ris)  
-[Citation (BibTex)](marjaninejad.txt)
-
 ### Funding
 This work is supported in part by the NIH (R01 AR-050520, R01 AR-052345, and R21-NS113613), DOD CDMRP Grant MR150091, DARPA-L2M program Award W911NF1820264, NSF CRCNS Japan-US 2113096 to F.J.V.-C. and fellowships from the USC Viterbi School of Engineering to G.N. and L.I.A. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH, NSF, DoD, or DARPA.
 
 ### [Open-Source Code Link](https://doi.org/10.5281/zenodo.10373302)
-For questions and more information, please send us an email:[valero@usc.edu](mailto:valero@usc.edu)
+For questions and more information, please send us an email: [valero@usc.edu](mailto:valero@usc.edu)
