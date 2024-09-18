@@ -12,6 +12,12 @@ navigation_weight: 6
 -------------------------------------------
 <br>
 
+# September 18, 2024
+# USC Viterbi News:
+# [How Are Stretch Reflexes Modulated During Voluntary Movement?](https://viterbischool.usc.edu/news/2024/09/how-are-stretch-reflexes-modulated-during-voluntary-movement/)
+<br>
+<br>
+
 # May 7, 2023
 # La Opinión:
 # [Tecnología de todos y para todos en una de las universidades de más prestigio en el sur de California](https://laopinion.com/2023/05/07/tecnologia-de-todos-y-para-todos-en-una-de-las-universidades-de-mas-prestigio-en-el-sur-de-california/)
