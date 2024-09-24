@@ -125,34 +125,12 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 	
 	<li class="flex-item">
-		<a name="xinleiyu"></a>
-		<img src="../Photos/xinlei_yu.jpeg" class = "profilepicture" /><br>
-		<font size="3"><b>Xinlei Yu</b></font><br>
-		<font size="3">M.S. Student in Computer Engineering</font><br>
-		<a href="mailto:xinleiyu@usc.edu" target="_top">xinleiyu@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/xinlei-yu/" target="_top">LinkedIn</a><br>
-		Interested in building cyber-physical systems and full-stack web technologies.<br>
-		
-	</li>
-	
-	<li class="flex-item">
 		<a name="martinoporcu"></a>
 		<img src="../Photos/Martino_Porcu.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Martino Porcu</b></font><br>
 		<font size="3">B.S. Student in Biomedical Engineering (Mol-Cell emphasis)</font><br>
 		<a href="mailto:mporcu@usc.edu" target="_top">mporcu@usc.edu</a><br>
 		<a href="www.linkedin.com/in/martino-porcu-84bb9627a" target="_top">LinkedIn</a><br>
-		
-	</li>
-	
-	<li class="flex-item">
-		<a name="zeyuclaudeyao"></a>
-		<img src="../Photos/Zeyu_Claude_Yao.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Zeyu (Claude) Yao</b></font><br>
-		<font size="3">M.S. Student in Mechanical Engineering</font><br>
-		<a href="mailto:zeyuyao@usc.edu" target="_top">zeyuyao@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/zeyu-yao-1379a9227/" target="_top">LinkedIn</a><br>
-		Interested in mechanical design & manufacture of robots and dynamics & control.<br>
 		
 	</li>
 
@@ -164,15 +142,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:grosenkr@usc.edu" target="_top">grosenkr@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/gregrosenkranz/" target="_top">LinkedIn</a><br>
 		Interested in neuromuscular control and rehabilitation for improved mobility.<br>
-		
-	</li>
-
-  	<li class="flex-item">
-		<a name="yusufalvi"></a>
-		<img src="../Photos/yusuf_alvi.png" class = "profilepicture" /><br>
-		<font size="3"><b>Yusuf Alvi</b></font><br>
-		<font size="3">B.S. Student in Computational Neuroscience</font><br>
-		<a href="mailto:yalvi@usc.edu" target="_top">yalvi@usc.edu</a><br>
 		
 	</li>
 
@@ -276,6 +245,9 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Yusuf Alvi</b> - B.S. Computational Neuroscience - 2024<br>
+<b>Zeyu (Claude) Yao</b> - M.S. Mechanical Engineering - 2024: <a href="https://www.linkedin.com/in/zeyu-yao-1379a9227/">LinkedIn</a><br>
+<b>Xinlei Yu</b> - M.S. Computer Engineering - 2024: <a href="https://www.linkedin.com/in/xinlei-yu/">LinkedIn</a><br>
 <b>Lama Almofeez</b> - Ph.D. Student in Biomedical Engineering - 2024<br>
 <b>Alan Perez Capistran</b> - M.S. Biomedical Engineering - 2024: <a href="https://www.linkedin.com/in/alanpecap/">LinkedIn</a><br>
 <b>Cristina Acuna</b> - B.S. Human Biology - 2024: <a href="https://www.linkedin.com/in/cristinaaacuna">LinkedIn</a><br>
