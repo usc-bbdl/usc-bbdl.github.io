@@ -198,6 +198,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
+     	<li class="flex-item">
+		<a name="yashsharma"></a>
+		<img src="../Photos/yash_sharma.png" class = "profilepicture" /><br>
+		<font size="3"><b>Yash Sharma</b></font><br>
+		<font size="3">M.S. Student in Computer Science</font><br>
+		<a href="mailto:yashshar@usc.edu" target="_top">yashshar@usc.edu</a><br>
+      		<a href="https://www.linkedin.com/in/yashs662" target="_top">LinkedIn</a><br>
+  		Interested in Computer Vision and high-performance computing.<br>
+		
+	</li>
+
  </ul>
 
 <br>
