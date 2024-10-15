@@ -187,6 +187,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
+    	<li class="flex-item">
+		<a name="brianhsieh"></a>
+		<img src="../Photos/brian_hsieh.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Chih-Cheng (Brian) Hsieh</b></font><br>
+		<font size="3">M.S. Student in Electrical Engineering</font><br>
+		<a href="mailto:chsieh06@usc.edu" target="_top">chsieh06@usc.edu</a><br>
+      		<a href="https://www.linkedin.com/in/brian-hsieh06/" target="_top">LinkedIn</a><br>
+  		Interested in robot perception, planning algorithms, and intelligent control systems.<br>
+		
+	</li>
+
  </ul>
 
 <br>
