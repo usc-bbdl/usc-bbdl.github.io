@@ -220,6 +220,27 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
+      	<li class="flex-item">
+		<a name="pranavshakar"></a>
+		<img src="../Photos/pranav_shankar.png" class = "profilepicture" /><br>
+		<font size="3"><b>Pranav Shankar</b></font><br>
+		<font size="3">M.S. Student in Computer Science</font><br>
+		<a href="mailto:pranavs3@usc.edu" target="_top">pranavs3@usc.edu</a><br>
+      		<a href="https://www.linkedin.com/in/pranav-shankar-365280216/" target="_top">LinkedIn</a><br>
+  		Interested in machine learning for brain data and natural language processing.<br>
+		
+	</li>
+
+      	<li class="flex-item">
+		<a name="jushenwu"></a>
+		<img src="../Photos/jushen_wu.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Jushen Wu</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:jushenwu@usc.edu" target="_top">jushenwu@usc.edu</a><br>
+  		Interested in medical image processing.<br>
+		
+	</li>
+
  </ul>
 
 <br>
