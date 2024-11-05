@@ -119,7 +119,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<img src="../Photos/NatalieFung.JPG" class = "profilepicture"/><br>
 		<font size="3"><b>Natalie Fung</b></font><br>
 		<font size="3">M.S. in Communications Data Science</font><br>
-		<a href="mailto:fungn@usc.edu" target="_top">fungn@usc.edu</a><br>
+		<a href="mailto:fungn@usc.edu" target="_blank">fungn@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/nataliefung1/" target="_top">LinkedIn</a><br>
 		Interested in disability and rehabilitation engineering. Lab Manager and Webmaster.<br>
 	</li>
@@ -249,6 +249,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:aaparvat@usc.edu" target="_top">aaparvat@usc.edu</a><br>
         	<a href="https://www.linkedin.com/in/aaparvat/" target="_top">LinkedIn</a><br>
   		Interested in applying machine learning to neuroscience to drive improved clinical outcomes.<br>
+		
+	</li>
+
+        	<li class="flex-item">
+		<a name="shilanli"></a>
+		<img src="../Photos/shilan_li.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Shilan Li</b></font><br>
+		<font size="3">M.S. Student in Applied Data Science</font><br>
+		<a href="mailto:shilanli@usc.edu" target="_top">shilanli@usc.edu</a><br>
+        	<a href="https://www.linkedin.com/in/shilan-li/" target="_blank">LinkedIn</a><br>
+  		Interested in network science, brain science, and data visualization.<br>
 		
 	</li>
 
