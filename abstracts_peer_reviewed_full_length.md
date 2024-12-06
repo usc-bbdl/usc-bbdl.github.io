@@ -41,12 +41,21 @@ menu: main2
 <body>
 <br>
   
+<h1 style="font-size:40px;">2024</h1>
+
+Mir R, Ojaghi P, Erwin A, Marjaninejad A, Wehner M, Valero-Cuevas FJ<br>
+<b><a href="../Papers/2024_mir_humanoids.pdf">
+"Curriculum Learning Influences the Emergence of Different Learning Trends"</a></b><br>
+2024 IEEE-RAS 23rd International Conference on Humanoid Robots, Nancy, France, November 22-24, 2019.<br>
+
+<br>
+
 <h1 style="font-size:40px;">2019</h1>
 
 Nagamori A, Laine CM, Valero-Cuevas FJ<br>
 <b><a href="../Papers/2019_Reticulospinal_drive.pdf">
 "Reticulospinal drive with a flexor bias can be detected as a-band shared neural drive during voluntary tasks in healthy individuals"</a></b><br>
-Proceedings of the 29th Annual Conference of the Society for Neural control of Movement, Toyama, JAPAN, April 24-27, 2019.<br>
+Proceedings of the 29th Annual Conference of the Society for Neural control of Movement, Toyama, Japan, April 24-27, 2019.<br>
 
 <br>
   
