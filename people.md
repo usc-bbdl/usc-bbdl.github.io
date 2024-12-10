@@ -264,6 +264,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
+         	<li class="flex-item">
+		<a name="meganseth"></a>
+		<img src="../Photos/megan_seth.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Megan Seth</b></font><br>
+		<font size="3">B.S. Student in Biological Sciences</font><br>
+		<a href="mailto:meganin310@gmail.com" target="_blank">meganin310@gmail.com</a><br>
+        	<a href="www.linkedin.com/in/megan-seth-a6283a1b0" target="_blank">LinkedIn</a><br>
+  		Interested in neuromuscular symptoms and brain mapping.<br>
+		
+	</li>
+
  </ul>
 
 <br>
