@@ -275,6 +275,27 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
+         	<li class="flex-item">
+		<a name="yuntongzhu"></a>
+		<img src="../Photos/yuntong_zhu.png" class = "profilepicture" /><br>
+		<font size="3"><b>Yuntong Zhu</b></font><br>
+		<font size="3">M.S. Student in Computer Science</font><br>
+		<a href="mailto:yuntongz@usc.edu" target="_blank">yuntongz@usc.edu</a><br>
+        	<a href="https://www.linkedin.com/in/yuntong-zhu" target="_blank">LinkedIn</a><br>
+  		Interested in spatiotemporal forecasting, brain science, and time series analysis.<br>
+		
+	</li>
+ 
+ 		<li class="flex-item">
+		<a name="darrenhuang"></a>
+		<img src="../Photos/darren_huang.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Darren huang</b></font><br>
+		<font size="3">M.S. Student in Applied Data Science</font><br>
+		<a href="mailto:darrenhu@usc.edu" target="_blank">darrenhu@usc.edu</a><br>
+        	<a href="https://www.linkedin.com/in/darrenhuang1/" target="_blank">LinkedIn</a><br>
+		
+	</li>
+
  </ul>
 
 <br>
