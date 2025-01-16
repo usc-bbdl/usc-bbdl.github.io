@@ -12,6 +12,12 @@ navigation_weight: 6
 -------------------------------------------
 <br>
 
+# December 16, 2024
+# USC Viterbi News:
+# [Three USC Viterbi Professors Named 2024 Fellows of the National Academy of Inventors](https://viterbischool.usc.edu/news/2024/12/three-usc-viterbi-professors-named-2024-fellows-of-the-national-academy-of-inventors/)
+<br>
+<br>
+
 # September 18, 2024
 # USC Viterbi News:
 # [How Are Stretch Reflexes Modulated During Voluntary Movement?](https://viterbischool.usc.edu/news/2024/09/how-are-stretch-reflexes-modulated-during-voluntary-movement/)
