@@ -74,10 +74,10 @@ menu: main2
   
 <h1 style="font-size:40px;" id="2024">2024</h1>
 
-Parra M, Chakravarthi Raja S, Azadjou H, Niyo G, Valero-Cuevas FJ<br>
-<b><a href="../Abstracts/2023_parra_dare_neurofabrica.pdf" title="Neuroplasticity is what underlies the learning process in biological systems. It is thought that this is well modeled by Hebbian learning, by which connections between pre and postsynaptic neurons strengthen if this path is used continuously. However, due to the limitations of modeling traditional generalpurpose processors, there is currently no way to model plasticity on the scale of thousands of neurons without utilizing massive compute resources. We propose a novel approach, by leveraging the hardware dual of biological neurons, in the form of neuromorphic computing. We hypothesize that this technology has the capability to quickly and accurately model neuron dynamics, specifically in the field of neural plasticity. We will investigate the capabilities of modeling neurorehabilitation through investigating plasticity and adaptation, by implementing a simple system that follows Hebbian rules for strengthening synaptic connections, as well as modeling growth and development by allowing the system to recruit more neurons into the model as time goes on. This approach represents a paradigm shift by allowing the network to more naturally evolve, in accordance with physiological principles of learning and development.">
-"Neurofabrica: Bridging the gap between carbon and silicon"</a></b><br>
-NSF DARE Conference: Transformative Opportunities for Modeling in Neurorehabilitation, Los Angeles, CA, USA, March 2023<br>
+Kumar K, Zhang H, Bowens L, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2024_Kumar_NCM.pdf" title="Understanding how locomotion is initiated and transitions enables progress in bio-inspired robotics. The relevance of mechanical system dynamics is often excluded from discussions of fictive locomotion under control of a Central Pattern Generator (CPG). Coupling a mechanical system model with a CPG can reveal the brain-body co-evolution and co-adaptation for multi-legged locomotion.">
+"The viscoelastic properties of the legs can enable a wide range of gait initiation dynamics when coupled to a CPG in a simulated quadruped insect"</a></b><br>
+Neural Control of Movement, Dubrovnik, Croatia, April 2024<br>
 
 <br>
 
@@ -97,10 +97,24 @@ Neural Control of Movement, Dubrovnik, Croatia, April 2024<br>
   
 <h1 style="font-size:40px;" id="2023">2023</h1>
 
+Matharu N, Lao J, Fanelle T, Raja S, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2023_Nathan_BMES_Semi_Soft_Finger.pdf" title="Control of the endpoint location of a traditional hinged finger with rigid links is well established. Soft fingers can adapt their movements and grip on objects (Deimel and Brock, 2015), but controlling their kinematics accurately remains an open problem for soft robotic fingers on account of their (technically) infinite degrees of freedom (DOFs) (Santina et al., 2023). Semi-soft robotic fingers are a practical compromise, where the links are rigid but the joints are compliant (as in anatomical joints and Swanson silicone implants) (Alnaimat et al, 2021). Here we construct inexpensive semi-soft fingers by inserting rigid segments into a flexible PVC tube, and actuate them with four tendons (Figure 1), to test the the relationship between softness of the fingers (i.e., shorter segments make it softer) and the endpoint prediction accuracy to explore their future utility and select proper segment lengths in semi-soft hands. This study will allow us to build inexpensive yet controllable hands that have acceptable kinematic control.">
+"Rigid Robotic Transformations with Variable Link Lengths Can Approximate The Kinematics of Soft Fingers with ‘Bones.’"</a></b><br>
+Biomedical Engineering Society Annual Meeting, Seattle, Washington, October 2023<br>
+
+<br>
+
 Niyo G, Almofeez L, Erwin A, Valero-Cuevas FJ<br>
 <b><a href="../Papers/2023_niyo_pre-sfn_motor_symposium.pdf" title="The primary motor cortex does not uniquely or directly produce the alpha drive (α-drive) activations to arm muscles during voluntary movement. Rather, α-drive activations emerge from the synthesis of signals from multiple descending tracts, fusimotor gains, sensory inputs, and spinal interneurons. This includes the inhibition of velocity-dependent stretch reflexes provided by the primary (Ia) muscle spindle sensory signals in eccentrically contracting muscles, which otherwise would disrupt voluntary movement [1,2]. I.e., “Inhibition is as important as excitation.” Spinal circuits for such homonymous (from the same muscle) and reciprocal (from other muscles) inhibition of stretch reflexes have been proposed mostly for the special (and experimentally tractable) case of single joints with clear agonist and antagonist muscles [3,4], but require careful real-time balance of fusimotor (gamma static (γ-static) and gamma dynamic (γ-dynamic) motoneurons) gains [5,6] in ways that are not entirely understood and are likely difficult to conclusively establish experimentally. Importantly, these circuits for the mono-articular case [3,4] are not guaranteed to generalize to the natural condition of numerous muscles crossing multiple joints during the production of large and fast 3-dimensional limb movements in the presence of gravity.">
 "Disruptions of voluntary movement by velocity-dependent stretch reflexes can vary greatly within and across movements: Implications to sensorimotor control"</a></b><br>
 In proceedings from The Annual Pre-SfN Motor Symposium, Washington D.C., USA, November 2023<br>
+
+<br>
+
+Parra M, Chakravarthi Raja S, Azadjou H, Niyo G, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2023_parra_dare_neurofabrica.pdf" title="Neuroplasticity is what underlies the learning process in biological systems. It is thought that this is well modeled by Hebbian learning, by which connections between pre and postsynaptic neurons strengthen if this path is used continuously. However, due to the limitations of modeling traditional generalpurpose processors, there is currently no way to model plasticity on the scale of thousands of neurons without utilizing massive compute resources. We propose a novel approach, by leveraging the hardware dual of biological neurons, in the form of neuromorphic computing. We hypothesize that this technology has the capability to quickly and accurately model neuron dynamics, specifically in the field of neural plasticity. We will investigate the capabilities of modeling neurorehabilitation through investigating plasticity and adaptation, by implementing a simple system that follows Hebbian rules for strengthening synaptic connections, as well as modeling growth and development by allowing the system to recruit more neurons into the model as time goes on. This approach represents a paradigm shift by allowing the network to more naturally evolve, in accordance with physiological principles of learning and development.">
+"Neurofabrica: Bridging the gap between carbon and silicon"</a></b><br>
+NSF DARE Conference: Transformative Opportunities for Modeling in Neurorehabilitation, Los Angeles, CA, USA, March 2023<br>
 
 <br>
 
@@ -112,6 +126,13 @@ NSF DARE Conference: Transformative Opportunities for Modeling in Neurorehabilit
 <br>
   
 <h1 style="font-size:40px;" id="2022">2022</h1>
+
+Matharu N, Lao J, Iwamoto A, Helton A, Fanelle T, Erwin A, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2022_Nathan_SFN_Semi_Soft_Finger.pdf" title="The ability to model and control soft bio-inspired robotic hands would enable a new class of manipulation applications because softness, by passively conforming, decreases the precision required for control (Brock and Valero-Cuevas, Physics of Life Reviews, 2016). Here, we tested how well traditional rigid robotic transformations can approximate the kinematics of a semi-soft robotic finger (i.e., rigid 'phalanges' embedded in soft material). We made one tendon-driven, semi-soft finger with a length of 13 cm and three 4 cm phalanges (plus a 'metacarpal' for mounting) with 0.15 cm of silicone between serving as the Joints'. Then, this semi-soft finger was compared against a ground-truth, rigid 3-link planar hinged finger.">
+"Rigid robotic transformations can approximate the kinematics of soft fingers with 'bones'."</a></b><br>
+Proceedings of the 51st Annual Meeting of the Society for Neuroscience, San Diego, CA, USA, Nov 2022<br>
+
+<br>
 
 Niyo G, Almofeez LI, Woo J, Valero-Cuevas FJ<br>
 <b><a href="../Abstracts/2022_SFN_Almofeez_Voluntary_movement_in_the_presence_of_muscle_afferentation.pdf" title="Multiple computational models of neuromuscular control include cortico-spinal drive as the primary (or only) command signal to a muscle. However, actual α-motoneuron activation results from summation of excitatory and inhibitory descending, propriospinal, sensory and proprioceptive synaptic inputs. Muscle spindles provide homologous and heteronomous proprioceptive inputs encoding muscle fiber length and velocity, while γ-motoneurons can modulate these spindle outputs, the extent to which the spindle feedback inputs alters limb kinematics is unknown. Here we model the functional effects of excitatory spindle afferent signals on limb kinematics to quantify whether and how the open loop descending cortico-spinal drive to α-motoneurons needs to be adjusted to counterbalance spindle afferent signals. Similar to (Hagen and Valero-Cuevas 2017), we used a 31-muscle Macaque arm model in MuJoCo and generated 100 open loop α-motoneuron commands that produced random free arm movements lasting 2 seconds starting from rest. We then systematically added excitatory monosynaptic spindle afferent to each muscle. We compared the baseline motion to the resulting disrupted trajectories and endpoint location after using five incremental feedback gains, proportional to the lengthening and eccentric velocity of each muscle. As expected, movements inducing greater fiber lengthening and eccentric velocities tended to be more disrupted as gain increased. But these trajectory and endpoint disruption were neither linear nor necessarily kinematically significant. Our findings highlight that each arm movement must have a distinct, nonlinear compensatory interaction between α and γ motoneuron drives, which can range from subtle to strong. Moreover, our conceptual approach to computational neuromuscular control and learning should be broadened to encompass dynamic muscle afferentation.">
