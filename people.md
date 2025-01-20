@@ -231,39 +231,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
-      	<li class="flex-item">
-		<a name="jushenwu"></a>
-		<img src="../Photos/jushen_wu.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Jushen Wu</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:jushenwu@usc.edu" target="_blank">jushenwu@usc.edu</a><br>
-  		<a href="https://github.com/colaquafina/colaquafina" target="_blank">Website</a><br>
-		Interested in medical image processing.<br>
-		
-	</li>
-
-       	<li class="flex-item">
-		<a name="akhilparvathaneni"></a>
-		<img src="../Photos/akhil_parvathaneni.png" class = "profilepicture" /><br>
-		<font size="3"><b>Akhil Parvathaneni</b></font><br>
-		<font size="3">M.S. Student in Computer Science</font><br>
-		<a href="mailto:aaparvat@usc.edu" target="_blank">aaparvat@usc.edu</a><br>
-        	<a href="https://www.linkedin.com/in/aaparvat/" target="_blank">LinkedIn</a><br>
-  		Interested in applying machine learning to neuroscience to drive improved clinical outcomes.<br>
-		
-	</li>
-
-        	<li class="flex-item">
-		<a name="shilanli"></a>
-		<img src="../Photos/shilan_li.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Shilan Li</b></font><br>
-		<font size="3">M.S. Student in Applied Data Science</font><br>
-		<a href="mailto:shilanli@usc.edu" target="_blank">shilanli@usc.edu</a><br>
-        	<a href="https://www.linkedin.com/in/shilan-li/" target="_blank">LinkedIn</a><br>
-  		Interested in network science, brain science, and data visualization.<br>
-		
-	</li>
-
          	<li class="flex-item">
 		<a name="meganseth"></a>
 		<img src="../Photos/megan_seth.jpg" class = "profilepicture" /><br>
@@ -272,17 +239,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:meganin310@gmail.com" target="_blank">meganin310@gmail.com</a><br>
         	<a href="www.linkedin.com/in/megan-seth-a6283a1b0" target="_blank">LinkedIn</a><br>
   		Interested in neuromuscular symptoms and brain mapping.<br>
-		
-	</li>
-
-         	<li class="flex-item">
-		<a name="yuntongzhu"></a>
-		<img src="../Photos/yuntong_zhu.png" class = "profilepicture" /><br>
-		<font size="3"><b>Yuntong Zhu</b></font><br>
-		<font size="3">M.S. Student in Computer Science</font><br>
-		<a href="mailto:yuntongz@usc.edu" target="_blank">yuntongz@usc.edu</a><br>
-        	<a href="https://www.linkedin.com/in/yuntong-zhu" target="_blank">LinkedIn</a><br>
-  		Interested in spatiotemporal forecasting, brain science, and time series analysis.<br>
 		
 	</li>
  
@@ -354,6 +310,10 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Jushen Wu</b> - M.S. Biomedical Engineering - 2024: <a href="https://github.com/colaquafina/colaquafina" target="_blank">Website</a><br>
+<b>Akhil Parvathaneni</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/aaparvat/" target="_blank">LinkedIn</a><br>
+<b>Shilan Li</b> - M.S. Applied Data Science - 2024: <a href="https://www.linkedin.com/in/shilan-li/" target="_blank">LinkedIn</a><br>
+<b>Yuntong Zhu</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/yuntong-zhu" target="_blank">LinkedIn</a><br>
 <b>Yusuf Alvi</b> - B.S. Computational Neuroscience - 2024<br>
 <b>Zeyu (Claude) Yao</b> - M.S. Mechanical Engineering - 2024: <a href="https://www.linkedin.com/in/zeyu-yao-1379a9227/" target="_blank">LinkedIn</a><br>
 <b>Xinlei Yu</b> - M.S. Computer Engineering - 2024: <a href="https://www.linkedin.com/in/xinlei-yu/" target="_blank">LinkedIn</a><br>
