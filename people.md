@@ -16,22 +16,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 -------------------------------------------
 <br>
 
-## Postdocs
-
-<ul class="flex-container">
-
-	<li class="flex-item">
-		<a name="surajchakravarthiraja"></a>
-		<img src="../Photos/Suraj2022.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Suraj Chakravarthi Raja</b></font><br>
-		<font size="3">Ph.D. in Electrical and Computer Engineering</font><br>
-		<a href="https://www.linkedin.com/in/surajcr/" target="_blank">LinkedIn</a><br>
-	</li>
-
- </ul>
- 
- <br>
-
 ## Ph.D. Students
 
 <ul class="flex-container">
@@ -118,11 +102,22 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a name="nataliefung"></a>
 		<img src="../Photos/NatalieFung.JPG" class = "profilepicture"/><br>
 		<font size="3"><b>Natalie Fung</b></font><br>
-		<font size="3">M.S. in Communications Data Science</font><br>
+		<font size="3">M.S. in Communication Data Science</font><br>
 		<a href="mailto:fungn@usc.edu" target="_blank">fungn@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/nataliefung1/" target="_blank">LinkedIn</a><br>
 		Interested in disability and rehabilitation engineering. Lab Manager and Webmaster. Lab member since Spring 2022.<br>
   
+	</li>
+
+    	<li class="flex-item">
+		<a name="nathanmatharu"></a>
+		<img src="../Photos/nathan_matharu.png" class = "profilepicture" /><br>
+		<font size="3"><b>Nathan Matharu</b></font><br>
+		<font size="3">M.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:nmatharu@usc.edu" target="_blank">nmatharu@usc.edu</a><br>
+      		<a href="https://www.linkedin.com/in/Nathan-Matharu/" target="_blank">LinkedIn</a><br>
+  		Interested in bio-inspired design and the role of soft deformations in hand manipulation tasks. Lab member since Summer 2022.<br>
+		
 	</li>
 	
 	<li class="flex-item">
@@ -137,17 +132,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	</li>
 
  	<li class="flex-item">
-		<a name="gregrosenkranz"></a>
-		<img src="../Photos/greg_rosenkranz.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Greg Rosenkranz</b></font><br>
-		<font size="3">B.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:grosenkr@usc.edu" target="_blank">grosenkr@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/gregrosenkranz/" target="_blank">LinkedIn</a><br>
-		Interested in neuromuscular control and rehabilitation for improved mobility. Lab member since Spring 2024.<br>
-		
-	</li>
-
-  	<li class="flex-item">
 		<a name="seancheng"></a>
 		<img src="../Photos/sean_cheng.JPG" class = "profilepicture" /><br>
 		<font size="3"><b>Sean Shinpeng Cheng</b></font><br>
@@ -155,6 +139,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:seansche@usc.edu" target="_blank">seansche@usc.edu</a><br>
   		<a href="https://www.linkedin.com/in/seanshinpengcheng/" target="_blank">LinkedIn</a><br>
 		Interested in somatosensory information for motor function rehabilitation. Lab member since Fall 2023.<br>
+		
+	</li>
+
+ 	<li class="flex-item">
+		<a name="gregrosenkranz"></a>
+		<img src="../Photos/greg_rosenkranz.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Greg Rosenkranz</b></font><br>
+		<font size="3">B.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:grosenkr@usc.edu" target="_blank">grosenkr@usc.edu</a><br>
+		<a href="https://www.linkedin.com/in/gregrosenkranz/" target="_blank">LinkedIn</a><br>
+		Interested in neuromuscular control and rehabilitation for improved mobility. Lab member since Spring 2024.<br>
 		
 	</li>
 
@@ -175,17 +170,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Computer Engineering</font><br>
 		<a href="mailto:jiajinzh@usc.edu" target="_blank">jiajinzh@usc.edu</a><br>
   		Interested in reinforcement learning algorithms and communication system. Lab member since Fall 2024.<br>
-		
-	</li>
-
-   	<li class="flex-item">
-		<a name="nathanmatharu"></a>
-		<img src="../Photos/nathan_matharu.png" class = "profilepicture" /><br>
-		<font size="3"><b>Nathan Matharu</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:nmatharu@usc.edu" target="_blank">nmatharu@usc.edu</a><br>
-      		<a href="https://www.linkedin.com/in/Nathan-Matharu/" target="_blank">LinkedIn</a><br>
-  		Interested in bio-inspired design and the role of soft deformations in hand manipulation tasks. Lab member since Summer 2022.<br>
 		
 	</li>
 
@@ -232,17 +216,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
   		Interested in machine learning for brain data and natural language processing. Lab member since Fall 2024.<br>
 		
 	</li>
-
-         	<li class="flex-item">
-		<a name="meganseth"></a>
-		<img src="../Photos/megan_seth.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Megan Seth</b></font><br>
-		<font size="3">B.S. Student in Biological Sciences</font><br>
-		<a href="mailto:meganin310@gmail.com" target="_blank">meganin310@gmail.com</a><br>
-        	<a href="www.linkedin.com/in/megan-seth-a6283a1b0" target="_blank">LinkedIn</a><br>
-  		Interested in neuromuscular symptoms and brain mapping. Lab member since Spring 2025.<br>
-		
-	</li>
  
  		<li class="flex-item">
 		<a name="darrenhuang"></a>
@@ -253,6 +226,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
         	<a href="https://www.linkedin.com/in/darrenhuang1/" target="_blank">LinkedIn</a><br>
 		Lab member since Fall 2024.<br>
   
+	</li>
+
+          	<li class="flex-item">
+		<a name="meganseth"></a>
+		<img src="../Photos/megan_seth.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Megan Seth</b></font><br>
+		<font size="3">B.S. Student in Biological Sciences</font><br>
+		<a href="mailto:meganin310@gmail.com" target="_blank">meganin310@gmail.com</a><br>
+        	<a href="www.linkedin.com/in/megan-seth-a6283a1b0" target="_blank">LinkedIn</a><br>
+  		Interested in neuromuscular symptoms and brain mapping. Lab member since Spring 2025.<br>
+		
 	</li>
 
  </ul>
