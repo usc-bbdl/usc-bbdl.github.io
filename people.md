@@ -121,7 +121,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. in Communications Data Science</font><br>
 		<a href="mailto:fungn@usc.edu" target="_blank">fungn@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/nataliefung1/" target="_blank">LinkedIn</a><br>
-		Interested in disability and rehabilitation engineering. Lab Manager and Webmaster.<br>
+		Interested in disability and rehabilitation engineering. Lab Manager and Webmaster. Lab member since Spring 2022.<br>
+  
 	</li>
 	
 	<li class="flex-item">
@@ -131,7 +132,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">B.S. Student in Biomedical Engineering (Mol-Cell emphasis)</font><br>
 		<a href="mailto:mporcu@usc.edu" target="_blank">mporcu@usc.edu</a><br>
 		<a href="www.linkedin.com/in/martino-porcu-84bb9627a" target="_blank">LinkedIn</a><br>
-		
+  		Lab member since Fall 2023.<br>
+    
 	</li>
 
  	<li class="flex-item">
@@ -141,7 +143,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">B.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:grosenkr@usc.edu" target="_blank">grosenkr@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/gregrosenkranz/" target="_blank">LinkedIn</a><br>
-		Interested in neuromuscular control and rehabilitation for improved mobility.<br>
+		Interested in neuromuscular control and rehabilitation for improved mobility. Lab member since Spring 2024.<br>
 		
 	</li>
 
@@ -152,7 +154,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">B.S. Student in Quantitative Biology</font><br>
 		<a href="mailto:seansche@usc.edu" target="_blank">seansche@usc.edu</a><br>
   		<a href="https://www.linkedin.com/in/seanshinpengcheng/" target="_blank">LinkedIn</a><br>
-		Interested in somatosensory information for motor function rehabilitation.<br>
+		Interested in somatosensory information for motor function rehabilitation. Lab member since Fall 2023.<br>
 		
 	</li>
 
@@ -162,7 +164,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Xiaosi (Horace) Zhang</b></font><br>
 		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:xiaosiz@usc.edu" target="_blank">xiaosiz@usc.edu</a><br>
-  		Interested in biomimetic robotics design, control, and optimization.<br>
+  		Interested in biomimetic robotics design, control, and optimization. Lab member since Spring 2024.<br>
 		
 	</li>
 
@@ -172,7 +174,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3"><b>Jiajin Zhang</b></font><br>
 		<font size="3">M.S. Student in Computer Engineering</font><br>
 		<a href="mailto:jiajinzh@usc.edu" target="_blank">jiajinzh@usc.edu</a><br>
-  		Interested in reinforcement learning algorithms and communication system.<br>
+  		Interested in reinforcement learning algorithms and communication system. Lab member since Fall 2024.<br>
 		
 	</li>
 
@@ -183,7 +185,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Biomedical Engineering</font><br>
 		<a href="mailto:nmatharu@usc.edu" target="_blank">nmatharu@usc.edu</a><br>
       		<a href="https://www.linkedin.com/in/Nathan-Matharu/" target="_blank">LinkedIn</a><br>
-  		Interested in bio-inspired design and the role of soft deformations in hand manipulation tasks.<br>
+  		Interested in bio-inspired design and the role of soft deformations in hand manipulation tasks. Lab member since Summer 2022.<br>
 		
 	</li>
 
@@ -194,7 +196,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Electrical Engineering</font><br>
 		<a href="mailto:chsieh06@usc.edu" target="_blank">chsieh06@usc.edu</a><br>
       		<a href="https://www.linkedin.com/in/brian-hsieh06/" target="_blank">LinkedIn</a><br>
-  		Interested in robot perception, planning algorithms, and intelligent control systems.<br>
+  		Interested in robot perception, planning algorithms, and intelligent control systems. Lab member since Fall 2024.<br>
 		
 	</li>
 
@@ -205,7 +207,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Computer Science</font><br>
 		<a href="mailto:yashshar@usc.edu" target="_blank">yashshar@usc.edu</a><br>
       		<a href="https://www.linkedin.com/in/yashs662" target="_blank">LinkedIn</a><br>
-  		Interested in Computer Vision and high-performance computing.<br>
+  		Interested in Computer Vision and high-performance computing. Lab member since Fall 2024.<br>
 		
 	</li>
 
@@ -216,7 +218,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Computer Science</font><br>
 		<a href="mailto:msalaway@usc.edu" target="_blank">msalaway@usc.edu</a><br>
       		<a href="www.linkedin.com/in/msalaway" target="_blank">LinkedIn</a><br>
-  		Interested in computational neuroscience, with a focus on applying multimodal AI and machine learning to brain data.<br>
+  		Interested in computational neuroscience, with a focus on applying multimodal AI and machine learning to brain data. Lab member since Fall 2024.<br>
 		
 	</li>
 
@@ -227,7 +229,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Computer Science</font><br>
 		<a href="mailto:pranavs3@usc.edu" target="_blank">pranavs3@usc.edu</a><br>
       		<a href="https://www.linkedin.com/in/pranav-shankar-365280216/" target="_blank">LinkedIn</a><br>
-  		Interested in machine learning for brain data and natural language processing.<br>
+  		Interested in machine learning for brain data and natural language processing. Lab member since Fall 2024.<br>
 		
 	</li>
 
@@ -238,7 +240,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">B.S. Student in Biological Sciences</font><br>
 		<a href="mailto:meganin310@gmail.com" target="_blank">meganin310@gmail.com</a><br>
         	<a href="www.linkedin.com/in/megan-seth-a6283a1b0" target="_blank">LinkedIn</a><br>
-  		Interested in neuromuscular symptoms and brain mapping.<br>
+  		Interested in neuromuscular symptoms and brain mapping. Lab member since Spring 2025.<br>
 		
 	</li>
  
@@ -249,7 +251,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">M.S. Student in Computer Science</font><br>
 		<a href="mailto:darrenhu@usc.edu" target="_blank">darrenhu@usc.edu</a><br>
         	<a href="https://www.linkedin.com/in/darrenhuang1/" target="_blank">LinkedIn</a><br>
-		
+		Lab member since Fall 2024.<br>
+  
 	</li>
 
  </ul>
