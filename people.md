@@ -184,17 +184,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
-     	<li class="flex-item">
-		<a name="yashsharma"></a>
-		<img src="../Photos/yash_sharma.png" class = "profilepicture" /><br>
-		<font size="3"><b>Yash Sharma</b></font><br>
-		<font size="3">M.S. Student in Computer Science</font><br>
-		<a href="mailto:yashshar@usc.edu" target="_blank">yashshar@usc.edu</a><br>
-      		<a href="https://www.linkedin.com/in/yashs662" target="_blank">LinkedIn</a><br>
-  		Interested in Computer Vision and high-performance computing. Lab member since Fall 2024.<br>
-		
-	</li>
-
       	<li class="flex-item">
 		<a name="matthewsalaway"></a>
 		<img src="../Photos/matthew_salaway.JPG" class = "profilepicture" /><br>
@@ -203,17 +192,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="mailto:msalaway@usc.edu" target="_blank">msalaway@usc.edu</a><br>
       		<a href="www.linkedin.com/in/msalaway" target="_blank">LinkedIn</a><br>
   		Interested in computational neuroscience, with a focus on applying multimodal AI and machine learning to brain data. Lab member since Fall 2024.<br>
-		
-	</li>
-
-      	<li class="flex-item">
-		<a name="pranavshakar"></a>
-		<img src="../Photos/pranav_shankar.png" class = "profilepicture" /><br>
-		<font size="3"><b>Pranav Shankar</b></font><br>
-		<font size="3">M.S. Student in Computer Science</font><br>
-		<a href="mailto:pranavs3@usc.edu" target="_blank">pranavs3@usc.edu</a><br>
-      		<a href="https://www.linkedin.com/in/pranav-shankar-365280216/" target="_blank">LinkedIn</a><br>
-  		Interested in machine learning for brain data and natural language processing. Lab member since Fall 2024.<br>
 		
 	</li>
  
@@ -297,6 +275,8 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Yash Sharma</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/yashs662" target="_blank">LinkedIn</a><br>
+<b>Pranav Shankar</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/pranav-shankar-365280216/" target="_blank">LinkedIn</a><br>
 <b>Jushen Wu</b> - M.S. Biomedical Engineering - 2024: <a href="https://github.com/colaquafina/colaquafina" target="_blank">Website</a><br>
 <b>Akhil Parvathaneni</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/aaparvat/" target="_blank">LinkedIn</a><br>
 <b>Shilan Li</b> - M.S. Applied Data Science - 2024: <a href="https://www.linkedin.com/in/shilan-li/" target="_blank">LinkedIn</a><br>
