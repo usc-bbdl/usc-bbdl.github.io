@@ -37,7 +37,7 @@ navigation_weight: 3
 <link rel="stylesheet" type="text/css" media="screen" href="../css/styles.css" />
 <div>
 <div class="yearbuttons">
-{% for year_of_interest in (1997..2024) reversed %}
+{% for year_of_interest in (1997..2025) reversed %}
   <a class="year_button_container" href="#{{year_of_interest}}">
     <button class="year_button">{{year_of_interest}}</button>
   </a>
@@ -63,7 +63,7 @@ navigation_weight: 3
 
 
 <!-- make sure the max date is the current year! -->
-{% for year_of_interest in (1997..2024) reversed %}
+{% for year_of_interest in (1997..2025) reversed %}
 
   {% comment %} casting an integer to a string {% endcomment %}
   {% assign yearAsString = year_of_interest | append:"" %}
