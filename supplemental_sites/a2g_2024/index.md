@@ -23,10 +23,13 @@ layout: default
 ### Funding
 This work is supported in part by the NIH (R01 AR-050520, R01 AR-052345, and R21-NS113613), DOD CDMRP Grant MR150091, DARPA-L2M program Award W911NF1820264, NSF CRCNS Japan-US 2113096 to F.J.V.-C. and fellowships from the USC Viterbi School of Engineering to G.N. and L.I.A. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH, NSF, DoD, or DARPA.
 
-### [Open-Source Code Link](https://doi.org/10.5281/zenodo.10373302)
-
+<p>
+  <a href="Https://doi.org/10.5281/zenodo.10373302" target="_blank">Open-Source Code Link</a>
+</p>
+    
 ### News Coverage
 <a href="https://www.eurekalert.org/multimedia/1043498" target="_blank">EurekAlert!</a><br>
 <a href="https://www.sciencedaily.com/releases/2024/09/240926132046.htm" target="_blank">ScienceDaily</a><br>
+<a href="https://neurosciencenews.com/relexes-motor-contol-27698/" target="_blank">Neuroscience News</a><br>
 
 For questions and more information, please send us an email: [valero@usc.edu](mailto:valero@usc.edu)
