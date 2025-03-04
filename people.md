@@ -217,6 +217,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
+           	<li class="flex-item">
+		<a name="krishnapradeepwankhede"></a>
+		<img src="../Photos/krishna_pradeep_wankhede.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Krishna Pradeep Wankhede</b></font><br>
+		<font size="3">M.S. Student in Computer Science</font><br>
+		<a href="mailto:wankhede@usc.edu" target="_blank">wankhede@usc.edu</a><br>
+        	<a href="https://www.linkedin.com/in/krishna-wankhede-p/" target="_blank">LinkedIn</a><br>
+  		Interested in reinforcement learning, dexterous robotic manipulation, and AI-driven control systems. Lab member since Spring 2025.<br>
+		
+	</li>
+
  </ul>
 
 <br>
