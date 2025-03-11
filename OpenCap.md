@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenCap
+title: Use of OpenCap in the Valero Lab
 permalink: /OpenCap/
 menu: main
 navigation_weight: 8
@@ -11,6 +11,6 @@ navigation_weight: 8
 <figure>
   <img src="../img/2025_Opencap_Markers_Porcu_ValeroLab.png" alt="OpenCap Marker Index Guide">
   <figcaption>
-    <a href="../img/2025_Opencap_Markers_Porcu_ValeroLab.pdf">Download the PDF version</a>
+    <a href="../img/2025_Opencap_Markers_Porcu_ValeroLab.pdf" target="_blank">Download the PDF version</a>
   </figcaption>
 </figure>
