@@ -6,7 +6,7 @@ menu: main
 navigation_weight: 8
 ---
 
-###OpenCap
+# OpenCap Marker Index Guide
 
 <figure>
   <img src="img/2025_Opencap_Markers_Porcu_ValeroLab.png" alt="OpenCap Marker Index Guide">
