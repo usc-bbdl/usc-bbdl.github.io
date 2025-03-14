@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenCap in ValeroLab
+title: OpenCap
 permalink: /OpenCap/
 menu: main
 navigation_weight: 8
