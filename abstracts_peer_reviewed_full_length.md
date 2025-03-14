@@ -46,7 +46,7 @@ menu: main2
 Mir R, Ojaghi P, Erwin A, Marjaninejad A, Wehner M, Valero-Cuevas FJ<br>
 <b><a href="../Papers/2024_mir_humanoids.pdf">
 "Curriculum Learning Influences the Emergence of Different Learning Trends"</a></b><br>
-2024 IEEE-RAS 23rd International Conference on Humanoid Robots, Nancy, France, November 22-24, 2019.<br>
+2024 IEEE-RAS 23rd International Conference on Humanoid Robots, Nancy, France, November 22-24, 2024.<br>
 
 <br>
 
