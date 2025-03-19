@@ -228,6 +228,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
+            	<li class="flex-item">
+		<a name="micaylacampanelli"></a>
+		<img src="../Photos/micayla_campanelli.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Micayla Campanelli</b></font><br>
+		<font size="3">B.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:mmcampan@usc.edu" target="_blank">mmcampan@usc.edu</a><br>
+        	<a href="https://www.linkedin.com/in/micayla-campanelli-05122022a/" target="_blank">LinkedIn</a><br>
+  		Interested in women's health, injury prevention, and neuromechanics. Lab member since Spring 2025.<br>
+		
+	</li>
+
  </ul>
 
 <br>
