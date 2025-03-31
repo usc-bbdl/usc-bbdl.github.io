@@ -239,6 +239,17 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
+             	<li class="flex-item">
+		<a name="noahskoog"></a>
+		<img src="../Photos/noah_skoog.jpg" class = "profilepicture" /><br>
+		<font size="3"><b>Noah Skoog</b></font><br>
+		<font size="3">B.S. Student in Biomedical Engineering</font><br>
+		<a href="mailto:nskoog@usc.edu" target="_blank">nskoog@usc.edu</a><br>
+        	<a href="www.linkedin.com/in/noah-skoog" target="_blank">LinkedIn</a><br>
+  		Interested in neuromuscular control, rehabilitation, and bio-inspired robotics to enhance mobility. Lab member since Spring 2025.<br>
+		
+	</li>
+
  </ul>
 
 <br>
