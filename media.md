@@ -12,6 +12,12 @@ navigation_weight: 6
 -------------------------------------------
 <br>
 
+# April 6, 2025
+# USC Viterbi News:
+# [Nurture More Important than Nature for Robotic Hands](https://viterbischool.usc.edu/news/2025/04/nurture-more-important-than-nature-for-robotic-hands/)
+<br>
+<br>
+
 # December 16, 2024
 # USC Viterbi News:
 # [Three USC Viterbi Professors Named 2024 Fellows of the National Academy of Inventors](https://viterbischool.usc.edu/news/2024/12/three-usc-viterbi-professors-named-2024-fellows-of-the-national-academy-of-inventors/)
