@@ -76,9 +76,14 @@ navigation_weight: 3
     {% for paper in selectedEntries %}
              <div class="publication_card {{paper.Tags}}" >
              <div class="paper_author_container">
-               {{paper.Author}} <a class="article_title" href="../../{{paper.Link}}"
-               target="_blank"
-               title="{{paper.Abstract}}">{{paper.Title}}</a> <i>{{paper.Journal}}</i>, {{paper.Year}} <br>
+               {{paper.Author}}
+               <a class="article_title" href="../../{{paper.Link}}" target="_blank" title="{{paper.Abstract}}">{{paper.Title}}
+               </a>
+               <i>{{paper.Journal}}</i>, {{paper.Year}}
+               {% if paper.NewsLink %}
+                 <a class="news_link" href="{{paper.NewsLink}}" target="_blank" style="margin-left: 10px;">📰 News
+                 </a>
+               {% endif %}<br>
                  <!-- <button class="btn" data-clipboard-text="{{paper.BibTex}}">Copy BibTex</button> -->
              </div>
              </div>
