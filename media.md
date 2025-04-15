@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Media
+title: News
 permalink: /media/
 menu: main
 navigation_weight: 6
