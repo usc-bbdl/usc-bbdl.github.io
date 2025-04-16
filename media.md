@@ -12,6 +12,12 @@ navigation_weight: 6
 -------------------------------------------
 <br>
 
+# April 14, 2025
+# Angelo Barstch-Jimenez successfully defended his Ph.D. Congratulations, Dr. Barstch-Jimenez!
+<img src="../Photos/angelo_defense.png" alt="Dr. Angelo Barstch-Jimenez gestures towards his slides during his Ph.D. defense.">
+<br>
+<br>
+
 # April 6, 2025
 # USC Viterbi News:
 # [Nurture More Important than Nature for Robotic Hands](https://viterbischool.usc.edu/news/2025/04/nurture-more-important-than-nature-for-robotic-hands/)
