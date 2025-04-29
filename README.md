@@ -12,12 +12,14 @@ Set cloudflare to development mode (instant updates instead of cached).
 
 # People
 - Add photo to Photos folder
+- Name file firstname_lastname
 - Go to people.md
 - Add new member to current members list
 - If removing member, remove member from current members list and add them to lab alumni list
 
 # Publications
 - Add the paper PDF to Papers folder
+- Name file 20XX_lastname_publicationtitle
 - If this paper PDF is over 25 MB, then you won't be able to add it via web browser upload. You will have to add it via command line (using git).
 - Update the appropriate markdown file. Please see mappings below: 
 - Publications (like conference and journal papers): Update publications.csv in the \_data folder.
