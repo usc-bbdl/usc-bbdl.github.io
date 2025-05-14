@@ -44,7 +44,7 @@ menu: main2
 <h1 style="font-size:40px;">Years</h1>
 
 <div>
-<button onclick="window.location.href='#2025';">2024</button>
+<button onclick="window.location.href='#2025';">2025</button>
 <button onclick="window.location.href='#2024';">2024</button>
 <button onclick="window.location.href='#2023';">2023</button>
 <button onclick="window.location.href='#2022';">2022</button>
