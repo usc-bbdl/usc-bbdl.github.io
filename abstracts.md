@@ -44,6 +44,7 @@ menu: main2
 <h1 style="font-size:40px;">Years</h1>
 
 <div>
+<button onclick="window.location.href='#2025';">2024</button>
 <button onclick="window.location.href='#2024';">2024</button>
 <button onclick="window.location.href='#2023';">2023</button>
 <button onclick="window.location.href='#2022';">2022</button>
@@ -71,6 +72,29 @@ menu: main2
 <br>
 
 
+<h1 style="font-size:40px;" id="2025">2025</h1>
+
+Mir R, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2025_NCM_mir_learner.pdf" title="Neurorehabilitation is often modeled as experience-driven skill acquisition (i.e., a form of learning). This study explores the emergence of multiple learning trends by moving away from averaging the
+progression of learning across individual trials.">
+"The Average Progression of Learning Can Obscure Multiple Learning Trends: A Computational Cautionary Tale"</a></b><br>
+Neural Control of Movement, Panama City, Panama, April 2025<br>
+
+<br>
+
+Mir R, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2025_NCM_mir_tactile.pdf" title="Using a simulated three-finger robotic hand, the study examines whether advanced 3D-force sensing provides a distinct advantage over simpler tactile modalities such as Normal-force, Binary-contact, and No-tactile sensation. Additionally, by employing unsupervised clustering, we tested whether different levels of tactile feedback produce different learning trends.">
+"A computational counterexample to the need for sophisticated tactile sensing when learning to manipulate"</a></b><br>
+Neural Control of Movement, Panama City, Panama, April 2025<br>
+
+<br>
+
+Sisara MA, Azadjou H, Kikuta S, Kubota S, Seki K, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2025_NCM_sisara_us_japan.pdf" title="Cutaneous and muscle proprioceptive mechanoreceptors provide critical sensory information to the primary somatosensory cortex (SI) for voluntary hand function in primates. Textbooks describe the thalamus as the main relay for sensory signals from the spinal cord to SI—although the less known cuneate nucleus (CN) of the brainstem, in fact, relays information from the dorsal root ganglion to the thalamus. Given that the CN is known to modulate haptic signals in the cat, we investigated if it also modulates upper limb cutaneous and muscle proprioceptive signals in primates.">
+"The Brainstem Modulates Sensory Transmission to Primary Somatosensory Cortex in Task-Dependent Ways"</a></b><br>
+Neural Control of Movement, Panama City, Panama, April 2025<br>
+
+<br>
   
 <h1 style="font-size:40px;" id="2024">2024</h1>
 
