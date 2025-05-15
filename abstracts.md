@@ -74,6 +74,13 @@ menu: main2
 
 <h1 style="font-size:40px;" id="2025">2025</h1>
 
+Bartsch-Jimenez A, Azadjou H, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2025_NCM_angelo_bartsch.pdf" title="The spatiotemporal structure of muscle coordination emerges from the interaction of descending cortical, spinal, vestibular, and brainstem pathways. Thus, disruptions in brainstem drive following stroke is thought to contribute to pathological synergies. While the imbalance of cortico- and reticulo-spinal tracts is thought to contribute to pathological synergies, this study aims to exclude the contribution from vestibular motor output —as measured by IMC— following stroke.">
+"Galvanic vestibular stimulation reveals disruption of ipsilesional brainstem pathways in hemiparetic stroke survivors"</a></b><br>
+Neural Control of Movement, Panama City, Panama, April 2025<br>
+
+<br>
+
 Mir R, Valero-Cuevas FJ<br>
 <b><a href="../Abstracts/2025_NCM_mir_learner.pdf" title="Neurorehabilitation is often modeled as experience-driven skill acquisition (i.e., a form of learning). This study explores the emergence of multiple learning trends by moving away from averaging the
 progression of learning across individual trials.">
