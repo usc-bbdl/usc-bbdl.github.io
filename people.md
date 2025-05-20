@@ -142,17 +142,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		
 	</li>
 
- 	<li class="flex-item">
-		<a name="gregrosenkranz"></a>
-		<img src="../Photos/greg_rosenkranz.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Greg Rosenkranz</b></font><br>
-		<font size="3">B.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:grosenkr@usc.edu" target="_blank">grosenkr@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/gregrosenkranz/" target="_blank">LinkedIn</a><br>
-		Interested in neuromuscular control and rehabilitation for improved mobility. Lab member since Spring 2024.<br>
-		
-	</li>
-
   	<li class="flex-item">
 		<a name="horacezhang"></a>
 		<img src="../Photos/horace_zhang.jpg" class = "profilepicture" /><br>
@@ -307,6 +296,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Greg Rosenkranz</b> - B.S. Biomedical Engineering - 2024: <a href="https://www.linkedin.com/in/gregrosenkranz/" target="_blank">LinkedIn</a><br>
 <b>Yash Sharma</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/yashs662" target="_blank">LinkedIn</a><br>
 <b>Pranav Shankar</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/pranav-shankar-365280216/" target="_blank">LinkedIn</a><br>
 <b>Jushen Wu</b> - M.S. Biomedical Engineering - 2024: <a href="https://github.com/colaquafina/colaquafina" target="_blank">Website</a><br>
