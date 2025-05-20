@@ -260,7 +260,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 ## Doctoral Alumni  
 <b>Suraj Chakravarthi Raja</b> - Ph.D. Electrical and Computer Engineering, 2023: <a href="https://www.linkedin.com/in/surajcr/" target="_blank">LinkedIn</a><br>
 <b>Darío Urbina-Meléndez</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/dario-urbina/" target="_blank">LinkedIn</a><br>
-<b>Pegah Ojaghi</b> - Ph.D. Computer Engineering, 2023<br>
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/" target="_blank">LinkedIn</a> | <a href="https://valerolab.org/marjani/" target="_blank">Website</a><br>
 <b>Jasmine Berry</b> - Ph.D. Computer Science, 2020: <a href="https://www.linkedin.com/in/jasmineberry/" target="_blank">LinkedIn</a> | <a href="jasmineberry.com" target="_blank">Website</a><br>
 <b>Dan Hagen</b> - Ph.D. Biomedical Engineering, 2020: <a href="https://www.linkedin.com/in/daniel-a-hagen/" target="_blank">LinkedIn</a> | <a href="https://daniel8hagen.com/" target="_blank">Website</a><br>
