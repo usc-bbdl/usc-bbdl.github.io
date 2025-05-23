@@ -63,9 +63,10 @@ Proceedings of the 29th Annual Conference of the Society for Neural control of M
 
 Valero-Cuevas FJ, Cohn BA, Szedlák M, Fukuda K, Gärtner B.<br>
 <b><a href="../Papers/2015_StructureIEEE.pdf">
-"Structure of the set of feasible neural commands for complex motor tasks"</b><br>
+"Structure of the set of feasible neural commands for complex motor tasks"</a></b><br>
 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Milan, Italy, August 25-29, 2015.<br>
 <br>
+
 <h1 style="font-size:40px;">2013</h1>
 
 Lawrence EL, Fassola I, Dayanidhi S, Leclercq C, Valero-Cuevas FJ.<br>
