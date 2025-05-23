@@ -70,8 +70,8 @@ Valero-Cuevas FJ, Cohn BA, Szedlák M, Fukuda K, Gärtner B.<br>
 <h1 style="font-size:40px;">2013</h1>
 
 Lawrence EL, Fassola I, Dayanidhi S, Leclercq C, Valero-Cuevas FJ.<br>
-<b>
-"An evaluation of clustering techniques to classify dexterous manipulation of individuals with and without dysfunction"</b><br>
+<b><a href="../Papers/2013_Lawrence_IEEE.pdf">
+"An evaluation of clustering techniques to classify dexterous manipulation of individuals with and without dysfunction"</a></b><br>
 6th International IEEE EMBS Conference on Neural Engineering, pp. 1274-7, San Diego, CA, November 6-8, 2013.<br>
 
 <br>
@@ -84,11 +84,6 @@ Towles J, Hentz V, Valero-Cuevas FJ.<br>
 
 <br>
 
-Lawrence EL, Fassola I, Dayanidhi S, Leclercq C, Valero-Cuevas FJ.<br>
-<b>
-"An evaluation of clustering techniques to classify dexterous manipulation of individuals with and without dysfunction"</b><br>
-6th International IEEE EMBS Conference on Neural Engineering, pp. 1274-7, San Diego, CA, November 6-8, 2013.<br>
-<br>
 <h1 style="font-size:40px;">2012</h1>
 
 Inouye JM and Valero-Cuevas FJ.<br>
