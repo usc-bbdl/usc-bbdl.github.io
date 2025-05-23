@@ -77,8 +77,8 @@ Lawrence EL, Fassola I, Dayanidhi S, Leclercq C, Valero-Cuevas FJ.<br>
 <br>
 
 Towles J, Hentz V, Valero-Cuevas FJ.<br>
-<b>
-"Capacity of Small Groups of Muscles to Accomplish Precision Grasping Tasks"</b><br>
+<b><a href="../Papers/2013_Towles_IEEE.pdf">
+"Capacity of Small Groups of Muscles to Accomplish Precision Grasping Tasks"</a></b><br>
 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society pp. 6583-6, Osaka, Japan, July 3-7, 2013.<br>
 <a href="../Abstracts/EMBS%202013%20presentation_draft_towles.pptx">Presentation Slides</a><br>
 
