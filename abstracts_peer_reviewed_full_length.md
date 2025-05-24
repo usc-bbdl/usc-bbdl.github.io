@@ -44,7 +44,7 @@ menu: main2
 <h1 style="font-size:40px;">2024</h1>
 
 Mir R, Ojaghi P, Erwin A, Marjaninejad A, Wehner M, Valero-Cuevas FJ<br>
-<b><a href="../Papers/2024_mir_humanoids.pdf">
+<b><a href="../Papers/2024_mir_humanoids.pdf" target="_blank">
 "Curriculum Learning Influences the Emergence of Different Learning Trends"</a></b><br>
 2024 IEEE-RAS 23rd International Conference on Humanoid Robots, Nancy, France, November 22-24, 2024.<br>
 
@@ -53,7 +53,7 @@ Mir R, Ojaghi P, Erwin A, Marjaninejad A, Wehner M, Valero-Cuevas FJ<br>
 <h1 style="font-size:40px;">2019</h1>
 
 Nagamori A, Laine CM, Valero-Cuevas FJ<br>
-<b><a href="../Papers/2019_Reticulospinal_drive.pdf">
+<b><a href="../Papers/2019_Reticulospinal_drive.pdf" target="_blank">
 "Reticulospinal drive with a flexor bias can be detected as a-band shared neural drive during voluntary tasks in healthy individuals"</a></b><br>
 Proceedings of the 29th Annual Conference of the Society for Neural control of Movement, Toyama, Japan, April 24-27, 2019.<br>
 
@@ -62,7 +62,7 @@ Proceedings of the 29th Annual Conference of the Society for Neural control of M
 <h1 style="font-size:40px;">2015</h1>
 
 Valero-Cuevas FJ, Cohn BA, Szedlák M, Fukuda K, Gärtner B.<br>
-<b><a href="../Papers/2015_StructureIEEE.pdf">
+<b><a href="../Papers/2015_StructureIEEE.pdf" target="_blank">
 "Structure of the set of feasible neural commands for complex motor tasks"</a></b><br>
 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Milan, Italy, August 25-29, 2015.<br>
 <br>
@@ -70,45 +70,47 @@ Valero-Cuevas FJ, Cohn BA, Szedlák M, Fukuda K, Gärtner B.<br>
 <h1 style="font-size:40px;">2013</h1>
 
 Lawrence EL, Fassola I, Dayanidhi S, Leclercq C, Valero-Cuevas FJ.<br>
-<b><a href="../Papers/2013_Lawrence_IEEE.pdf">
+<b><a href="../Papers/2013_Lawrence_IEEE.pdf" target="_blank">
 "An evaluation of clustering techniques to classify dexterous manipulation of individuals with and without dysfunction"</a></b><br>
 6th International IEEE EMBS Conference on Neural Engineering, pp. 1274-7, San Diego, CA, November 6-8, 2013.<br>
 
 <br>
 
 Towles J, Hentz V, Valero-Cuevas FJ.<br>
-<b><a href="../Papers/2013_Towles_IEEE.pdf">
+<b><a href="../Papers/2013_Towles_IEEE.pdf" target="_blank">
 "Capacity of Small Groups of Muscles to Accomplish Precision Grasping Tasks"</a></b><br>
 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society pp. 6583-6, Osaka, Japan, July 3-7, 2013.<br>
-<a href="../Abstracts/EMBS%202013%20presentation_draft_towles.pptx">Presentation Slides</a><br>
+<a href="../Abstracts/EMBS%202013%20presentation_draft_towles.pptx" target="_blank">Presentation Slides</a><br>
 
 <br>
 
 <h1 style="font-size:40px;">2012</h1>
 
 Inouye JM and Valero-Cuevas FJ.<br>
-<b><a href="../Papers/inouye2012asymmetric.pdf">
+<b><a href="../Papers/inouye2012asymmetric.pdf" target="_blank">
 "Asymmetric Routings With Fewer Tendons Can Offer Both Flexible Endpoint Stiffness Control and High Force-Production Capabilities in Robotic Fingers"</a></b><br>
 IEEE International Conference on Biomedical Robotics and Biomechatronics, Rome, Italy, June 24-27, 2012.<br>
 <br>
+
 <h1 style="font-size:40px;">2011</h1>
 
 Theodorou E, Todorov E, and Valero-Cuevas FJ.<br>
-<b><a href="../Papers/EvangelosACC11.pdf">
+<b><a href="../Papers/EvangelosACC11.pdf" target="_blank">
 "Neuromuscular Stochastic Optimal Control of a Tendon Driven Index Finger Model"</a></b><br>
 American Control Conference, San Francisco, CA, June 29-July 1, 2011.<br>
 <br>
+
 <h1 style="font-size:40px;">2004</h1>
 
 Santos VJ and Valero-Cuevas FJ.<br>
-<b><a href="../Papers/Web1_EMBS2004_VS.pdf">
+<b><a href="../Papers/Web1_EMBS2004_VS.pdf" target="_blank">
 "A Bayesian Approach to Biomechanical Modeling to Optimize Over Large Parameter Spaces While Considering Anatomical Variability"</a></b><br>
 Proceedings of the 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, San Francisco, CA, Sept. 2004.<br>
 
 <br>
 
 Miller A, Allen P, Santos VJ, and Valero-Cuevas FJ.<br>
-<b><a href="../Papers/miller_et_al.pdf">
+<b><a href="../Papers/miller_et_al.pdf" target="_blank">
 "From Robotic Hands to Human Hands: A Visualization and Simulation Engine for Grasping Research"</a></b><br> 
 Proceedings of the International Conference on Intelligent Manipulation and Grasping, Genoa, Italy, 2004.<br>
 
@@ -119,17 +121,18 @@ Valero-Cuevas FJ and Lipson H.<br>
 "Measurement and simulation of neuromuscular biomechanics of the fingers"</b><br>
 Proceedings of the 26th Annual International Conference of the IEEE EMBS, 2004.<br>
 <br>
+
 <h1 style="font-size:40px;">2003</h1>
 
 Pearlman JL and Valero-Cuevas FJ.<br>
-<b><a href="../Papers/Pearlman2003thumb.pdf">
+<b><a href="../Papers/Pearlman2003thumb.pdf" target="_blank">
 "The 3D Thumb-tip Forces Produced By Individual Tendons Do Not Superimpose Linearly"</a></b><br>
 Proceedings of the 25th Annual International Conference of the IEEE EMBS, p.1819-22, 2003.<br>
 
 <br>
 
 Santos VJ and Valero-Cuevas FJ.<br>
-<b><a href="../Papers/2003_Anatomical_variability.pdf">
+<b><a href="../Papers/2003_Anatomical_variability.pdf" target="_blank">
 "Anatomical Variability Naturally Leads to Multimodal Distributions of Denavit-Hartenberg Parameters for the Human Thumb"</a></b><br>
 Proceedings of the 25th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Cancun, Quintana Roo, Mexico. 2003.<br>
 
@@ -157,7 +160,7 @@ Annual Meeting of the Association for Research in Vision and Ophthalmology (ARVO
 <br>
 
 Valero-Cuevas FJ, Smaby N, Venkadesan M, Peterson M, Wright T, Hotchkiss R, Sherry Backus, Lily A. Ariola.<br>
-<b><a href="../Papers/Valero2002Strength.pdf">
+<b><a href="../Papers/Valero2002Strength.pdf" target="_blank">
 "The Strength-Dexterity test as a measure of pinch performance in hands with able and osteoarthritic thumbs"</a></b><br>
 57th Annual Meeting of the American Society for Surgery of the Hand, Baltimore, MD, 2002.<br>
 <br>
@@ -171,7 +174,7 @@ Fifth International symposium on computer methods in Biomechanics and Biomedical
 <h1 style="font-size:40px;">2000</h1>
 
 Valero-Cuevas FJ.<br>
-<b><a href="../Papers/Valero-CuevasICRA2000.pdf">
+<b><a href="../Papers/Valero-CuevasICRA2000.pdf" target="_blank">
 "Applying principles of robotics to understand the biomechanics, neuromuscular control and clinical rehabilitation of human digits"</a></b><br>
 Proceedings of the 2000 IEEE International Conference on Robotics & Automation, p.255-62, 2000.<br>
 
