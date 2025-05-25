@@ -143,6 +143,7 @@ Pearlman, JL, Weisman M, Roach, SS, Hermanson, JW, Valero-Cuevas, FJ.<br>
 "Thumb-tip force vectors produced by individual muscles of the thumb do not superimpose linearly"</b><br>
 Proceedings of the 25th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Cancun, Quintana Roo, Mexico. 2003.<br>
 <br>
+
 <h1 style="font-size:40px;">2002</h1>
 
 Valero-Cuevas FJ, Venkadesan, M, Talati, A Hirsch J.<br>
@@ -159,11 +160,12 @@ Annual Meeting of the Association for Research in Vision and Ophthalmology (ARVO
 
 <br>
 
-Valero-Cuevas FJ, Smaby N, Venkadesan M, Peterson M, Wright T, Hotchkiss R, Sherry Backus, Lily A. Ariola.<br>
+Valero-Cuevas FJ, Smaby N, Venkadesan M, Pretz J, Ramakrishna K, Wilson N, Skaliotis J, Peterson M.<br>
 <b><a href="../Papers/Valero2002Strength.pdf" target="_blank">
 "The Strength-Dexterity test as a measure of pinch performance in hands with able and osteoarthritic thumbs"</a></b><br>
 57th Annual Meeting of the American Society for Surgery of the Hand, Baltimore, MD, 2002.<br>
 <br>
+
 <h1 style="font-size:40px;">2001</h1>
 
 Sancho X, Valero-Cuevas FJ, Pacrez A, Giurintano D, Vergara M, Sanchez F.<br>
@@ -171,6 +173,7 @@ Sancho X, Valero-Cuevas FJ, Pacrez A, Giurintano D, Vergara M, Sanchez F.<br>
 "Modelling the MCP joint in a biomechanical model of the index finger"</b><br>
 Fifth International symposium on computer methods in Biomechanics and Biomedical Engineering, Rome, Italy, 2001.<br>
 <br>
+
 <h1 style="font-size:40px;">2000</h1>
 
 Valero-Cuevas FJ.<br>
