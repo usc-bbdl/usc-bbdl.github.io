@@ -44,7 +44,7 @@ menu: main2
 <h1 style="font-size:40px;">Dissertations</h1>
 
 Bartsch, A.<br>
-<b><a href="../Papers/2025_PhD_Dissertation_Angelo.pdf">
+<b><a href="../dissertations/2025_PhD_Dissertation_Angelo.pdf">
 VESTIBULAR CONTRIBUTIONS TO VOLUNTARY REACHING MOVEMENTS AND POST-STROKE MOTOR IMPAIRMENT</a></b><br>
 University of Southern California, 2025.<br>
 
