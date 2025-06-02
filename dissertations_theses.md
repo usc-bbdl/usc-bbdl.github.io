@@ -43,6 +43,13 @@ menu: main2
   
 <h1 style="font-size:40px;">Dissertations</h1>
 
+Bartsch, A.<br>
+<b><a href="../Papers/2025_PhD_Dissertation_Angelo.pdf">
+VESTIBULAR CONTRIBUTIONS TO VOLUNTARY REACHING MOVEMENTS AND POST-STROKE MOTOR IMPAIRMENT</a></b><br>
+University of Southern California, 2025.<br>
+
+<br>
+
 Marjaninejad, A.<br>
 <b><a href="../Papers/2021_Ali_Dissertation.pdf">
 Autonomous Learning for Robots in the Context of Brain-Body Interactions</a></b><br>
