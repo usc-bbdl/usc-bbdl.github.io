@@ -105,10 +105,24 @@ Neural Control of Movement, Panama City, Panama, April 2025<br>
   
 <h1 style="font-size:40px;" id="2024">2024</h1>
 
+Niyo G, Almofeez L, Erwin A, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2024_niyo_international_motoneuron_society.pdf" title="The primary motor cortex does not uniquely or directly produce alpha motoneurone (α-MN) drive to muscles during voluntary movement. Rather, α-MN drive emerges from the synthesis and competition among excitatory and inhibitory inputs from multiple descending tracts, spinal interneurons, sensory inputs, and proprioceptive afferents.">
+"Disruption to voluntary movement by velocity-dependent stretch reflexes can vary greatly within and across movement: Implication to sensorimotor control"</a></b><br>
+International Motoneuron Society Conference, Bordeaux, France, June 2024<br>
+
+<br>
+
+Niyo G, Almofeez L, Erwin A, Valero-Cuevas FJ<br>
+<b><a href="../Abstracts/2024_Niyo_NCM.pdf" title="Background: Muscle spindle afferent signals contribute to the proprioceptive feedback signals that inform the CNS about the position and movement of the body; And, thus, are thought to be important for kinesthesia, posture, and balance control. However, their function during voluntary movement is not fully understood.">
+"Mitigating disruption to voluntary movement caused by velocity-dependent stretch reflex via α-MN collateral projection to γ-MN: A simulation study"</a></b><br>
+Society of Neural Control of Movement, Dubrovnik, Croatia, April 2024<br>
+
+<br>
+
 Kumar K, Zhang H, Bowens L, Valero-Cuevas FJ<br>
 <b><a href="../Abstracts/2024_Kumar_NCM.pdf" title="Understanding how locomotion is initiated and transitions enables progress in bio-inspired robotics. The relevance of mechanical system dynamics is often excluded from discussions of fictive locomotion under control of a Central Pattern Generator (CPG). Coupling a mechanical system model with a CPG can reveal the brain-body co-evolution and co-adaptation for multi-legged locomotion.">
 "The viscoelastic properties of the legs can enable a wide range of gait initiation dynamics when coupled to a CPG in a simulated quadruped insect"</a></b><br>
-Neural Control of Movement, Dubrovnik, Croatia, April 2024<br>
+Society of Neural Control of Movement, Dubrovnik, Croatia, April 2024<br>
 
 <br>
 
