@@ -63,6 +63,20 @@ menu: main2
   
 <h1 style="font-size:40px;" id="2022">2022</h1>
 
+Niyo G, Almofeez LI, Woo J, Valero-Cuevas FJ.<br>
+<b><a href="../Papers/2022_niyo_banff_presentation.pdf">
+Current approaches to neuromuscular control of movement must account for the fusimotor system.</b></a><br>
+International Motoneuron Society Conference, Banff, Canada, June 2022.<br>
+
+<br>
+
+Niyo G, Almofeez LI, Woo J, Valero-Cuevas FJ.<br>
+<b><a href="../Papers/2022_niyo_banff_presentation.pdf">
+Current approaches to neuromuscular control of movement must account for the fusimotor system.</b></a><br>
+9th World Congress of Biomechanics, Taipei, Japan, July 2022.<br>
+
+<br>
+
 Raja SC, You WS, Casebier J, Hentz VR, Balasubramanian R, Valero-Cuevas FJ.<br>
 <b>
 A network of passive implantable mechanisms improves hand grip strength after tendon transfer surgery.</b><br>
