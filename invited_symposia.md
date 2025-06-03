@@ -65,14 +65,14 @@ menu: main2
 
 Niyo G, Almofeez LI, Woo J, Valero-Cuevas FJ.<br>
 <b><a href="../Papers/2022_niyo_banff_presentation.pdf">
-Current approaches to neuromuscular control of movement must account for the fusimotor system.</b></a><br>
+Current approaches to neuromuscular control of movement must account for the fusimotor system.</a></b><br>
 International Motoneuron Society Conference, Banff, Canada, June 2022.<br>
 
 <br>
 
 Niyo G, Almofeez LI, Woo J, Valero-Cuevas FJ.<br>
 <b><a href="../Papers/2022_niyo_banff_presentation.pdf">
-Current approaches to neuromuscular control of movement must account for the fusimotor system.</b></a><br>
+Current approaches to neuromuscular control of movement must account for the fusimotor system.</a></b><br>
 9th World Congress of Biomechanics, Taipei, Japan, July 2022.<br>
 
 <br>
@@ -104,14 +104,14 @@ Human/Robot in-the-loop Machine Learning. IROS 2018 Workshop, Madrid, Spain. Oct
 
 <br>
 
-Chakravarthi Raja S, You WS, Jalaleddini K, Wenzke L, Lightdale-Miric NR, Hentz VR, Balasubramaniam R, Valero-Cuevas FJ .<br>
+Chakravarthi Raja S, You WS, Jalaleddini K, Wenzke L, Lightdale-Miric NR, Hentz VR, Balasubramaniam R, Valero-Cuevas FJ.<br>
 <b><a href="../Papers/2018_Novelpassiveimplanteddifferentialmechanismimprovesgraspfunctionaftertendontransfersurgery.pdf">
 Novel passive implanted differential mechanism improves grasp function after tendon transfer surgery.</a></b><br>
 TETRAHAND 2018 Congress in Nottwil, Switzerland. August 29, 2018.<br>
 
 <br>
 
-Valero-Cuevas FJ .<br>
+Valero-Cuevas FJ.<br>
 <b>
 Putting synergies in perspective. Feasibility Theory: An Integrative Approach to Neuromuscular Control“ at Modularity and Compositionality in Motor Control: Issues And Perspectives.</b><br>
 A Workshop to Acknowledge the Career of Emilio Bizzi, Hilton Buffalo Thunder, Santa Fe, NM. May 5, 2018.<br>
