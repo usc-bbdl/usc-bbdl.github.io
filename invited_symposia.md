@@ -73,7 +73,7 @@ International Motoneuron Society Conference, Banff, Canada, June 2022.<br>
 Niyo G, Almofeez LI, Woo J, Valero-Cuevas FJ.<br>
 <b><a href="../Papers/2022_niyo_banff_presentation.pdf">
 Current approaches to neuromuscular control of movement must account for the fusimotor system.</a></b><br>
-9th World Congress of Biomechanics, Taipei, Japan, July 2022.<br>
+2022 World Congress of Biomechanics/Hand and Wrist Biomechanics Symposium, Taipei, Taiwan, July 2022.<br>
 
 <br>
 
