@@ -21,18 +21,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <ul class="flex-container">
 
 	<li class="flex-item">
-		<a name="angelobartsch"></a>
-		<img src="../Photos/AngeloBartschJimenez_sq.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Angelo Bartsch Jimenez</b></font><br>
-		<font size="3">Ph.D. Student in Biokinesiology</font><br>
-		<font size="3">M.Sc. in Statistics</font><br>
-		<a href="mailto:angeloba@usc.edu" target="_blank">angeloba@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/angelo-bartsch-jim%C3%A9nez-49ab8397/" target="_blank">LinkedIn</a><br>
-		Interested in how the brain uses somatosensory information to control the human movement.<br>
-	</li>
-	
-	
-	<li class="flex-item">
 		<a name="graceniyo"></a>
 		<img src="../Photos/GraceNiyo_v2.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Grace Niyo</b></font><br>
@@ -107,17 +95,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="https://www.linkedin.com/in/nataliefung1/" target="_blank">LinkedIn</a><br>
 		Interested in disability and rehabilitation engineering. Lab Manager and Webmaster. Lab member since Spring 2022.<br>
   
-	</li>
-
-    	<li class="flex-item">
-		<a name="nathanmatharu"></a>
-		<img src="../Photos/nathan_matharu.png" class = "profilepicture" /><br>
-		<font size="3"><b>Nathan Matharu</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:nmatharu@usc.edu" target="_blank">nmatharu@usc.edu</a><br>
-      		<a href="https://www.linkedin.com/in/Nathan-Matharu/" target="_blank">LinkedIn</a><br>
-  		Interested in bio-inspired design and the role of soft deformations in hand manipulation tasks. Lab member since Summer 2022.<br>
-		
 	</li>
 	
 	<li class="flex-item">
@@ -247,6 +224,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <br>
 
 ## Doctoral Alumni  
+<b>Angelo Bartsch Jimenez</b> - Ph.D. Biokinesiology, 2025: <a href="https://www.linkedin.com/in/angelo-bartsch-jim%C3%A9nez-49ab8397/" target="_blank">LinkedIn</a><br>
 <b>Suraj Chakravarthi Raja</b> - Ph.D. Electrical and Computer Engineering, 2023: <a href="https://www.linkedin.com/in/surajcr/" target="_blank">LinkedIn</a><br>
 <b>Darío Urbina-Meléndez</b> - Ph.D. Biomedical Engineering, 2023: <a href="https://www.linkedin.com/in/dario-urbina/" target="_blank">LinkedIn</a><br>
 <b>Ali Marjaninejad</b> - Ph.D. Biomedical Engineering, 2021: <a href="https://www.linkedin.com/in/ali-marjaninejad-35882b76/" target="_blank">LinkedIn</a> | <a href="https://valerolab.org/marjani/" target="_blank">Website</a><br>
@@ -296,6 +274,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Nathan Matharu</b> - M.S. Biomedical Engineering - 2025: <a href="https://www.linkedin.com/in/Nathan-Matharu/" target="_blank">LinkedIn</a><br>
 <b>Greg Rosenkranz</b> - B.S. Biomedical Engineering - 2024: <a href="https://www.linkedin.com/in/gregrosenkranz/" target="_blank">LinkedIn</a><br>
 <b>Yash Sharma</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/yashs662" target="_blank">LinkedIn</a><br>
 <b>Pranav Shankar</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/pranav-shankar-365280216/" target="_blank">LinkedIn</a><br>
