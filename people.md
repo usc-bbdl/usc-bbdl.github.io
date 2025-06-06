@@ -87,17 +87,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 	
 	
 	<li class="flex-item">
-		<a name="nataliefung"></a>
-		<img src="../Photos/NatalieFung.JPG" class = "profilepicture"/><br>
-		<font size="3"><b>Natalie Fung</b></font><br>
-		<font size="3">M.S. in Communication Data Science</font><br>
-		<a href="mailto:fungn@usc.edu" target="_blank">fungn@usc.edu</a><br>
-		<a href="https://www.linkedin.com/in/nataliefung1/" target="_blank">LinkedIn</a><br>
-		Interested in disability and rehabilitation engineering. Lab Manager and Webmaster. Lab member since Spring 2022.<br>
-  
-	</li>
-	
-	<li class="flex-item">
 		<a name="martinoporcu"></a>
 		<img src="../Photos/Martino_Porcu.jpg" class = "profilepicture" /><br>
 		<font size="3"><b>Martino Porcu</b></font><br>
@@ -106,48 +95,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<a href="www.linkedin.com/in/martino-porcu-84bb9627a" target="_blank">LinkedIn</a><br>
   		Lab member since Fall 2023.<br>
     
-	</li>
-
- 	<li class="flex-item">
-		<a name="seancheng"></a>
-		<img src="../Photos/sean_cheng.JPG" class = "profilepicture" /><br>
-		<font size="3"><b>Sean Shinpeng Cheng</b></font><br>
-		<font size="3">B.S. Student in Quantitative Biology</font><br>
-		<a href="mailto:seansche@usc.edu" target="_blank">seansche@usc.edu</a><br>
-  		<a href="https://www.linkedin.com/in/seanshinpengcheng/" target="_blank">LinkedIn</a><br>
-		Interested in somatosensory information for motor function rehabilitation. Lab member since Fall 2023.<br>
-		
-	</li>
-
-  	<li class="flex-item">
-		<a name="horacezhang"></a>
-		<img src="../Photos/horace_zhang.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Xiaosi (Horace) Zhang</b></font><br>
-		<font size="3">M.S. Student in Biomedical Engineering</font><br>
-		<a href="mailto:xiaosiz@usc.edu" target="_blank">xiaosiz@usc.edu</a><br>
-  		Interested in biomimetic robotics design, control, and optimization. Lab member since Spring 2024.<br>
-		
-	</li>
-
-  	<li class="flex-item">
-		<a name="jiajinzhang"></a>
-		<img src="../Photos/jiajin_zhang.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Jiajin Zhang</b></font><br>
-		<font size="3">M.S. Student in Computer Engineering</font><br>
-		<a href="mailto:jiajinzh@usc.edu" target="_blank">jiajinzh@usc.edu</a><br>
-  		Interested in reinforcement learning algorithms and communication system. Lab member since Fall 2024.<br>
-		
-	</li>
-
-    	<li class="flex-item">
-		<a name="brianhsieh"></a>
-		<img src="../Photos/brian_hsieh.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Chih-Cheng (Brian) Hsieh</b></font><br>
-		<font size="3">M.S. Student in Electrical Engineering</font><br>
-		<a href="mailto:chsieh06@usc.edu" target="_blank">chsieh06@usc.edu</a><br>
-      		<a href="https://www.linkedin.com/in/brian-hsieh06/" target="_blank">LinkedIn</a><br>
-  		Interested in robot perception, planning algorithms, and intelligent control systems. Lab member since Fall 2024.<br>
-		
 	</li>
 
       	<li class="flex-item">
@@ -159,17 +106,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
       		<a href="www.linkedin.com/in/msalaway" target="_blank">LinkedIn</a><br>
   		Interested in computational neuroscience, with a focus on applying multimodal AI and machine learning to brain data. Lab member since Fall 2024.<br>
 		
-	</li>
- 
- 		<li class="flex-item">
-		<a name="darrenhuang"></a>
-		<img src="../Photos/darren_huang.jpg" class = "profilepicture" /><br>
-		<font size="3"><b>Darren Huang</b></font><br>
-		<font size="3">M.S. Student in Computer Science</font><br>
-		<a href="mailto:darrenhu@usc.edu" target="_blank">darrenhu@usc.edu</a><br>
-        	<a href="https://www.linkedin.com/in/darrenhuang1/" target="_blank">LinkedIn</a><br>
-		Lab member since Fall 2024.<br>
-  
 	</li>
 
           	<li class="flex-item">
@@ -274,7 +210,13 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 <b>Jae Woong Yi</b> - Agency of Defense Development, South Korea - 2005<br>
 
 ## Internship Alumni
+<b>Natalie Fung</b> - M.S. Communication Data Science - 2025: <a href="https://www.linkedin.com/in/nataliefung1/" target="_blank">LinkedIn</a><br>
+<b>Xiaosi (Horace) Zhang</b> - M.S. Biomedical Engineering - 2025<br>
+<b>Jiajin Zhang</b> - M.S. Computer Engineering - 2025<br>
 <b>Nathan Matharu</b> - M.S. Biomedical Engineering - 2025: <a href="https://www.linkedin.com/in/Nathan-Matharu/" target="_blank">LinkedIn</a><br>
+<b>Chih-Cheng (Brian) Hsieh</b> - M.S. Electrical Engineering - 2024: <a href="https://www.linkedin.com/in/brian-hsieh06/" target="_blank">LinkedIn</a><br>
+<b>Darren Huang</b> - M.S. Computer Science - 2025: <a href="https://www.linkedin.com/in/darrenhuang1/" target="_blank">LinkedIn</a><br>
+<b>Sean Shinpeng Cheng</b> - B.S. Student in Quantitative Biology - 2024: <a href="https://www.linkedin.com/in/seanshinpengcheng/" target="_blank">LinkedIn</a><br>
 <b>Greg Rosenkranz</b> - B.S. Biomedical Engineering - 2024: <a href="https://www.linkedin.com/in/gregrosenkranz/" target="_blank">LinkedIn</a><br>
 <b>Yash Sharma</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/yashs662" target="_blank">LinkedIn</a><br>
 <b>Pranav Shankar</b> - M.S. Computer Science - 2024: <a href="https://www.linkedin.com/in/pranav-shankar-365280216/" target="_blank">LinkedIn</a><br>
