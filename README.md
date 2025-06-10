@@ -11,7 +11,7 @@ Set cloudflare to development mode (instant updates instead of cached).
 - [Projects](#projects)
 
 # People
-- Add photo to Photos folder
+- Add photo to Photos folder (make sure the photo is a square)
 - Name file firstname_lastname
 - Go to people.md
 - Add new member to current members list
