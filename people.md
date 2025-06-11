@@ -97,17 +97,6 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
     
 	</li>
 
-      	<li class="flex-item">
-		<a name="matthewsalaway"></a>
-		<img src="../Photos/matthew_salaway.JPG" class = "profilepicture" /><br>
-		<font size="3"><b>Matthew Salaway</b></font><br>
-		<font size="3">M.S. Student in Computer Science</font><br>
-		<a href="mailto:msalaway@usc.edu" target="_blank">msalaway@usc.edu</a><br>
-      		<a href="www.linkedin.com/in/msalaway" target="_blank">LinkedIn</a><br>
-  		Interested in computational neuroscience, with a focus on applying multimodal AI and machine learning to brain data. Lab member since Fall 2024.<br>
-		
-	</li>
-
           	<li class="flex-item">
 		<a name="meganseth"></a>
 		<img src="../Photos/megan_seth.jpg" class = "profilepicture" /><br>
@@ -212,6 +201,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 ## Internship Alumni
 <b>Natalie Fung</b> - M.S. Communication Data Science - 2025: <a href="https://www.linkedin.com/in/nataliefung1/" target="_blank">LinkedIn</a><br>
 <b>Xiaosi (Horace) Zhang</b> - M.S. Biomedical Engineering - 2025<br>
+<b>Matthew Salaway</b> - M.S. Computer Science - 2025: <a href="www.linkedin.com/in/msalaway" target="_blank">LinkedIn</a><br>
 <b>Jiajin Zhang</b> - M.S. Computer Engineering - 2025<br>
 <b>Nathan Matharu</b> - M.S. Biomedical Engineering - 2025: <a href="https://www.linkedin.com/in/Nathan-Matharu/" target="_blank">LinkedIn</a><br>
 <b>Chih-Cheng (Brian) Hsieh</b> - M.S. Electrical Engineering - 2024: <a href="https://www.linkedin.com/in/brian-hsieh06/" target="_blank">LinkedIn</a><br>
