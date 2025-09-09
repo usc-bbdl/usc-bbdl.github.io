@@ -1,5 +1,16 @@
 Title,Link,Abstract,Author,BibTex,Year,Journal,SupplementalLink,Tags,NewsLink
 
+"The Bundles of Intercrossing Fibers of the Extensor Mechanism of the Fingers Greatly Influence the Transmission of Muscle Forces",Papers/2025_Dogadov_ExtMech.pdf,"The extensor mechanism is a tendinous structure that plays an important role in finger function. It transmits forces from several intrinsic and extrinsic muscles to multiple bony attachments along the finger via sheets of collagen fibers. The most important attachments are located at the base of the middle and distal phalanges. How the forces from the muscles contribute to the forces at the attachment points, however, is not fully known. In addition to the well- accepted extensor medial and interosseous lateral bands of the extensor mechanism, there exist two layers of intercrossing fiber bundles (superficial interosseous medial fiber layer and deeper extensor lateral fiber layer), connecting them. In contrast to its common idealization as a minimal network of distinct strings, we built a numerical model consisting of fiber bundles to evaluate the role of multiple intercrossing fiber bundles in the production of static finger forces. We compared this more detailed model of the extensor mechanism to the idealized minimal network that only includes the extensor medial and interosseous lateral bands. We find that including bundles of intercrossing fiber bundles significantly affects force transmission, which itself depends on finger posture. We conclude that the intercrossing fiber bundles—traditionally left out in prior models since Zancolli's simplification—play an important role in force transmission and variation of the latter with posture.","Dogadov AA, Valero-Cuevas FJ, Serviere C, Quaine F","@article{dogadov2025bundles,
+  title={The Bundles of Intercrossing Fibers of the Extensor Mechanism of the Fingers Greatly Influence the Transmission of Muscle Forces},
+  author={Dogadov, Anton A and Valero-Cuevas, Francisco J and Serviere, Christine and Quaine, Franck},
+  journal={International Journal for Numerical Methods in Biomedical Engineering},
+  volume={41},
+  number={7},
+  pages={e70068},
+  year={2025},
+  publisher={Wiley Online Library}
+}",2025,International Journal for Numerical Methods in Biomedical Engineering,,fingers extensor,
+
 "Curriculum is more influential than haptic feedback when learning object manipulation",Papers/2025_Ojaghi_Mir_Manipulation_Science_Advances.pdf,"Dexterous manipulation remains an aspirational goal for autonomous robotic systems, particularly when learning to lift and rotate objects against gravity with intermittent finger contacts. We use model-free reinforcement learning to compare the effect of curriculum (i.e., combinations of lift and rotation tasks) and haptic information (i.e., no-tactile versus 3D-force) on learning with a simulated three-finger robotic hand. In addition, a novel curriculum-based learning rate scheduler accelerates convergence. We demonstrate that the choice of curriculum biases the progression of learning for dexterous manipulation across objects with different weights, sizes, and shapes—underscoring the robustness of our learning approach. Unexpectedly, learning is achieved even in the absence of haptic information. This challenges conventional thinking about task “complexity” and the necessity of haptic information for dexterous manipulation for this task. This work invites the analogy of curriculum learning as a malleable developmental process from a pluripotent state driven by the nature of the learning experience.","Ojaghi P, Mir R, Marjaninejad A, Erwin A, Wehner M, Valero-Cuevas FJ","@article{doi:10.1126/sciadv.adp8407,
   author={Ojaghi, Pegah and Mir, Romina and Marjaninejad, Ali and Erwin, Andrew and Wehner, Michael and Valero-Cuevas, Francisco J},
   title={Curriculum is more influential than haptic feedback when learning object manipulation},
@@ -1342,3 +1353,4 @@ Conclusions. The wrist does not behave like a smooth mechanism when generating t
   year={1997},
   publisher={Elsevier}
 }",1997,Clinical Biomechanics,,clinical_research biomechanics,
+
