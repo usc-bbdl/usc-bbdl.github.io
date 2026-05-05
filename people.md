@@ -27,7 +27,7 @@ After completing my doctoral degree in 1997, I joined the core faculty of the Bi
 		<font size="3">Ph.D. Student in Biomedical Engineering</font><br>
 		<a href="mailto:niyo@usc.edu" target="_blank">niyo@usc.edu</a><br>
 		<a href="https://www.linkedin.com/in/gniyo/" target="_blank">LinkedIn</a><br>
-		I am interested in neuromechanics, sensorimotor control of limb movements, and Neuroprosthetic devices.<br>
+		Research interest in Spinal cord circuits and motorneurone connectivity, Sensorimotor control in mammals, and Computational         modeling of neuromuscular systems and Clinical applications.<br>
 	</li>
 	
 	<li class="flex-item">
