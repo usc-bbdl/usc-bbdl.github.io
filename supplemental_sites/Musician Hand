@@ -13,9 +13,7 @@ layout: default
 Learning to imitate nuanced motor behaviour by perceiving someone’s actions is a human ability central to non‑verbal communication, interaction
 and collaboration. Despite extensive psychophysics research, robotic systems do not yet seamlessly bridge the gap between perception and action. We demonstrate a perceptual learning algorithm that can replicate a melody after hearing it once by using a physical robotic hand on a keyboard. Importantly, this system (the Musician Hand) can do this after only 2 min of random ‘motor babbling’, and driven only by its own experience, with minimal pre‑defined features of musical notes. Experiments with three melodies showed that our system can play‑by‑ear at a level comparable with four trained pianists, and better than five novices. This demonstrates how perception can seamlessly drive nuanced robotic action based only on its own limited experience. This demonstration of a perception‑driven system paves the way for human‑friendly and intuitive systems for entertainment, collaboration and physical assistance/augmentation.
 <!--
-<p>
-  <video src="video/MacaqueArm_Movement_Case122.mp4" controls height="384px" width="576px" muted>Your browser doesn't support this video.</video>
-</p>
+<a href="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"><img src="https://raw.githubusercontent.com/briancohn/space/master/pca_figure_code/pca_loadings_bootstrapped_formatted.jpg"></a>
 -->
 
 ### Citation
