@@ -16,6 +16,7 @@ and collaboration. Despite extensive psychophysics research, robotic systems do 
 <a href="https://github.com/usc-bbdl/usc-bbdl.github.io/blob/master/img/2026_Azadjou_piano.jpeg"><img src="https://github.com/usc-bbdl/usc-bbdl.github.io/blob/master/img/2026_Azadjou_piano.jpeg"></a>
 -->
 <img src="https://github.com/usc-bbdl/usc-bbdl.github.io/blob/master/img/2026_Azadjou_piano.jpeg">
+
 ### Citation
 > Azadjou, H., Marjaninejad, A., & Valero-Cuevas, F. J. (2026); Perception in action: a robotic system that can teach itself to melodiously play music by ear. J R Soc Interface, 23 (238): 20250909.
 
