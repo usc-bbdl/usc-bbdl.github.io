@@ -12,6 +12,12 @@ navigation_weight: 6
 -------------------------------------------
 <br>
 
+# May 27, 2026
+# USC Viterbi News:
+# [Perception in action: a robotic system that can teach itself to melodiously play music by ear](https://viterbischool.usc.edu/?post_type=news&p=83117&hash=mT0EmGzS83117&preview=true)
+<br>
+<br>
+
 # April 14, 2025
 # Angelo Barstch-Jimenez successfully defended his Ph.D. Congratulations, Dr. Barstch-Jimenez!
 <img src="../Photos/angelo_defense.png" alt="Dr. Angelo Barstch-Jimenez gestures towards his slides during his Ph.D. defense.">
